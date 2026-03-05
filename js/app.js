@@ -14,8 +14,7 @@ const CONFIG = {
     ],
     REFRESH_INTERVAL: 5 * 60 * 1000, // 5분
     MAX_RESULTS: 20,
-    STORAGE_KEY: 'iran_news_seen_urls',
-    API_KEY_STORAGE_KEY: 'brave_api_key'
+    STORAGE_KEY: 'iran_news_seen_urls'
 };
 
 // 상태 관리
@@ -27,54 +26,9 @@ let state = {
     error: null
 };
 
-// API 키 저장
-function saveApiKey() {
-    const input = document.getElementById('apiKeyInput');
-    const apiKey = input.value.trim();
-
-    if (!apiKey) {
-        alert('API 키를 입력해주세요.');
-        return;
-    }
-
-    try {
-        localStorage.setItem(CONFIG.API_KEY_STORAGE_KEY, apiKey);
-        CONFIG.API_KEY = apiKey;
-        document.getElementById('apiKeyBanner').classList.add('hidden');
-        fetchNews();
-    } catch (e) {
-        console.error('Error saving API key:', e);
-        alert('API 키 저장에 실패했습니다.');
-    }
-}
-
-// API 키 로드
-function loadApiKey() {
-    try {
-        const apiKey = localStorage.getItem(CONFIG.API_KEY_STORAGE_KEY);
-        if (apiKey) {
-            CONFIG.API_KEY = apiKey;
-            document.getElementById('apiKeyBanner').classList.add('hidden');
-            return true;
-        }
-    } catch (e) {
-        console.error('Error loading API key:', e);
-    }
-    return false;
-}
-
-// API 키 변경
-function changeApiKey() {
-    document.getElementById('apiKeyBanner').classList.remove('hidden');
-    document.getElementById('apiKeyInput').focus();
-}
-
 // 초기화
 document.addEventListener('DOMContentLoaded', () => {
     loadSeenUrls();
-
-    // API 키가 하드코딩되어 있으니 바로 뉴스 로드
-    document.getElementById('apiKeyBanner').classList.add('hidden');
     fetchNews();
     startAutoRefresh();
 });
