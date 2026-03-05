@@ -2,8 +2,9 @@
 // Brave Search API 기반 실시간 뉴스 트래커
 
 const CONFIG = {
-    API_ENDPOINT: 'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://api.search.brave.com/res/v1/news/search'),
+    API_ENDPOINT: 'https://api.search.brave.com/res/v1/news/search',
     API_KEY: 'BSASDTCUmfSuOqB6DdUmoeKzxltKm27', // Brave Search API 키
+    PROXY_URL: 'https://corsproxy.io/?',
     SEARCH_QUERIES: [
         '이란 전쟁',
         'Iran war',
@@ -121,8 +122,8 @@ async function searchNews(query) {
     }
 
     // CORS 프록시를 통해 Brave API 호출
-    const braveUrl = `https://api.search.brave.com/res/v1/news/search?q=${encodeURIComponent(query)}&count=${CONFIG.MAX_RESULTS}&freshness=pd`;
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(braveUrl)}`;
+    const braveUrl = `${CONFIG.API_ENDPOINT}?q=${encodeURIComponent(query)}&count=${CONFIG.MAX_RESULTS}&freshness=pd`;
+    const proxyUrl = CONFIG.PROXY_URL + encodeURIComponent(braveUrl);
 
     const response = await fetch(proxyUrl);
 
