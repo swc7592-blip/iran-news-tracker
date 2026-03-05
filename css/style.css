@@ -1,0 +1,72 @@
+/* Custom Styles for Iran News Tracker */
+
+.news-card {
+    transition: all 0.3s ease;
+}
+
+.news-source {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.badge-urgent {
+    background: #ef4444;
+    color: white;
+}
+
+.badge-breaking {
+    background: #f59e0b;
+    color: black;
+}
+
+.badge-latest {
+    background: #10b981;
+    color: white;
+}
+
+.badge-default {
+    background: #6b7280;
+    color: white;
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1f2937;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+}
+
+/* Modal transitions */
+#newsModal {
+    transition: opacity 0.3s ease;
+}
+
+#newsModal.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#newsModal:not(.hidden) {
+    opacity: 1;
+}
+
+/* Loading spinner animation */
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.animate-spin {
+    animation: spin 1s linear infinite;
+}
