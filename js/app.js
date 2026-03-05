@@ -3,7 +3,7 @@
 
 const CONFIG = {
     API_ENDPOINT: 'https://api.search.brave.com/res/v1/news/search',
-    API_KEY: '', // localStorage에서 불러옴
+    API_KEY: 'BSASDTCUmfSuOqB6DdUmoeKzxltKm27', // Brave Search API 키
     SEARCH_QUERIES: [
         '이란 전쟁',
         'Iran war',
@@ -73,14 +73,9 @@ function changeApiKey() {
 document.addEventListener('DOMContentLoaded', () => {
     loadSeenUrls();
 
-    if (loadApiKey()) {
-        // API 키가 있으면 바로 뉴스 로드
-        fetchNews();
-    } else {
-        // API 키가 없으면 배너 표시
-        updateStatusBar('API 키를 입력해주세요', 'default');
-    }
-
+    // API 키가 하드코딩되어 있으니 바로 뉴스 로드
+    document.getElementById('apiKeyBanner').classList.add('hidden');
+    fetchNews();
     startAutoRefresh();
 });
 
