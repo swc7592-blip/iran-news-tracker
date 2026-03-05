@@ -1,0 +1,40 @@
+name: Fetch News
+
+on:
+  schedule:
+    # 5분마다 실행 (cron 표현식: 분 시 일 월 요일)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch news from Brave Search API
+        run: |
+          # API 키 설정
+          export BRAVE_API_KEY="${{ secrets.BRAVE_API_KEY }}"
+
+          # 스크립트 실행
+          node scripts/fetch-news.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          if [ -s news.json ]; then
+            git add news.json
+            git diff --staged --quiet || git commit -m "Update news data"
+            git push
+          else
+            echo "No news data to update"
+          fi

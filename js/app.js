@@ -2,19 +2,8 @@
 // Brave Search API 기반 실시간 뉴스 트래커
 
 const CONFIG = {
-    API_ENDPOINT: 'https://api.search.brave.com/res/v1/news/search',
-    API_KEY: 'BSASDTCUmfSuOqB6DdUmoeKzxltKm27', // Brave Search API 키
-    PROXY_URL: 'https://corsproxy.io/?',
-    SEARCH_QUERIES: [
-        '이란 전쟁',
-        'Iran war',
-        '이란 이스라엘',
-        'Iran Israel',
-        '이란 공격',
-        'Iran attack'
-    ],
+    NEWS_DATA_URL: './news.json', // GitHub Actions로 생성된 JSON 파일
     REFRESH_INTERVAL: 5 * 60 * 1000, // 5분
-    MAX_RESULTS: 20,
     STORAGE_KEY: 'iran_news_seen_urls'
 };
 
@@ -59,38 +48,24 @@ function saveSeenUrls() {
     }
 }
 
-// Brave Search API로 뉴스 가져오기
+// 뉴스 데이터 가져오기 (JSON 파일에서)
 async function fetchNews() {
     if (state.isLoading) return;
-
-    // API 키 체크
-    if (!CONFIG.API_KEY) {
-        updateStatusBar('API 키가 필요합니다', 'error');
-        return;
-    }
 
     setLoading(true);
     state.error = null;
 
     try {
-        // 모든 쿼리에 대해 뉴스 검색 (병렬)
-        const allResults = await Promise.all(
-            CONFIG.SEARCH_QUERIES.map(query => searchNews(query))
-        );
+        const response = await fetch(CONFIG.NEWS_DATA_URL);
 
-        // 결과 합치기 및 중복 제거
-        const uniqueNews = [];
-        const urlSet = new Set();
+        if (!response.ok) {
+            throw new Error(`Failed to fetch news data: ${response.status}`);
+        }
 
-        allResults.flat().forEach(item => {
-            if (!urlSet.has(item.url)) {
-                urlSet.add(item.url);
-                uniqueNews.push(item);
-            }
-        });
+        const allNews = await response.json();
 
         // 새로운 뉴스만 필터링
-        const newNews = uniqueNews.filter(item => !state.seenUrls.has(item.url));
+        const newNews = allNews.filter(item => !state.seenUrls.has(item.url));
 
         // 새로운 뉴스 URL을 본 URL 목록에 추가
         newNews.forEach(item => state.seenUrls.add(item.url));
@@ -102,7 +77,7 @@ async function fetchNews() {
 
         // UI 업데이트
         renderNews();
-        updateStatusBar('최신 뉴스 ' + newNews.length + '건 로드됨', 'success');
+        updateStatusBar(`최신 뉴스 ${newNews.length}건 로드됨 (총 ${allNews.length}건)`, 'success');
         updateLastUpdate();
 
     } catch (error) {
@@ -113,27 +88,6 @@ async function fetchNews() {
     } finally {
         setLoading(false);
     }
-}
-
-// 단일 쿼리로 뉴스 검색
-async function searchNews(query) {
-    if (!CONFIG.API_KEY) {
-        throw new Error('API 키가 필요합니다. 페이지 상단의 입력창에 API 키를 입력해주세요.');
-    }
-
-    // CORS 프록시를 통해 Brave API 호출
-    const braveUrl = `${CONFIG.API_ENDPOINT}?q=${encodeURIComponent(query)}&count=${CONFIG.MAX_RESULTS}&freshness=pd`;
-    const proxyUrl = CONFIG.PROXY_URL + encodeURIComponent(braveUrl);
-
-    const response = await fetch(proxyUrl);
-
-    if (!response.ok) {
-        const errorText = await response.text();
-        throw new Error(`API Error ${response.status}: ${errorText}`);
-    }
-
-    const data = await response.json();
-    return data.results?.results || [];
 }
 
 // 뉴스 렌더링
