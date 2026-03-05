@@ -2,7 +2,7 @@
 // Brave Search API 기반 실시간 뉴스 트래커
 
 const CONFIG = {
-    API_ENDPOINT: 'https://api.search.brave.com/res/v1/news/search',
+    API_ENDPOINT: 'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://api.search.brave.com/res/v1/news/search'),
     API_KEY: 'BSASDTCUmfSuOqB6DdUmoeKzxltKm27', // Brave Search API 키
     SEARCH_QUERIES: [
         '이란 전쟁',
@@ -120,18 +120,11 @@ async function searchNews(query) {
         throw new Error('API 키가 필요합니다. 페이지 상단의 입력창에 API 키를 입력해주세요.');
     }
 
-    const url = new URL(CONFIG.API_ENDPOINT);
-    url.searchParams.append('q', query);
-    url.searchParams.append('count', CONFIG.MAX_RESULTS.toString());
-    url.searchParams.append('freshness', 'pd'); // past day
+    // CORS 프록시를 통해 Brave API 호출
+    const braveUrl = `https://api.search.brave.com/res/v1/news/search?q=${encodeURIComponent(query)}&count=${CONFIG.MAX_RESULTS}&freshness=pd`;
+    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(braveUrl)}`;
 
-    const response = await fetch(url, {
-        headers: {
-            'Accept': 'application/json',
-            'Accept-Encoding': 'gzip',
-            'X-Subscription-Token': CONFIG.API_KEY
-        }
-    });
+    const response = await fetch(proxyUrl);
 
     if (!response.ok) {
         const errorText = await response.text();
