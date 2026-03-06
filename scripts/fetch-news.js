@@ -5,6 +5,16 @@ const https = require('https');
 
 const API_KEY = process.env.BRAVE_API_KEY || 'BSASDTCUmfSuOqB6DdUmoeKzxltKm27';
 const QUERIES = [
+    '이란 전쟁 site:reuters.com',
+    'Iran war site:reuters.com',
+    '이란 전쟁 site:bloomberg.com',
+    'Iran war site:bloomberg.com',
+    '이란 전쟁 site:aljazeera.com',
+    'Iran war site:aljazeera.com',
+    '이란 전쟁 site:apnews.com',
+    'Iran war site:apnews.com',
+    '이란 전쟁 site:theguardian.com',
+    'Iran war site:theguardian.com',
     '이란 전쟁',
     'Iran war',
     '이란 이스라엘',

@@ -64,20 +64,24 @@ async function fetchNews() {
 
         const allNews = await response.json();
 
-        // 새로운 뉴스만 필터링
-        const newNews = allNews.filter(item => !state.seenUrls.has(item.url));
+        // 중복 제거만 하고, 모든 뉴스 표시
+        const urlSet = new Set();
+        const uniqueNews = [];
 
-        // 새로운 뉴스 URL을 본 URL 목록에 추가
-        newNews.forEach(item => state.seenUrls.add(item.url));
-        saveSeenUrls();
+        for (const item of allNews) {
+            if (!urlSet.has(item.url)) {
+                urlSet.add(item.url);
+                uniqueNews.push(item);
+            }
+        }
 
         // 상태 업데이트
-        state.news = newNews;
+        state.news = uniqueNews;
         state.lastUpdate = new Date();
 
         // UI 업데이트
         renderNews();
-        updateStatusBar(`최신 뉴스 ${newNews.length}건 로드됨 (총 ${allNews.length}건)`, 'success');
+        updateStatusBar(`최신 뉴스 ${uniqueNews.length}건 로드됨`, 'success');
         updateLastUpdate();
 
     } catch (error) {
@@ -109,6 +113,7 @@ function renderNews() {
 // 뉴스 카드 생성
 function createNewsCard(item, index) {
     const timeAgo = getTimeAgo(new Date(item.age));
+    const formattedTime = getFormattedTime(item.page_age);
     const badgeClass = getBadgeClass(index);
 
     return `
@@ -133,9 +138,7 @@ function createNewsCard(item, index) {
                 </p>
                 <div class="flex items-center justify-between">
                     <span class="text-xs text-gray-500">${item.meta_url?.url || item.url}</span>
-                    <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-                    </svg>
+                    <span class="text-xs text-gray-600">${formattedTime}</span>
                 </div>
             </div>
         </div>
@@ -165,6 +168,20 @@ function getTimeAgo(date) {
     return `${diffDays}일 전`;
 }
 
+// 정확한 작성 시간 포맷팅
+function getFormattedTime(pageAge) {
+    if (!pageAge) return '알 수 없음';
+
+    const date = new Date(pageAge);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    const hours = String(date.getHours()).padStart(2, '0');
+    const minutes = String(date.getMinutes()).padStart(2, '0');
+
+    return `${year}-${month}-${day} ${hours}:${minutes}`;
+}
+
 // 모달 열기
 function openModal(index) {
     const item = state.news[index];
@@ -172,16 +189,24 @@ function openModal(index) {
 
     const modal = document.getElementById('newsModal');
     const content = document.getElementById('modalContent');
+    const timeAgo = getTimeAgo(new Date(item.age));
+    const formattedTime = getFormattedTime(item.page_age);
 
     content.innerHTML = `
         ${item.thumbnail?.src ? `
             <img src="${item.thumbnail.src}" alt="${item.title}" class="w-full h-64 object-cover rounded-lg mb-4">
         ` : ''}
         <div class="flex items-center gap-2 mb-2">
-            <span class="badge ${getBadgeClass(index)} rounded-full font-medium">${index === 0 ? 'BREAKING' : 'LATEST'}</span>
-            <span class="text-sm text-gray-500">${getTimeAgo(new Date(item.age))}</span>
+            <span class="badge ${getBadgeClass(index)} rounded-full font-medium">${index === 0 ? '속보' : '최신'}</span>
+            <span class="text-sm text-gray-500">${timeAgo}</span>
         </div>
         <h2 class="text-2xl font-bold text-white mb-4">${item.title}</h2>
+        <div class="bg-gray-700 rounded-lg p-3 mb-4">
+            <div class="flex items-center gap-4 text-sm">
+                <span class="text-gray-400">작성 시간:</span>
+                <span class="text-gray-300 font-medium">${formattedTime}</span>
+            </div>
+        </div>
         <div class="prose prose-invert max-w-none mb-6">
             <p class="text-gray-300 leading-relaxed">${item.description || ''}</p>
         </div>
