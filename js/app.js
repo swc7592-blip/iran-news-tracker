@@ -122,7 +122,7 @@ function createNewsCard(item, index) {
             ` : ''}
             <div class="p-4">
                 <div class="flex items-center gap-2 mb-2">
-                    <span class="badge ${badgeClass} rounded-full font-medium">${index === 0 ? 'BREAKING' : 'LATEST'}</span>
+                    <span class="badge ${badgeClass} rounded-full font-medium">${index === 0 ? '속보' : '최신'}</span>
                     <span class="text-xs text-gray-500">${timeAgo}</span>
                 </div>
                 <h3 class="text-white font-semibold mb-2 line-clamp-2 hover:text-blue-400 transition-colors">
