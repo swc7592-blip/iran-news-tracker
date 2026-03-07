@@ -87,6 +87,13 @@ async function fetchNews() {
             'nytimes.com': 6
         };
 
+        // 한국 시간으로 변환해서 정렬
+        const getKoreanTime = (pageAge) => {
+            if (!pageAge) return 0;
+            const date = new Date(pageAge);
+            return date.getTime() + (9 * 60 * 60 * 1000); // UTC+9
+        };
+
         const sortedNews = uniqueNews.sort((a, b) => {
             const aSource = a.meta_url?.hostname || '';
             const bSource = b.meta_url?.hostname || '';
@@ -98,9 +105,9 @@ async function fetchNews() {
                 return bPriority - aPriority;
             }
 
-            // 그 다음 시간순
-            const aDate = a.page_age ? new Date(a.page_age) : new Date(0);
-            const bDate = b.page_age ? new Date(b.page_age) : new Date(0);
+            // 그 다음 한국 시간순
+            const aDate = getKoreanTime(a.page_age);
+            const bDate = getKoreanTime(b.page_age);
             return bDate - aDate;
         });
 
