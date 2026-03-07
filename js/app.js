@@ -75,8 +75,37 @@ async function fetchNews() {
             }
         }
 
+        // 공신력 있는 뉴스 먼저 정렬
+        const sourcePriority = {
+            'reuters.com': 10,
+            'bloomberg.com': 9,
+            'aljazeera.com': 8,
+            'apnews.com': 8,
+            'theguardian.com': 7,
+            'bbc.com': 7,
+            'cnn.com': 6,
+            'nytimes.com': 6
+        };
+
+        const sortedNews = uniqueNews.sort((a, b) => {
+            const aSource = a.meta_url?.hostname || '';
+            const bSource = b.meta_url?.hostname || '';
+            const aPriority = sourcePriority[aSource] || 0;
+            const bPriority = sourcePriority[bSource] || 0;
+
+            // 공신력 우선
+            if (aPriority !== bPriority) {
+                return bPriority - aPriority;
+            }
+
+            // 그 다음 시간순
+            const aDate = a.page_age ? new Date(a.page_age) : new Date(0);
+            const bDate = b.page_age ? new Date(b.page_age) : new Date(0);
+            return bDate - aDate;
+        });
+
         // 상태 업데이트
-        state.news = uniqueNews;
+        state.news = sortedNews;
         state.lastUpdate = new Date();
 
         // UI 업데이트
@@ -119,24 +148,15 @@ function createNewsCard(item, index) {
     return `
         <div class="news-card bg-gray-800 rounded-lg border border-gray-700 overflow-hidden cursor-pointer hover:border-blue-500"
              onclick="openModal(${index})">
-            ${item.thumbnail?.src ? `
-                <div class="aspect-video w-full overflow-hidden bg-gray-700">
-                    <img src="${item.thumbnail.src}" alt="${item.title}"
-                         class="w-full h-full object-cover hover:scale-105 transition-transform duration-300">
-                </div>
-            ` : ''}
             <div class="p-4">
-                <div class="flex items-center gap-2 mb-2">
-                    <span class="badge bg-blue-600 text-white rounded-full font-medium">${sourceName}</span>
-                </div>
-                <h3 class="text-white font-semibold mb-2 line-clamp-2 hover:text-blue-400 transition-colors">
+                <h3 class="text-white font-bold mb-2 line-clamp-2 hover:text-blue-400 transition-colors">
                     ${item.title}
                 </h3>
-                <p class="text-gray-400 text-sm line-clamp-3 mb-3">
+                <p class="text-gray-400 text-sm line-clamp-2 mb-3">
                     ${item.description || ''}
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="text-xs text-gray-500">${timeAgo}</span>
+                    <span class="badge bg-blue-600 text-white text-xs px-2 py-1 rounded">${sourceName}</span>
                     <span class="text-xs text-gray-300">${formattedTime}</span>
                 </div>
             </div>
