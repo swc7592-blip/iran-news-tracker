@@ -114,7 +114,7 @@ function renderNews() {
 function createNewsCard(item, index) {
     const timeAgo = getTimeAgo(new Date(item.age));
     const formattedTime = getFormattedTime(item.page_age);
-    const badgeClass = getBadgeClass(index);
+    const sourceName = getSourceName(item.meta_url?.hostname || item.url);
 
     return `
         <div class="news-card bg-gray-800 rounded-lg border border-gray-700 overflow-hidden cursor-pointer hover:border-blue-500"
@@ -127,8 +127,7 @@ function createNewsCard(item, index) {
             ` : ''}
             <div class="p-4">
                 <div class="flex items-center gap-2 mb-2">
-                    <span class="badge ${badgeClass} rounded-full font-medium">${index === 0 ? '속보' : '최신'}</span>
-                    <span class="text-xs text-gray-500">${timeAgo}</span>
+                    <span class="badge bg-blue-600 text-white rounded-full font-medium">${sourceName}</span>
                 </div>
                 <h3 class="text-white font-semibold mb-2 line-clamp-2 hover:text-blue-400 transition-colors">
                     ${item.title}
@@ -137,12 +136,35 @@ function createNewsCard(item, index) {
                     ${item.description || ''}
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="text-xs text-gray-500">${item.meta_url?.url || item.url}</span>
-                    <span class="text-xs text-gray-600">${formattedTime}</span>
+                    <span class="text-xs text-gray-500">${timeAgo}</span>
+                    <span class="text-xs text-gray-300">${formattedTime}</span>
                 </div>
             </div>
         </div>
     `;
+}
+
+// 출처 이름 추출
+function getSourceName(hostname) {
+    if (!hostname) return '알 수 없음';
+
+    const sourceMap = {
+        'reuters.com': 'Reuters',
+        'bloomberg.com': 'Bloomberg',
+        'aljazeera.com': 'Al Jazeera',
+        'apnews.com': 'AP News',
+        'theguardian.com': 'The Guardian',
+        'bbc.com': 'BBC',
+        'cnn.com': 'CNN',
+        'joongang.co.kr': '중앙일보',
+        'biz.heraldcorp.com': '헤럴드경제',
+        'khan.co.kr': '경향신문',
+        'hankyung.com': '한국경제',
+        'donga.com': '동아일보',
+        'chosun.com': '조선일보'
+    };
+
+    return sourceMap[hostname] || hostname.replace('www.', '').split('.')[0].charAt(0).toUpperCase() + hostname.replace('www.', '').split('.')[0].slice(1);
 }
 
 // 뱃지 클래스 결정
@@ -191,13 +213,14 @@ function openModal(index) {
     const content = document.getElementById('modalContent');
     const timeAgo = getTimeAgo(new Date(item.age));
     const formattedTime = getFormattedTime(item.page_age);
+    const sourceName = getSourceName(item.meta_url?.hostname || item.url);
 
     content.innerHTML = `
         ${item.thumbnail?.src ? `
             <img src="${item.thumbnail.src}" alt="${item.title}" class="w-full h-64 object-cover rounded-lg mb-4">
         ` : ''}
         <div class="flex items-center gap-2 mb-2">
-            <span class="badge ${getBadgeClass(index)} rounded-full font-medium">${index === 0 ? '속보' : '최신'}</span>
+            <span class="badge bg-blue-600 text-white rounded-full font-medium">${sourceName}</span>
             <span class="text-sm text-gray-500">${timeAgo}</span>
         </div>
         <h2 class="text-2xl font-bold text-white mb-4">${item.title}</h2>
