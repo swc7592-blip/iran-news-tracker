@@ -1,10 +1,46 @@
 [
   {
     "type": "news_result",
+    "title": "Middle East crisis live: Israel warns it will pursue Iran’s next supreme leader; black smoke smothers Tehran after missiles strike oil depots | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/mar/08/middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated",
+    "description": "Israeli military said it would also target every person who seeks to appoint a successor for killed supreme leader Ali Khamenei",
+    "age": "21 minutes ago",
+    "page_age": "2026-03-08T17:28:56",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › live  › 2026  › mar  › 08  › middle-east-crisis-live-china-warns-world-cannot-return-to-law-of-the-jungle-trump-says-iran-being-decimated"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/WP9yaMysPbfqK-7FzbOYInStXcbK5X9qCsxD1cVJH-8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzcwYzk0/ZTY4ZGM3ZDE4Y2Vk/YjY4MDkwODQyMGNh/NWY1MjI5NzZlZDAv/MjUwXzBfMjUwMF8y/MDAwL21hc3Rlci8y/NTAwLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ri/R2wyWlM1d2JtYyZl/bmFibGU9dXBzY2Fs/ZSZzPTMzNjY0Yzc2/MmNiNjllMzRiNzg5/MDMzOTRmOGUwNjE2"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "한국인 203명 태운 아부다비발 첫 정부 전세기 인천공항 도착 | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260309001000004",
+    "description": "(영종도=연합뉴스) 홍준석 기자 = 미국·이스라엘과 이란 간 전쟁 여파로 아랍에미리트(UAE)에 발이 묶였던 한국 국민들이 8일 정부가 마련한 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-03-08T16:38:31",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260309001000004"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/eb6_ILP6-au5a9RIoIhAqjBt7Fl66LrpAOhD4zNAEb4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9w/aG90by95bmEvWUgv/MjAyNi8wMy8wOC9Q/WUgyMDI2MDMwODEx/NTkwMDUwNDAwX1A0/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[리셋 코리아] 쿠르드족, 이란 전쟁에 불쏘시개 돼선 안 돼 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25410117",
     "description": "그래서 이를 막으려 근래 이란과 파키스탄이 발로치 지역을 공격한 적도 있다. 이란 남쪽에는 약 2%의 아랍인이 산다. 트럼프 대통령이 전쟁을 더 복잡하게 만드는 것 같아 이라크에 있는 이란계 쿠르드 반군의 이란 투입 ...",
-    "age": "2 hours ago",
+    "age": "3 hours ago",
     "page_age": "2026-03-08T15:10:00",
     "meta_url": {
       "scheme": "https",
@@ -19,10 +55,28 @@
   },
   {
     "type": "news_result",
+    "title": "유럽서 이란 시위 분출…\"팔레비 복귀\" vs \"왕정복고 반대\" | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260308057400098",
+    "description": "(브뤼셀=연합뉴스) 현윤경 특파원 = 유럽 곳곳에서 7일(현지시간) 이란 정권 반대 시위가 벌어졌지만 전쟁 후 이란의 미래에 대한 생각은 서로 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-03-08T14:29:20",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260308057400098"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wGGKx13mISR4jjU67GADZk61InodTnu0dUVtQNs_vZc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcw/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wMy8wOC9B/S1IyMDI2MDMwODA1/NzQwMDA5OF8wMl9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "중동 전쟁 확산에 한국인들 대피…대사관에 대피소 차리기도 - 경향신문",
     "url": "https://www.khan.co.kr/article/202603082248001/",
     "description": "미국·이스라엘과 이란 간 공습의 여파로 8일 중동 일대에 체류 중인 한국인들의 대피가 이어지고 있다. 외교부에 따르면 주요르단대사관은 이날 출국 예정인 66명을 포함해 현재까지 155명의 단기체류자의 출국을 지원했다.",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-03-08T13:48:00",
     "meta_url": {
       "scheme": "https",
@@ -37,9 +91,27 @@
   },
   {
     "type": "news_result",
+    "title": "이스라엘 매체 \"UAE, 이란 첫 공격\"…UAE선 보도 부인(종합) | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260308052951108",
+    "description": "(이스탄불=연합뉴스) 김동호 특파원 = 이란의 주변 중동국가 공격에 대응해 아랍에미리트(UAE)가 처음으로 이란을 직접 공격했다는 보도가 나왔다...",
+    "age": "4 hours ago",
+    "page_age": "2026-03-08T13:33:29",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260308052951108"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/MOAJ5zzsYzDdJrZB1MP7Huej0fclwuHeoqd77UAee0s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc0/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wMy8wNy9Q/QUYyMDI2MDMwNzIx/NjAwMTAwOV9QNC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "WP: 네타냐후는 트럼프를 이란과의 전쟁에 끌어들임으로써 도박을 걸었다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/03/08/59253.html",
-    "description": "올겨울, 이스라엘의 지도자는 트럼프 대통령에게 미국이 거부하더라도 이스라엘은 무슨 일이 있어도 이란과 전쟁을 벌일 것이라고 분명히 밝혔습니다. 트럼프 대통령 자신은 여러 차례 언급했듯이 이란과의 협상 타���에 ...",
+    "description": "올겨울, 이스라엘의 지도자는 트럼프 대통령에게 미국이 거부하더라도 이스라엘은 무슨 일이 있어도 이란과 전쟁을 벌일 것이라고 분명히 밝혔습니다. 트럼프 대통령 자신은 여러 차례 언급했듯이 이란과의 협상 타결에 ...",
     "age": "4 hours ago",
     "page_age": "2026-03-08T13:24:42",
     "meta_url": {
@@ -58,7 +130,7 @@
     "title": "중동 전쟁 와중 노르웨이 미국대사관서 폭발…인명 피해 없어",
     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008468711",
     "description": "이번 일은 미국과 이스라엘의 이란 폭격과 이에 맞선 이란의 보복 공격으로 중동에서 아흐레째 전쟁이 이어지며 유럽을 비롯한 전 세계 미국, 이스라엘 공관이 보안을 강화하고 있는 와중에 발생했습니다.",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-03-08T13:12:00",
     "meta_url": {
       "scheme": "https",
@@ -69,24 +141,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/mmWLFsBxvi6UtQDG0gyFE4aOwnlDinFMcq8pTHVbG5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYwMzA4LzIwMjE2/MzMzMF8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[아주경제 오늘의 뉴스 종합] 이란, 사과 하루 만에 강경 입장…중동 전역 공습 확산 外 | 아주경제",
-    "url": "https://www.ajunews.com/view/20260308212053318",
-    "description": "[아주경제 오늘의 뉴스 종합] 이란, 사과 하루 만에 강경 입장…중동 전역 공습 확산이란 대통령이 주변 중동 국가에 대한 공격 중단 입장을 하루 만에...",
-    "age": "4 hours ago",
-    "page_age": "2026-03-08T12:40:00",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "www.ajunews.com",
-      "favicon": "https://imgs.search.brave.com/_AUj3DETaA8fJjC5U_ria7_IDrO4M6EUDxUwgMb-QgY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxYjExMzVm/Y2RiMmFiZDY0ODVh/ZDY0YTgyMWRjNjNk/YjY5ZTg5YWNiODVk/YzJhZjMxYzhiNjFj/ZjNkODQ1OC93d3cu/YWp1bmV3cy5jb20v",
-      "path": "› view  › 20260308212053318"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/BzoVVQOMfoyZ0LFfRJ3eANxpswtqQipGNy7iAB0AuSE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDMv/MDgvMjAyNjAzMDgy/MTIxMjQ4NTU3NjIu/cG5n"
     }
   },
   {
@@ -112,7 +166,7 @@
     "title": "이란,레바논의 정유소에 대한 파업으로 화재가 발생합니다-2026 년 3 월 7 일 뉴스 - Pravda 한국",
     "url": "https://korea.news-pravda.com/world/2026/03/08/59250.html",
     "description": "이란:연합군은 이란 수도의 에너지 인프라를 처음으로 공격했습니다. 테헤란 남부 에 있는 석유 저장소 는 큰 정유소 인근 에 위치 하고 있었습니다. 두 번째 타격은 북서쪽의 정유소에 있었습니다. 동시에,그들은 테헤란 정유소(국내에서 가장 큰 정유소 중 하나)에 대한 공격이 발생하지 않았다고 썼다. 이스라엘이 ...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-03-08T12:11:12",
     "meta_url": {
       "scheme": "https",
@@ -127,28 +181,10 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘 매체 \"UAE, 이란 담수화 시설 공습\" 보도",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=02053286645381352&mediaCodeNo=257",
-    "description": "아랍에미리트(UAE)가 이란을 직접 공격했다는 보도가 나왔다. 걸프 국가가 이란 본토를 타격한 첫 사례 중 하나가 될 가능성이 있어 파장이 주목된다.7일(현지시간) 아랍에미리트 두바이 국제공항에서 연기가 피어오르는 영상이 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-03-08T12:10:53",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "edaily.co.kr",
-      "hostname": "www.edaily.co.kr",
-      "favicon": "https://imgs.search.brave.com/OV8B3AMbz_2y41Y09vXqWgBF2d69aACGrQ4rnd63SdU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzgzYTYyZDk3/YzA1MTE0MGRhNzAz/MTUzMzJjNjRjMTMw/YTA0YjQxNDY0ZGEy/MjBhZDQwNjg4ZWMz/ZGRjZjgzMi93d3cu/ZWRhaWx5LmNvLmty/Lw",
-      "path": "› News  › Read"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/LF7sCho2R-7DliyPiG3jRz0F9ECF_q4GhCnVFftSX9A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wMy9Q/UzI2MDMwODAwNjI2/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"이란, 이미 패배\" 트럼프 vs \"미국에 항복 없다\" 이란…중동 전쟁 9일·걸프까지 불길 - 중앙이코노미뉴스",
     "url": "https://www.joongangenews.com/news/articleView.html?idxno=500322",
     "description": "BBC는 이 발언이 이란 정부가 전쟁을 지역 전체로 확대하지 않겠다는 신호일 가능성이 있다고 분석했다.",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-03-08T12:00:00",
     "meta_url": {
       "scheme": "https",
@@ -163,92 +199,20 @@
   },
   {
     "type": "news_result",
-    "title": "사과 하루 만에 말 바꾼 이란…전쟁 9일째 확전 | 미주중앙일보",
-    "url": "https://www.koreadaily.com/article/20260308045410167",
-    "description": "미국과 이스라엘의 공습으로 촉발된 이란 전쟁이 9일째로 접어든 가운데, 이란 대통령이 주변국 공격 중단 약속을 하루 만에 사실상 뒤집으면서 중동 긴장이 다시 고조되고 있다. 마수드페제시키안 이란 대통령은 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-03-08T11:53:38",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "koreadaily.com",
-      "hostname": "www.koreadaily.com",
-      "favicon": "https://imgs.search.brave.com/nYoGZKEiwwHLPA8QiQOVzTvgG8D_WeE6w9d1SjIN82I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzYxZWQ0ZDRh/OWIyZDFhZDQ5ZDk3/Y2M4NjMyNGY1M2I5/OWNlOTMxMDJlMjkz/ZDdhMzdkOTMxMGI2/NjlkNzhiMS93d3cu/a29yZWFkYWlseS5j/b20v",
-      "path": "› article  › 20260308045410167"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/F5kh7Yd5kAKsdGQyqpmacZeZBROLktYClYG1ILHLBpA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/a29yZWFkYWlseS5j/b20vZGF0YS9waG90/by90aHVtYm5haWwv/MjAyNi8wMy8wOC80/ZWNkMmI4OS00OTJj/LTRmMDgtYjQ0OS1h/NDI5MjRiMzFkOGMu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘 매체 “UAE, 이란 해수담수화 시설 공격” UAE는 부인",
-    "url": "https://www.chosun.com/international/international_general/2026/03/08/LJS4QQL6YBESVGX6ZLPRZGY4MU/",
-    "description": "이스라엘 매체 UAE, 이란 해수담수화 시설 공격 UAE는 부인 아랍에미리트UAE가 8일 이란의 해수담수화 시설을 공격했다고 이스라엘 예루살렘포스트, 예디오트아흐로노트, i24뉴스 등이 8일 보도했다. 예루살렘포스트는 이날 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-03-08T11:52:44",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 03  › 08  › LJS4QQL6YBESVGX6ZLPRZGY4MU"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/9e8ZgHWlsnHmZ8xAN2nHkgF59hWYylZouu77oRPMNvU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL1NI/TkVVV0xSQTVMTFZB/VFA0WVJKUFNKQTJF/LmpwZz9hdXRoPTU4/NjgzY2QwZjFhMmEx/ZWVmZmEzMzRlZGIx/NTI0MzNlNjYzZmUx/MjYzZGE3ZWQyMzFl/ZmZjYzQ4MTQwNmU4/NTcmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[이란 전쟁] 중동 7개국에 '철수권고' 발령...UAE·카타르 등 전역 - SPN 서울평양뉴스",
-    "url": "https://www.spnews.co.kr/news/articleView.html?idxno=105174",
-    "description": "정부가 중동 7개국에 대해 여행경보를 3단계(철수권고)로 상향했다.외교부는 8일 19시부로 바레인, 아랍에미리트(UAE), 오만, 카타르, 쿠웨이트 전역과 사우디",
-    "age": "5 hours ago",
-    "page_age": "2026-03-08T11:43:47",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "spnews.co.kr",
-      "hostname": "www.spnews.co.kr",
-      "favicon": "https://imgs.search.brave.com/lpp39PqNpP7vJHUedw1tTzb3Nlxc7dJvgpCFrM06I1o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDBhYTQzY2M0/NWQxMmY2ZDRmMDdk/ZDdiNDAwYTc2OGJk/OGNiZTZlMTU2M2M3/YmExMzk0MDAwZDM0/ZmFiZDFhNS93d3cu/c3BuZXdzLmNvLmty/Lw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/d8-9GM9NhAdWo097ZQ3Shp3QQ62KSQJcrmVfHY-sEEM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BuZXdzLmNvLmty/L25ld3MvcGhvdG8v/MjAyNjAzLzEwNTE3/NF8xMDYwNTFfMzYx/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"한국 언론은 미국의 시각 복사하는 대변인 노릇 중단하라\" - 오마이뉴스",
-    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003212897",
-    "description": "8일 오후 1시, 주한미국대사관 앞에서 백기완 노나메기재단과 시민사회 원로들이 미국의 이란 침공을 규탄하는 기자회견을 열었다. 시민사회 원로들은 규탄 발언을 통해 패권주의적 전쟁을 멈추고 학살을 중단하라고 강력하게 ...",
+    "title": "Israel hits Iran’s oil depots as clerics say consensus reached on Ayatollah successor : NPR",
+    "url": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
+    "description": "Israel targeted Iran's oil facilities for the first time early Sunday, with videos showing huge flames lighting up the sky, while Iranian state media reported officials were close to announcing a successor for Ayatollah Ali Khamenei.",
     "age": "6 hours ago",
-    "page_age": "2026-03-08T11:22:00",
+    "page_age": "2026-03-08T11:49:02",
     "meta_url": {
       "scheme": "https",
-      "netloc": "ohmynews.com",
-      "hostname": "www.ohmynews.com",
-      "favicon": "https://imgs.search.brave.com/In6gDARNzlE7xnQXhGA_9RA6hP7KAUuYzQo8VEk1xOU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY0MTdlODVi/ZTkwNmU5ODU4Y2Ji/OWM4YzdhNTcxNTIw/YWNkNDllMDEyYzg5/NDE5MThjYzJiZDBm/YTQzZjA5Yy93d3cu/b2hteW5ld3MuY29t/Lw",
-      "path": "› NWS_Web  › View  › at_pg.aspx"
+      "netloc": "npr.org",
+      "hostname": "www.npr.org",
+      "favicon": "https://imgs.search.brave.com/Y1l6Dzd6VM4_ltfNpwB9Esia4wtA5Fyy600GWlxTPcY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8",
+      "path": "› 2026  › 03  › 08  › nx-s1-5741654  › israel-iran-oil-ayatollah-successor"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/pqn7W7r3yJ-6xjYy2WSiB257F3tg-E0Qz_q2Rt6WXHQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vanNm/aWxlLm9obXluZXdz/LmNvbS9DVF9UX0lN/Ry8yMDI2LzAzMDgv/SUUwMDM1OTA0MjBf/TFQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 공격 공포에 선박들 '중국 위장'…호르무즈 해협 통과 꼼수 확산 - 전자신문",
-    "url": "https://etnews.com/20260308000089",
-    "description": "페르시아만과 인근 해역을 지나는 선박들이 이란의 공격을 피하기 위해 '중국 선박'으로 위장하는 사례가 늘고 있는 것으로 나타났다. 이란과 우호 관계인 중국 선박은 공격 대상에서 제외될 수 다는 판단에서다.",
-    "age": "6 hours ago",
-    "page_age": "2026-03-08T11:17:19",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "etnews.com",
-      "hostname": "etnews.com",
-      "favicon": "https://imgs.search.brave.com/dc3sJkhNYYK-J6ZsFzRnY8QsepXftrIia8we7d9Eeqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTZkYTIyZTAw/Njk3MTAwMDYwZDQ3/NzVjYjAxOTg5Y2U2/ZDhmYWM2OTNkMGYw/YzU0M2IzYzAxMzY2/OWE4MzY2NC9ldG5l/d3MuY29tLw",
-      "path": "› 20260308000089"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/1wPPyXAEN_3j3P2wKu8UHFhqoxnlNFJBnlJGU_GabZI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRuZXdzLmNvbS9u/ZXdzL2FydGljbGUv/MjAyNi8wMy8wOC9u/ZXdzLXAudjEuMjAy/NjAzMDguNmY5YTJj/MWFhMTIyNDM1YWE2/YzI0MDQzZjEwMzg3/YzZfUDEuanBn"
+      "src": "https://imgs.search.brave.com/oQTwgJ3o46TzCByReq8AZeARWrjwVKZxXnIyqZ9Gqac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ucHIu/YnJpZ2h0c3BvdGNk/bi5jb20vZGltczMv/ZGVmYXVsdC9zdHJp/cC9mYWxzZS9jcm9w/LzYwMDB4MzM3NSsw/KzMxMy9yZXNpemUv/MTQwMC9xdWFsaXR5/Lzg1L2Zvcm1hdC9q/cGVnLz91cmw9aHR0/cCUzQSUyRiUyRm5w/ci1icmlnaHRzcG90/LnMzLmFtYXpvbmF3/cy5jb20lMkY3ZSUy/RmU0JTJGZDI1YzRj/OTc0MzFmYWJkYzNh/N2JiODAyMGFkMCUy/RmFwMjYwNjc0MDU0/MzE1MDEuanBn"
     }
   },
   {
@@ -256,7 +220,7 @@
     "title": "진심 내뱉은 트럼프, 그는 이란 민주주의 아닌 '친미 정권' 원한다 - 오마이뉴스",
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003212831",
     "description": "미국과 이스라엘의 이란 공격 초기 정권 교체를 기대하며 환영했던 이란인들이 전쟁 장기화로 공포와 절망으로 변하고 있다. 트럼프 대통령은 이란의 자유를 명분으로 했지만 실제로는 민주주의가 아닌 친미 정권 수립을 ...",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-03-08T11:11:00",
     "meta_url": {
       "scheme": "https",
@@ -271,20 +235,20 @@
   },
   {
     "type": "news_result",
-    "title": "이란 “가만있지 않겠다”…사과 하루만에 이스라엘·걸프국 동시 타격 - 전자신문",
-    "url": "https://etnews.com/20260308000087",
-    "description": "이란 테헤란 메흐라바드 국제공항 공습 현장에서 연기와 불길이 치솟는 모습. 사진=연합뉴스 · 미국과 이스라엘의 공습으로 시작된 이란 전쟁이 9일째 이어지는 가운데 이란 대통령이 인접 중동 국가들에 대한 공격 중단 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-03-08T11:07:33",
+    "title": "'아이언맨'이 이란 공습?‥백악관의 기괴한 '전쟁 홍보'",
+    "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6805764_37004.html",
+    "description": "전쟁으로 인한 민간인 피해가 확산되고 있는 상황에서 미국 백악관이 공개한 전쟁 홍보 영상이 논란을 빚고 있습니다. 미국의 이란 공격 장면에 아이언맨이나 탑건 같은 유명...",
+    "age": "7 hours ago",
+    "page_age": "2026-03-08T11:04:20",
     "meta_url": {
       "scheme": "https",
-      "netloc": "etnews.com",
-      "hostname": "etnews.com",
-      "favicon": "https://imgs.search.brave.com/dc3sJkhNYYK-J6ZsFzRnY8QsepXftrIia8we7d9Eeqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTZkYTIyZTAw/Njk3MTAwMDYwZDQ3/NzVjYjAxOTg5Y2U2/ZDhmYWM2OTNkMGYw/YzU0M2IzYzAxMzY2/OWE4MzY2NC9ldG5l/d3MuY29tLw",
-      "path": "› 20260308000087"
+      "netloc": "imnews.imbc.com",
+      "hostname": "imnews.imbc.com",
+      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
+      "path": "› replay  › 2026  › nwdesk  › article  › 6805764_37004.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/nsF8Rf9iEedSWaaqiMPmyPMbZu3tssQr55xplnudUbA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRuZXdzLmNvbS9u/ZXdzL2FydGljbGUv/MjAyNi8wMy8wOC9u/ZXdzLXAudjEuMjAy/NjAzMDguODhhMWNm/MGRkOGZiNDAyZmIz/ZjE5NjBjYjc1OThl/ODJfUDEuanBn"
+      "src": "https://imgs.search.brave.com/Wp6V588ffcPWdauGkUi9S4GkqWL5K-drqgoCArBuv9Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbndkZXNr/L2FydGljbGUvX19p/Y3NGaWxlcy9hZmll/bGRmaWxlLzIwMjYv/MDMvMDgvZGVza18y/MDI2MDMwOF8yMDAz/NDVfMV80X0xhcmdl/LmpwZw"
     }
   },
   {
@@ -292,7 +256,7 @@
     "title": "Iran attacks breach international law, Swiss Defence Minister says | Reuters",
     "url": "https://www.reuters.com/world/europe/iran-attacks-breach-international-law-swiss-defence-minister-says-2026-03-08/",
     "description": "The United States and Israel have broken international law with their attacks on Iran, Swiss Defence Minister Martin Pfister said in an ​interview published on Sunday, the latest European leader to raise ‌concerns about the conflict.",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-03-08T10:31:56",
     "meta_url": {
       "scheme": "https",
@@ -310,7 +274,7 @@
     "title": "Iran war: Attacks on Gulf countries continue, Israeli strikes intensify",
     "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
     "description": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue.",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-03-08T09:30:48",
     "meta_url": {
       "scheme": "https",
@@ -328,7 +292,7 @@
     "title": "“우라늄 450kg 확보하라”...미국, 이란에 특수부대 투입 검토 - 매일경제",
     "url": "https://www.mk.co.kr/news/world/11982192",
     "description": "이같은 작전이 실행될 경우 전쟁 중 적국 영토로 병력을 깊숙이 들여보내는 고위험 군사작전이 될 전망이다. 또 이란 역시 은닉된 핵물질 회수에 나설 가능성이 있어 이번 전쟁이 공습 단계를 넘어 지상 특수작전 국면으로 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-03-08T09:16:59",
     "meta_url": {
       "scheme": "https",
@@ -346,7 +310,7 @@
     "title": "고유가에 꺼낸 '기름값 상한' 카드…\"시장 역행, 품귀 부를수도\" | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25410037",
     "description": "미국과 이스라엘의 이란 공습에 따른 중동 사태 여파로 국내 주유소 기름값이 가파르게 상승하고 있는 8일 인천 시내의 한 주유소 앞에 휘발유 매진 안내문이 붙어 있다. 연합뉴스 · 미국ㆍ이란 전쟁으로 국제 유가가 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-03-08T09:11:02",
     "meta_url": {
       "scheme": "https",
@@ -361,10 +325,28 @@
   },
   {
     "type": "news_result",
+    "title": "Human Rights Watch calls for war crimes probe after deadly attack on Iran girls’ school",
+    "url": "https://www.aa.com.tr/en/middle-east/human-rights-watch-calls-for-war-crimes-probe-after-deadly-attack-on-iran-girls-school/3854956",
+    "description": "On Saturday, asked if the US was responsible for the strike, US President Donald Trump said, “No, in my opinion, based on what I’ve seen, that was done by Iran,” but cited no evidence. Human Rights Watch said those responsible for unlawful attacks must be held accountable following a ...",
+    "age": "9 hours ago",
+    "page_age": "2026-03-08T09:05:04",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aa.com.tr",
+      "hostname": "www.aa.com.tr",
+      "favicon": "https://imgs.search.brave.com/ATZ6WJCaPN0YzYcBHkwQKMD8eq9P_RQJr4_gWmbn43U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE3MWJhMTZh/OGMzOGYzMDgxMmQ1/YTgxMGMxNGNmNzg1/MDRiNWY3YzllOGQ1/ZWE4NzM4ZGE2OGJl/MjdhYzEzNC93d3cu/YWEuY29tLnRyLw",
+      "path": "› en  › middle-east  › human-rights-watch-calls-for-war-crimes-probe-after-deadly-attack-on-iran-girls-school  › 3854956"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/vnoN-LnkT05yXe4w9_SUzLF91lW7TCD5fd4GJkkbwuU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG51/cGxvYWRzLmFhLmNv/bS50ci91cGxvYWRz/L0NvbnRlbnRzLzIw/MjYvMDMvMDgvdGh1/bWJzX2JfY19hNGE3/NDBjYzVlZWJlYmZk/ODA1YzJhNWE0NjJh/YjZiMC5qcGc_dj0x/MjE3MDA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Live updates: Tehran fuel depots burn as Iran selects new supreme leader",
     "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-president-must-respond-attacks-strikes-hit-rcna262269",
     "description": "Iran’s Foreign Minister Abbas Araghchi has rejected calls for a ceasefire in the Middle East, telling NBC News’ “Meet the Press” that his country needs “to continue fighting for the sake of our people.” · The U.S. and Israel “are killing our people, they are killing girl students, you know, they are attacking ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-03-08T08:12:30",
     "meta_url": {
       "scheme": "https",
@@ -382,7 +364,7 @@
     "title": "Iran war: What is happening on day nine of US-Israel attacks? | Explainer News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks",
     "description": "The US and Israel continue to strike Iran, hitting oil storage depots and refining facilities for the first time.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-03-08T07:55:11",
     "meta_url": {
       "scheme": "https",
@@ -397,28 +379,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란, '미국의 눈' 때렸다…\"대당 1조5천억 육박\" 뭐길래",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008468566",
-    "description": "▲ 이란의 공습으로 카타르의 한 창고에서 연기가 피어오르는 모습 이란이 중동에서 '미국의 눈' 역할을 하는 레이더 시스템을 집중적으로 공격하고 있다고 월스트리트저널(WSJ)이 보도했습니다.",
-    "age": "9 hours ago",
-    "page_age": "2026-03-08T07:43:00",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wK_fEeu9yi2vQ5veJkcCNjt9EMlN7HF5xbJQfYcBSGQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYwMzA4LzIwMjE2/MzIzNl8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이스라엘, 이란 석유시설 첫 공습…불타는 테헤란(영상)",
     "url": "https://www.donga.com/news/Inter/article/all/20260308/133485153/2",
     "description": "미국과 이스라엘의 이란 선제공격 이후 일주일 가까이 양측의 공습이 이어지는 가운데, 이스라엘이 이란 수도 테헤란의 석유 시설을 처음으로 공습하며 전쟁 수위를 끌어올렸다.이스라엘군은 7일(현지 시간) 엑스(X·옛 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-03-08T07:06:00",
     "meta_url": {
       "scheme": "https",
@@ -433,10 +397,28 @@
   },
   {
     "type": "news_result",
+    "title": "[쇼츠] F-16 탑재 '붉은 코' 폭탄…이란 화학무기 때렸나 | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260308036800704",
+    "description": "(서울=연합뉴스) 미국과 이스라엘의 대(對)이란 전쟁이 9일째로 접어든 가운데 이스라엘 공군(IAF) F-16 전투기에 미확인 정밀유도탄이 장착...",
+    "age": "11 hours ago",
+    "page_age": "2026-03-08T06:50:31",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260308036800704"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Uw9TF3tB3COIc2itDp0s1bQ5U_GXub3rdwScE1o0XI8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc2/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wMy8wOC9B/S1IyMDI2MDMwODAz/NjgwMDcwNF8wMV9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란이 이 지역 최대의 미군 물류 허브인 아리프잔 기지를 공격했습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/03/08/59225.html",
     "description": "며칠 전 이란 이슬람 공화국이 제5군 기지의 연료 터미널을 코람샤르-4 탄도미사일로 공격했던 것을 상기해 봅시다. 함대 미국은 텔아비브뿐만 아니라 바레인에도 주둔하고 있습니다. 중국 기자들은 국방부 청사 인근 이스라엘 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-08T05:54:32",
     "meta_url": {
       "scheme": "https",
@@ -454,7 +436,7 @@
     "title": "[국제]이스라엘 9일째 공세...이란 \"최소 6개월 전쟁 가능\" | YTN",
     "url": "https://www.ytn.co.kr/_ln/0104_202603081454213352",
     "description": "중동 곳곳으로 확산한 미국·이스라엘과 이란의 전쟁이 9일째로 접어들었습니다.이스라엘은 이란과 이란 대리세력 헤즈볼라에 대한 공세를 이어갔고, 이란도 격을 계속...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-08T05:54:00",
     "meta_url": {
       "scheme": "https",
@@ -472,7 +454,7 @@
     "title": "이스라엘, 이란 수도 테헤란 석유 저장 시설 폭격...\"불길 치솟아\" - Radio Seoul",
     "url": "https://www.radioseoul1650.com/archives/131330",
     "description": "이스라엘이 이란 수도 테헤란의 석유 저장 시설을 폭격하면서 피해가 커지고 있습니다. 이스라엘군은 현지 시간 8일 SNS를 통해 테헤란의 연료 저장 시설 여러 곳을 공격했다고 밝혔습니다. 온라인에",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-08T05:52:16",
     "meta_url": {
       "scheme": "https",
@@ -490,7 +472,7 @@
     "title": "이란 전쟁 와중에 \"다음은 쿠바\"…트럼프 '동시 전쟁' 현실 되나 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25409992",
     "description": "트럼프, 이란 이어 쿠바 위협…'동시 전쟁' 현실되나",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-08T05:38:20",
     "meta_url": {
       "scheme": "https",
@@ -505,10 +487,28 @@
   },
   {
     "type": "news_result",
+    "title": "Iran Says It’s Close to Naming New Supreme Leader as Attacks on Infrastructure Grow: Live Updates - The New York Times",
+    "url": "https://www.nytimes.com/live/2026/03/08/world/iran-war-trump-israel-lebanon",
+    "description": "Iranian state media reported that top clerics were finalizing their decision on a successor to Ayatollah Ali Khamenei. Israel and Iran appeared to be ramping up attacks on infrastructure targets.",
+    "age": "12 hours ago",
+    "page_age": "2026-03-08T05:32:53",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› live  › 2026  › 03  › 08  › world  › iran-war-trump-israel-lebanon"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/kHC1leBDfBH5Jb4aGSBoPNOkaCvRlCtYbnnzo0A6XRM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzAzLzA4L211bHRp/bWVkaWEvMDhpcmFu/LTEzMC1oempsLzA4/aXJhbi0xMzAtaHpq/bC1mYWNlYm9va0p1/bWJvLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "전쟁 1주일, 이란인들이 전한 현지의 목소리는 이랬다 - BBC News 코리아",
     "url": "https://www.bbc.com/korean/articles/cp9mp0npd95o",
     "description": "사진 설명, 전쟁 사흘째이던 지난 2일, 테헤란의 한 언덕에서 남성들이 폭발 뒤 치솟는 연기를 바라보고 있다. ... 약 일주일 전 이란 최고지도자 아야톨라 알리 하메네이의 사망 소식을 들었을 때, 하미드(가명)는 큰 환희를 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-03-08T05:02:12",
     "meta_url": {
       "scheme": "https",
@@ -523,28 +523,10 @@
   },
   {
     "type": "news_result",
-    "title": "전쟁 1주일, 이란인들이 전한 현지의 목소리는 이랬다 - BBC News 코리아",
-    "url": "https://bbc.com/korean/articles/cp9mp0npd95o",
-    "description": "\"자국이 외부 공격을 받는 것을 국민이 기뻐하는 나라가 이 세상에 또 어디 있는지 찾아보라.\" 그는 영국에 있는 사촌을 통해 이렇게 말했다. \"하지만 우리는 이제 정권이 곧 사라질 것이라는 희망을 갖게 됐다. 그래서 기쁘다.\" 하미드만 이런 생각을 하는 것은 아니다. BBC 페르시아 서비스 동료들과 함께 우리는 이란 ...",
-    "age": "12 hours ago",
-    "page_age": "2026-03-08T05:02:12",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "bbc.com",
-      "favicon": "https://imgs.search.brave.com/kfRy7wuGNQWzU47LzCO0VZPfeuEgMwKe1nZIYNJS9SU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODczZDE3NmVj/MzFhZjM1Yzc3YjA0/YTdhM2NkYTkxMGM5/NmQ5Yjc4YTBmMjY2/MTMzNWE1MzgwOWNm/NGQ3YWZlYy9iYmMu/Y29tLw",
-      "path": "› korean  › articles  › cp9mp0npd95o"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/T6LUnc6o2_SVhVe2GVYhk9Gch6yU1fLNDpPyFPivtF8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX2tvcmVh/bi9mNmIwL2xpdmUv/NWVjNmNjNjAtMTk3/OS0xMWYxLTkxNTYt/NDM1NjU5MmZjOWM4/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이스라엘, 레바논 수도 중심가 호텔 공습‥4명 사망",
     "url": "https://imnews.imbc.com/news/2026/world/article/6805707_36925.html",
     "description": "이스라엘의 공격으로 파괴된 레바논 베이루트 남부 교외 지역 건물들 2026.3.7미국과 이스라엘의 공습으로 시작된 이란 전쟁으로 인한 중동 일대의 민간 시설 피해가 확산하고 있습니다. 레바논 보건부는 수도 베이루트 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-03-08T04:45:37",
     "meta_url": {
       "scheme": "https",
@@ -562,7 +544,7 @@
     "title": "Iran Update Evening Special Report, March 7, 2026 | ISW",
     "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-7-2026/",
     "description": "An Israeli journalist reported on March 7 that Israel estimates that Iran has about 120 missile launchers remaining. US Central Command (CENTCOM) Commander Admiral Brad Cooper stated on March 5 that ballistic missile attacks from Iran have declined by roughly 90 percent since the strikes began.",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-03-08T04:42:27",
     "meta_url": {
       "scheme": "https",
@@ -579,8 +561,8 @@
     "type": "news_result",
     "title": "Trump offers vague description of Iran surrender demand – as it happened | US-Israel war on Iran | The Guardian",
     "url": "https://www.theguardian.com/world/live/2026/mar/07/middle-east-crisis-live-tehran-explosions-beirut-trump-israel-iran-war-second-week",
-    "description": "Earlier Kuwait described the attack as “a direct targeting of vital infrastructure”, as its national oil company also announced a “precautionary” cut to its crude production. Saudi Arabia has meanwhile reported intercepting and destroying a batch of drones, and Qatar said Iran had fired ...",
-    "age": "13 hours ago",
+    "description": "Thank you for tuning into our live coverage of the war in Iran and its regional ramifications. Here is a quick recap of what has happened so far today: Donald Trump claimed the US and Israel had “decimated” the Iranian regime, but offered only a vague description of what he meant by his ...",
+    "age": "14 hours ago",
     "page_age": "2026-03-08T04:02:39",
     "meta_url": {
       "scheme": "https",
@@ -595,20 +577,92 @@
   },
   {
     "type": "news_result",
-    "title": "이란 \"공격 사과\" 몇시간 뒤 또 공습…걸프국 \"보복 가능\" 경고 | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25409961",
-    "description": "마수드 페제시키안 이란 대통령이 걸프 국가들에 사과하며 공격 중단 방침을 밝혔지만, 불과 몇 시간 뒤 바레인과 아랍에미리트(UAE), 카타르 등 걸프 국가들이 다시 이란의 공격을 받으면서 역내 긴장이 한층 고조되고 있다.",
-    "age": "16 hours ago",
-    "page_age": "2026-03-08T01:19:42",
+    "title": "UAE denies striking Iran water facility after Gulf attacks | The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-889231",
+    "description": "Abu Dhabi is \"struggling to understand Israeli conduct and the nature of briefings coming out of Jerusalem,\" a source close to the Emirates told The Post.",
+    "age": "14 hours ago",
+    "page_age": "2026-03-08T04:00:04",
     "meta_url": {
       "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25409961"
+      "netloc": "jpost.com",
+      "hostname": "www.jpost.com",
+      "favicon": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw",
+      "path": "› middle-east  › iran-news  › article-889231"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/wH6_cWEJrS4lVq5WJldb-MrY0IV7k0Ol7yE0RfW_v34/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDMvMDgvYWNk/Yzc5NjAtMGJlNy00/OWQ2LWExOWItYjE3/N2M2YmU5NjQyLmpw/Zw"
+      "src": "https://imgs.search.brave.com/ALqrMyGAxK2X-4BEr7hT6gHq0A-uFH5FMHC4uQ87WYo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzEwMzcz"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "What we know on the ninth day of the US and Israel’s war with Iran | CNN",
+    "url": "https://www.cnn.com/2026/03/07/middleeast/us-israel-iran-middle-east-war-what-we-know-intl-hnk",
+    "description": "Israel’s onslaught against Iran has entered a new phase, targeting energy resources in the country, as Iranian state media suggests the selection of a new supreme leader is close.",
+    "age": "14 hours ago",
+    "page_age": "2026-03-08T03:57:51",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnn.com",
+      "hostname": "www.cnn.com",
+      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+      "path": "› 2026  › 03  › 07  › middleeast  › us-israel-iran-middle-east-war-what-we-know-intl-hnk"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3vWo-Y-EFwLSpqJKnt6vYXNe6Ca_JSun3iiXZqrkqCA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2FwMjYwNjczNzU4/ODM3MDYuanBnP2M9/MTZ4OSZxPXdfODAw/LGNfZmlsbA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[영상] 이스라엘 F-16에 미확인 정밀유도탄 포착…\"소이탄 탑재 가능성\" | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260308029100704",
+    "description": "(서울=연합뉴스) 미국과 이스라엘의 대(對)이란 전쟁이 9일째로 접어든 가운데 이스라엘 공군(IAF) F-16 전투기에 미확인 정밀유도탄이 장착...",
+    "age": "14 hours ago",
+    "page_age": "2026-03-08T03:50:42",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260308029100704"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/1a-A8AAPm7mkziZjgEIiuPhn1Gl582XK2HqrAwKWZhw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wMy8wOC9B/S1IyMDI2MDMwODAy/OTEwMDcwNF8wMl9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "South Florida resident is back home after being stranded in Israel, says he feels \"really let down\" by U.S. - CBS Miami",
+    "url": "https://www.cbsnews.com/miami/news/south-florida-resident-back-home-israel-iran-war/",
+    "description": "An Aventura man returned home to South Florida on Saturday after days of travel from Jerusalem, following a U.S. government order for American citizens to evacuate the Middle East. The evacuation order came after the United States and Israel carried out a joint mission, striking Iran.",
+    "age": "14 hours ago",
+    "page_age": "2026-03-08T03:22:00",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cbsnews.com",
+      "hostname": "www.cbsnews.com",
+      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
+      "path": "› miami  › news  › south-florida-resident-back-home-israel-iran-war"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/n3VQV7noULs-NEboHBy4aQUb3slnYMyGaw_bhIKO-hg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMyLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/My8wOC81Y2I3YzNk/ZC02MTc4LTRlN2Et/ODU0YS03YjVhOTdl/NmU2NmMvdGh1bWJu/YWlsLzEyMDB4NjMw/LzUzNjg5OTY3ZTBh/ZjlkOTllNTJlZTg4/Nzk4NzgzMDk5L2Ni/cy1taWFtaS1zb2Zs/by1yZXNpZGVudC1p/bi1pc3JhZWwtMS5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "中왕이, 이란 사태에 “일어나선 안될 전쟁…즉각 중단해야” - 매일경제",
+    "url": "https://www.mk.co.kr/news/world/11981869",
+    "description": "중국 외교사령탑이 미국과 이스라엘의 공습으로 시작된 이란 전쟁에 대해 “일어나서는 안 될 전쟁”이라며 즉각적인 휴전을 촉구했다. 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장은 8일 오전 전국인민대표대회...",
+    "age": "15 hours ago",
+    "page_age": "2026-03-08T02:28:12",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "www.mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
+      "path": "› news  › world  › 11981869"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/aiSnZkLSt9Gqcf63Rwno30Fmh7WHhNLMDBFrI2Zshdc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/My8wOC9uZXdzLXAu/djEuMjAyNjAzMDgu/YjIzYTVlZTc0YjRi/NDBlNmJiM2NmMzEw/MmFlNmE5ZWZfUi5q/cGc"
     }
   },
   {
@@ -616,7 +670,7 @@
     "title": "석유시설까지 공격한 네타냐후 “전력을 다할 것” 강조 | 문화일보",
     "url": "https://www.munhwa.com/article/11572874",
     "description": "네타냐후는 이날 TV 생방송으로 발표한 성명에서 “이스라엘은 이란 체제를 무너뜨릴 잘 준비된 기습작전 계획을 갖고 있으며 체제 변화가 가능하다”며 이같이 밝혔다.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-03-08T01:05:33",
     "meta_url": {
       "scheme": "https",
@@ -634,7 +688,7 @@
     "title": "이란, 대통령 사과 몇 시간 만에 또 공격…걸프국 \"보복 경고\" - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003212814",
     "description": "아라그치 외무장관은 ... 이란 공격에 사용되지 않는다는 것을 전제로 페제시키안 대통령이 역내 긴장 완화에 열린 자세를 보였음에도, 이 같은 제안이 우리의 역량과 결의, 의도를 잘못 이해한 도널드 트럼프 미국 대통령에 의해 즉시 묵살당했다\"며 주변국 공격의 책임을 미국에 전가했다. 그는 또 \"전쟁이 미국의 ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-03-08T00:38:00",
     "meta_url": {
       "scheme": "https",
@@ -652,7 +706,7 @@
     "title": "네타냐후 \"이란 공격, '전력을 다해' 계속할 것\" 7일 TV연설 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260308_0003538988",
     "description": "[로스앤젤레스=AP/뉴시스] 5일(현지 시간) 미 캘리포니아주 로스앤젤레스 주재 이스라엘 영사관 밖에서 베냐민 네타냐후 이스라엘 총리 사진을 든 여성이 미국과 이스라엘의 이란 공습을 지지하고 있다.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-03-08T00:30:24",
     "meta_url": {
       "scheme": "https",
@@ -670,7 +724,7 @@
     "title": "벌써 '토사구팽' 준비?…트럼프 \"쿠르드족 개입 원치 않는다\" | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25409955",
     "description": "이틀 전인 지난 5일 ... 넘어 이란을 공격하는 것에 대해 “전적으로 찬성한다”고 했던 것과는 완전히 달라진 입장이다. 트럼프 대통령이 중동의 소수민족 쿠르트족을 움직여 미국을 대신한 사실상의 ‘대리 지상군’을 벌인다는 분석이 나온 가운데 쿠르드족이 또다시 이번 전쟁에 동원됐다가 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-03-08T00:03:06",
     "meta_url": {
       "scheme": "https",
@@ -685,28 +739,10 @@
   },
   {
     "type": "news_result",
-    "title": "대(對)이란 전쟁 교전 피해 대피한 레바논 주민들 | 연합뉴스",
-    "url": "https://www.yna.co.kr/view/IPT20260307000004365?section=gallery%2Findex",
-    "description": "대(對)이란 전쟁 교전 피해 대피한 레바논 주민들",
-    "age": "17 hours ago",
-    "page_age": "2026-03-08T00:00:53",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "www.yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
-      "path": "› view  › IPT20260307000004365"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/aNVUURLehc0vJpYJzgr-zMeOQ0LG-8vAkeClryftEJ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc0/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzAzLzA3L1BBUDIw/MjYwMzA3MjMxMDAx/MDA5X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "‘Projectile’ kills 2 in Saudi Arabia as Iran attacks on the Gulf continue",
+    "title": "Iran war live: Israel hits Tehran oil depots; 2 killed in Saudi Arabia | US-Israel war on Iran News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue",
     "description": "Saudi Arabia, Kuwait, and Bahrain report more attacks as President Trump says war will only end when Iran surrenders.",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-03-08T00:00:00",
     "meta_url": {
       "scheme": "https",
@@ -721,20 +757,38 @@
   },
   {
     "type": "news_result",
-    "title": "미국, 스리랑카에 침몰 이란 군함 생존자 송환 자제 압박…인도, 다른 이란 군함 정박 허용 | 더프리덤타임즈",
-    "url": "https://thefreedomtimes.news/View.aspx?No=3995661",
-    "description": "국무부는 이란이 이들을 송환받아 선전 목적으로 이용하려는 시도를 최소화해야 한다고 강조했다. 하웰 대사대리는 스리랑카를 관할하는 레우벤 아자르 인도 주재 이스라엘 대사에게도 스리랑카가 승조원 송환 계획이 없다고 ...",
+    "title": "Huge fire rages at Tehran oil depot after Israeli attack | US-Israel war on Iran | Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack",
+    "description": "Footage captured a massive fire raging at the Shehran oil depot on the outskirts of northern Tehran following an Israeli attack late Saturday night. The Israeli military claimed responsibility for striking fuel storage and related sites it alleges are affiliated with the Iranian armed forces.",
     "age": "18 hours ago",
-    "page_age": "2026-03-07T23:25:05",
+    "page_age": "2026-03-07T23:26:45",
     "meta_url": {
       "scheme": "https",
-      "netloc": "thefreedomtimes.news",
-      "hostname": "thefreedomtimes.news",
-      "favicon": "https://imgs.search.brave.com/6dY4Tz1Lkuc8appe-jgA8IPPGjOGzNZzyfVZzj4ZvPA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTc0NzM0N2M0/MThjZTYyZjcwNjhm/YWRmODJhMGU3NTcy/ZjMyMmE0ZWUzNjhh/Mzc2Mjk5ZDdiY2Uz/MjgyMjhlZC90aGVm/cmVlZG9tdGltZXMu/bmV3cy8",
-      "path": "› View.aspx"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› video  › newsfeed  › 2026  › 3  › 7  › huge-fire-rages-at-tehran-oil-depot-after-israeli-attack"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/1jeynFYAl4nB5lUxP2hujvXkScLSUImfKehA-EP6dUA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y29lbndvcmtzLmNv/bS9GaWxlcy8zMTMv/TmV3cy8yMDI2MDMv/NTE2MV8yMDI2MDMw/NzIzMjIwNTIzNS5q/cGc"
+      "src": "https://imgs.search.brave.com/o07dniK0RksJ6wvlHtsDBitSAh9S-_PIEeaAS_773m4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy9zaGVocmFu/X3RlaHJhbl9pcmFu/X29pbF9kZXBvdF9m/aXJlX2lzcmFlbGlf/c3RyaWtlLTE3NzI5/MjU2NjAuanBnP3Jl/c2l6ZT0xOTIwJTJD/MTA4MCZhbXA7cXVh/bGl0eT04MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[뉴스] 美·이스라엘·이란 모두 “공격 앞으로”…트럼프 “쿠르드족 참전 원치 않아” - IT AI Totality",
+    "url": "https://blog.ai.dmomo.co.kr/news/21524",
+    "description": "최근 중동 지역에서는 미국, 이스라엘, 이란 간의 긴장이 최고조에 달하고 있습니다. 세계 정세의 불확실성이 커지는 가운데, 이들 국가의 움직임은 글로벌 안보에 중요한 영향을 미치고 있습니다.",
+    "age": "19 hours ago",
+    "page_age": "2026-03-07T23:15:20",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "blog.ai.dmomo.co.kr",
+      "hostname": "blog.ai.dmomo.co.kr",
+      "favicon": "https://imgs.search.brave.com/2V0j5EGFtt8r0Tf47yNQu1KMhmzVyfEvfk4DU80eVGc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzBlMWFmMDAz/NDMxNTk2MTU1NzNj/YzJkNDJlMmZlNmVj/OWI3NTNhNTcyZDk2/NDBiZTM0YjUzNjJj/MTAxMTQ3ZS9ibG9n/LmFpLmRtb21vLmNv/LmtyLw",
+      "path": "› news  › 21524"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/A0PzWO4hVRsheZV9JkYV78C-1Sw1lNyMXsC5pVL1IsM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LmFpLmRtb21vLmNv/LmtyL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI2LzAzL2YyYjA1/OTEwYTZmMTJkNjhj/YTEwYWNjOTAwZjA0/YTllOTQyZjQwYTE4/ZjdjMDU0NTIzYjJi/NTRiZDc4NzJmNmUu/cG5nLnBuZw"
     }
   },
   {
@@ -742,7 +796,7 @@
     "title": "트럼프, 쿠르드족 또 외면하나…“이란戰 개입 원치않아”",
     "url": "https://www.donga.com/news/Inter/article/all/20260308/133483031/1",
     "description": "트럼프 대통령은 앞선 언론 ... 이란 공격 가능성을 두고 “전적으로 찬성(all for it)한다”고 했다. 트럼프 대통령은 이날 델라웨어주 도버 공군기지에서 미군 장병 유해 귀환식에 참석한 뒤 플로리다로 향하는 에어포스원(전용기) 안에서 기자들에게 “우리는 쿠르드족이 개입하는 것을 원하지 않는다”라고 말했다. 그는 “쿠르드족이 개입하지 않아도 전쟁은 충분히 ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-03-07T23:11:00",
     "meta_url": {
       "scheme": "https",
@@ -757,28 +811,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프의 이란 공격, 환경 재앙 부르나…미사일 ‘독성 연료’ 누출 가능성 - 경향신문",
-    "url": "https://www.khan.co.kr/article/202603080800001/",
-    "description": "CEOBS는 120건의 공습 사례를 확인해 이 가운데 92건의 환경 위험성을 평가했다. 공습 피해는 이란은 물론 이란의 반격 대상이 된 이스라엘, 쿠웨이트, 요르단, 바레인, 카타르, 오만, 사우디아라비아 등에 걸쳐 있었다.",
-    "age": "18 hours ago",
-    "page_age": "2026-03-07T23:00:00",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "www.khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
-      "path": "› article  › 202603080800001"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6aTMrtYFc7p0l1kRX-H7jF-tqRMiQ__Z6x11O79UUuE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MDgvbmV3cy1wLnYx/LjIwMjYwMzA2Ljhm/NTVmZjlmNzUxODQy/ZTJiYmQ4Y2Q4ZTVk/ZDM3OTg5X1AxLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Trump says Iran at fault for strike on girls school - POLITICO",
     "url": "https://www.politico.com/news/2026/03/07/trump-iran-girls-school-strike-00818163",
     "description": "The officials’ comments come ... by the Iranian regime’s Revolutionary Guard. Democratic lawmakers have condemned the strike, which was the highest reported civilian death toll since the war began last week, suggesting the U.S. bears responsibility. Rep. Delia Ramirez (D-Ill.) said on X Friday, “More than 100 innocent school children are dead because of the U.S.’s unlawful attack of Iran,” ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-03-07T22:56:00",
     "meta_url": {
       "scheme": "https",
@@ -793,46 +829,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 “쿠르드족의 이란戰 개입 원하지 않아, 이미 충분히 복잡”",
-    "url": "https://www.chosun.com/international/us/2026/03/08/JBU5W2C27NBLBH6B7OX6NV34QI/",
-    "description": "트럼프 쿠르드족의 이란戰 개입 원하지 않아, 이미 충분히 복잡 이란 공격 전적으로 찬성 기존 입장서 선회 이란 진입 의사 밝혔으나 원하지 않아 거절 표명 도널드 트럼프 미국 대통령은 7일 미국이 주도하는 대對이란 군사 ...",
-    "age": "19 hours ago",
-    "page_age": "2026-03-07T22:15:30",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › us  › 2026  › 03  › 08  › JBU5W2C27NBLBH6B7OX6NV34QI"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/zxaADfK_0wPYTWvSmAHmHTSw5ZakKhhvr-f_u3Rj2ms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyLzRJ/QkFOSzJJUFJMUzNG/MjUyUFpKSjRJV1pJ/LmpwZz9hdXRoPTgz/N2VjNGU3ZjExMDMw/ZWQ5MzIxNzVhMzdj/NzRlMjE3MGZiZmM4/YjM5OTE0ZmQ2ODM5/YWM1OGRhYWEwMGMx/MWMmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates | Military News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates",
-    "description": "Iraq did not want to be dragged into war, but Iran and its aligned paramilitary forces are attacking US hubs there.",
-    "age": "19 hours ago",
-    "page_age": "2026-03-07T22:06:16",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 3  › 7  › us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Krt9ougy_YrcdhmMtAlnjRPBMcpem5fgq0_BJHG3X0o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy9BQS0yMDI2/MDMwNy00MDc2MTMw/NS00MDc2MTMwNC1F/WFBMT1NJT05fU09V/TkRTX0hFQVJEX0lO/X0JBR0hEQUQtMTc3/MjkxMjM4Mi5qcGc_/cmVzaXplPTE5MjAl/MkMxNDQw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 전쟁도…‘드론 전력’ 전쟁 향방 가늠할 핵심 변수 | 서울경제",
     "url": "https://m.sedaily.com/article/20016307",
     "description": "3년 넘게 이어지는 러시아와 ... 맞서는 소모전으로 빠져들고 있다. 이 때문에 이란이 보유한 드론 전력의 규모가 이란 전쟁의 향방을 가늠할 핵심 변...",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-03-07T22:00:00",
     "meta_url": {
       "scheme": "https",
@@ -847,28 +847,10 @@
   },
   {
     "type": "news_result",
-    "title": "America’s military has an Iranian drone problem",
-    "url": "https://thehill.com/policy/defense/5772379-iran-drone-threat-us-allies/",
-    "description": "The U.S. military and its allies across the Middle East are struggling to combat Iran’s swarms of cheap attack drones as the war enters its second week. Pentagon officials this past wee…",
-    "age": "19 hours ago",
-    "page_age": "2026-03-07T22:00:00",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "thehill.com",
-      "hostname": "thehill.com",
-      "favicon": "https://imgs.search.brave.com/3vZRKWe3Z8PDPL7PYg2LbSB-xm9smJxmp7fU8MEj8jA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE3ODFmZDMz/MmVhOTY5M2UxOWU0/N2JjZTQ0ODQ3ZGJi/OGQwNzc0MGJjY2U3/ZTUzOWExMmJjZjkx/NDBhYTVkZS90aGVo/aWxsLmNvbS8",
-      "path": "› policy  › defense  › 5772379-iran-drone-threat-us-allies"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_pVxnYsTLHx7rvZ-Q-vXioBX5tRjz9pdFTWQNhkg13w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVo/aWxsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDIzLzA1LzY0NzMy/YjE4ZTM2YmQ4Ljg3/MjAwODA4LWUxNzcy/ODQxMjQzNDg2Lmpw/ZWc_dz0xMjgw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say | Reuters",
     "url": "https://www.reuters.com/world/middle-east/saudi-has-told-iran-not-attack-it-warns-possible-retaliation-sources-say-2026-03-07/",
     "description": "Saudi Arabia has told Tehran that while it favours a diplomatic settlement to Iran's conflict with the United States, continued attacks on the kingdom and ​its energy sector could push Riyadh to respond in kind, four sources familiar with the matter told Reuters.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-03-07T20:56:16",
     "meta_url": {
       "scheme": "https",
@@ -883,27 +865,27 @@
   },
   {
     "type": "news_result",
-    "title": "이란, '대통령 사과' 몇 시간도 안 지났는데‥걸프국 잇단 공격",
-    "url": "https://imnews.imbc.com/news/2026/world/article/6805665_36925.html",
-    "description": "마수드 페제시키안 이란 대통령이 걸프 국가들에 대한 공격 중단 의사를 밝힌 지 몇 시간 만에 바레인, 아랍에미리트 등이 잇달아 이란의 공격을 받았습니다. AP, AFP, 로이터 통...",
+    "title": "Iran rejects Trump’s demand for unconditional surrender as a ‘dream’ | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/mar/07/iran-trump-unconditional-surrender-war-masoud-pezeshkian",
+    "description": "During his speech, Pezeshkian also issued an apology to neighbouring states for Iran’s recent “actions”, in an apparent attempt to ease regional anger after Iranian strikes hit civilian targets in Gulf Arab countries. Tehran has responded to attacks on its territory by targeting Israel, but ...",
     "age": "1 day ago",
-    "page_age": "2026-03-07T20:23:22",
+    "page_age": "2026-03-07T19:23:39",
     "meta_url": {
       "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› news  › 2026  › world  › article  › 6805665_36925.html"
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › 2026  › mar  › 07  › iran-trump-unconditional-surrender-war-masoud-pezeshkian"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/4PLG6-LzfcvB-NNp-VXJvetR8L3TMb6CMY4tboMaVEY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vbmV3cy8y/MDI2L3dvcmxkL2Fy/dGljbGUvX19pY3NG/aWxlcy9hZmllbGRm/aWxlLzIwMjYvMDMv/MDgvczI2MDMwOF8w/MDA5LmpwZw"
+      "src": "https://imgs.search.brave.com/S1PQs9G3JEKOuFvU9OgYA7_0F0WrDdiKL2rLBIf3Xv0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzJlNzAx/ZTc5MzM4NjFjNGE3/YTBjYTlhYzlkODU4/Y2I1MjNjODVlOTEv/ODQ1XzBfNjM3MV81/MDk3L21hc3Rlci82/MzcxLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz02OTlj/MWViM2E3N2FkNWI1/ZTE3YWMyODhlMDhi/MDIwZA"
     }
   },
   {
     "type": "news_result",
     "title": "New wave of strikes hit Tehran as Netanyahu vows 'many surprises' for next phase of Iran war | PBS News",
     "url": "https://www.pbs.org/newshour/world/new-wave-of-strikes-hit-tehran-as-netanyahu-vows-many-surprises-for-next-phase-of-iran-war",
-    "description": "Iranian state media confirmed the strike on the oil facility as Associated Press video showed the horizon glowing against the night sky. Israel's military confirmed new strikes that shook neighborhoods in Tehran's east and south but did not comment on targets. It appeared to be the first time a civil industrial facility has been targeted in the war. State media blamed \"an attack ...",
+    "description": "DUBAI, United Arab Emirates (AP) — The Iran war exploded further late Saturday as pillars of flame rose above an oil storage facility in Tehran, and Israeli Prime Minister Benjamin Netanyahu promised \"many surprises\" for the next phase of the week-old conflict.",
     "age": "1 day ago",
     "page_age": "2026-03-07T18:50:46",
     "meta_url": {
@@ -933,6 +915,24 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/B3FAG_jRG9ZQb-UjWkeouAQQyTMC05X8ez31foUEA5A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzI2Y2M1/NDNiZDgxMTBiMjlk/ZDk1OThmNTlhMmRm/Mjc0YTA2NGE0YjYv/MzA2XzBfMjA0Ml8x/NjM0L21hc3Rlci8y/MDQyLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz1kNWUw/MGUxZmZjMDFmMTg3/OTdhNDM1Mzk0YmYx/OGQ3NQ"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Shrinking weapon stockpiles and regime-change uncertainty: doubts shadow US-Israel war on Iran | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/mar/07/iran-us-israel-war-regime-change",
+    "description": "Iran rejects Trump’s demand for unconditional surrender as a ‘dream’ ... Despite ongoing negotiations, the US and Israel began bombing Iran last week, during a campaign that assassinated Ayatollah Ali Khamenei and other senior Iranian leaders.",
+    "age": "1 day ago",
+    "page_age": "2026-03-07T17:04:46",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › 2026  › mar  › 07  › iran-us-israel-war-regime-change"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/SvX7XVotEZr_HhRbhx_I5G5LE3XoAIpc_LEmOU-R7eM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzgyYWM5/YTdiMGExMjJkYjRj/ODhmOWQzMTY0YjZl/YjIxZWMzMDk5MzEv/NDIwXzBfMzEwNF8y/NDgzL21hc3Rlci8z/MTA0LmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz03ZWYw/MjBhNmNhMTY4OWJk/N2Q2ZmNlMTYwNjE3/NTNiYQ"
     }
   },
   {
@@ -1009,24 +1009,6 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프, 이란 공격 확대 시사... “오늘 매우 강한 타격 입을 것”",
-    "url": "https://www.chosun.com/international/international_general/2026/03/07/FECXIRNIOZECVKYJDYBGVRRRZM/",
-    "description": "트럼프, 이란 공격 확대 시사... 오늘 매우 강한 타격 입을 것 걸프국에 사과한 이란 향해 중동의 패배자 조롱 도널드 트럼프 미국 대통령이 오늘 이란은 매우 강력한 타격을 입게 될 것이라며 이란을 향한 공격 확대를 시사했다.",
-    "age": "1 day ago",
-    "page_age": "2026-03-07T12:19:53",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 03  › 07  › FECXIRNIOZECVKYJDYBGVRRRZM"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/T37h-I6I7OHxIAGmAE-1V0hUjY410-Tn3osVBRPyoY0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL1pJ/V1VFVUwzS0pFTkJE/TDNSWENISVU3Q0ZF/LmpwZz9hdXRoPTA3/ODViNzhjMjllYjAx/ZTU0NjEyOGU0MDZl/Yjc4YmI5MjE5ZTM4/ZDdhM2I5ZWZlMWVh/YzUxNWVlZmYyODFk/ZDgmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Live Updates: Iran backs off regional strikes unless provoked, mocks Trump's surrender demand | Fox News Digital",
     "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-7",
     "description": "Trump said Pezeshkian's apology and promise to stop attacking neighboring countries only comes because of the \"relentless U.S. and Israeli attack.\" He mocked Iran as the \"loser of the Middle East\" and said the regime \"will be hit very hard\" Saturday as a result of \"Iran's bad behavior.\"",
@@ -1045,63 +1027,45 @@
   },
   {
     "type": "news_result",
-    "title": "이란, 걸프국 공격 멈춘다... 트럼프 ‘항복’ 요구엔 거절",
-    "url": "https://www.chosun.com/international/international_general/2026/03/07/3FZE4S76XJBHPGJU5TLO63OQ3U/",
-    "description": "이란, 걸프국 공격 멈춘다... 트럼프 항복 요구엔 거절 마수드 페제시키안 이란 대통령이 주변국들에 대한 공격 중단 방침을 밝히면서 사과했다. 이란은 미국과 이스라엘의 공습을 받은 뒤 보복 성격으로 걸프 지역 국가들을 ...",
+    "title": "What the U.S. and Israel Have Targeted in Their Iran Blitz - The New York Times",
+    "url": "https://www.nytimes.com/2026/03/07/world/middleeast/us-israel-targets-iran.html",
+    "description": "The waves of bombings reveal a broad effort to ravage the country’s leadership and security services.",
     "age": "1 day ago",
-    "page_age": "2026-03-07T11:17:09",
+    "page_age": "2026-03-07T10:01:10",
     "meta_url": {
       "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 03  › 07  › 3FZE4S76XJBHPGJU5TLO63OQ3U"
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 03  › 07  › world  › middleeast  › us-israel-targets-iran.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/qw4lDemyLT2qmcM9uMKlV6aUmsJKUPzHVPM71qyQfWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0dE/UDc3VlFOTVJQS0ZM/VExHSTVCNFNaQktV/LmpwZz9hdXRoPTMw/ZjhjMTVjZDUxOGEw/NjViOWVlYTQwNDE4/YTlhOWZkZjJjNmRk/N2Y3ODQ3NmQ0ZGI3/N2NhMjI0MGY2Zjky/OGMmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
+      "src": "https://imgs.search.brave.com/L6nbFLYEosJpR66DAOZfPbgO8P8W5iJ7mAzEERIkKDo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzAzLzA2L211bHRp/bWVkaWEvMjAyNi0w/My0wNC1pcmFuLXdh/ci1hY2hpZXZlbWVu/dHMtaW5kZXgvMjAy/Ni0wMy0wNC1pcmFu/LXdhci1hY2hpZXZl/bWVudHMtaW5kZXgt/ZmFjZWJvb2tKdW1i/by12NC5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "이란 대통령, 걸프국에 사과…“공격 중단안 승인, 중동 국가에 적대 없어” - 경향신문",
-    "url": "https://www.khan.co.kr/article/202603071835001",
-    "description": "AFP·AP 등 외신에 따르면 페제시키안 대통령은 이날 국영TV 연설에서 “임시 지도자위원회가 이웃 국가들이 이란을 공격하지 않는 한 이들 국가에 대한 공격을 중단하는 안을 승인했다”고 밝혔다.",
+    "title": "Trump warns Iran 'will be hit very hard' as war enters second week : NPR",
+    "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+    "description": "The American-Israeli military campaign set off a series of attacks and counterattacks that have hit or threatened several Gulf nations. The conflict also triggered political tensions and economic upheaval, drawing in countries far beyond the Middle East. ... More than 1,300 people in Iran have ...",
     "age": "1 day ago",
-    "page_age": "2026-03-07T09:35:00",
+    "page_age": "2026-03-07T10:00:00",
     "meta_url": {
       "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "www.khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
-      "path": "› article  › 202603071835001"
+      "netloc": "npr.org",
+      "hostname": "www.npr.org",
+      "favicon": "https://imgs.search.brave.com/Y1l6Dzd6VM4_ltfNpwB9Esia4wtA5Fyy600GWlxTPcY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8",
+      "path": "› 2026  › 03  › 07  › nx-s1-5739242  › iran-war-oil-trump-israel-spain-economy-one-week"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/8Bzsn3ubXhj0nFa4tmJhbvhTT7aJlxU2KiCZKsvKRYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MDcvcmN2LllOQS4y/MDI2MDMwNy5QQUYy/MDI2MDMwNzE3MDcw/MTAwOV9QMS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국 \"최대 규모 폭격 단행\"‥테헤란 곳곳 폭발음",
-    "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6805632_37004.html",
-    "description": "백악관은 앞으로 4주에서 ... 보도합니다. ◀ 리포트 ▶ 이란 수도 테헤란의 메흐라바드 국제공항 주변으로 거센 불길이 치솟습니다. 메흐라바드 공항의 방공 시스템 등이 미사일 공격을 받은 걸로 추정됩니...",
-    "age": "1 day ago",
-    "page_age": "2026-03-07T09:03:55",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› replay  › 2026  › nwdesk  › article  › 6805632_37004.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/k1ZY0MOOQh3cFWWQ3_oUOmYZ6vLkqd6u__PZYvrAElM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbndkZXNr/L2FydGljbGUvX19p/Y3NGaWxlcy9hZmll/bGRmaWxlLzIwMjYv/MDMvMDcvZGVza18y/MDI2MDMwN18xODAz/MjJfMV8xX0xhcmdl/LmpwZw"
+      "src": "https://imgs.search.brave.com/Ys_bKEk-ebXkDXoN_msw9qrXkQ2n_QI6Mo6LCN4ZKaA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ucHIu/YnJpZ2h0c3BvdGNk/bi5jb20vZGltczMv/ZGVmYXVsdC9zdHJp/cC9mYWxzZS9jcm9w/LzEzNzR4NzczKzc2/KzE1Mi9yZXNpemUv/MTQwMC9xdWFsaXR5/Lzg1L2Zvcm1hdC9w/bmcvP3VybD1odHRw/JTNBJTJGJTJGbnBy/LWJyaWdodHNwb3Qu/czMuYW1hem9uYXdz/LmNvbSUyRmM4JTJG/MWQlMkY1MzE1Mjhj/ZDQ5ZjliYzNlZmE0/MWVjZmFlMzM1JTJG/NGFwZjMtb25lLXdl/ZWstaW4tdGhlLWVm/ZmVjdHMtb2YtdGhl/LXUtcy1pc3JhZWwt/d2FyLW9uLWlyYW4t/aW4tdGhlLW1pZGRs/ZS1lYXN0LnBuZw"
     }
   },
   {
     "type": "news_result",
     "title": "[국제]이스라엘 \"파상 공습\"...이란, 예루살렘·텔아비브에 반격 | YTN",
     "url": "https://www.ytn.co.kr/_ln/0104_202603071759032035",
-    "description": "눈앞에서 벌어진 미사일 공방…중동 전쟁 8일째 / YTN 취재진, 이스라엘 쪽으로 날아가는 미사일 포착 / 요르단 상공에 미사일 날아���자 즉시 공습경보 / 이란 쪽으로 날아...",
+    "description": "눈앞에서 벌어진 미사일 공방…중동 전쟁 8일째 / YTN 취재진, 이스라엘 쪽으로 날아가는 미사일 포착 / 요르단 상공에 미사일 날아가자 즉시 공습경보 / 이란 쪽으로 날아...",
     "age": "1 day ago",
     "page_age": "2026-03-07T08:59:00",
     "meta_url": {
@@ -1119,7 +1083,7 @@
     "type": "news_result",
     "title": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian | US-Israel war on Iran News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/3/7/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian",
-    "description": "Arab states in the Gulf and beyond that house US assets have been targeted in Iranian retaliatory strikes in the war.",
+    "description": "Iran’s President Masoud Pezeshkian said neighbouring countries will no longer be targeted unless an attack originates from there, as the war launched by the United States and Israel, which triggered sustained retaliation from Tehran across the Gulf and beyond, enters its second week.",
     "age": "1 day ago",
     "page_age": "2026-03-07T08:25:01",
     "meta_url": {
@@ -1131,24 +1095,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/ZrjHV6z_Blht6DQ2oRc1WK5AqrN5qRhYnlgoOB38GRs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy8yMDI2LTAz/LTA2VDAzMjIyNlpf/MTIwNTQwMzA2Nl9S/QzJRWUpBSVZKV1hf/UlRSTUFEUF8zX0lS/QU4tQ1JJU0lTLUdV/TEYtQkFIUkFJTi0x/NzcyNzkwMzM5Lmpw/Zz9yZXNpemU9MTky/MCUyQzE0NDA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "에미리트 항공, 이란 공격에 두바이 이착륙 항공편 운항 중단",
-    "url": "https://www.chosun.com/international/international_general/2026/03/07/URNPXKYT3JB6NMVZBLVRZXMNSA/",
-    "description": "에미리트 항공, 이란 공격에 두바이 이착륙 항공편 운항 중단 에미리트 항공이 인천-두바이 이착륙 항공편 운항을 잠정적으로 중단한다고 7일 밝혔다. 이날 에미리트 항공 측은 영공이 제한적이라 축소된 운항 스케줄로 ...",
-    "age": "1 day ago",
-    "page_age": "2026-03-07T08:03:36",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 03  › 07  › URNPXKYT3JB6NMVZBLVRZXMNSA"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/GeGqCfl2Nho8Y8FYR9l_az58uo21WGiOoDnWTZF5XIQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL01K/UkRJT0xCSEJTRElN/M0JNRTJEU04zREdJ/LmpwZz9hdXRoPWVh/ZjUxNzk5OTI3MTFk/Y2U0YzFhMjA1MDQw/YTdkODI2MTIzOTJj/ODk5MzA5OWVlOGM1/OGIwM2ZhMGE3NjFm/YjkmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
     }
   },
   {
@@ -1171,6 +1117,24 @@
   },
   {
     "type": "news_result",
+    "title": "Tehran pounded in week two of US-Israel war, Iran targets Israel | Conflict News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/3/7/tehran-pounded-in-week-two-of-us-israel-war-iran-targets-israel",
+    "description": "Explosions shake Iran as US-Israel attacks intensify, marking eight days of conflict and retaliation from Iran.",
+    "age": "1 day ago",
+    "page_age": "2026-03-07T07:02:48",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › 2026  › 3  › 7  › tehran-pounded-in-week-two-of-us-israel-war-iran-targets-israel"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/corzbUL_OFdwxarRVPRriXkk8fgKVdhOTqrKJrIBs7A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy9BRlBfXzIw/MjYwMzA2X19BMjdL/NFVBX192NV9fSGln/aFJlc19fSXJhblVz/SXNyYWVsV2FyLTE3/NzI4NDAyNDYuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Live Updates: Strikes Across Iran With No Compromise in Sight - The New York Times",
     "url": "https://www.nytimes.com/live/2026/03/07/world/iran-war-trump-israel-lebanon",
     "description": "Iran’s Revolutionary Guards said in a statement a few hours later that it had launched another wave of attacks on American and Israeli targets, including ballistic missile attacks on Haifa, Israel, and drone attacks on Dubai’s marina area.",
@@ -1189,10 +1153,28 @@
   },
   {
     "type": "news_result",
+    "title": "Iran war: What is happening on day eight of US-Israel attacks? | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/3/7/iran-war-what-is-happening-on-day-eight-of-us-israel-attacks",
+    "description": "At least 1,332 people have been reported killed in US-Israeli attacks on Iran since launch of war on February 28.",
+    "age": "2 days ago",
+    "page_age": "2026-03-07T05:32:59",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › 2026  › 3  › 7  › iran-war-what-is-happening-on-day-eight-of-us-israel-attacks"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/NM81gK5vIlWrWIlweIZtyPyaIOp9jLQCFs63-azdulE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy8yMDI2LTAz/LTA0VDEwNTQyMVpf/NTIxNjAxNjg1X1JD/MjFYSkFFNUJaUV9S/VFJNQURQXzNfSVJB/Ti1DUklTSVMtMTc3/Mjg0NjIzOC5qcGc_/cmVzaXplPTE5MjAl/MkMxNDQw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "2026년 중동 위기 - 나무위키",
     "url": "https://namu.wiki/w/2026%EB%85%84%20%EC%A4%91%EB%8F%99%20%EC%9C%84%EA%B8%B0",
     "description": "2026년 1월 13일 부터 시작된 미국 과 이란 간의 갈등과 전쟁 위기. 경과 2025년 12월 이란과 미",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-03-07T05:22:05",
     "meta_url": {
       "scheme": "https",
@@ -1209,7 +1191,7 @@
     "type": "news_result",
     "title": "Trump rejects settling war with Iran, raises notion of eliminating all its potential leaders | Reuters",
     "url": "https://www.reuters.com/world/middle-east/iran-war-enters-second-week-trump-demands-unconditional-surrender-2026-03-07/",
-    "description": "He dismissed Trump's demand for the Islamic Republic's unconditional surrender as \"a dream\", but said its temporary leadership council had ​agreed to suspend attacks on nearby states unless strikes on Iran originated from their territory.",
+    "description": "Speaking to reporters aboard Air ... leaders of Iran ‌are killed and the Iranian military is destroyed. Sign up here. \"At some point, I don't think there will be anybody left maybe to say 'We surrender,'\" Trump said. Israel and Iran traded numerous attacks on Saturday ...",
     "age": "2 days ago",
     "page_age": "2026-03-07T02:55:36",
     "meta_url": {
@@ -1221,24 +1203,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/qhhL2jvgPr8tQetbn2Tj2oU22uuqYU-IKHnRjwiZ5FU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi81/QjY3M0VBVFlWTk9Y/TUxYRTVMUlEyRTZT/RS5qcGc_YXV0aD1h/NDE5ZDNlNWM1OTI4/MDE2NGM3Yjk0MjI4/MmI5OWM4MTgwMGJk/YWY4MjNjNjM4MTE3/ZGVjNzI2Y2E4MTE3/ZWYyJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "러시아, 美·이란 전쟁 관여했나…미 군함·항공기 위치정보 제공 정황 - 매일경제",
-    "url": "https://www.mk.co.kr/news/world/11981593",
-    "description": "최근 이란 공격양상 정교해져“이스라엘 전쟁 때보다 강화”",
-    "age": "2 days ago",
-    "page_age": "2026-03-07T01:19:44",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "www.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
-      "path": "› news  › world  › 11981593"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/B6FDGreOYW23glZa-WECSm3qbPetnAd0KNa9fEWqmMY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/My8wNy9yY3YuWU5B/LjIwMjYwMzAzLlBB/RjIwMjYwMzAzMDA4/NjAxMDA5X1IuanBn"
     }
   },
   {
@@ -1257,6 +1221,24 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/GtU13_gB2JnhmvO-Th_8JIL7AqVnqyDw9JDGAT93cMc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMy8yMDI2LTAz/LTA3VDE5MzMxMFpf/MTE4OTUxMDM0N19S/QzJVWkpBOU9XQVRf/UlRSTUFEUF8zX0lS/QU4tQ1JJU0lTLTE3/NzI5MTUzNjguanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Live updates: Oil storage facility hit in Tehran as US and Israel vow more attacks",
+    "url": "https://apnews.com/live/iran-war-israel-trump-03-07-2026",
+    "description": "Several airstrikes hit neighborhoods in Tehran’s east and southwest Saturday night as Israel’s military confirmed a new wave of attacks. They came after U.S. President Donald Trump warned in a Truth Social post that more Iranian officials will be targets, saying, “Today Iran will be hit ...",
+    "age": "2 days ago",
+    "page_age": "2026-03-07T00:00:00",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "apnews.com",
+      "hostname": "apnews.com",
+      "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+      "path": "› live  › iran-war-israel-trump-03-07-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/cd15KdpOLgUbOY42SQQsi4Tpl_bfT2C2zdrIWMYdWY8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9mZWE5M2EzLzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/LzYwMDB4Mzk5OCsw/KzEvcmVzaXplLzk4/MHg2NTMhL3F1YWxp/dHkvOTAvP3VybD1o/dHRwcyUzQSUyRiUy/RmFzc2V0cy5hcG5l/d3MuY29tJTJGMGIl/MkY5NyUyRmIxNzY4/NGE4NDcxZWEwMWMy/MjIwMmFkYWVhNDIl/MkZhcDI2MDY1Mzkx/MDY5ODUwLmpwZw"
     }
   }
 ]
