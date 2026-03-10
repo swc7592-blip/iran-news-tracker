@@ -22,7 +22,7 @@
     "title": "Stockplus",
     "url": "https://newsroom.stockplus.com/breaking-news/10713",
     "description": "미국 CBS는 미 정보당국이 이란이 호르무즈 해협 항로에 기뢰를 설치하는 징후를 포착했다고 보도했다.",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-03-10T18:26:17",
     "meta_url": {
       "scheme": "https",
@@ -37,7 +37,7 @@
     "title": "이란, 호르무즈 해협 기뢰 배치 가능성 제기",
     "url": "https://bloomingbit.io/feed/news/107657",
     "description": "이란이 호르무즈 해협에 해상 기뢰를 배치할 준비를 하고 있다는 미국 정보당국의 평가가 제기됐다. 10일(현지시간) 월터 블룸버그에 따르면 미국 정보당국은 이란이 소형 선박을 이용해 호르무즈 해협에 기뢰를 설치할 ...",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-03-10T18:24:16",
     "meta_url": {
       "scheme": "https",
@@ -106,10 +106,28 @@
   },
   {
     "type": "news_result",
+    "title": "[속보] “이스라엘 체류 한국인 등 39명, 이집트로 대피” - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10691347",
+    "description": "[헤럴드경제=김주리 기자] 이스라엘에 체류하던 한국인 등 39명이 추가로 이집트로 대피했다. 11일 외교부에 따르면 이란 체류 한국인 38명과 미국 국적 동포 1명 등 일행은 10일(현지시간) 오전 예루살렘에서 출발했으며, 정부 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-03-10T13:45:23",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10691347"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/9F7xF6ef1uBetqeNfm_9IR289g3ZFDIbXTaz-Gjb9U0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDMvMTAv/bmV3cy1wLnYxLjIw/MjYwMzEwLmY4Yjc4/NmNmNDU1NTQ4ZWY5/ZjAzMDZiMzY2OTBl/YzY5X1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美국방 “오늘 이란 공습 가장 격렬할 것…전투기·폭격기 최대 투입”",
     "url": "https://www.donga.com/news/Inter/article/all/20260310/133504648/2",
     "description": "헤그세스 장관은 이날 미국 국방부 청사에서 댄 케인 합동참모본부 의장과 함께 기자회견을 열고 “가장 많은 전투기와 폭격기가 동원돼 가장 많은 공격을 할 것”이라며 이같이 말했다. 그는 “이란은 고립됐으며 패배하고 ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-03-10T13:19:00",
     "meta_url": {
       "scheme": "https",
@@ -120,24 +138,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Oha4JmSJoga7CpExNTfN7OvrYlw8W_mRFVSvOKQaPMw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzAzLzEw/LzEzMzUwNDY1MS4y/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美국방 \"오늘 이란공습 가장 격렬…전투기·폭격기 최대 배치\" | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25410717",
-    "description": "피트 헤그세스 미국 전쟁부(국방부) 장관은 대(對)이란 군사작전 11일차인 10일(현지시간) “오늘은 이란에 대한 공격이 가장 격렬한 날이 될 것”이라고 말했다.",
-    "age": "10 hours ago",
-    "page_age": "2026-03-10T13:06:23",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25410717"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/M5l2cIp-2KsHCsXDMGZYT5BooHMZrswE5XBPGQC6ggI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDMvMTAvNmMz/ZDZlY2UtMDM0MS00/YWJiLWE3MGYtOTE4/ZGY4ZjE2YjNhLmpw/Zw"
     }
   },
   {
@@ -180,7 +180,7 @@
     "type": "news_result",
     "title": "이스라엘과 미군, 이란 공항 공격…연료 저장소 방화 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/03/10/59419.html",
-    "description": "3월 10일 아침, 이란 케르만 공항 인근에서 연쇄 폭발이 발생했습니다. 현지 언론은 현장에서 검은 연기가 치솟는 것을 목격했다고 보도했는데, 연료 저장소에 불이 붙은 것으로 알려졌습니다. 주 안보 담당 부지사는 타스님 통신에 이번 공격이 미국과 이스라엘의 ...",
+    "description": "이란에 대한 '에픽 퓨리 작전' 열흘째 되는 날, 미 국방부는 관례대로 민간 기반 시설을 군사 목표물로 간주하고 또다시 공격했습니다. 3월 10일 아침, 이란 케르만 공항 인근에서 연쇄 폭발이 발생했습니다.",
     "age": "10 hours ago",
     "page_age": "2026-03-10T12:35:00",
     "meta_url": {
@@ -253,7 +253,7 @@
     "title": "\"이스라엘, 이란 휴전해도 헤즈볼라 작전 계속할 준비\" | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260310194200085",
     "description": "(런던=연합뉴스) 김지연 특파원 = 이스라엘이 이란과 전쟁이 끝나도 레바논 친이란 무장정파 헤즈볼라에 대한 작전은 계속될 것으로 보고 이를 준비...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-10T11:07:58",
     "meta_url": {
       "scheme": "https",
@@ -358,10 +358,28 @@
   },
   {
     "type": "news_result",
+    "title": "튀르키예, 이란 위협에 패트리엇 추가 배치 | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260310178900108",
+    "description": "전날 미국 일간 워싱턴포스트는 미국 전쟁부가 한국에 배치된 사드 중 일부를 중동 지역으로 이동시키고 있다고 미국 관리들을 인용해 보도했다. WP는 미군이 이란의 드론 및 탄도 미사일 공격에 대한 방어 태세를 강화하기 ...",
+    "age": "14 hours ago",
+    "page_age": "2026-03-10T08:43:35",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260310178900108"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8et9BpSn8F-Ev5qotf95GT9DSPF5sCEroquhkaLgSx4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcy/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMTQvMDQvMjcv/UEVQMjAxNDA0Mjcx/MTExMDEwMzRfUDQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란전쟁 여파 유가 급등에…휴전 서두르는 트럼프, 중재 나선 푸틴 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25410665",
     "description": "이날 로이터통신 등에 따르면 푸틴 대통령은 이날 트럼프 대통령과 약 1시간 동안 전화 통화를 갖고 이란 전쟁 종식 방안을 논의했다. 트럼프 대통령 휴전을 서두르고 각국이 중재를 위해 발 빠르게 나선 배경엔 이란 사태 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-03-10T08:14:06",
     "meta_url": {
       "scheme": "https",
@@ -372,6 +390,24 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Grz1C0UIPn7g-sVvcSXv5-FcDoqLzotBhJhBVDx4fR8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDMvMTAvNTky/NGQ2YTMtOGY1MC00/NWYzLTg4ZjAtMTRm/ZTk3NTgzYzFhLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이스라엘 방위군(IDF)은 또다시 도로에 그려진 이란 전투기를 \"공격\"하는 퍼포먼스를 벌였습니다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/russia/2026/03/10/59393.html",
+    "description": "이스라엘군 사령부의 발표에 따르면, 이스라엘 방위군(IDF) 공군은 중동 분쟁 발발 이후 이란 군용 공항 6곳을 공격했다고 합니다. 그러나 IDF의 \"성공적인 공격\" 중 일부는 실제로는 활주로에 전투기와 공격 헬리콥터를 그려놓은 ...",
+    "age": "15 hours ago",
+    "page_age": "2026-03-10T07:36:37",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› russia  › 2026  › 03  › 10  › 59393.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/oq9LQSFD9o0mQa2ilj76VxxXmWZiTYfmuv8rw3H-rZI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwMzEwLzVlODNi/NTQ2MDMyOTUzOTU1/ZDQzZDU2ZjI2MzQ0/ZTVlX28uanBn"
     }
   },
   {
@@ -397,7 +433,7 @@
     "title": "함께 시작했지만…美-이스라엘, 종전시점·표적 '미묘한 균열' | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260310156800009",
     "description": "이란 전역에 미사일과 드론 공격을 퍼부으며 전 최고지도자 아야톨라 세예드 알리 하메네이 제거에 성공한 미국과 이스라엘이 전쟁 발발 10일만에 종전 시점, 목표, 공격 대상 등을 놓고 입장차를 노출하기 시작했다.",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-03-10T07:18:59",
     "meta_url": {
       "scheme": "https",
@@ -484,28 +520,10 @@
   },
   {
     "type": "news_result",
-    "title": "미국, 주한미군 사드 일부 중동 이동…이란 보복 대비 방공망 재배치 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10691066",
-    "description": "[헤럴드경제=서지연 기자] 미국 국방부가 한국에 배치된 사드(THAAD·고고도 미사일 방어체계) 일부를 중동 지역으로 이동시키고 있는 것으로 전해졌다. 미·이스라엘과 이란 간 전쟁이 이어지는 가운데 이란의 보복 공격 ...",
-    "age": "17 hours ago",
-    "page_age": "2026-03-10T05:54:47",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10691066"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lG6TIO78dS3TXaCluq1z0Hph8pazX1lmJvMi4zbCSJg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDMvMTAv/cmN2LllOQS4yMDI2/MDMwNS5QWUgyMDI2/MDMwNTE2MTEwMDA1/MzAwX1QxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 전쟁 이틀 만에 8조 쓴 美... “주한미군 사드도 중동으로”",
     "url": "https://www.chosun.com/international/international_general/2026/03/10/PAZGQEYLSBEQ5HX4SF2QAD6VYE/",
     "description": "이란 전쟁 이틀 만에 8조 쓴 美... 주한미군 사드도 중동으로 美 WP 보도 이란 사태 장기화 대비한 예방적 차원 이란과 전쟁을 이어가고 있는 미국이 주한미군에 배치된 고고도미사일방어체계THAAD·사드 전력 일부를 중동으로 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-03-10T05:25:02",
     "meta_url": {
       "scheme": "https",
@@ -523,7 +541,7 @@
     "title": "이란, 바레인 주둔 미군 숙소에 드론 공격 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/03/10/59373.html",
     "description": "이란은 바레인 마나마의 호텔 공격이 그곳에 미군이 주둔하고 있었기 때문에 자행되었다고 주장합니다.영상에는 대형 호텔 건물이 폭격을 받은 모습이 담겨 있습니다. 무인 항공기 샤헤드처럼 드론은 아무런 저항 없이 ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-03-10T04:17:23",
     "meta_url": {
       "scheme": "https",
@@ -552,24 +570,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/rjbxGq6AEzAw1zle54PZeGWPioltN9pM99mw6i_VYaM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwMy8x/MC9mbm5ld3NpLzIw/MjYwMzEwMTMyNTI2/ODQwYWxmai5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프, 전쟁 '꽤 빨리 끝날 것' … 다만 우리는 '충분히 이기지 않았다' - BBC News 코리아",
-    "url": "https://www.bbc.com/korean/articles/cly2ednmxldo",
-    "description": "앞서 트럼프 대통령은 \"이번 ... 이란에 대한 미국의 작전이 곧 종료될 수 있음을 시사한 바 있다. 아울러 이날(9일) 트럼프 대통령은 BBC의 미국 현지 파트너인 CBS 뉴스와의 인터뷰에서 미국의 성과가 \"예정보다 앞서 있다\"고 언급했으나, 이전에는 이번 전쟁이 몇 주간 지속될 수 있다고 언급한 적 있다. 한편 이스라엘은 이란을 ...",
-    "age": "1 day ago",
-    "page_age": "2026-03-10T01:07:48",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "www.bbc.com",
-      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
-      "path": "› korean  › articles  › cly2ednmxldo"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6Il0doa5aceB2Ci9U1Ipte7qCDq3AgLdp5HOb8VEI5s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX2tvcmVh/bi82YmVhL2xpdmUv/OWMzMDU3OTAtMWMx/OS0xMWYxLTkxMjAt/YTkxMGZjMjJjNmFj/LmpwZw"
     }
   },
   {
@@ -664,24 +664,6 @@
   },
   {
     "type": "news_result",
-    "title": "미군 ”초등학교 폭격했다” 학생 사망자 수백 명 끝까지 부인하는 트럼프 | 오버히트",
-    "url": "https://view.mk.co.kr/car-tech/article/210195/",
-    "description": "미국과 이스라엘의 이란 공습 첫날인 지난달 28일, 이란 남부 호르모즈간주 미나브의 샤자라 타예바 여자초등학교가 폭격당해 최소 165명에서 최대 182명의 학생들이 사망했다. 공격 주체를 둘러싼 책임 공방이 거세게 이어지는 ...",
-    "age": "1 day ago",
-    "page_age": "2026-03-09T15:12:37",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "view.mk.co.kr",
-      "hostname": "view.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/s_s0lAoEWYYqL7EttfDFZJcfH0E983-Yr07xm1m1WQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQ5NzhmZDA2/ZTJlYTVjOTk2ZDky/ZDE4NDI3ZmJjYzcz/YjYwNzIzM2FiNmNj/MmNlYTljYzA0Mzc1/YjE4OWFjMC92aWV3/Lm1rLmNvLmtyLw",
-      "path": "› car-tech  › article  › 210195"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VR4ug-7nbjuKZdYBPu6rKXKC1saxTldESSHjkUJ942w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/dmlldy5tay5jby5r/ci9ta3ZpZXcvMjAy/Ni8wMy8xMDAwMTMx/MC9DUC0yMDI1LTAx/MDMtMzU1NDU1Njct/dGh1bWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "”UAE 결국 참다가 터졌다.” 한국 무기로 이란 본토 타격한 아랍에미리트 | 오버히트",
     "url": "https://view.mk.co.kr/car-tech/article/210191/",
     "description": "걸프국 최초 이란 본토 직접 타격 이스라엘 주요 매체들이 UAE가 이란 해수담수화 시설을 전격 공격했다고 보도하며 중동 전쟁 양상이 급변했다.예디오트아흐로노트는 UAE 공군이 호르무즈 해협 게슘섬의 핵심 담수화 플랜트 ...",
@@ -720,7 +702,7 @@
     "type": "news_result",
     "title": "한 번도 공습안한 ‘이란의 아킬레스건’… 美, 특수부대 투입 작전?",
     "url": "https://chosun.com/international/international_general/2026/03/09/2TQYICW5SFE6JC3KA77YHYRA3Y",
-    "description": "한 번도 공습안한 이란의 아킬레스건 美, 특수부대 투입 작전 이란 석유 수출의 90%가 통과하는 최대 터미널 위치한 작은 섬 파괴 시, 이란 경제 무너지는 아킬레스腱 미 특수부대가 제한된 작전으로 장악하는 방안도 거론돼",
+    "description": "한 번도 공습안한 이란의 아킬레스건 美, 특수부대 투입 작전 이란 석유 수출의 90%가 통과하는 최대 터미널 위치한 작은 섬 파괴 시, 이란 경제 무너지는 아킬레스腱 미 특수부대가 제한된 작전으로 장악하는 방안도 ���론돼",
     "age": "2 days ago",
     "page_age": "2026-03-09T08:46:56",
     "meta_url": {
@@ -754,6 +736,42 @@
   },
   {
     "type": "news_result",
+    "title": "“호르무즈해협 봉쇄, 세계는 어디서 석유를 구해야 할까” - 경향신문",
+    "url": "https://www.khan.co.kr/article/202603091710001/",
+    "description": "미국과 이스라엘의 공격 이후 이란 혁명수비대가 원유 수송의 요충지인 호르무즈 해협을 사실상 봉쇄하면서 세계 유가가 급등하고 있다. 호르무즈 해협 봉쇄가 장기화되면 세계의 에너지 공급 안정성은 심각하게 위협받게 ...",
+    "age": "2 days ago",
+    "page_age": "2026-03-09T08:10:00",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "khan.co.kr",
+      "hostname": "www.khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
+      "path": "› article  › 202603091710001"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/OBoL4m40apmqiH_HzEcRAjTLwrCj4Bu0kr8ryTfN0DY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MDkvbmV3cy1wLnYx/LjIwMjYwMzA5LjAy/NjhiODVlODNlMTRh/Mjk5ZTUxNTFhZmVh/ODkzMmFiX1AxLmpw/ZWc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“누가 석유시설 폭격하래!”… 美, 이스라엘 방식에 경악",
+    "url": "https://chosun.com/international/international_general/2026/03/09/4H6N3HZSO5EINHZQL72ZQSMRNA",
+    "description": "누가 석유시설 폭격하래 美, 이스라엘 방식에 경악 대체 무슨 짓이냐 트럼프도 불만 표출 외신 전쟁 발발 후 첫 의견 불일치 이스라엘이 이란 석유 저장고 30곳을 무차별 공습하자, 미국 행정부 내에서 불만이 터져 나온 것으로 ...",
+    "age": "2 days ago",
+    "page_age": "2026-03-09T07:48:13",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "chosun.com",
+      "hostname": "chosun.com",
+      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
+      "path": "› international  › international_general  › 2026  › 03  › 09  › 4H6N3HZSO5EINHZQL72ZQSMRNA"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yCIP7q9zTXSK_DncSaT8-3VZggnf3WlHxwXCupNway0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0tQ/WFdIVDREVUZCVTdK/TTVOSDNaRVFMV1hV/LmdpZj9hdXRoPTRi/OGUzODI1NDU0YmQw/YTMzY2UxMzMyZDcz/MzBiY2ZlNjY5ZDU3/MzdiOTc4ZTBlYzNk/ZTNlMjk2ZjA5NDc0/NjMmYW1wO3dpZHRo/PTQ4MCZhbXA7aGVp/Z2h0PTI1MiZhbXA7/Zm9jYWw9MjU0LDE0/Mw.jpeg"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "“누가 석유시설 폭격하래!”… 美, 이스라엘 방식에 경악",
     "url": "https://www.chosun.com/international/international_general/2026/03/09/4H6N3HZSO5EINHZQL72ZQSMRNA/",
     "description": "누가 석유시설 폭격하래 美, 이스라엘 방식에 경악 대체 무슨 짓이냐 트럼프도 불만 표출 외신 전쟁 발발 후 첫 의견 불일치 이스라엘이 이란 석유 저장고 30곳을 무차별 공습하자, 미국 행정부 내에서 불만이 터져 나온 것으로 ...",
@@ -772,27 +790,9 @@
   },
   {
     "type": "news_result",
-    "title": "“누가 석유시설 폭격하래!”… 美, 이스라엘 방식에 경악",
-    "url": "https://chosun.com/international/international_general/2026/03/09/4H6N3HZSO5EINHZQL72ZQSMRNA",
-    "description": "누가 석유시설 폭격하래 美, 이스라엘 방식에 경악 대체 무슨 짓이냐 트럼프도 불만 표출 외신 전쟁 발발 후 첫 의견 불일치",
-    "age": "2 days ago",
-    "page_age": "2026-03-09T07:48:13",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "chosun.com",
-      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
-      "path": "› international  › international_general  › 2026  › 03  › 09  › 4H6N3HZSO5EINHZQL72ZQSMRNA"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/yCIP7q9zTXSK_DncSaT8-3VZggnf3WlHxwXCupNway0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0tQ/WFdIVDREVUZCVTdK/TTVOSDNaRVFMV1hV/LmdpZj9hdXRoPTRi/OGUzODI1NDU0YmQw/YTMzY2UxMzMyZDcz/MzBiY2ZlNjY5ZDU3/MzdiOTc4ZTBlYzNk/ZTNlMjk2ZjA5NDc0/NjMmYW1wO3dpZHRo/PTQ4MCZhbXA7aGVp/Z2h0PTI1MiZhbXA7/Zm9jYWw9MjU0LDE0/Mw.jpeg"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 전쟁 충격 확산 … 유가 배럴당 110달러 돌파 및 증시 급락 - BBC News 코리아",
     "url": "https://www.bbc.com/korean/articles/ce3g787yy1lo",
-    "description": "에너지 공급에 심각한 차질이 빚어지면 전 세계 소비자와 기업의 가격 부담이 커질 수 있다.",
+    "description": "미국-이스라엘과 이란 간 전쟁 격화로 호르무즈 해협을 통한 중동 원유 공급 차질이 장기화될 것이라는 우려가 커지면서 국제유가는 9일(현지시간) 배럴당 110달러(약 16만원)를 넘어섰고, 증시는 급락했다.",
     "age": "2 days ago",
     "page_age": "2026-03-09T07:00:59",
     "meta_url": {
