@@ -1,6 +1,24 @@
 [
   {
     "type": "news_result",
+    "title": "[송두율 칼럼]선택된 전쟁, 생존의 전쟁 - 경향신문",
+    "url": "https://www.khan.co.kr/article/202603102005005/",
+    "description": "이란서 시작된 이번 충돌은 단순한 중동 지역 분쟁이 아니라, 가장 위험한 성격의 전쟁이다 미국의 전략과 중국 부상, 그리고 북한·이란 생존 전략이 교차하는 새 지정학적 전선의 일부이기 때문이다 한쪽에는 전략적 전쟁이 ...",
+    "age": "16 minutes ago",
+    "page_age": "2026-03-10T11:05:00",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "khan.co.kr",
+      "hostname": "www.khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
+      "path": "› article  › 202603102005005"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Df7SsSfjjQYmS-o6-ViZiiaD876M_h7XbtYn3z1AH1c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MTAvbF8yMDI2MDMx/MTAxMDAwMjY4MjAw/MDMyNDAyLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미국, 주한미군 사드 일부 중동 이동…이란 보복 대비 방공망 재배치 - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10691066",
     "description": "[헤럴드경제=서지연 기자] 미국 국방부가 한국에 배치된 사드(THAAD·고고도 미사일 방어체계) 일부를 중동 지역으로 이동시키고 있는 것으로 전해졌다. 미·이스라엘과 이란 간 전쟁이 이어지는 가운데 이란의 보복 공격 ...",
@@ -22,7 +40,7 @@
     "title": "한국 사드까지 중동 뺀다…미국, 전세계 방공전력 차출 중 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25410590",
     "description": "미국이 이란과의 군사 충돌 초기 이틀 동안 약 8조원 규모의 무기를 사용한 것으로 추산됐다. 전쟁 장기화 가능성이 제기되는 가운데 미국은 한국에 배치된 고고도미사일방어체계(THAAD·사드) 일부를 중동으로 이동시키는 ...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-03-10T05:27:43",
     "meta_url": {
       "scheme": "https",
@@ -58,7 +76,7 @@
     "title": "\"50년 만에 결국 터졌다\"…미국 전역 휩쓴 새로운 공포, 유일한 대책 봤더니",
     "url": "https://car.withnews.kr/economy/stagflation-fear-oil-surge-employment-drop",
     "description": "이번 유가 급등의 직접적 트리거는 3월 1일 미국과 이스라엘의 이란 군사 공격 이후 발생한 호르무즈 해협 위기다.",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-03-10T02:17:37",
     "meta_url": {
       "scheme": "https",
@@ -148,7 +166,7 @@
     "title": "이란, ‘호르무즈 해협 통과’ 조건 내놨는데···“미·이스라엘 외교관 쫓아내면” - 경향신문",
     "url": "https://www.khan.co.kr/article/202603100849001",
     "description": "이란이 유럽·아랍 국가들에게 미국과 이스라엘 외교관을 쫓아내면 호르무즈 해협의 자유로운 통과를 허용할 것이라며 외교적 압박을 가했다고 로이터통신이 9일(현지시간) 보도했다. 이란 국영 언론은 이날 이란 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-03-09T23:49:00",
     "meta_url": {
       "scheme": "https",
@@ -202,7 +220,7 @@
     "title": "전쟁 오늘 끝나도 인프라 복구에 두달…증시 V자 반등 어렵다 | 한국경제",
     "url": "https://www.hankyung.com/article/2026030995626",
     "description": "지난 8일(현지시간) 이란 테헤란의 한 석유저장소에서 화재가 발생하고 있다. 사진=AFP 미국과 이란 간 전쟁으로 국제 유가가 치솟으며 증시에 부담을 주고 있다. 증권가에선 전쟁이 장기화할 조짐을 보이면서 단기적으로 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-03-09T21:30:01",
     "meta_url": {
       "scheme": "https",
@@ -220,7 +238,7 @@
     "title": "달러 약세 전환…이란 전쟁 종료 기대에 환율 변동성 확대 - 뉴스1",
     "url": "https://www.news1.kr/world/international-economy/6095509",
     "description": "트럼프 \"전쟁 거의 끝났다\"…유로·파운드 반등 미국의 이란 전쟁 조기 종료 기대감에 달러가 출렁였다. 9일(현지시간) 유로는 달러 대비 0.1% 상승한 1.1630달러를 기록했다. 유로는 장중 1.1505달러 …",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-03-09T21:13:16",
     "meta_url": {
       "scheme": "https",
@@ -238,7 +256,7 @@
     "title": "이스라엘·美 첫 균열 조짐...이란 연료 시설 총공격에 美 당혹 | 서울경제",
     "url": "https://sedaily.com/article/20017157",
     "description": "이스라엘이 미국과의 사전 ... 악시오스는 8일(현지 시간) 소식통을 인용해 미국 당국자들이 이스라엘의 이란 연료 저장 시설 공격을 “좋은 선택이 아니었다”는 식으로 평가하고 있다고 보도했다....",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-03-09T21:13:01",
     "meta_url": {
       "scheme": "https",
@@ -255,8 +273,8 @@
     "type": "news_result",
     "title": "미국-이란 전쟁 \"트럼프 종전 선언... 뉴욕증시 비트코인 환호 폭발 - 글로벌이코노믹",
     "url": "https://www.g-enews.com/article/Global-Biz/2026/03/202603100524294929906806b77b_1",
-    "description": "CFRA 리서치의 수석 투자 ... 기회를 찾고 있음을 시사한다\"고 분석했다. 트럼프 대통령은 미국과 이스라엘이 합동으로 진행중인 대(對)이란 전쟁 열흘째를 맞이한 이날 CBS뉴스와 전화 인터뷰에서 이같이 말했다고 ...",
-    "age": "14 hours ago",
+    "description": "국제 원유 수송로인 이란 호르무즈 해협과 관련해선 선박들이 현재 통과하고 있다면서 \"그것을 장악하는(taking it over) 것도 생각하고 있다\"고 밝혔다. 트럼프 대통령은 \"그들은 쏠 건 다 쐈다\"며 \"그 어떤 약삭빠른 행동도 시도하지 않는 게 좋을 것이다. 안 그러면 그 나라는 끝장날 것\"이라고 경고했다. 트럼프 대통령은 미군과 이스라엘군의 공격 ...",
+    "age": "15 hours ago",
     "page_age": "2026-03-09T20:27:49",
     "meta_url": {
       "scheme": "https",
@@ -274,7 +292,7 @@
     "title": "[국제]이스라엘 \"헤즈볼라 참전 후 레바논서 115만 명 피란\" | YTN",
     "url": "https://www.ytn.co.kr/_ln/0104_202603100137477992",
     "description": "이스라엘군 북부 사령부는 ... 이스라엘 카츠 국방장관에게 베이루트 남쪽 외곽에서 65만 명, 레바논 남부 국경지대에서 50만 명의 피란민이 발생했다고 보고했습니다. 또 이틀 전 공습을 통해 헤즈볼라의 최고위급 지휘관을 제거했다고 덧붙였습니다. 카츠 장관은 \"우리는 헤즈볼라를 타격해 이란 편에서 ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-03-09T16:37:00",
     "meta_url": {
       "scheme": "https",
@@ -340,46 +358,10 @@
   },
   {
     "type": "news_result",
-    "title": "”UAE 결국 참다가 터졌다.” 한국 무기로 이란 본토 타격한 아랍에미리트 | 오버히트",
-    "url": "https://view.mk.co.kr/car-tech/article/210191",
-    "description": "이스라엘 주요 매체들이 UAE가 이란 해수담수화 시설을 전격 공격했다고 보도하며 중동 전쟁 양상이 급변했다. 예디오트아흐로노트는 UAE 공군이 호르무즈 해협 게슘섬의 핵심 담수화 플랜트 5곳을 순항미사일로 파괴했다고 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-03-09T15:12:36",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "view.mk.co.kr",
-      "hostname": "view.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/s_s0lAoEWYYqL7EttfDFZJcfH0E983-Yr07xm1m1WQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQ5NzhmZDA2/ZTJlYTVjOTk2ZDky/ZDE4NDI3ZmJjYzcz/YjYwNzIzM2FiNmNj/MmNlYTljYzA0Mzc1/YjE4OWFjMC92aWV3/Lm1rLmNvLmtyLw",
-      "path": "› car-tech  › article  › 210191"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/aEC5hkGfaTjo34acxCLNX-2KNeHGHmlZ6uGbGKcMdmg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/dmlldy5tay5jby5r/ci9ta3ZpZXcvMjAy/Ni8wMy8xMDAwMTI1/OS9DUC0yMDI1LTAx/MDMtMzU1NDU1Njkt/dGh1bWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란전쟁이 일깨워준 것...'탈탄소 에너지전환'이 정답",
-    "url": "https://esgeconomy.com/news/articleView.html?idxno=14713",
-    "description": "이란전쟁으로 세계 재생에너지 산업 가속화 기대 '솔솔' “에너지전환이 경제전략의 핵심”…中, 전인대서 ‘제15차 5개년 계획’ 공개 · 국제유가 안정기, 한국이 ‘에너지전환 모범국’ 될 골든타임 · EU, 중국 의존 축소 위한 핵심광물 ‘공동 비축’ 추진 · 저작권자 © ESG경제 무단전재 및 재배포 금지 · Tags #중동 전쟁 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-03-09T14:59:43",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "esgeconomy.com",
-      "hostname": "esgeconomy.com",
-      "favicon": "https://imgs.search.brave.com/vShd-dLeqQCP2hfuLDJaV5S83OkoKXpP0fp5_x0w5tE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzJkNWU1YTRj/YmY0NjYwMjczOWE4/MGY5NTdlYTIyYzM5/NzZlNzg2YTFmNGJl/N2IyZmJkMTRmZmQ4/YzFhNWI4MS9lc2dl/Y29ub215LmNvbS8",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ppI8KUTCIpPOCNeU36al2PGxMMBt8o0ElD2RKJTpTZo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZXNnZWNvbm9teS5j/b20vbmV3cy90aHVt/Ym5haWwvMjAyNjAz/LzE0NzEzXzIxNDA2/XzEyMzBfdjE1MC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미국과 이스라엘, 이란 공습 지속…이란 새 최고지도자 선출",
     "url": "https://www.voakorea.com/a/us-israel-carry-out-strikes-on-iran-as-iranian-body-announces-new-supreme-leader-20260309/8122913.html",
     "description": "미국과 이스라엘 군이 10일 이란 군사 시설에 대한 겨냥한 공격을 이어가는 가운데 이란이 새로운 최고지도자를 선출했습니다. 이스라엘군은 이날 테헤란과 이스파한, 이란 남부 지역을 포함한 여러 목표물에 대한 공격을 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-03-09T14:22:53",
     "meta_url": {
       "scheme": "https",
@@ -394,38 +376,20 @@
   },
   {
     "type": "news_result",
-    "title": "'저항의 축' 헤즈볼라, 이란 모즈타바에 \"다시 충성의 서약\"",
-    "url": "https://imnews.imbc.com/news/2026/world/article/6806074_36925.html",
-    "description": "이스라엘의 공습으로 화염이 치솟는 레바논 수도 베이루트 남쪽 외곽지대.이란 중심�� 반서방 동맹 '저항의 축'의 핵심인 레바논 무장 정파 헤즈볼라가 새로운 이란 최고지도자로 선출된 모즈타바 하메네이에 대해 충성을 ...",
+    "title": "\"미국 보수주의자\" -미국에게\"이란과 함께 멈추라\"고 촉구하는 것,그렇지 않으면\"다른 사람들과 싸울 것이 아무것도 없을 것이다.\" - Pravda 한국",
+    "url": "https://korea.news-pravda.com/russia/2026/03/09/59319.html",
+    "description": "\"이란 군대는 패배했고,대부분의 지도자들이 살해되었고,핵 프로그램은 예정보다 몇 년 뒤떨어져 있습니다. 미국은 할 수 있는 한 멈추고 중국,러시아,북한에 관심을 기울여야 합니다. 공격 미사일과 미사일 방어 시스템을 ...",
     "age": "1 day ago",
-    "page_age": "2026-03-09T13:53:33",
+    "page_age": "2026-03-09T11:10:32",
     "meta_url": {
       "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› news  › 2026  › world  › article  › 6806074_36925.html"
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› russia  › 2026  › 03  › 09  › 59319.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ssucqc7K8QSLTrMryTozrUgBf5BYgVtQX9an9rz7mK8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vbmV3cy8y/MDI2L3dvcmxkL2Fy/dGljbGUvX19pY3NG/aWxlcy9hZmllbGRm/aWxlLzIwMjYvMDMv/MDkveWhfMjAyNjAz/MDktMTguanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미·이란, 담수화 시설까지 난타…생존 위협에 ‘목 타는’ 중동 - 경향신문",
-    "url": "https://khan.co.kr/article/202603092100005",
-    "description": "8일(현지시간) 뉴욕타임스(NYT)에 따르면 아바스 아라그치 이란 외교장관은 전날 미국이 이란 키슘섬의 담수화 시설을 공격해 30개 마을의 식수 공급에 차질이 생겼다고 밝혔다. 그는 “이런 선례를 만든 건 이란이 아니라 ...",
-    "age": "1 day ago",
-    "page_age": "2026-03-09T12:00:00",
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
-      "path": "› article  › 202603092100005"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/BuXfeurcbCqnBGcqzuVFiNeqXNn_kBrzj-DALgZeVJs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MDkvbF8yMDI2MDMx/MDAxMDAwMjQwODAw/MDI4NjIxLmpwZw"
+      "src": "https://imgs.search.brave.com/igJaWIWb28Ct93ngz_YNh6U7vwzJVglhJ0S_mAapg8o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwMzA5Lzg1NTQ2/N2YzZWIwZTEwYWZh/ZmU5MzI2OWNjZTc5/NzEzX28uanBn"
     }
   },
   {
@@ -444,6 +408,24 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/qWP-geoqHxLiZVS1f-nUeu4iYdQnGOBXdX7w3P5qAd4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDMv/MDkvcmN2LllOQS4y/MDI2MDMwOC5QRVAy/MDI2MDMwODE4ODIw/MTAwOV9QMS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "‘하메네이 2세’ 우상화 나선 이란 “일가족 순교, 이슬람 율법·신학 통달”",
+    "url": "https://chosun.com/international/international_general/2026/03/09/5SHAUYALHJG37MPAFGGTFT5CYQ",
+    "description": "하메네이 2세 우상화 나선 이란 일가족 순교, 이슬람 율법·신학 통달 이란 매체 모즈타바의 신학 강의에 수천명 몰려 이란 매체들은 9일 모즈타바 하메네이57가 3대 최고지도자에 선출된 지 단 하루 만에 그가 순교자의 ...",
+    "age": "1 day ago",
+    "page_age": "2026-03-09T10:19:49",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "chosun.com",
+      "hostname": "chosun.com",
+      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
+      "path": "› international  › international_general  › 2026  › 03  › 09  › 5SHAUYALHJG37MPAFGGTFT5CYQ"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/h58-6tveyulZHf8iKEzujEtmPYyXLDZ1_rGns9DQtIU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0pV/UDZRVlJVMzVITFJJ/RFpRN0c0U1JPSFNF/LmpwZz9hdXRoPTRh/MWI0MDZhZGQyYTcy/NDJkNWY5MDAyYTli/Mjk1MWJiM2Y2MGNl/M2RmNjIwZGYyNGMx/OGE5ODg2M2IzMjVi/MTAmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
     }
   },
   {
@@ -750,6 +732,24 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/ztPTLMLxTVdV-VyjmKfwAiRnfBnKZmiEAxCwvRBtqwU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzAzLzAyL1BBUDIw/MjYwMzAyMzAxODAx/MDA5X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美국방 “이란 작전서 사상자 더 나올 것…결의 약해지지 않아”",
+    "url": "https://donga.com/news/Inter/article/all/20260309/133492019/1",
+    "description": "이날 미군 중부사령부(CENTCOM)는 성명을 통해 “이란 정권이 중동 전역에서 감행한 초기 공격으로 부상을 입은 미군 병사가 지난 밤 사망했다”고 밝혔다. 이 병사는 지난 1일 사우디아라비아에서 미군을 겨냥한 이란의 보복 ...",
+    "age": "1 day ago",
+    "page_age": "2026-03-09T05:56:05",
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "donga.com",
+      "hostname": "donga.com",
+      "favicon": "https://imgs.search.brave.com/iKcDF28QLL_79D0lTsgsQAgRTt4ge0YJ9wKFcH2Cd0o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmJmNmFlZWNh/M2U5OTkwNjEwMDk4/MDY0ZmYzM2Y1NTM3/YWNhMTY0NWY5NTFi/YjdmMTUyOTk0Y2Jm/YTNhMDhlOC9kb25n/YS5jb20v",
+      "path": "› news  › Inter  › article  › all  › 20260309  › 133492019  › 1"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/UxKfddiYsH2ZBh3r6BqhK4nNFaC4e48iwt8w3M5dA7Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzAzLzA5/LzEzMzQ5MjAyMC4x/LmpwZw"
     }
   },
   {
