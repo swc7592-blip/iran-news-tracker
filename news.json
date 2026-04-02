@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "미국-이란 전쟁 : 이슈별 기사 큐레이션 - 아시아경제",
+    "url": "https://www.asiae.co.kr/list/issue/2026030307253385639A",
+    "description": "정치, 경제, 사회 분야 전반의 이슈와 뉴스 큐레이션",
+    "age": "12 minutes ago",
+    "page_age": "2026-04-02T22:16:08",
+    "profile": {
+      "name": "Asiae",
+      "url": "https://www.asiae.co.kr/list/issue/2026030307253385639A"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "asiae.co.kr",
+      "hostname": "www.asiae.co.kr",
+      "favicon": "https://imgs.search.brave.com/RDmBfKpAPQmNETa2oahXWq_uYPANhdwj9snoGJ9MA_8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjMzZWMxOGYw/ZWI4YmJmOWY4OTM4/Y2I5YjcwYjU0MzU5/ODdhNzlhODNjMDEz/NDk0OWFhZDgyYjVm/ZTI5NjdkOC93d3cu/YXNpYWUuY28ua3Iv",
+      "path": "› list  › issue  › 2026030307253385639A"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/_r9N5XaWzRVOm_dbIrT-N5fMQkdD4imNcghHNJ2Anys/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jd2Nv/bnRlbnQuYXNpYWUu/Y28ua3IvYW1naW1h/Z2VsaW5rLzk4LzIw/MjYwMzAzMDcyNTE0/ODI1NzZBLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프, 이란 최대 교량 폭격 영상 게시…\"더 늦기 전 합의해야\" :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260403_0003576137",
     "description": "트럼프 대통령은 전날 대국민 ... 이란에 협상을 압박했다. ◎공감언론 뉴시스 [email protected] ... 이재명 대통령, 美 상원의원단 접견 '한반도 방위 자력으로 하는 게 마땅하다 판단' 이재명 대통령, 26.2조 규모 전쟁추경 ...",
-    "age": "2 hours ago",
+    "age": "3 hours ago",
     "page_age": "2026-04-02T19:41:42",
     "profile": {
       "name": "Newsis",
@@ -26,7 +48,7 @@
     "title": "이란 \"호르무즈 통행 규칙 만드는 중…전쟁 전으로 못돌아가\" | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260403002600079",
     "description": "(카이로=연합뉴스) 김상훈 특파원 = 이란이 호르무즈 해협의 선박 통행을 감시하기 위한 규칙을 오만과 함께 만들고 있다고 2일(현지시간) 밝혔다...",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-04-02T17:46:11",
     "profile": {
       "name": "Yonhap News Agency",
@@ -67,24 +89,24 @@
   },
   {
     "type": "news_result",
-    "title": "[국제]트럼프 \"이란 최대 규모 다리 붕괴...이란, 협상 나서야\" | YTN",
-    "url": "https://www.ytn.co.kr/_ln/0104_202604030202320129",
-    "description": "트럼프 대통령은 이란에서 가장 큰 다리가 무너져 내렸다며 이란에 더 늦기 전에 협상에 나서라고 압박했습니다.트럼프 대통령은 현지 시간 2일 SNS에 10초 분량의 영상을 ...",
+    "title": "트럼프 \"이란 최대 교량 무너져…너무 늦기 전에 합의해야\"",
+    "url": "https://v.daum.net/v/20260403015925418",
+    "description": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령은 2일(현지시간) 이란에 너무 늦기 전에 합의하라고 압박했다. 트럼프 대통령은 이날 소셜미디어 트루스소셜에 \"이란이 너무 늦기 전에, 위대한 나라가 될 수 ...",
     "age": "5 hours ago",
-    "page_age": "2026-04-02T17:02:00",
+    "page_age": "2026-04-02T17:03:03",
     "profile": {
-      "name": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0104_202604030202320129"
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260403015925418"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "ytn.co.kr",
-      "hostname": "www.ytn.co.kr",
-      "favicon": "https://imgs.search.brave.com/QCdBTL2sPMVF-0O4NxB3IB9Yq8WXONxXmroGymFTLlk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA4YzU5NTkz/YWRhNThmMjRiNDBl/MjJkMDBlNDY0OWI5/MGI1NGFhYzMxMWE1/ZWJiMmM2YmIwOGNi/ODI4ZmUxNi93d3cu/eXRuLmNvLmtyLw",
-      "path": "› _ln  › 0104_202604030202320129"
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260403015925418"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/p6utRbLk7beEbBa1koFhNEwFp7qI19a7wgI2l2OQYe4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/eXRuLmNvLmtyL2lt/Zy9jb21tL3l0bl9z/bnNfZGVmYXVsdC5q/cGc"
+      "src": "https://imgs.search.brave.com/UGNP56h6W9gYWL_WbD-fslrAXI2gZU-dggIO2ExNObw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNC8w/My95b25oYXAvMjAy/NjA0MDMwMTU5MjU3/NDl0dnZ0LmpwZw"
     }
   },
   {
@@ -92,7 +114,7 @@
     "title": "트럼프 \"이란 최대 교량 무너져…너무 늦기 전에 합의해야\" | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260403001900071",
     "description": "전날 대국민 연설에서 이란을 '석기시대'로 되돌릴 정도의 고강도 공격을 하겠다고 예고했던 트럼프 대통령은 게시물에 대형 교량이 공격을 받고 붕괴하면서 검은 연기가 일어나는 10초짜리 영상도 함께 올렸다.",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-04-02T16:57:50",
     "profile": {
       "name": "Yonhap News Agency",
@@ -114,7 +136,7 @@
     "title": "이란 고속도로 교량 2차례 공습에 '와르르'…이란, 보복 예고 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260403001600079",
     "description": "(카이로=연합뉴스) 김상훈 특파원 = 이란 수도 테헤란과 서부 도시 카라즈를 잇는 고속도로의 교량이 2차례 공습을 받아 부분적으로 무너졌다고 이...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-04-02T16:48:18",
     "profile": {
       "name": "Yonhap News Agency",
@@ -129,50 +151,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/deSXIClt4Iasfxgz8lrDw0oI--deZGkosCyPbMgZ5KU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc5/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNC8wMy9B/S1IyMDI2MDQwMzAw/MTYwMDA3OV8wMV9p/X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 향한 미국의 \"석기시대\" 위협, 걸프전·베트남전때도 등장 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260403001000071",
-    "description": "도널드 트럼프 미국 대통령은 최근 이란을 향한 막판 대공세를 예고하면서 '석기시대'라는 표현을 자주 쓰고 있다. 트럼프 대통령이 연달아 사용한 '석기시대'라는 표현은 인류가 문명화하기 이전 시기의 수준으로 모든 것을 파괴하겠다는 의미로 해석된다. '석기시대' 위협은 미국이 과거 다른 나라와 전쟁을 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-04-02T15:59:32",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260403001000071"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260403001000071"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/EcRWpOo69F4OcyQNsLdPjKRxbYu9Dyw7Tk3Qwjg9zF4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzA0LzAyL1BBUDIw/MjYwNDAyMTE2MzAx/MDA5X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 “중동 내 美 철강·알루미늄 공장 공격… 보복 차원” < 국제일반 < 국제 < 기사본문 - 천지일보",
-    "url": "https://newscj.com/news/articleView.html?idxno=3391005",
-    "description": "이란이 언급한 미국 철강 및 알루미늄 기업 시설은 실제 미국 기업의 단독 소유 시설보다는 사우디아라비아의 합작 시설인 라스 알 카이르 또는 아랍에미리트(UAE), 바레인 내의 대규모 제련 시설 중 미국 자본과 기술이 집중된 곳일 가능성이 크다. 앞서 지난달 27일 미국과 이스라엘의 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-04-02T15:55:00",
-    "profile": {
-      "name": "Newscj",
-      "url": "https://newscj.com/news/articleView.html?idxno=3391005"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newscj.com",
-      "hostname": "newscj.com",
-      "favicon": "https://imgs.search.brave.com/Eblz2VlQ4k4tV_pPhdVP_m2Ab9q0rDVNKfZM_zRIYy0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzdjYzY0YTQz/YjA5MTg2NDE0M2Nl/OTdhMGI2NzMwNmYw/ZmFkZDlhYzg5N2Fj/OTk3MjFhODNlNTIz/YTcwZmFiNi9uZXdz/Y2ouY29tLw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/GNkTm9DWujKGlINkhbv4Vseyg826XIfipQc2xDdGrXM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3c2NqLmNvbS9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDQvMzM5/MTAwNV8zNDg1MDgw/XzMwMTlfdjE1MC5q/cGc"
     }
   },
   {
@@ -224,7 +202,7 @@
     "title": "이란, 중동 내 美 금속시설 공격…철강·알루미늄 겨냥 보복 확대",
     "url": "https://asiae.co.kr/article/2026040221330626252",
     "description": "이란이 미국과 이스라엘의 공습에 대한 보복으로 중동 내 미국 관련 금속 산업 시설을 공격했다. 앞서 미·이스라엘군은 지난달 27일 이란의 주요 철강 생산 거점을 폭격했다. 이에 따라 후제스탄 철강과 모바라케 철강 등 ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-02T12:33:06",
     "profile": {
       "name": "Asiae",
@@ -290,7 +268,7 @@
     "title": "“트럼프 입에 불확실성 더 커졌다”…환율 20원 치솟고 주가 곤두박질 | 서울경제",
     "url": "https://www.sedaily.com/article/20027734",
     "description": "한국거래소에 따르면 2일 코스피지수는 4.47%(244.65포인트) 하락한 5234.05에 마감했다. 트럼프 연설을 앞두고 중동 긴장 완화 기대로 장 초반 5574.62까지 올랐던 코스피는 “2~3주 내 이란에 대대적인 공격을 감행하겠다”는 발언이 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-04-02T09:28:18",
     "profile": {
       "name": "Sedaily",
@@ -312,7 +290,7 @@
     "title": "\"韓 방산, 훨씬 싼데 고퀄\"‥NYT \"미국 독점 붕괴 각\"",
     "url": "https://imnews.imbc.com/news/2026/world/article/6812217_36925.html",
     "description": "'이란 전쟁'을 기점으로 한국 방위산업이 거대한 변곡점을 맞이하고 있다는 외신 분석이 나왔습니다. 뉴욕타임스는 현지시간 2일 \"한국산 무기가 미국산에 비해 훨씬 저렴한 가격으로 우...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-04-02T07:39:15",
     "profile": {
       "name": "MBC 뉴스",
@@ -334,7 +312,7 @@
     "title": "바그다드 주재 미국 대사관은 미국인들에게 즉시 이라크를 ?? ?? 것을 촉구하?? 있습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/04/02/61697.html",
     "description": "한편, 이란인들은 드론 중동 전역의 적대 세력 목표물을 계속해서 공격하고 있습니다. 이스라엘 도시 브네이브락에 대한 공격이 보고되었습니다. 이스라엘 당국에 따르면 \"파편이 도시의 상수도 시설을 손상시켜 생활에 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-04-02T07:27:31",
     "profile": {
       "name": "News-pravda",
@@ -378,7 +356,7 @@
     "title": "트럼프 압박에도 이란군 \"더 강하고 파괴적인 공격\"",
     "url": "https://imnews.imbc.com/news/2026/world/article/6812201_36925.html",
     "description": "로이터통신 보도에 따르면 이란군 통합지휘기구인 하탐 알안비야 중앙군사본부 에브라힘 졸파가리 대변인은 현지시간 2일 성명을 내고 적들에게 \"영원한 후회와 항복\"이 있을 때까지 전쟁을 계속하겠다고 밝혔습니다. 그러면서 미국과 이스라엘을 상대로 \"더 참담하고 광범위하며 파괴적인\" 공격을 ...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-04-02T06:58:18",
     "profile": {
       "name": "MBC 뉴스",
@@ -444,7 +422,7 @@
     "title": "트럼프 \"호르무즈 美와 무관\"...이란, 해협 통과 선박에 배럴당 1달러 부과 추진 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25417013",
     "description": "선박 운영사는 이란 이슬람혁명수비대(IRGC)와 연계된 중개 회사를 통해 선박 소유 구조, 화물, 목적지, 승무원 명단, AIS(선박자동식별장치) 데이터 등을 제출해야 한다. 해당 정보는 혁명수비대 해군 사령부로 전달돼 미국·이스라엘 ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-04-02T05:51:53",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -466,7 +444,7 @@
     "title": "중국 동향: 과학자들이 이란에 미국 기?? 파괴 방법에 대한 자료를 공개했다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/04/02/61687.html",
     "description": "앞서 트럼프 대통령은 소셜 ... 급진적이고 훨씬 더 현명한 인물로, 미국에 휴전을 요청했습니다.이란 이슬람... ... 키이우가 발트해 드?? 공격 이??...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-04-02T04:54:46",
     "profile": {
       "name": "News-pravda",
@@ -510,7 +488,7 @@
     "title": "트럼프 대통령 대국민연설 지켜보는 외국인 관광객들 - 뉴스1",
     "url": "https://www.news1.kr/photos/7832981",
     "description": "(서울=뉴스1) 박정호 기자 = 2일 오전 서울시 용산구 서울역 대합실에서 외국인 관광객들이 도널드 트럼프 미국 대통령의 이란 전쟁 상황 관련 대국민 연설 TV 생중계를 지켜보고 …",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-02T01:53:05",
     "profile": {
       "name": "News1",
@@ -793,28 +771,6 @@
   },
   {
     "type": "news_result",
-    "title": "“AI 공습 좌표 제공”…이란, 미 빅테크에 보복 경고 - 경향신문",
-    "url": "https://khan.co.kr/article/202604012052015",
-    "description": "이스라엘이 이란 지도부에 대한 대규모 표적 공습에 성공할 수 있었던 것에 인공지능(AI)이 결정적 역할을 한 것으로 알려진 상황에서, 이스라엘군에 AI 기술을 제공해온 빅테크 기업들이 ‘전쟁 청구서’를 받아들게 된 ...",
-    "age": "1 day ago",
-    "page_age": "2026-04-01T11:52:00",
-    "profile": {
-      "name": "Khan",
-      "url": "https://khan.co.kr/article/202604012052015"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
-      "path": "› article  › 202604012052015"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/YKIv16VfW_n8Teq1j_vvzV7JZg2R3cC_MZskcBnbrdU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9z/cGtvL2NvbXBhbnkv/S2hhbl9DSV8xODAy/MTIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란,인텔 등 미국 18개 기업 4월1일 밤부터 공격 | 한국경제",
     "url": "https://www.hankyung.com/article/202604012875i",
     "description": "이란,\"인텔 등 미국 18개 기업 4월1일 밤부터 공격\", 맥7기업과 시스코,HPE,인텔,오라클,팔란티어,JP모건 등 \"미국·이스라엘 테러로 2천여명 사망에 대한 보복\"주장",
@@ -991,7 +947,7 @@
   },
   {
     "type": "news_result",
-    "title": "미 국적 언론인, 이란 연계 단체에 납�� 추정…이슬람혁명수비대, 빅테크 기업 공격 예고 - 경향신문",
+    "title": "미 국적 언론인, 이란 연계 단체에 납치 추정…이슬람혁명수비대, 빅테크 기업 공격 예고 - 경향신문",
     "url": "https://www.khan.co.kr/article/202604011415001",
     "description": "이는 IRGC가 이날 성명을 통해 미·이스라엘의 군사작전에 협조한 빅테크 기업 등에 대해 테헤란 시각 4월 1일 오후 8시부터 공격을 예고한 데 따른 것이다. IRGC는 “이란 시민을 숨지게 한 테러 공격의 배후에는 테 대상을 ...",
     "age": "2 days ago",
@@ -1053,6 +1009,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/3YQGVu6Vgr_tP7LhmFo_zUGV5K5iKiC1Lk2blNHEaBk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX2tvcmVh/bi9kMDE4L2xpdmUv/ODk0ODQ3ZDAtMmQ4/Mi0xMWYxLTkzNGYt/MDM2NDY4ODM0NzI4/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[쇼츠] 美·이란, 같은 날 \"종전\"…과연 말대로 전쟁 끝? | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260401110400704",
+    "description": "(서울=연합뉴스) 도널드 트럼프 미국 대통령은 31일(현지시간) 대이란 전쟁을 종료하는 시점에 대해 \"아주 곧\"이라며 \"2∼3주\" 이내를 거론했...",
+    "age": "2 days ago",
+    "page_age": "2026-04-01T04:30:08",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260401110400704"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260401110400704"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/RH6inqbYRc4lHprhCc5JI-jjpGCKubZMnyqyTef7HPY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNC8wMS9B/S1IyMDI2MDQwMTEx/MDQwMDcwNF8wMl9p/X1A0LmpwZw"
     }
   },
   {
