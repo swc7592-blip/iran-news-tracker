@@ -4,7 +4,7 @@
     "title": "美, ‘격추’ F-15 실종자 이틀째 수색... 이란도 ‘현상금’ 걸고 찾아 나서[美-이란 전쟁] | 서울경제",
     "url": "https://www.sedaily.com/article/20028285",
     "description": "이란 군 당국도 미군 실종자 수색에 나선 것으로 알려졌다. 4일(현지 시간) 뉴욕타임스(NYT)에 따르면 미군은 전날에 이어 이날도 F-15E 스트라이크 이글에 탑승했던 실종자 1명 대한 수색을 이어가고 있다. NYT는 미국과 이스라엘 ...",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-04-04T08:15:19",
     "profile": {
       "name": "Sedaily",
@@ -26,7 +26,7 @@
     "title": "[이란 현지기고] 교량 폭격·‘석기시대’ 발언이 소환한 전쟁범죄 논란 - 아시아엔 THE AsiaN",
     "url": "https://kor.theasian.asia/archives/403907",
     "description": "이란 혁명수비대는 사고 직후 이스라엘 교량들을 목표물로 공격할 것이라 발표했다. 이에 이스라엘은 해당 작전을 지시하지 않았다고 반박했다. 이와 관련해 도널드 트럼프 미국 대통령은 사고 전날 “이란의 교량 두개를 ...",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-04-04T08:12:08",
     "profile": {
       "name": "Theasian",
@@ -67,10 +67,32 @@
   },
   {
     "type": "news_result",
+    "title": "“호르무즈, 이란에 또 다른 무기 쥐어준 셈” - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10709921",
+    "description": "또 이란의 군사력을 근본적으로 약화하겠다는 의도로 시작한 이번 전쟁이 오히려 호르무즈해협 통행을 위협할 수 있는 이란의 능력을 부각하게 된 부작용인 셈이다.",
+    "age": "4 hours ago",
+    "page_age": "2026-04-04T07:27:02",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10709921"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10709921"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/KkKoyMFGvvVYzcNlLclGGWQkAiqKpdfrh4ZeKNlA93o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDQvMDQv/bmV3cy1wLnYxLjIw/MjYwMzAzLjAyOGUy/OWJlMzI2MTQxMGE4/MzI3OWEyYzViYmJl/NmU0X1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "‘석기시대’ 위협 후 이란서 美 전투기 격추···트럼프 “협상 영향 없어” - 시사저널e",
     "url": "https://sisajournal-e.com/news/articleView.html?idxno=420275",
     "description": "[시사저널e=김용수 기자] 도널드 트럼프 미국 대통령이 대국민 연설을 통해 “이란을 석기시대로 되돌리겠다”고 밝힌 후 미군 F-15 전투기와 A-10 공격기가 각각 이란군의 공격으로 격추됐다. 지난 2월 개전 이후 미 군용기가 ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-04T02:15:34",
     "profile": {
       "name": "Sisajournal-e",
@@ -92,7 +114,7 @@
     "title": "“파키스탄 주도 이란전쟁 휴전 협상 교착…이란, 회담거부” - 매일경제",
     "url": "https://www.mk.co.kr/news/world/12007942",
     "description": "파키스탄은 미국과 이란의 전쟁을 끝내기 위해 중재국 역할을 자처했고, 이 같은 중재 노력으로 이슬라마바드에서 미국과 이란 간 직접 대면협상이 성사될 가능성이 제기되기도 했다.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-04T02:12:41",
     "profile": {
       "name": "MK",
@@ -155,32 +177,10 @@
   },
   {
     "type": "news_result",
-    "title": "[중동 전쟁] 美 F-15 전투기 이란서 격추…“미군, 탑승자 1명 구조”",
-    "url": "https://www.dailian.co.kr/news/view/1629580/%EC%A4%91%EB%8F%99-%EC%A0%84%EC%9F%81-%E7%BE%8E-F-15-%EC%A0%84%ED%88%AC%EA%B8%B0-%EC%9D%B4%EB%9E%80%EC%84%9C-2026",
-    "description": "미국 공군 F-15 전투기가 이란 상공에서 격추된 것으로 알려졌다. 미 전투기가 개전 이후 적 공격에 의해 격추된 것은 처음이다.미 CNN방송 등에 따르면 이 사안에 정통한 미국과 이스라엘 당국자들은 3일(현지시간) 미 공군 ...",
-    "age": "13 hours ago",
-    "page_age": "2026-04-03T22:42:00",
-    "profile": {
-      "name": "Dailian",
-      "url": "https://www.dailian.co.kr/news/view/1629580/%EC%A4%91%EB%8F%99-%EC%A0%84%EC%9F%81-%E7%BE%8E-F-15-%EC%A0%84%ED%88%AC%EA%B8%B0-%EC%9D%B4%EB%9E%80%EC%84%9C-2026"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "dailian.co.kr",
-      "hostname": "www.dailian.co.kr",
-      "favicon": "https://imgs.search.brave.com/NSTlDPTkdbyU1BvZx9ubITf6GIVeFL4jHpe8rZua090/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxZTkyYmIz/OWUwYzk0NjRiNTdi/NzNlMDc4YjFhMDJi/ZGE3MDAxYWNmYWJi/Y2MxYzBiNjU0Mjg1/NWEwMThlYy93d3cu/ZGFpbGlhbi5jby5r/ci8",
-      "path": "› news  › view  › 1629580  › 중동-전쟁-��-F-15-전투기-이란서-2026"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/F6WSF587mtPE2cRpatMmQB18M0ZreO6k8cGYCcDT3Fs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA0L25ld3Nf/MTc3NTI1NjA3OV8x/NjI5NTgwX21fMS5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미국 ‘48시간 휴전’ 제안했지만…이란 “격렬 공격” 거부 - 이투데이",
     "url": "https://www.etoday.co.kr/news/view/2572671",
     "description": "이란 혁명수비대와 가까운 파르스통신은 3일(현지시간) 미국이 전날 중재국을 통해 이란에 48시간 휴전을 제안했다고 보도했다. 이란은 이를 거부하고 “격렬한 공격을 답했다”고 전했다.",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-04-03T22:26:00",
     "profile": {
       "name": "Etoday",
@@ -817,7 +817,7 @@
     "type": "news_result",
     "title": "미국-이란 전쟁/경과/4월 - 나무위키",
     "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81/%EA%B2%BD%EA%B3%BC/4%EC%9B%94",
-    "description": "이란의 주요 철강 공장인 이스파한의 모바라케 철강 산업 단지가 일주일 만에 두 번째로 미국과 이스라엘의 공습을 받았다. 또한 이란 서부 아흐바즈의 아흐바즈 철강 단지도 공습을 받았다.",
+    "description": "이란의 주요 철강 공장인 이스파한의 모바라케 철강 산업 단지가 일주일 만에 두 번째로 미국과 이스라엘의 공습을 받았다. ���한 이란 서부 아흐바즈의 아흐바즈 철강 단지도 공습을 받았다.",
     "age": "1 day ago",
     "page_age": "2026-04-03T04:42:12",
     "profile": {
@@ -859,7 +859,7 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 “이란 파괴 아직 시작조차 안했다, 다음은 다리와 발전소” - 경향신문",
+    "title": "트럼프 “이란 파괴 아직 시작조차 안했다, 다음은 다리와 발전���” - 경향신문",
     "url": "https://khan.co.kr/article/202604031256001",
     "description": "AFP는 트럼프 대통령이 이란 최대의 다리가 파괴되었다는 글을 올린 지 몇 시간 뒤 이 같은 글을 올렸다고 전했다. 트럼프 대통령은 지난 한달 동안의 전쟁 동안 여러 차례 이란의 주요 군사 목표물 대부분이 이미 손상되었거나 ...",
     "age": "1 day ago",
@@ -905,7 +905,7 @@
     "type": "news_result",
     "title": "이란 \"빅테크 타격\"‥'호르무즈 무력 개방' 제동?",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6812443_36967.html",
-    "description": "트럼프 대통령의 대국민 연설 이후 강력한 보복을 다짐했던 이란이 중동에 있는 미국 IT 기업 설비 ���설을 타격했습니다. 한편 중동 산유국들은 호르무즈 해협을 무력으로 ...",
+    "description": "트럼프 대통령의 대국민 연설 이후 강력한 보복을 다짐했던 이란이 중동에 있는 미국 IT 기업 설비 시설을 타격했습니다. 한편 중동 산유국들은 호르무즈 해협을 무력으로 ...",
     "age": "1 day ago",
     "page_age": "2026-04-03T03:10:24",
     "profile": {
@@ -949,7 +949,7 @@
     "type": "news_result",
     "title": "이란, '美빅테크 보복' 천명 후 바레인 통신시설 공격(종합) | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260403049451009",
-    "description": "이란은 자국에서 잇따라 발생하고 있는 고위 인사 피격 사건을 '암살'로 규정하고, 배후�� 미국과 이스라엘을 지목했다.",
+    "description": "이란은 자국에서 잇따라 발생하고 있는 고위 인사 피격 사건을 '암살'로 규정하고, 배후로 미국과 이스라엘을 지목했다.",
     "age": "1 day ago",
     "page_age": "2026-04-03T02:49:30",
     "profile": {
@@ -1119,28 +1119,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/HuMryR79ttTBECbDEjnUOIcvbEoWghRiKoUCeOd8AxE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL0hB/bm5aTm0wQTlYLW9W/UVcxeHFXY1A4bXV6/Z2tXNWl2ZERCS0gy/emhnelp6cmJldnd0/UURPbG5PdUFTSHFa/V01EdzdPZzBhNFhY/Um1QWlZkeGJGbjlX/a2d0eDlOX0VHZF9P/TUhCalItM1lGTTdq/bzBDbUt4UW5kcm1t/eWEtSlVPMzc2ZDFs/RlBHUmtmd21DWmxi/V0M2dy53ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "추가 표적 줄어든 美 대이란 공습…소모전 우려 커진다 | 아주경제",
-    "url": "https://ajunews.com/view/20260403103924493",
-    "description": "최근 테헤란 인근 카라즈 교량 공습을 두고도 미군은 보급로라고 설명했지만, 이란은 미개통 시설이라고 반박했다. 전황이 길어지는 데 비해 출구 전략도 불분명하다. 트럼프 대통령은 전쟁 목표가 곧 달성될 것이라고 ...",
-    "age": "1 day ago",
-    "page_age": "2026-04-03T01:40:08",
-    "profile": {
-      "name": "Aju News",
-      "url": "https://ajunews.com/view/20260403103924493"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "ajunews.com",
-      "favicon": "https://imgs.search.brave.com/U2cz6RHK97gSg0D8ag9ciwl_Pk_5f4KLUmPvy_Eb8GA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhMmJjMmVh/ZGJiOGVmNWE5YTVm/YjVjNmVmMzVlMzM1/YzExZmQ1ZDNjMDlh/MjFhN2U2MWM4NzE1/NzJjYTBlZC9hanVu/ZXdzLmNvbS8",
-      "path": "› view  › 20260403103924493"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DJt9vKz8fHNQ22V9fRX8z56_DMnGtNtDE8-aRo1L_hg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDQv/MDMvMjAyNjA0MDMx/MDM5NDI2OTQxOTUu/anBn"
     }
   },
   {
