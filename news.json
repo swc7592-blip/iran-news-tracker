@@ -1,134 +1,574 @@
 [
   {
     "type": "news_result",
-    "title": "이란 외무, 인도 장관과도 미·이스라엘의 37일간 이란 공격 논의 :: 공감언론 뉴시스 ::",
-    "url": "https://www.newsis.com/view/NISX20260406_0003578550",
-    "description": "아라그치 장관은 특히 미국과 이스라엘이 지난 37일 동안 이란 국민에게 행한 \"전쟁 범죄들\"을 집중해서 논의했다. 거기엔 미-이스라엘군의 이란 산업생산 기반시설에 대한 무차별 공격, 병원과 학교들, 민간 주거 지역과 ...",
+    "title": "Middle East crisis live: Tehran warns Trump over strait of Hormuz threat; Netanyahu suggests Israel helped US rescue airman | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+    "description": "I am deeply proud that our cooperation on an off the battlefield is unprecedented, and that Israel could contribute to saving a brave American warrior. The crew member of a downed F-15E fighter jet was rescued from an Iranian mountain by US commandos overnight at the weekend, ending a two-day ...",
+    "age": "1 minute ago",
+    "page_age": "2026-04-06T01:20:19",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › live  › 2026  › apr  › 05  › middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/1CfTp74SkDRpn04TIkZOcjfDuW-IzvX-t6SMJH1PpaY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzM5NDEz/YjA2ZWQyMTQ2NjAx/MjYxY2Y2Njk5ZTk4/NTE0ZDhkODdlZDMv/NDM3XzBfMjUwMF8y/MDAwL21hc3Rlci8y/NTAwLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ri/R2wyWlM1d2JtYyZl/bmFibGU9dXBzY2Fs/ZSZzPTRhODA4Njg2/YmFkYTQwOWIwM2M5/N2ViMTIyMWRmNTY0"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran-US war latest: Trump tells Tehran to open the Strait in swear-laden rant",
+    "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-missing-pilot-strait-of-hormuz-b2952018.html",
+    "description": "US president threatens to hit Iran’s power plants if it doesn’t reopen the Strait of Hormuz by Monday",
+    "age": "7 minutes ago",
+    "page_age": "2026-04-06T01:14:46",
+    "profile": {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-missing-pilot-strait-of-hormuz-b2952018.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "independent.co.uk",
+      "hostname": "www.independent.co.uk",
+      "favicon": "https://imgs.search.brave.com/M_zo7zhS0WvQG9XhO-0Js_pwEAlWc2wtGKCPFnNjZjI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEyODE2YjY0/YzFkZDgyOGUzOThi/NmFhOGNkZTRhZDBm/ZmJiYWUxZGQ0MjYx/YWI5YjIyYWQ3N2E4/ZTZjNDk3YS93d3cu/aW5kZXBlbmRlbnQu/Y28udWsv",
+      "path": "› news  › world  › middle-east  › iran-us-war-live-trump-missing-pilot-strait-of-hormuz-b2952018.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/iDHp4s4SGIdnhd493WVS-EGyuZrCdY10mceK6v9xsS8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8wNC8wNS80LzQy/L1RPUFNIT1QtVVMt/SVJBTi1JU1JBRUwt/V0FSLVBPTElUSUNT/LVRSVU1QLWNybDZl/bjc4LmpwZWc_d2lk/dGg9MTIwMCZoZWln/aHQ9ODAwJmNyb3A9/MTIwMDo4MDA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran-US war latest: Trump tells Tehran to open the Strait in swear-laden rant",
+    "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-trump-fighter-jets-oil-strait-of-hormuz-b2951749.html",
+    "description": "US president threatens to hit Iran’s power plants if it doesn’t reopen the Strait of Hormuz by Monday",
+    "age": "7 minutes ago",
+    "page_age": "2026-04-06T01:14:46",
+    "profile": {
+      "name": "The Independent",
+      "url": "https://independent.co.uk/news/world/middle-east/iran-us-war-live-trump-fighter-jets-oil-strait-of-hormuz-b2951749.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "independent.co.uk",
+      "hostname": "independent.co.uk",
+      "favicon": "https://imgs.search.brave.com/SA4tQgrQ5no2anFl4MTgV9IZOSIufJlwNFKiCJXReio/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTA1NjVjOTBk/ZmUwMGU3NjM4MGY4/NTJkY2NlOTI3ZTYz/ZGE4OTA3NjU3ZDgx/OGE5NzY3NWI0NTJi/YTI5M2Q3MC9pbmRl/cGVuZGVudC5jby51/ay8",
+      "path": "› news  › world  › middle-east  › iran-us-war-live-trump-fighter-jets-oil-strait-of-hormuz-b2951749.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/iDHp4s4SGIdnhd493WVS-EGyuZrCdY10mceK6v9xsS8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8wNC8wNS80LzQy/L1RPUFNIT1QtVVMt/SVJBTi1JU1JBRUwt/V0FSLVBPTElUSUNT/LVRSVU1QLWNybDZl/bjc4LmpwZWc_d2lk/dGg9MTIwMCZoZWln/aHQ9ODAwJmNyb3A9/MTIwMDo4MDA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“형제국은 제외”…이란 발표 하루 만에 호르무즈 통과한 유조선의 정체 - 매일경제",
+    "url": "https://mk.co.kr/news/world/12008717",
+    "description": "4 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 5 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
+    "age": "44 minutes ago",
+    "page_age": "2026-04-06T00:36:59",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12008717"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12008717"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/UG6O-e6FZ1VrI3GgVW8BolsRoEcq2Xn2T-LzNfyRR2I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNi9uZXdzLXAu/djEuMjAyNjA0MDYu/YjNmMTUwNmJiNTc4/NGU4ZWI4M2ZjM2U0/MmMyMmYwYTRfUi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Japan, South Korea stocks open higher as investors assess Trump's Iran war comments, extended deadline",
+    "url": "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html",
+    "description": "Trump set a deadline for Iran to reopen Hormuz, escalating threats. Oil jumped as OPEC+ raised output but war continued to disrupt supply.",
     "age": "1 hour ago",
-    "page_age": "2026-04-05T22:59:35",
+    "page_age": "2026-04-06T00:01:56",
     "profile": {
-      "name": "Newsis",
-      "url": "https://www.newsis.com/view/NISX20260406_0003578550"
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "www.newsis.com",
-      "favicon": "https://imgs.search.brave.com/Kzbmq58Rc6fAq-JJj-MVCPvkxE_bblb8HWLggg7maew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDExN2M0MjFi/Yzc0MzQ2NDUzMWQ2/ZGM5NmEwNGEzZjU5/ZjcyOGE1ZWNhNDc5/Y2Q1NWRiODcxNmQ5/ODg3MjA0OS93d3cu/bmV3c2lzLmNvbS8",
-      "path": "› view  › NISX20260406_0003578550"
+      "netloc": "cnbc.com",
+      "hostname": "www.cnbc.com",
+      "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+      "path": "› 2026  › 04  › 06  › asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/CgdRvcQrskHAa4n2TGHSmPonUk9XlvWfK8vNGd_7oE4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNS8xMi8xNy9O/SVNJMjAyNTEyMTdf/MDAwMDg2NjE0MF93/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/_AoRSufrtfsEf-14Bp50Xke5LLQSqz_Ay4B0bLB6QDA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgyODY3Mjkt/MTc3NTE0Mjc0NzIw/MjYtMDMtMjV0MTUw/ODA5el83OTUwODAx/NTFfcmMyb2JrYXly/MDhlX3J0cm1hZHBf/MF9pcmFuLWNyaXNp/cy1ndWxmLW9tYW4u/anBlZz92PTE3NzUx/NDI3NjMmYW1wO3c9/MTkyMCZhbXA7aD0x/MDgw"
     }
   },
   {
     "type": "news_result",
-    "title": "[속보]‘최후통첩 하루 연장’ 7일 오후 8시에 공격 “발전소·교량 하나도 남기지 않겠다” | 문화일보",
-    "url": "https://www.munhwa.com/article/11579934",
-    "description": "도널드 트럼프 미국 대통령이 당초 제시한 대이란 인프라 공격 시한을 하루 연장해 오는 7일 오후 8시(한국시간 8일 오전 9시)로 최후 통첩했다. 트럼프 대통령은 이란의 발전소와 교량 등 인프라 시설들을 빼놓지 않고 모두 ...",
+    "title": "Iran’s Revolutionary Guard Navy warns Strait of Hormuz will ‘never return to its former state’ for US, Israel",
+    "url": "https://www.aa.com.tr/en/americas/iran-s-revolutionary-guard-navy-warns-strait-of-hormuz-will-never-return-to-its-former-state-for-us-israel/3893065",
+    "description": "Iran's Islamic Revolutionary Guard Corps Navy said Sunday that the Strait of Hormuz will never return to its previous status, particularly for the US and Israel, as Tehran moves to implement a new security arrangement for the Persian Gulf, aiming to exclude what it considers to be hostile actors.",
+    "age": "2 hours ago",
+    "page_age": "2026-04-05T23:30:04",
+    "profile": {
+      "name": "Anadolu Ajansı",
+      "url": "https://www.aa.com.tr/en/americas/iran-s-revolutionary-guard-navy-warns-strait-of-hormuz-will-never-return-to-its-former-state-for-us-israel/3893065"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aa.com.tr",
+      "hostname": "www.aa.com.tr",
+      "favicon": "https://imgs.search.brave.com/ATZ6WJCaPN0YzYcBHkwQKMD8eq9P_RQJr4_gWmbn43U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjE3MWJhMTZh/OGMzOGYzMDgxMmQ1/YTgxMGMxNGNmNzg1/MDRiNWY3YzllOGQ1/ZWE4NzM4ZGE2OGJl/MjdhYzEzNC93d3cu/YWEuY29tLnRyLw",
+      "path": "› en  › americas  › iran-s-revolutionary-guard-navy-warns-strait-of-hormuz-will-never-return-to-its-former-state-for-us-israel  › 3893065"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/1GsBTu7UFq2YpRlZtOyHNvlJoquijO1zpibcl2FcOhc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG51/cGxvYWRzLmFhLmNv/bS50ci91cGxvYWRz/L0NvbnRlbnRzLzIw/MjYvMDQvMDYvdGh1/bWJzX2JfY180YmIy/ZTJmZDhkNWIxNGRj/NTYzZjMzZGU3NTlk/NWViMi5qcGc_dj0w/MjE3MjM"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Oil climbs anew on mixed signals about Iran war's future",
+    "url": "https://www.axios.com/2026/04/05/oil-rises-iran-war-future-trump",
+    "description": "President Trump has signaled major escalation, but also told Axios that the U.S. is in \"deep negotiations\" with Iran.",
+    "age": "2 hours ago",
+    "page_age": "2026-04-05T23:26:54",
+    "profile": {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/04/05/oil-rises-iran-war-future-trump"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "axios.com",
+      "hostname": "www.axios.com",
+      "favicon": "https://imgs.search.brave.com/36Qcnqeww33w_XW2TE8H562NGeN_xx12UkMckmcwb90/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
+      "path": "› 2026  › 04  › 05  › oil-rises-iran-war-future-trump"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2BB8Bb7jTRYJOFG5JKB9FW3LO-TEqChAob3mnQCSXik/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXhpb3MuY29t/L3NkeWRJNy1OcWhp/aWVmWXNfS29FY0wz/Wk9KOD0vMHgwOjQx/MzN4MjMyNS8xMzY2/eDc2OC8yMDI2LzA0/LzA1LzE3NzU0MzE4/MjAzMjAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“이란이 판 함정일까 우려했다”…구출 장교 뒷이야기 전한 트럼프 - 매일경제",
+    "url": "https://mk.co.kr/news/world/12008594",
+    "description": "4 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 5 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
+    "age": "2 hours ago",
+    "page_age": "2026-04-05T23:05:50",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12008594"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12008594"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/LLe-2q-7vzz8EjTtMEBi38ZTdRW-lmPoQ4Y6sQmhAfQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNi9uZXdzLXAu/djEuMjAyNjA0MDYu/MGNkNjMwYTBkZDM1/NDQwY2E0YTkxMjdk/ZDQwNzllNWRfUi5q/cGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism | Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/trump-invokes-religious-rhetoric-praise-iran-rescue-drawing-criticism-2026-04-05/",
+    "description": "NEW YORK, April 5 (Reuters) - President Donald Trump and other U.S. officials cast the rescue of a U.S. airman in Iran ​as an “Easter miracle” on Sunday, framing the operation in religious terms that portrayed the war as a just cause and divinely ‌blessed.",
     "age": "3 hours ago",
-    "page_age": "2026-04-05T21:18:24",
+    "page_age": "2026-04-05T22:42:39",
     "profile": {
-      "name": "Munhwa",
-      "url": "https://www.munhwa.com/article/11579934"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/trump-invokes-religious-rhetoric-praise-iran-rescue-drawing-criticism-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "www.munhwa.com",
-      "favicon": "https://imgs.search.brave.com/1kuN8S7qafYNC3cyLmYyz-ezvd9p-f8WiLc7ehxSSI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YyOTVmNDAw/NWNmMjNiOTY2ZGMz/NmUyYWIwZDg3ZmM1/NzE4ZTc2ODI3NzRk/MjYzZDI5NjZmOTVl/NjkzMWZjZC93d3cu/bXVuaHdhLmNvbS8",
-      "path": "› article  › 11579934"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› business  › media-telecom  › trump-invokes-religious-rhetoric-praise-iran-rescue-drawing-criticism-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/mgMdFj9KcmAbNwkYd5BXkbogY4NZRY3g78NX3IMDLpE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNC8wNi9yY3Yu/WU5BLjIwMjYwNDAy/LlBBRjIwMjYwNDAy/MTM5MTAxMDA5X1Iu/anBn"
+      "src": "https://imgs.search.brave.com/POHcZdg0fyp6ftc7ERkaKdGSCyIDQGl5l2UgLrVjhCk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9H/SUI2VUkyTE1STTUz/QkhGRDVNSjNaRU5U/SS5qcGc_YXV0aD1k/MTNmMWYzY2M1OGQz/OTg3OGI2MjMxZjQx/NjEzZjZlMDMwYWFj/M2JkZjQ0ZDJjNmY4/NDE2YWM2YzMyMTRm/NzI0JmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
     "type": "news_result",
-    "title": "'이틀 앞' 트럼프의 공격유예 시한…이란전쟁 중대확전 기로에 | 연합뉴스",
-    "url": "https://www.yna.co.kr/view/AKR20260406001200071",
-    "description": "(워싱턴=연합뉴스) 백나리 특파원 = 도널드 트럼프 미국 대통령이 제시한 인프라 공격 유예 시한 만료가 임박하면서 이란 전쟁이 개전 이래 최대 ...",
+    "title": "Oil prices open higher as US-Israeli war with Iran continues to disrupt supply | Reuters",
+    "url": "https://www.reuters.com/business/energy/oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05/",
+    "description": "Oil prices opened higher on ​Monday after the Easter ‌holiday weekend as the U.S.-Israeli war with ​Iran continues to ​disrupt global oil supply.",
+    "age": "3 hours ago",
+    "page_age": "2026-04-05T22:26:21",
+    "profile": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› business  › energy  › oil-prices-open-higher-us-israeli-war-with-iran-continues-disrupt-supply-2026-04-05"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/E5qi1FYsVrbOh1riVJaJhiYyWl4xWzjABFu_1Ch2QLg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi80/QUI3NDdFN0FOSlJE/SVFQNTJZSFdDQU5X/TS5qcGc_YXV0aD1h/NWQwZjAyM2FmM2E0/M2E3OGIwMThlOTMx/MjRkOTJjZGIzMzQy/NTllMzMwNjYyNDky/YzM5NGE2MzZlMzlk/NmYzJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+    "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o",
+    "description": "Gen Ali Abdollahi Aliabadi of Iran's central military command said Trump's threat was a \"helpless, nervous, unbalanced and stupid action\", adding that \"the gates of hell will open\" for the US leader. Meanwhile, Israel has attacked civilian Iranian infrastructure sites - a petrochemical facility ...",
+    "age": "4 hours ago",
+    "page_age": "2026-04-05T21:10:06",
+    "profile": {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbc.com",
+      "hostname": "www.bbc.com",
+      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+      "path": "› news  › articles  › cvg0q6wdzp1o"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ezqTGJtbJmfm9LdfHhYVpF1ADYUR6koIDiClxdguav0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/ODQ5My9saXZlL2Zi/YTA4MDIwLTMxM2Et/MTFmMS04MTlkLWM5/NmE0OTc4NTUxZC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran briefing with Matthew Doran: Threats tell us more about Trump's frustration than anything else - ABC News",
+    "url": "https://www.abc.net.au/news/2026-04-06/iran-israel-war-daily-news-briefing/106525578",
+    "description": "Iranian strikes across the region have continued, with missile barrages launched at Israel sending millions rushing to shelters. Northern Israel reported a number of attacks, with some injured from debris from intercepted missiles.",
+    "age": "5 hours ago",
+    "page_age": "2026-04-05T20:40:50",
+    "profile": {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-04-06/iran-israel-war-daily-news-briefing/106525578"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "abc.net.au",
+      "hostname": "www.abc.net.au",
+      "favicon": "https://imgs.search.brave.com/gD8BplJdajC77EYKZFcUQdQd1DLoTc2oZd_nWtlbqVk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTVkYjJlMTRl/MDRjOTE4NWNkMDIy/ZjIwNDYwYmNkYTBm/M2ZkYTllNDM2Y2Ni/MGFmODUyNjM0YmY5/ZjViZmM1Zi93d3cu/YWJjLm5ldC5hdS8",
+      "path": "› news  › 2026-04-06  › iran-israel-war-daily-news-briefing  › 106525578"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Fz4JWZEnB_DhDXgKRTthxc5tkbkVC64t4gwtcoiiHkw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9saXZl/LXByb2R1Y3Rpb24u/d2Ntcy5hYmMtY2Ru/Lm5ldC5hdS9iOGJh/YTVhN2I1ODRkZDg1/MTA0ZThiNWU2Nzcx/ZTBmNj9pbXBvbGlj/eT13Y21zX3dhdGVy/bWFya19uZXdzJmFt/cDtjcm9wSD0yMzM2/JmFtcDtjcm9wVz00/MTUzJmFtcDt4UG9z/PTAmYW1wO3lQb3M9/MjE5JmFtcDt3aWR0/aD04NjImYW1wO2hl/aWdodD00ODUmYW1w/O2ltZm9ybWF0PWdl/bmVyaWM"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "How will the Iran war change the Middle East? We asked 5 experts",
+    "url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652",
+    "description": "The US, Israel and Iran war will shift alliances and create insecurity for years to come.",
+    "age": "5 hours ago",
+    "page_age": "2026-04-05T20:25:05",
+    "profile": {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theconversation.com",
+      "hostname": "theconversation.com",
+      "favicon": "https://imgs.search.brave.com/HLzEVIDPYPCYB0taygkeGnfLwITnzrl1_J9i2ZUbLho/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRkODFmMjM4/YTM5YTJhMGY4MWNk/NjU3NTBlMmM5ZDM1/NTQ5YjNmNzI4N2Ex/MTdlNjViODAyM2Nj/YTNkMTY3ZS90aGVj/b252ZXJzYXRpb24u/Y29tLw",
+      "path": "› how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/nRQYOkwFq7nzLJMft_qgzhAMehgPN9kunrUayWY7Zog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGhlY29udmVy/c2F0aW9uLmNvbS9m/aWxlcy83Mjc3OTAv/b3JpZ2luYWwvZmls/ZS0yMDI2MDQwMi01/Ny1hdDBxYWQucG5n/P2l4bGliPXJiLTQu/MS4wJmFtcDtyZWN0/PTAlMkM1MCUyQzE2/MDAlMkM4MDAmYW1w/O3E9NDUmYW1wO2F1/dG89Zm9ybWF0JmFt/cDt3PTEzNTYmYW1w/O2g9NjY4JmFtcDtm/aXQ9Y3JvcA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump declares victory after pilot rescue, but threats to US aircraft and personnel remain in Iran",
+    "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo",
+    "description": "But some - even fervent Maga supporters - have already grown uncomfortable with the prospect of an expensive, messy war with an unclear endgame which could lead to US casualties. However, the recovery of the two pilots robbed Iran of what would have amounted to a massive propaganda victory.",
+    "age": "5 hours ago",
+    "page_age": "2026-04-05T20:02:01",
+    "profile": {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbc.com",
+      "hostname": "www.bbc.com",
+      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+      "path": "› news  › articles  › cy01vg7x5ppo"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/j5Qw1QowP2oE38wdZCvuaIqwzpjFLgj82EQ0mON1X5I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/ZDQ4Yy9saXZlLzI2/ZTYxOWIwLTMxMWUt/MTFmMS1hNzBkLTc1/MzljOWMxNzEyZS5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "How rescue of US airman in remote part of Iran unfolded",
+    "url": "https://bbc.com/news/articles/cx2vpz1kwreo",
+    "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+    "age": "5 hours ago",
+    "page_age": "2026-04-05T20:00:20",
+    "profile": {
+      "name": "BBC",
+      "url": "https://bbc.com/news/articles/cx2vpz1kwreo"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbc.com",
+      "hostname": "bbc.com",
+      "favicon": "https://imgs.search.brave.com/kfRy7wuGNQWzU47LzCO0VZPfeuEgMwKe1nZIYNJS9SU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODczZDE3NmVj/MzFhZjM1Yzc3YjA0/YTdhM2NkYTkxMGM5/NmQ5Yjc4YTBmMjY2/MTMzNWE1MzgwOWNm/NGQ3YWZlYy9iYmMu/Y29tLw",
+      "path": "› news  › articles  › cx2vpz1kwreo"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Yrvs-SSAnPEUFs2ZliEE5cups-2eikxWtIM9-yfxQik/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/M2JjMi9saXZlLzEy/MmNlMGMwLTMwZGUt/MTFmMS04ZGRkLWQx/YjU4NDA3MjBhYi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran - The New York Times",
+    "url": "https://nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html",
+    "description": "The two crew members ejected from ... hit by Iranian fire. The F-15E Strike Eagle, the first fighter jet lost to enemy fire in the war, crashed violently to the ground. The Air Force officers were deep in hostile territory on Friday morning, alone and armed only with pistols. The plane’s pilot was in “constant communication” with his unit and rescued about six hours later by a force that included attack planes and ...",
     "age": "6 hours ago",
-    "page_age": "2026-04-05T17:52:46",
+    "page_age": "2026-04-05T19:26:03",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20260406001200071"
+      "name": "NYTimes",
+      "url": "https://nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "www.yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
-      "path": "› view  › AKR20260406001200071"
+      "netloc": "nytimes.com",
+      "hostname": "nytimes.com",
+      "favicon": "https://imgs.search.brave.com/RN_hisZu4P-ruAdWPR9uvaiS7YyW2d23CPtP4_gduCA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTRlZDNhZjVm/ZDNmYzA0NDdjYjYx/NjY5YWQ5ZDFiYmE1/ZTE5NjE5ZjBiYmRl/NTdkZGFiZDQ0M2Y5/NGNkZjA3Yi9ueXRp/bWVzLmNvbS8",
+      "path": "› 2026  › 04  › 05  › us  › iran-airman-fighter-jet-rescue-mission.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/JfSPZUMuMBfLt8RCfWCb-W1wktcE7LxLJ1ywkvxTamw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcy/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wNC8wMi9Q/QUYyMDI2MDQwMjA5/NDAwMTAwOV9QNC5q/cGc"
+      "src": "https://imgs.search.brave.com/dpr1GaVVJGb-n4TglrNgyzorYyErRNOUD-1OAqhG1Vo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA1L211bHRp/bWVkaWEvMDVkYy1t/aWxpdGFyeS1pcmFu/LXNtb2tlLXdjcG0v/MDVkYy1taWxpdGFy/eS1pcmFuLXNtb2tl/LXdjcG0tZmFjZWJv/b2tKdW1iby5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "러시아는 인터넷 자?? 측면에서 세계에서 마지막 ? ? 자리를 차지했습니다.일부 클라우드워즈에 따르면 러시아는 100 ? ? 중 4 ? ?을 받았으며,0 ? ?으로 북한을 능가했습니다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/russia/2026/04/06/62060.html",
-    "description": "그는 이란이 미국과 \"거래\"할 ... 약속대로 이란의 에너지 시설과 교량을 공격한다면 중동 정세는 더욱 악화될 것이라고... ... 예멘의 후티 반군은 아직 미국의 공세에 반대하지 않?? 있으며, 이스라엘 공격을 ...",
+    "title": "Trump Again Threatens to Bomb Iran's Power Plants If Strait of Hormuz Not Open by Tuesday",
+    "url": "https://time.com/article/2026/04/05/trump-power-plants-iran-hormuz/",
+    "description": "Trump has made several similar threats to bomb Iran’s power plants, only to postpone or move deadlines after claiming progress in talks with Iranian leaders. Under international humanitarian law, attacks on objects “indispensable to the survival of the civilian population” are prohibited ...",
+    "age": "6 hours ago",
+    "page_age": "2026-04-05T19:18:45",
+    "profile": {
+      "name": "TIME",
+      "url": "https://time.com/article/2026/04/05/trump-power-plants-iran-hormuz/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "time.com",
+      "hostname": "time.com",
+      "favicon": "https://imgs.search.brave.com/nfd5JuER7u0mjyEPk1ytIw4_qGaihXtj6okMjkW62TE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRkMzU3NTQy/ZTI0OTAwYTdmOWY0/MzAyZTRmZTcyOGY3/OTcyMGM2OGNjYThk/YjRiZDUxN2NmYmYz/MmY0MzcxZi90aW1l/LmNvbS8",
+      "path": "› article  › 2026  › 04  › 05  › trump-power-plants-iran-hormuz"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2pGU5zzuGTthJX0019UUo65ApcAgThaAkQlPfsnEDws/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nY3At/bmEtaW1hZ2VzLmNv/bnRlbnRzdGFjay5j/b20vdjMvYXNzZXRz/L2JsdGVhNjA5Mzg1/OWFmNjE4M2IvYmx0/ZDhiYjM5ZjNhNGVm/OWIwMC82OWQyOTFj/NzVkOTE4OTQxN2E0/NzI0MDcvQVAyNjA5/MzI0OTg1MzMyMS5q/cGc_YnJhbmNoPXBy/b2R1Y3Rpb24mYW1w/O3dpZHRoPTM4NDAm/YW1wO3F1YWxpdHk9/NzUmYW1wO2F1dG89/d2VicCZhbXA7Y3Jv/cD0xNiUzQTk"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice",
+    "url": "https://time.com/article/2026/04/05/-safe-and-sound-how-a-u-s-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice",
+    "description": "The F-15E was the first U.S. military aircraft to be shot down inside Iran since the start of the Iran war on Feb. 28, when the U.S. and Israel launched a surprise attack that killed the country’s Supreme Leader, Ali Khamenei, and more than 100 school children in a single day.",
+    "age": "6 hours ago",
+    "page_age": "2026-04-05T19:18:45",
+    "profile": {
+      "name": "TIME",
+      "url": "https://time.com/article/2026/04/05/-safe-and-sound-how-a-u-s-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "time.com",
+      "hostname": "time.com",
+      "favicon": "https://imgs.search.brave.com/nfd5JuER7u0mjyEPk1ytIw4_qGaihXtj6okMjkW62TE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRkMzU3NTQy/ZTI0OTAwYTdmOWY0/MzAyZTRmZTcyOGY3/OTcyMGM2OGNjYThk/YjRiZDUxN2NmYmYz/MmY0MzcxZi90aW1l/LmNvbS8",
+      "path": "› article  › 2026  › 04  › 05  › -safe-and-sound-how-a-u-s-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Qp_8X4InUxkygbrYQRvyPJc18z9No35eEyD985Iyjm0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nY3At/bmEtaW1hZ2VzLmNv/bnRlbnRzdGFjay5j/b20vdjMvYXNzZXRz/L2JsdGVhNjA5Mzg1/OWFmNjE4M2IvYmx0/Yzg5ZDE4YjNkZTY2/NjA5ZC82OWQyNWNi/ZjQ2OGQ4MjllOWJi/YjRhNTkvQVAyNjA5/NTM4NTQ5NDE5NS5q/cGc_YnJhbmNoPXBy/b2R1Y3Rpb24mYW1w/O3dpZHRoPTM4NDAm/YW1wO3F1YWxpdHk9/NzUmYW1wO2F1dG89/d2VicCZhbXA7Y3Jv/cD0xNiUzQTk"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "US-Israel-Iran War Live: Iran's IRGC claims attack on Israeli-linked ship off UAE's coast",
+    "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-donald-trump-netanyahu-middle-east-conflict-2892018-2026-04-06",
+    "description": "US-Israel-Iran War Live Updates: US President Donald Trump has escalated tensions with Iran, warning that \"power plants and bridges\" could be targeted if the Strait of Hormuz is not reopened by Tuesday evening, saying \"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one.\"",
     "age": "7 hours ago",
-    "page_age": "2026-04-05T16:49:31",
+    "page_age": "2026-04-05T18:42:25",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/russia/2026/04/06/62060.html"
+      "name": "India Today",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-donald-trump-netanyahu-middle-east-conflict-2892018-2026-04-06"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› russia  › 2026  › 04  › 06  › 62060.html"
+      "netloc": "indiatoday.in",
+      "hostname": "www.indiatoday.in",
+      "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+      "path": "› world  › story  › us-israel-iran-war-live-updates-strait-of-hormuz-donald-trump-netanyahu-middle-east-conflict-2892018-2026-04-06"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/PBUmk_pUbkKw3B3d_xv-ClcgB1sOy8QjMHn4g7bhFQo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA2Lzc3Y2U4/YjhmZTNkOWY0YmE2/YjMzYzIyYjQyNjM2/MzU4X28uanBn"
+      "src": "https://imgs.search.brave.com/LIExjlu7wvsU8FW7pM2au6-BlHxk1rSds0_wJrRoe6k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvYnJlYWtpbmdf/bmV3cy8yMDI2MDQv/c3RyYWl0LW9mLWhv/cm11ei0wNDU4MDcx/NDQtMTZ4OS5wbmc_/VmVyc2lvbklkPUZt/Q1RWNnJZazRGNjNV/bWRkNzFhRUhIUDRR/OFN3YTBG"
     }
   },
   {
     "type": "news_result",
-    "title": "\"전투기 격추·구조에 고무된 미·이란…훨씬 위험해진 전쟁\" | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260406001300072",
-    "description": "그는 \"이란은 보복에 최대한의 역량을 동원할 것이고, 이는 비례적인 공격이 아닐 수도 있다\"며 \"이란의 기반시설은 매우 중요하고, 이를 공격하는 것은 국제법 위반이자 사실상 전쟁범죄이기 때문\"이라고 덧붙였다.",
+    "title": "Iran live updates: Trump says we're 'blowing up the whole country' if Iran doesn't make deal in 48 hours - ABC7 Los Angeles",
+    "url": "https://abc7.com/live-updates/iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail/18809147/",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes attack targeting military and government sites, officials said.",
     "age": "7 hours ago",
-    "page_age": "2026-04-05T16:40:50",
+    "page_age": "2026-04-05T18:40:51",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260406001300072"
+      "name": "ABC7",
+      "url": "https://abc7.com/live-updates/iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail/18809147/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260406001300072"
+      "netloc": "abc7.com",
+      "hostname": "abc7.com",
+      "favicon": "https://imgs.search.brave.com/0HNWChtoABwLsdvd9suv8tBBV7qUCGaMBBhhEJp59Vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTZhMGI0YTA0/NTNjNWJiZmM3ODA4/YzcyM2Y0OWIxNWZi/ZTA4ZDk1NmYxOWUx/MGVhNWU5M2EwMTcy/ZTE1NTBkMC9hYmM3/LmNvbS8",
+      "path": "› live-updates  › iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail  › 18809147"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/aFLzGKbg1YDDkNh4NopGgCxpB1TmWVwaNOale0ln9Rs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcy/LnluYS5jby5rci9w/aG90by9jbXMvMjAy/Ni8wNC8wNS8xNy9Q/Q00yMDI2MDQwNTAw/MDAxNzk5MF9QNC5q/cGc"
+      "src": "https://imgs.search.brave.com/zhUp4aNqnBn1F3-0iFeXYxwLHpiIWxMZ-oGtN3fO6AQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWJjb3R2cy5jb20v/ZGlwL2ltYWdlcy8x/ODg0NDQ3OF8wNDA1/MjYta2dvLWFwLWRv/bmFsZC10cnVtcC1p/bWcuanBnP3c9MTYw/MA"
     }
   },
   {
     "type": "news_result",
-    "title": "총 들고 포위망 좁힌 이란… 美장교, 바위 틈에서 버텼다",
-    "url": "https://chosun.com/international/international_general/2026/04/06/CMS6JAFRBVE55NKYXOS7X7JHBI",
-    "description": "총 들고 포위망 좁힌 이란 美장교, 바위 틈에서 버텼다 미군이 이란 적진에 홀로 남겨진 F-15E 스트라이크 이글 전투기의 조종사를 구출해 내면서 이 작전에 대한 관심이 이어지고 있다. 소총을 든 이란 민병대가 실종된 ...",
+    "title": "Trump makes profane threat about Strait of Hormuz after pilot rescue - ABC7 New York",
+    "url": "https://abc7ny.com/live-updates/iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail/18809147/entry/18843742/",
+    "description": "President Donald Trump is threatening to attack Iran's power plants and bridges on Tuesday if the Strait of Hormuz is not fully opened by then.",
+    "age": "7 hours ago",
+    "page_age": "2026-04-05T18:40:51",
+    "profile": {
+      "name": "ABC7 New York",
+      "url": "https://abc7ny.com/live-updates/iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail/18809147/entry/18843742/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "abc7ny.com",
+      "hostname": "abc7ny.com",
+      "favicon": "https://imgs.search.brave.com/uAN8U1vdl-uLamR5LHZUgzVXt_OVHkInteCEw64BVdk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGNkNTIyN2Ex/OGExMDljMWUxYzE0/MmI4OTM0ODY1YzJh/ZWI2YzAxMWU3NjY5/ZjQ4OGJmOGJlMzI3/ZjRjMGFmMC9hYmM3/bnkuY29tLw",
+      "path": "› live-updates  › iran-live-updates-trump-threatens-infrastructure-strikes-talks-fail  › 18809147  › entry  › 18843742"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/zhUp4aNqnBn1F3-0iFeXYxwLHpiIWxMZ-oGtN3fO6AQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWJjb3R2cy5jb20v/ZGlwL2ltYWdlcy8x/ODg0NDQ3OF8wNDA1/MjYta2dvLWFwLWRv/bmFsZC10cnVtcC1p/bWcuanBnP3c9MTYw/MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump warns Iran to reopen strait of Hormuz by Tuesday or face ‘hell’ | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell",
+    "description": "The latest threat of escalation in the five-week war followed the rescue of a second crew member of a downed F-15E fighter by US commandos, ending a two-day search after the warplane crashed in south-west Iran.",
+    "age": "7 hours ago",
+    "page_age": "2026-04-05T18:20:10",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › 2026  › apr  › 05  › trump-warns-iran-to-reopen-strait-of-hormuz-by-tuesday-or-face-hell"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/JHKlJcUbLfNd9B_nlILgRZQi_jVmZHxPlkjj4jvRwAA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2M3ZWYw/ZjQyMzc2OTJkMmI1/NGFlZDk0ZTU3YjU2/Y2Y3NGNlMDYzOGEv/OTY4XzUwOF8yNTI4/XzIwMjIvbWFzdGVy/LzI1MjguanBnP3dp/ZHRoPTEyMDAmaGVp/Z2h0PTYzMCZxdWFs/aXR5PTg1JmF1dG89/Zm9ybWF0JmZpdD1j/cm9wJnByZWNyb3A9/NDA6MjEsb2Zmc2V0/LXg1MCxvZmZzZXQt/eTAmb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dFpHVm1ZWFZzZEM1/d2JtYyZlbmFibGU9/dXBzY2FsZSZzPTg1/ZDE0YzM4ZTY2ZGU0/Y2QzMGZjNTRjMmMz/YzdjNWRi"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump Revels in Threats to Commit War Crimes in Iran - The New York Times",
+    "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html",
+    "description": "The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.",
     "age": "8 hours ago",
-    "page_age": "2026-04-05T15:51:12",
+    "page_age": "2026-04-05T17:39:35",
     "profile": {
-      "name": "Chosun Daily",
-      "url": "https://chosun.com/international/international_general/2026/04/06/CMS6JAFRBVE55NKYXOS7X7JHBI"
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "chosun.com",
-      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
-      "path": "› international  › international_general  › 2026  › 04  › 06  › CMS6JAFRBVE55NKYXOS7X7JHBI"
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 04  › 05  › us  › politics  › trump-iran-war-crimes-truth-social.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/2pKWTM3Ub9ufRUbvKg1hmp2jBwbd3SWwQXdZFuzGW3Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL1FZ/QTVPSUNQVkZFR1JB/QjJVTktHRTNaUFFR/LmpwZz9hdXRoPTU5/MzI1OTc5ZTYxNjgz/M2M2NGFjYWUyMzU5/ZDQwMjRkYjQyNTI5/ZmExZDAzZjQ3NTJl/MGIyOTA3OTdlYTUz/NTQmYW1wO3dpZHRo/PTYyMiZhbXA7aGVp/Z2h0PTMyNiZhbXA7/Zm9jYWw9MzU3LDE0/Ng"
+      "src": "https://imgs.search.brave.com/sQc9wjLsZucY1YpAqEH0XY1UGGwxSbRwjhIID2YGLQ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA1L211bHRp/bWVkaWEvMDVkYy13/YXJjcmltZXMtdHJ1/bXAtZmp2Yy8wNWRj/LXdhcmNyaW1lcy10/cnVtcC1manZjLWZh/Y2Vib29rSnVtYm8u/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "US–Israel–Iran War Latest News: How US Airman Survived 48 Hours in Iran After F-15E Strike Eagle Was Shot Down",
+    "url": "https://sundayguardianlive.com/world/usisraeliran-war-latest-news-how-us-airman-survived-48-hours-in-iran-after-f-15e-strike-eagle-was-shot-down-181813/",
+    "description": "A US airman survived nearly 48 hours inside Iranian territory after his F-15E Strike Eagle fighter jet was shot down during the escalating US–Israel–Iran conflict. The crew ejected before the crash, but one member remained stranded in mountainous terrain while Iranian forces searched the area.",
+    "age": "8 hours ago",
+    "page_age": "2026-04-05T17:07:40",
+    "profile": {
+      "name": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/world/usisraeliran-war-latest-news-how-us-airman-survived-48-hours-in-iran-after-f-15e-strike-eagle-was-shot-down-181813/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sundayguardianlive.com",
+      "hostname": "sundayguardianlive.com",
+      "favicon": "https://imgs.search.brave.com/dmYpr0uW3Tg_IWrhQJ_W3kE1tx4DDy8Q6gEHY4fr1H8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzBhODZmZjI2/N2E4ZGNlNjMxNTJh/MjJhODU2ZTFjZWU4/NmEzMTJmZjc4OWMx/NDA1YmE5OTkxYWRm/MWJkMzUxMy9zdW5k/YXlndWFyZGlhbmxp/dmUuY29tLw",
+      "path": "› world  › usisraeliran-war-latest-news-how-us-airman-survived-48-hours-in-iran-after-f-15e-strike-eagle-was-shot-down-181813"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/VOpUB1-UXiwd6eQF1prBlw3s4Xi2luD_eE-UCvjeB3w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdW5k/YXlndWFyZGlhbmxp/dmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA0L2Rl/bGljaW91cy1iZWV0/cm9vdC1kaXNoZXMt/cmVjaXBlcy00LnBu/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump issues expletive-laden threat against Iran as details of U.S. aviator's rescue emerge | PBS News",
+    "url": "https://www.pbs.org/newshour/nation/trump-issues-expletive-laden-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge",
+    "description": "An intense search followed Friday's crash of the F-15E Strike Eagle, while Iran promised a reward for the \"enemy pilot.\" It was the first known American aircraft to crash in Iranian territory since the U.S. and Israel launched the war on Feb.",
+    "age": "10 hours ago",
+    "page_age": "2026-04-05T15:41:35",
+    "profile": {
+      "name": "PBS",
+      "url": "https://www.pbs.org/newshour/nation/trump-issues-expletive-laden-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "pbs.org",
+      "hostname": "www.pbs.org",
+      "favicon": "https://imgs.search.brave.com/5IchnCgOSKQjG_xWeylgRE8v0GvszZCmPHDYfQFf8EU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmEyM2UyZmM5/ZTBkNTVjZGIyY2Y5/NzIzNjcwM2EyMzM3/ODIzMzEwZWNmNzhi/ZDNjZTIwNTU5YTU4/ZjNmYWE2NC93d3cu/cGJzLm9yZy8",
+      "path": "› newshour  › nation  › trump-issues-expletive-laden-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XAHApst8zbqRaAG1C4EMUdKMwd61JdLKBl4LIlCkIyQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kM2k2/Zmg4M2VsdjM1dC5j/bG91ZGZyb250Lm5l/dC9zdGF0aWMvMjAy/Ni8wNC8yMDI2LTA0/LTAyVDA5MDE1Nlpf/MTczOTQ3NDQwNF9S/QzJZRktBTzhWSzVf/UlRSTUFEUF8zX1VT/QS1DT1VSVC1UUlVN/UC1CSVJUSFJJR0hU/LTEtMTAyNHg2ODMu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran | US-Israel war on Iran | Al Jazeera",
+    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran",
+    "description": "US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is ‘highly aggressive’.",
+    "age": "10 hours ago",
+    "page_age": "2026-04-05T15:21:39",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› video  › the-bottom-line  › 2026  › 4  › 5  › mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3AIoFqCKDK3X6-GpmuMYUCVHtiwIwgs8P4wxAQA7qPc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNC9pbWFnZS0x/Nzc1NDAyNDkyLmpw/Zz9yZXNpemU9MTky/MCUyQzEwODAmYW1w/O3F1YWxpdHk9ODA"
     }
   },
   {
@@ -136,7 +576,7 @@
     "title": "중러 외교장관 '이란전쟁' 논의…\"휴전 촉구·안보리서 협력\" | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260406000200083",
     "description": "(베이징=연합뉴스) 정성조 특파원 = 중국과 러시아의 외교 수장이 이란 전쟁 상황에 관해 의견을 교환하고 전쟁 당사국들의 휴전을 거듭 촉구했다.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-05T15:07:48",
     "profile": {
       "name": "Yonhap News Agency",
@@ -155,24 +595,68 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프, 이란 협상 타결 전망에 \"내일 가능성 크다\"",
-    "url": "https://imnews.imbc.com/news/2026/world/article/6812826_36925.html",
-    "description": "미국 도널드 트럼프 대통령이 이란과 협상을 계속하고 있으며, 이란에 대한 공격 유예 시한인 6일까지 협상이 타결될 가능성이 크다고 밝혔습니다. 트럼프 대통령은 현지시간 5일 폭스뉴스와의 인터뷰에서 이란과의 협상 ...",
-    "age": "9 hours ago",
-    "page_age": "2026-04-05T14:36:03",
+    "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf",
+    "description": "The US and Israel have repeatedly hit the plant, raising risks of radioactive contamination far beyond Iran's borders.",
+    "age": "10 hours ago",
+    "page_age": "2026-04-05T15:05:49",
     "profile": {
-      "name": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6812826_36925.html"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› news  › 2026  › world  › article  › 6812826_36925.html"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › 2026  › 4  › 5  › why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/8LIZEdNTIhMqzSdQgzNCyWZpPzVoXoUUZfog3qrRYTg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vbmV3cy8y/MDI2L3dvcmxkL2Fy/dGljbGUvX19pY3NG/aWxlcy9hZmllbGRm/aWxlLzIwMjYvMDQv/MDUvczI2MDQwNl8w/MDA1LmpwZw"
+      "src": "https://imgs.search.brave.com/-VMQIb-aEXN490t1TyugX4E1aRHQ9olip13aCg90n0E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMi9BUDI1MjQw/MzkzNDc3MzYwLTE3/NzEzMDc1MDUuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Daily Report: The Second Iran War – April 5, 2026 (18:00) - Alma Research and Education Center",
+    "url": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/",
+    "description": "Jordan – The Iranian military announced that it attacked U.S. bases in Jordan overnight. Saudi Arabia – The Saudi Ministry of Defense reported the interception and destruction of a cruise missile. Maritime Arena – The IRGC Navy claimed that on April 4 it attacked the vessel MSC Ishika, which it described as “linked to Israel...",
+    "age": "10 hours ago",
+    "page_age": "2026-04-05T14:54:41",
+    "profile": {
+      "name": "Alma Research and Education Center",
+      "url": "https://israel-alma.org/daily-report-the-second-iran-war-april-5-2026-1800/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "israel-alma.org",
+      "hostname": "israel-alma.org",
+      "favicon": "https://imgs.search.brave.com/U5oPzJo-vh1kQu5kkC6g7czaav85xw4ohAPx_fZhx7I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDY2ZjI5ZDFh/Mzc2NjcyYjg1ZmI4/ZGJhY2I1YzcwOWNk/ZDE2MzFhMDY2MGRj/NDQ4NWVjNmM2MDNj/ODk1YWEzMy9pc3Jh/ZWwtYWxtYS5vcmcv",
+      "path": "› daily-report-the-second-iran-war-april-5-2026-1800"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/5DgyGg7Bvzi8dHwvfE-u76T4vG3f_jRu91wYf4UNTas/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pc3Jh/ZWwtYWxtYS5vcmcv/d3AtY29udGVudC91/cGxvYWRzLzIwMjYv/MDQv16rXnteV16DX/lC3XqNeQ16nXmdeq/LTEuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "GOP Rep. Mike Lawler says Congress will take ‘necessary action’ if Iran war drags on: Full interview",
+    "url": "https://www.nbcnews.com/meet-the-press/video/gop-rep-mike-lawler-says-congress-will-take-necessary-action-if-iran-war-drags-on-full-interview-260736581719",
+    "description": "In an interview with Meet the Press, Rep. Mike Lawler (R-N.Y.) argues the war with Iran is legal and says he would support a congressional vote on a war powers resolution if the conflict lasts beyond 60 days.",
+    "age": "12 hours ago",
+    "page_age": "2026-04-05T13:39:51",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-rep-mike-lawler-says-congress-will-take-necessary-action-if-iran-war-drags-on-full-interview-260736581719"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› meet-the-press  › video  › gop-rep-mike-lawler-says-congress-will-take-necessary-action-if-iran-war-drags-on-full-interview-260736581719"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/5CxpTsWpJaMZostdvhkDrXjSEuoyi2oealQhtG_h3Ac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9tcHgvMjcw/NDcyMjIxOS8yMDI2/XzA0LzE3NzUzOTYz/ODExNzdfbXRwX2Z1/bGxfbGF3bGVyXzI2/MDQwNV9TM18xOTIw/eDEwODAtMTZ0N2ow/LmpwZw"
     }
   },
   {
@@ -180,7 +664,7 @@
     "title": "2026년 중동 위기 - 나무위키",
     "url": "https://namu.wiki/w/2026%EB%85%84%20%EC%A4%91%EB%8F%99%20%EC%9C%84%EA%B8%B0",
     "description": "2026년 1월 13일 부터 시작된 미국 과 이란 간의 갈등과 전쟁 위기. 경과 2025년 12월 2025-",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-04-05T13:35:02",
     "profile": {
       "name": "Namu Wiki",
@@ -199,10 +683,54 @@
   },
   {
     "type": "news_result",
+    "title": "US rescues second crew member of downed F-15E fighter jet from Iran | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
+    "description": "The wreckage of an aircraft in central Iran. Photograph: Sepah NewsAFP/Getty Images · The US military had not had a jet shot down by enemy fire in more than 20 years – since a warplane was downed during the 2003 invasion of Iraq – retired air force Brig Gen Houston Cantwell told the Associated ...",
+    "age": "12 hours ago",
+    "page_age": "2026-04-05T13:13:53",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › 2026  › apr  › 04  › iran-search-missing-us-crew-member-downed-fighter-jet-second-day"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/tKg7ETR4G4-n-1BH3q7YoX7tW6htUa7O0j9DYhvMB8Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2U2MGFh/ZWFjNjRkYjA4YmFi/MWQ1NzkwZGE2YWE4/YmQ5M2E5MDU0ZmEv/MF8xNjZfMjI5M18x/ODM0L21hc3Rlci8y/MjkzLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz0yN2Vi/ZGE0ZTU0ZjI2MzRm/MTlmMGNmNzI0Mzgw/ZDU4ZQ"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal - CBS News",
+    "url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats/",
+    "description": "With Iran choking off the Strait of Hormuz, what can the U.S. do? (\"Sunday Morning\") How Trump and Netanyahu launched attacks on Iran (\"Sunday Morning\")",
+    "age": "12 hours ago",
+    "page_age": "2026-04-05T13:13:13",
+    "profile": {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cbsnews.com",
+      "hostname": "www.cbsnews.com",
+      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
+      "path": "› news  › iran-war-nuclear-program-trump-threats"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Bb8p9E1csQNsfF7dx5BYO_27D0Ot1pMGqrlajZ6WOyo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMxLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/NC8wNS82ZWUzYzQ2/OS1lNDc1LTRlOTkt/OTc5Mi1lNzlhYjVh/ZGNmN2MvdGh1bWJu/YWlsLzEyMDB4NjMw/L2Y5MDY2YThmNGM1/NDJmYjRjNjk3MDMw/YmY3ZGI4NGZmL2ly/YW4td2FyLXVzLW1p/bGl0YXJ5LWFpcmNy/YWZ0LTEyODAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프 “호르무즈 열어라 미친X들아” 7일 대대적 공격 위협 | 중앙일보",
     "url": "https://joongang.co.kr/article/25417652",
     "description": "이란군 총사령부는 4일 “공격적 전쟁광인 미국 대통령은 연이은 패배를 인정한 뒤에도 여전히 다급하고 초조하며 균형감각을 잃은 어리석은 작전으로 이란의 기반시설과 국가 자산에 대한 공격을 계속 위협하고 있다”고 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-04-05T13:00:24",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -221,68 +749,24 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 “호르무즈 열어라 미친X들아” 7일 대대적 공격 위협 | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25417652",
-    "description": "앞서 트럼프 대통령은 지난달 23일 닷새간 이란 발전소 인프라 공격 유예를 선언했다가 시한 만료 하루 전인 지난달 26일 \"발전소 파괴 유예 시한을 4월 6일 오후 8시(한국시간 7일 오전 9시)로 열흘 연기한다\"며 재연장했다.",
-    "age": "11 hours ago",
-    "page_age": "2026-04-05T13:00:24",
+    "title": "‘Open Hormuz or you’ll be living in hell’: Trump’s expletive-laced rant at Iran, threatens attack on Tuesday - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us/open-hormuz-or-youll-be-living-in-hell-trumps-expletive-laced-rant-at-iran-threatens-attack-on-tuesday/articleshow/130039019.cms",
+    "description": "Hezbollah Attacks Israel's North; Claims Missile Hit On Israeli Ship Off Lebanon, IDF Denies · UAE Capital Bombed; Huge Fire In Abu Dhabi As Cruise Missiles Strike Saudi Arabia | WATCH · U.S. Blows Up Own Aircraft In Iran During Daring Rescue Mission After Jet Downed In Combat Zone",
+    "age": "13 hours ago",
+    "page_age": "2026-04-05T12:48:00",
     "profile": {
-      "name": "JoongAng Ilbo",
-      "url": "https://www.joongang.co.kr/article/25417652"
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/open-hormuz-or-youll-be-living-in-hell-trumps-expletive-laced-rant-at-iran-threatens-attack-on-tuesday/articleshow/130039019.cms"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25417652"
+      "netloc": "timesofindia.indiatimes.com",
+      "hostname": "timesofindia.indiatimes.com",
+      "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+      "path": "› world  › us  › open-hormuz-or-youll-be-living-in-hell-trumps-expletive-laced-rant-at-iran-threatens-attack-on-tuesday  › articleshow  › 130039019.cms"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/t9xE-3-_ZZZfMtaKua6nVC28zxuN3TThVHrWERMBa5I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDQvMDUvOGUz/M2QzNDYtYmNhMC00/ZjNhLTgyYWEtMTc1/NWY1ZjVlNjIxLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 혁명수비대, 중동 美관련 에너지 시설 공격…\"두 배로 보복\"",
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02010646645413168",
-    "description": "이스라엘과 미국이 이란 내 기반 시설을 공격한 것과 관련해 이란 이슬람혁명수비대(IRGC)가 중동의 미군 관련 주요 석유화학 및 에너지 시설에 대한 대대적인 타격에 나섰다. 이란 혁명수비대 관련 벽화가 그려진 테헤란 ...",
-    "age": "11 hours ago",
-    "page_age": "2026-04-05T12:44:12",
-    "profile": {
-      "name": "Edaily",
-      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02010646645413168"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "edaily.co.kr",
-      "hostname": "edaily.co.kr",
-      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
-      "path": "› News  › Read"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UKdEfyKw6dDVp4Q-CbLI5bNLfF9593BOJm2WhRgG9Jc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNC9Q/UzI2MDQwNTAwNTg3/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란, 하이파·UAE 정유시설 동시 타격…두 배 보복 경고 | 한국경제",
-    "url": "https://hankyung.com/article/2026040500787",
-    "description": "지난달 30일(현지시각) 이스라엘 북부 하이파의 한 정유소에서 발사체 충돌이 발생한 후 소방관들이 화재 진압을 시도하고 있다. 기사 내용과 직접 관련 없음. /사진=AFP 이란 이슬람혁명수비대(IRGC)는 이스라엘과 미국의 이란 ...",
-    "age": "11 hours ago",
-    "page_age": "2026-04-05T12:26:37",
-    "profile": {
-      "name": "Hankyung",
-      "url": "https://hankyung.com/article/2026040500787"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hankyung.com",
-      "hostname": "hankyung.com",
-      "favicon": "https://imgs.search.brave.com/QYXHOeosX1HK-oSxvD1Z5IhfE9iEA1C4Ci6uKqRgErc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2VjNDI2/NzZlMjE0Y2U1MjM3/MDg0MDQ4NDQzZjE0/ZmE3MTllZGMwYjA0/Njg4OTg1MDJlYjBm/NmRkZTVmMS9oYW5r/eXVuZy5jb20v",
-      "path": "› article  › 2026040500787"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/En-lJHRfbWVrOH-KISlvsokRgiUxRxD5N37LJYXjugM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGFua3l1bmcuY29t/L3Bob3RvLzIwMjYw/NC9aQS40Mzc4ODYx/OC4xLmpwZw"
+      "src": "https://imgs.search.brave.com/gyQJJnJbLZz7gejC2Gb0OGlh73eZY6Dq38Wpni0pX3Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9tc2lk/LTEzMDAzOTYyMCx3/aWR0aC0xMjgwLGhl/aWdodC03MjAsaW1n/c2l6ZS00NzMyOCxy/ZXNpemVtb2RlLTYs/b3ZlcmxheS10b2lf/c3cscHQtMzIseV9w/YWQtNjAwL3Bob3Rv/LmpwZw"
     }
   },
   {
@@ -290,7 +774,7 @@
     "title": "이란군, 중동 석유화학 시설 대대적 타격…\"민간 기반시설 공격 보복\" | 아주경제",
     "url": "https://ajunews.com/view/20260405212510427",
     "description": "1시간전 [박승준 지피지기] 미국 흔들리면 중국 웃는다? …이란 전쟁이 깬 베이징의 환상",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-04-05T12:26:32",
     "profile": {
       "name": "Aju News",
@@ -309,68 +793,24 @@
   },
   {
     "type": "news_result",
-    "title": "이란군, 중동 석유화학 시설 대대적 타격…\"민간 기반시설 공격 보복\" | 아주경제",
-    "url": "https://www.ajunews.com/view/20260405212510427",
-    "description": "[사진=로이터연합뉴스] 이란 이슬람혁명수비대(IRGC)가 이스라엘과 미국의 이란 내 기반시설 공격에 대한 보복을 명분으로 중동 지역 에너지·석유화학 시설을 대대적으로 타격했다.",
-    "age": "11 hours ago",
-    "page_age": "2026-04-05T12:26:32",
+    "title": "Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked | Reuters",
+    "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-target-irans-infrastructure-tuesday-2026-04-05/",
+    "description": "Russia's military said early on ... were restoring power ‌to nearly half a million households in outages linked to air attacks. categoryTrump invokes religious rhetoric in praise of Iran rescue, drawing criticism...",
+    "age": "13 hours ago",
+    "page_age": "2026-04-05T12:22:52",
     "profile": {
-      "name": "Aju News",
-      "url": "https://www.ajunews.com/view/20260405212510427"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-target-irans-infrastructure-tuesday-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "www.ajunews.com",
-      "favicon": "https://imgs.search.brave.com/_AUj3DETaA8fJjC5U_ria7_IDrO4M6EUDxUwgMb-QgY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxYjExMzVm/Y2RiMmFiZDY0ODVh/ZDY0YTgyMWRjNjNk/YjY5ZTg5YWNiODVk/YzJhZjMxYzhiNjFj/ZjNkODQ1OC93d3cu/YWp1bmV3cy5jb20v",
-      "path": "› view  › 20260405212510427"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› world  › middle-east  › trump-says-us-will-target-irans-infrastructure-tuesday-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/iOss2kj-huz-Ge4JXRPlZr6UgwIyb7J7QQ9lsGYV98M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDQv/MDUvMjAyNjA0MDUy/MTI1NTAzNzExMjMu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“2배 보복으로 응징” 중동 석유화학 시설 난타한 이란군, 반격 나섰다 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10710282",
-    "description": "[헤럴드경제=이원율 기자]이란 이슬람혁명수비대(IRGC)는 이스라엘과 미국의 이란 내 기반 시설 공격에 대한 보복으로 중동의 미군 관련 주요 에너지·석유화학 시설을 대대적으로 타격했다.",
-    "age": "11 hours ago",
-    "page_age": "2026-04-05T12:26:24",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10710282"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10710282"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/LAUHBRiUztrMU3XRVUum98F2LSTVVjFaTUexyBQZEGE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDQvMDUv/bmV3cy1wLnYxLjIw/MjYwMzEzLjQzMDcy/ZjczNDU5MzQyN2Vi/NTFkOTRjYTg1YWEx/OTg5X1QxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“이란 ‘미사일 벙커’ 때려도 금세 복구”…공습에 ‘무력화’ 의문 - 경향신문",
-    "url": "https://www.khan.co.kr/article/202604052040015/",
-    "description": "3일 뉴욕타임스에 따르면 미 정보당국은 최근 보고서에서 이란이 미·이스라엘의 공습을 받은 직후 지하 미사일 벙커와 저장고를 복구한 뒤 몇시간 만에 미사일 시설을 재가동하고 있다고 분석했다.",
-    "age": "12 hours ago",
-    "page_age": "2026-04-05T11:40:00",
-    "profile": {
-      "name": "Khan",
-      "url": "https://www.khan.co.kr/article/202604052040015/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "www.khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
-      "path": "› article  › 202604052040015"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/YKIv16VfW_n8Teq1j_vvzV7JZg2R3cC_MZskcBnbrdU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9z/cGtvL2NvbXBhbnkv/S2hhbl9DSV8xODAy/MTIuanBn"
+      "src": "https://imgs.search.brave.com/rBjWEdLZJjIIfoUOHlU3eU8pwth1Oyq5lKGIdlUeb_Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi82/RzY1UTdZT0daTVpQ/RkpYQVVMTU1BS1hW/TS5qcGc_YXV0aD03/NzU5ZDgzOWUyMGJm/NWYzZDVmMDIyOGE1/YjU5ZDNkNTQ1NDc3/MDI4NjI3ZWI1OTQ3/ODIwMTY2NDRkYjQ4/MzQ3JmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
@@ -378,7 +818,7 @@
     "title": "이란, 바브엘만데브 봉쇄 경고…호르무즈 이어 홍해도 막히나 - 경향신문",
     "url": "https://khan.co.kr/article/202604052021005",
     "description": "트럼프가 ‘대화채널’ ... 땐 ‘에너지 쇼크’ 가중 미 정보당국 “전쟁 끝나도 통행료 징수… 미국이 영향력 키워줘” · 도널드 트럼프 미국 대통령이 미·이란 간 대화 채널로 지목했던 모하마드 바게르 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-04-05T11:21:00",
     "profile": {
       "name": "Khan",
@@ -397,98 +837,76 @@
   },
   {
     "type": "news_result",
-    "title": "미친자의 이란공격 막아달라…트럼프 비판한 노벨상 수상자 | 한국경제",
-    "url": "https://www.hankyung.com/article/2026040500321",
-    "description": "1997년부터 2009년까지 IAEA ... 인정받아 IAEA와 공동으로 노벨 평화상을 받았다. 최근 들어 미국과 이스라엘의 이란 공격을 공개적으로 비판하는 글로벌 인사가 늘고 있다....",
-    "age": "13 hours ago",
-    "page_age": "2026-04-05T11:18:34",
+    "title": "This Democratic governor is touting her role in the Iran war - POLITICO",
+    "url": "https://www.politico.com/news/2026/04/05/arizona-hobbs-trump-iran-water-00858745",
+    "description": "Arizona is facing deep cuts to the water supply that feeds its desert economy. Gov. Katie Hobbs is banking on President Donald Trump to blunt them.",
+    "age": "14 hours ago",
+    "page_age": "2026-04-05T11:00:00",
     "profile": {
-      "name": "Hankyung",
-      "url": "https://www.hankyung.com/article/2026040500321"
+      "name": "POLITICO",
+      "url": "https://www.politico.com/news/2026/04/05/arizona-hobbs-trump-iran-water-00858745"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hankyung.com",
-      "hostname": "www.hankyung.com",
-      "favicon": "https://imgs.search.brave.com/6M6BQ6kagkjkDBuWsBbFMWepqsaw5PedI-qraJtDnDs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmRkYTA1OTg2/Nzk4Yzg1ZWJkOTM1/ZjViNDViZmViMTk3/ZDQwMTBkYjU4YWQ5/NGU1MGZiZTEyY2Yy/YTIwMTIxNC93d3cu/aGFua3l1bmcuY29t/Lw",
-      "path": "› article  › 2026040500321"
+      "netloc": "politico.com",
+      "hostname": "www.politico.com",
+      "favicon": "https://imgs.search.brave.com/5pGbbvvoTdkXtJPdMBGIy7Z3DxpMCmwu8SBfsS3NRs0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjEyYjZjY2M2/ZTYyOTVmZTlhNzI4/ZDJlNjNhNmU1ZmUy/Zjc2MWNkYWM5ZDM4/ZWQ0YjIxOTM4Y2Zj/MDZjNjAwOC93d3cu/cG9saXRpY28uY29t/Lw",
+      "path": "› news  › 2026  › 04  › 05  › arizona-hobbs-trump-iran-water-00858745"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/7EckqyP8pyOxi26kIqjehUGtxKE4phB-HK-UqHdr6i4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaGFua3l1bmcu/Y29tL2ltZy9sb2dv/L2xvZ28tbmV3cy1z/bnMucG5nP3Y9MjAy/MDExMzA"
+      "src": "https://imgs.search.brave.com/3BpJ-ENhkTdHYGySY90V0wazyQVpNvrj3i-MzUj8TeM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cG9saXRpY28uY29t/L2RpbXM0L2RlZmF1/bHQvcmVzaXplLzEy/MDAvcXVhbGl0eS85/MC9mb3JtYXQvanBn/P3VybD1odHRwcyUz/QSUyRiUyRnN0YXRp/Yy5wb2xpdGljby5j/b20lMkZiMyUyRjlj/JTJGNDI5ZGIzMzA0/ZGE5YTRhMzdkNDY4/OGQ1ZDMyOCUyRmh0/dHBzLWRlbGl2ZXJ5/LWdldHR5aW1hZ2Vz/LmNvbSUyRmRvd25s/b2FkcyUyRjIyNDQw/NDY3ODI"
     }
   },
   {
     "type": "news_result",
-    "title": "“지옥문” 경고에도… 이란, 쿠웨이트·UAE 석유 단지 공격",
-    "url": "https://www.chosun.com/international/international_general/2026/04/05/VP6FRYF77BHJFDNO53SALTGMDY/",
-    "description": "지옥문 경고에도 이란, 쿠웨이트·UAE 석유 단지 공격 도널드 트럼프 미국 대통령이 4일 이란에 지옥문이 열릴 때까지 48시간 남았다며 경고 메시지를 낸 가운데 이란은 이스라엘 도시를 폭격하고 쿠웨이트와 아랍에미리트UAE의 ...",
+    "title": "Israeli intelligence helped US airman rescue mission in Iran, official says | Reuters",
+    "url": "https://www.reuters.com/world/middle-east/israeli-intelligence-helped-us-airman-rescue-mission-iran-official-says-2026-04-05/",
+    "description": "Israel provided ​intelligence assistance ‌to the United ​States ​during an operation ⁠to rescue ​a ​stranded U.S. airman in ​Iran ​and halted its ‌attacks ⁠in the area to ​facilitate ​the ⁠mission, an ​Israeli ​security ⁠official said.",
     "age": "15 hours ago",
-    "page_age": "2026-04-05T09:02:25",
+    "page_age": "2026-04-05T10:51:30",
     "profile": {
-      "name": "Chosun Daily",
-      "url": "https://www.chosun.com/international/international_general/2026/04/05/VP6FRYF77BHJFDNO53SALTGMDY/"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-intelligence-helped-us-airman-rescue-mission-iran-official-says-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 04  › 05  › VP6FRYF77BHJFDNO53SALTGMDY"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› world  › middle-east  › israeli-intelligence-helped-us-airman-rescue-mission-iran-official-says-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/tccSBhsRe0b7WaU0jgRUlPH0lp1kOQlngyeqvprr9jg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0s0/VTRIR1dGWlZEM1BK/Wk9YQzNZVUw1QVZJ/LmpwZz9hdXRoPTc3/ZTRiYjE5MjA1MDRi/ODIzYzEwYmE3M2Ri/MDZlYmIzM2VmZGUy/NjUyNjQ0Yzk5NzM2/ZmJiY2YwYjdlYTRl/YjgmYW1wO3dpZHRo/PTQ4MyZhbXA7aGVp/Z2h0PTI1MyZhbXA7/c21hcnQ9dHJ1ZQ"
+      "src": "https://imgs.search.brave.com/WrbNFCBey5qeJ6kUoIOiYQnZwdSF528mDBobrfF0lbI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9T/N0NHSU5TVElCTVdU/QTRUQTVGS0dGWjdB/RS5qcGc_YXV0aD1i/ODg3NDNmNzc5ODYx/NGNhZjJjYjk5Nzkw/YTg4MGZkNmM3Yzg0/Zjc2NWZiOTc3NTBl/NTQ5NWVlNTVmYThi/MGU3JmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
     "type": "news_result",
-    "title": "조종사 구출한 트럼프 \"이란 더 버티면 지옥문\" - 매일경제",
-    "url": "https://www.mk.co.kr/news/world/12008489",
-    "description": "트럼프, 종전합의 재차 압박 7일부터 발전소 등 공격 예고 이란은 홍해까지 봉쇄 위협 미국이 이란의 F-15E 전투기 격추로 실종됐던 미군 조종사를 24시간 만에 극적으로 구출했다. 지난 2월 28일(현지시간) 이란 전쟁 개시 이후 ...",
+    "title": "프랑스·일본 따로 협상했나…“안전항로 이용해 호르무즈 무사 통과” - 매일경제",
+    "url": "https://mk.co.kr/news/world/12008512",
+    "description": "2 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 3 100대 기업 '투자·배당 실탄' 1년새 270% 급증 · 4 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
     "age": "15 hours ago",
-    "page_age": "2026-04-05T09:00:09",
+    "page_age": "2026-04-05T10:23:07",
     "profile": {
       "name": "MK",
-      "url": "https://www.mk.co.kr/news/world/12008489"
+      "url": "https://mk.co.kr/news/world/12008512"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "mk.co.kr",
-      "hostname": "www.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
-      "path": "› news  › world  › 12008489"
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12008512"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Zl-ZjZXxwcvGqlCrE85fc9ys_8lHjNGQ3kJHXHU293M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMubWsuY28ua3Iv/ZmFjZWJvb2tfbWtu/ZXdzLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란의 허 찔렀다…CIA·이스라엘 동원한 美조종사 구출 대작전 < 유럽,아프리카 < 한반도W < 기사본문 - SPN 서울평양뉴스",
-    "url": "https://spnews.co.kr/news/articleView.html?idxno=106051",
-    "description": "미국이 5일(현지시간) 이란에서 감행한 미국의 F-15 전투기 승무원 구출 작전은 미 중앙정보국(CIA)과 이스라엘도 관여하고 수백 명의 병력과 항공기가 동원된 대작전이었던 것으로 알려졌다.",
-    "age": "15 hours ago",
-    "page_age": "2026-04-05T08:56:35",
-    "profile": {
-      "name": "Spnews",
-      "url": "https://spnews.co.kr/news/articleView.html?idxno=106051"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "spnews.co.kr",
-      "hostname": "spnews.co.kr",
-      "favicon": "https://imgs.search.brave.com/rHcAlyo0PeHCqlf6BshM6CGj58J7PoGv8pQoD7NBBYQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Q2NDNiNTNj/NmJmZjdlYTI4NGQ5/M2QzYTJlNGJhOTE3/M2ZmODA3NmM1OWE1/MjEwMmYxMDlhN2Q1/ZjE2NzU0Yi9zcG5l/d3MuY28ua3Iv",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/KewoDePHsYqkI-gwQv5oexGUz7NeF42vvPr98TDxs24/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BuZXdzLmNvLmty/L25ld3MvcGhvdG8v/MjAyNjA0LzEwNjA1/MV8xMDcxNTVfMTIx/Ni5wbmc"
+      "src": "https://imgs.search.brave.com/dT7zSbYt7SDSGCd5wwzkDGYkw8iMPxEO-sOE4f-IvKY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNS9uZXdzLXAu/djEuMjAyNjA0MDEu/N2UyZDcxMTRlYTk4/NDAxYjk5ZWQzODIy/MzhjZDEyY2FfUi5q/cGc"
     }
   },
   {
     "type": "news_result",
     "title": "호르무즈 통과 놓고…이란·서방 잇단 협상 - 매일경제",
     "url": "https://mk.co.kr/news/world/12008466",
-    "description": "2 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 3 100대 기업 '투자·배당 실탄' 1년새 270% 급증 · 4 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
-    "age": "15 hours ago",
+    "description": "2 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 3 100대 기업 '투자·배당 실탄' 1년새 270% 급증 · 4 \"이란전 악재 이미 반영\" 미��� 증시 바닥론 솔솔",
+    "age": "16 hours ago",
     "page_age": "2026-04-05T08:56:31",
     "profile": {
       "name": "MK",
@@ -507,87 +925,197 @@
   },
   {
     "type": "news_result",
-    "title": "특수부대 수백명 투입·이란군과 이틀간 ‘격렬 교전’···긴박했던 실종 미군 구출작전 - 경향신문",
-    "url": "https://khan.co.kr/article/202604051614001",
-    "description": "지난 3일(현지시간) 이란군에 ...비대(IRGC) 또한 실종 미군 추격에 나서면서 구조 과정에서 교전이 벌어지기도 했다. 이란 전쟁 발발 이후 미군 전투기가 이란군에 의해 격추된 것은 이번이 처음으로, ......",
+    "title": "OPEC+ agrees to boost oil output when Strait of Hormuz reopens | Reuters",
+    "url": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/",
+    "description": "The rise that will largely exist on paper as its key members are unable to raise production ​due to the Iran war.",
     "age": "17 hours ago",
-    "page_age": "2026-04-05T07:14:00",
+    "page_age": "2026-04-05T08:41:01",
     "profile": {
-      "name": "Khan",
-      "url": "https://khan.co.kr/article/202604051614001"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
-      "path": "› article  › 202604051614001"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› business  › energy  › opec-debates-theoretical-oil-output-hike-amid-iran-war-paralysis-sources-say-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/1FPI_Y2M5dd2YZpmtsddj6qNNJosU88e_hrYJG04upY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDQv/MDUvbmV3cy1wLnYx/LjIwMjYwNDA1LmZh/MWM3MjAwNjVkYTQy/YjVhMGY3M2IzMzQ5/ODMyZjQyX1AxLmpw/Zw"
+      "src": "https://imgs.search.brave.com/_RVWbCg_FNhE4koKGYxtOGRY34odRNaQgUcF-_P9ELk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9P/VVBTUkxSSkNWS1RY/TVZCSFZTSVhBSkM2/QS5qcGc_YXV0aD01/NTI0MGIwOTI0MDYw/NmIxNWMwYjcxODk0/YTk3MzRmNmJkNzkx/ZWEyNGM3MjUzNzhm/NWQ5YjY0MWU0MTkx/OGFhJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
     "type": "news_result",
-    "title": "이란 공격으로 바레인·두바이의 AWS 데이터센터 마비 < 산업일반 < AI산업 < 기사본문 - AI타임스",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=208816",
-    "description": "그동안 글로벌 분산 구조를 통해 안정성을 강조해 온 클라우드 서비스가 실제 전쟁 상황에서는 물리적 공격에 취약할 수 있다는 사실이 드러난 것이다. ... 키워드 #이란 #미사일 공격 #바레인 #두바이 #AWS #데이터센터 #클라우드 ...",
-    "age": "17 hours ago",
-    "page_age": "2026-04-05T06:26:23",
-    "profile": {
-      "name": "AI타임스",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=208816"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aitimes.com",
-      "hostname": "www.aitimes.com",
-      "favicon": "https://imgs.search.brave.com/SFhF08v0Zm3B3DI87sq-15fnv5rFA0-QvpPNFfwtHDk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2FmNzM1ODMw/NWE1Njk5M2RhMTM5/OTNlNjE3MGM1MGNl/ODNiYjYyNGZlMDk4/MjFiMmU3ZjcxYzll/YmZiM2U1MC93d3cu/YWl0aW1lcy5jb20v",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lhqWZVFY1HbQbxQ8NlgGnOP7o_AhHKO3WikDwL7r274/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWl0aW1lcy5jb20v/bmV3cy9waG90by8y/MDI2MDQvMjA4ODE2/XzIxMTEzNl8zMTE2/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 F-15 격추에도 전원 생환…미군 ‘초고위험 구조 작전’ 성공 < 세계 < 기사본문 - 더페어",
-    "url": "https://thefairnews.co.kr/news/articleView.html?idxno=73469",
-    "description": "[더페어] 박진식 기자 = 미국과 이란 간 군사 충돌이 격화되는 가운데, 이란 상공에서 격추된 미 공군 전투기 F-15E 스트리트 이글 승무원이 미군의 고위험 구조 작전 끝에 무사히 구조됐다.CNN에 따르면 도널드 트럼프 미국 ...",
+    "title": "Iran war: What is happening on day 37 of US-Israeli attacks? | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks",
+    "description": "A US crew member who has been missing since Iran shot down a fighter plane has been rescued, Trump says. ... A building that collapsed in Abbasiyeh, near Tyre in southern Lebanon, in Israeli bombardment, on April 4, 2026 [Kawnat Haju/AFP]",
     "age": "18 hours ago",
-    "page_age": "2026-04-05T05:53:49",
+    "page_age": "2026-04-05T07:45:48",
     "profile": {
-      "name": "Thefairnews",
-      "url": "https://thefairnews.co.kr/news/articleView.html?idxno=73469"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "thefairnews.co.kr",
-      "hostname": "thefairnews.co.kr",
-      "favicon": "https://imgs.search.brave.com/RQeP65sAocmJSdWlTOQjQJez28qNjNxYvYmd5o_wFg4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjdiZjE4NGVi/ZGQwMTFjZGZkYTgw/OThhNmZiNGViYzdj/ODI5YzlhYjczMGQ0/MTVmZjI4ZjFmY2Jh/OWQxMTMxMi90aGVm/YWlybmV3cy5jby5r/ci8",
-      "path": "› news  › articleView.html"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › 2026  › 4  › 5  › iran-war-what-is-happening-on-day-37-of-us-israeli-attacks"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ccJjh8ul34wBZlsGeihXBPU4h7VJfDtmuDKRIWj6c38/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlZmFpcm5ld3Mu/Y28ua3IvbmV3cy90/aHVtYm5haWwvMjAy/NjA0LzczNDY5XzEx/OTYwNV81MTU1X3Yx/NTAuanBn"
+      "src": "https://imgs.search.brave.com/zG1nyJ8QORpZQ8XqUt6EmeLmN2VZgCZcuDew1vjsmc4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNC9BRlBfXzIw/MjYwNDA0X19BNlI2/MjNXX192MV9fSGln/aFJlc19fTGViYW5v/bklyYW5Jc3JhZWxV/c1dhci0xNzc1Mzcz/MzEyLmpwZz9yZXNp/emU9MTkyMCUyQzE0/NDA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[영상] 이란 한복판, 미 특수부대 투입…\"교전 끝 실종미군 극적구출\" | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260405034100704",
+    "description": "(서울=연합뉴스) 미군이 대이란 군사작전 중 F-15 전투기 격추로 실종된 미군 탑승자 1명을 구조했다고 4일(현지시간) 미 정치전문매체 악시오...",
+    "age": "19 hours ago",
+    "page_age": "2026-04-05T06:48:38",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260405034100704"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260405034100704"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/COmYcz0iG13aC7dvW9bMfyEa7TrBqlVI_jNAdp60vf8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc3/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNC8wNS9B/S1IyMDI2MDQwNTAz/NDEwMDcwNF8wMV9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran hits energy sites in Kuwait as US says downed pilot rescued (PHOTOS, VIDEOS) — RT World News",
+    "url": "https://www.rt.com/news/637329-iran-war-strikes-pilot-rescued/",
+    "description": "An Iranian air defense system targeting a US F-15 fighter jet over Iran’s southern coast. © PressTV · Welcome to RT’s live coverage of the US-Israeli war on Iran, a conflict spanning the Middle East in which both sides are exchanging missile and drone strikes across multiple countries.",
+    "age": "19 hours ago",
+    "page_age": "2026-04-05T06:41:44",
+    "profile": {
+      "name": "RT International",
+      "url": "https://www.rt.com/news/637329-iran-war-strikes-pilot-rescued/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "rt.com",
+      "hostname": "www.rt.com",
+      "favicon": "https://imgs.search.brave.com/WTKGL4zftnfwSDdGKd6RDrxaU1mmFprPzsH1UpfMYpU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTM2ZmNjM2Q2/ZWVmMWQ3YTkyNjRl/YzFkMDI4NmRjMzlj/NWFjODYyOWIwNzY2/OGU2NGIxOWM0MmU5/YTM0YzEwZi93d3cu/cnQuY29tLw",
+      "path": "› news  › 637329-iran-war-strikes-pilot-rescued"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/6Vf87W2MxhJX7Cpfty94MeW_ipeT22AsV2syHmMuYQE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZi5i/MzdtcnRsLnJ1L2Zp/bGVzLzIwMjYuMDQv/YXJ0aWNsZS82OWQx/ZmM5ODg1ZjU0MDYy/MmIyZjk2ZGYuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran War Live Updates: Trump Escalates Threats in Truth Social Post After U.S. Rescues Downed Airman - The New York Times",
+    "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
+    "description": "President Trump used an expletive-laden social media post to taunt Iranian leaders, saying that the United States would attack if they did not fully reopen the Strait of Hormuz.",
+    "age": "19 hours ago",
+    "page_age": "2026-04-05T06:37:01",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› live  › 2026  › 04  › 05  › world  › iran-war-trump-news"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Lfb0Ej2zIuI4lrbR5Bgh6n4emdwYShYAAcllp-dG_Wc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA1L211bHRp/bWVkaWEvMDVpc3Jh/ZWwtaXJhbi00MDAt/Ymhtay8wNWlzcmFl/bC1pcmFuLTQwMC1i/aG1rLWZhY2Vib29r/SnVtYm8uanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 “미국 전투기 조종사 찾던 미국 항공기 격추” - 매일경제",
+    "url": "https://mk.co.kr/news/world/12008235",
+    "description": "2 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 3 100대 기업 '투자·배당 실탄' 1년새 270% 급증 · 4 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
+    "age": "19 hours ago",
+    "page_age": "2026-04-05T05:55:58",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12008235"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12008235"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/JLS6Bf4MrIXdnnyo_5aQrTyK58etIHxSDXJ5pyCA7-Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNS9uZXdzLXAu/djEuMjAyNjA0MDUu/YWI4MDRmOWEwYzg1/NGFmYzkwN2U1OTE1/NTlhZTE4MjBfUi5q/cGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 \"美 F-15 조종사 구조했다\" … 이란은 \"조종사 찾던 항공기 격추\" | Save Internet 뉴데일리",
+    "url": "https://newdaily.co.kr/site/data/html/2026/04/05/2026040500063.html",
+    "description": "신재생부터 창업·영화지원까지 '전쟁 핑계' 포퓰리즘 사업 수두룩 … 국회 심의서 삭감될 판 · 트럼프 \"美 F-15 조종사 구조했다\" … 이란은 \"조종사 찾던 항공기 격추\"",
+    "age": "20 hours ago",
+    "page_age": "2026-04-05T05:40:42",
+    "profile": {
+      "name": "Newdaily",
+      "url": "https://newdaily.co.kr/site/data/html/2026/04/05/2026040500063.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newdaily.co.kr",
+      "hostname": "newdaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/ukDEUqFBb1bHor8P0lUiyFb11tvEpxzemfqphu05Wa8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQyZWM4Yjdm/ZmFhYmEwMDNmNTJk/OTU3ODcwZGUwOTE1/OWRjMTEwMzZiYzMx/MjZkOGNjOTg3M2M1/NjFkYTc1MC9uZXdk/YWlseS5jby5rci8",
+      "path": "› site  › data  › html  › 2026  › 04  › 05  › 2026040500063.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/4etMw_cG_Y3ufCaiZq8w_r5DCM957crTe956ZZX6vSQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5uZXdkYWlseS5j/by5rci9zaXRlL2Rh/dGEvaW1nLzIwMjYv/MDQvMDUvMjAyNjA0/MDUwMDA2M18wLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Second U.S. F-15E Airman Rescued From Inside Iran",
+    "url": "https://nymag.com/intelligencer/article/us-f15-shot-down-over-iran-search-for-crew-underway-updates.html",
+    "description": "U.S. attack aircraft dropped bombs and opened fire on Iranian convoys to keep them away from the area where the airman was hiding. As U.S. forces converged on the downed airman, a firefight erupted, two former senior military officials briefed on the operation said.",
+    "age": "20 hours ago",
+    "page_age": "2026-04-05T05:38:00",
+    "profile": {
+      "name": "New York Magazine",
+      "url": "https://nymag.com/intelligencer/article/us-f15-shot-down-over-iran-search-for-crew-underway-updates.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nymag.com",
+      "hostname": "nymag.com",
+      "favicon": "https://imgs.search.brave.com/u2i3NtIj68mceKQJRGit6N4lGFD4DgprgZwJK5i2TQk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTdkY2UyMjFl/NDA5YTY2YjMwZWZm/MTg2YTA4N2QxYjUy/MjNhN2M3ZmQxZDk0/NDA5NTRjMjExYzVj/YWNhYjhjZS9ueW1h/Zy5jb20v",
+      "path": "› intelligencer  › article  › us-f15-shot-down-over-iran-search-for-crew-underway-updates.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/gWB9rP_vz4t4YK2M7ZmUXDGOaDnOqCWYU7W7fsYCZQk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9weXhp/cy5ueW1hZy5jb20v/djEvaW1ncy8yOWYv/YTk3L2VhZjljMDNj/YjIzMjI2NTBlZWFl/ZmY4ZTg2ZDdlMDk5/N2MtZjE1LS0uMXgu/cnNvY2lhbC53MTIw/MC5qcGc"
     }
   },
   {
     "type": "news_result",
     "title": "텔아비브, 북부 도시도 ‘펑펑’…독기 오른 이란, 이스라엘 무차별 맹폭 [현장영상] | 채널A 뉴스",
-    "url": "https://ichannela.com/news/detail/000000522451.do",
-    "description": "도널드 트럼프 미국 대통령이 \"이란에 지옥이 쏟아지기까지 48시간 남았다\"며 압박한 가운데 이란은 이스라엘에 미사일 맹폭을 하며 항전 의지를 불태웠습니다. 이란은 4일(현지시각) 이스라엘 북부 도시 키르얏 슈모나에 ...",
-    "age": "19 hours ago",
+    "url": "https://ichannela.com/news/detail/amp/000000522451.do",
+    "description": "도널드 트럼프 미국 대통령이 “이란에 지옥이 쏟아지기까지 48시간 남았다”며 압박한 가운데 이란은 이스라엘에 미사일 맹폭을 하며 항전 의지를 불태웠습니다. 이란은 4일(현지시각) 이스라엘 북부 도시 키르얏 슈모나에 ...",
+    "age": "20 hours ago",
     "page_age": "2026-04-05T05:20:00",
     "profile": {
       "name": "iChannelA",
-      "url": "https://ichannela.com/news/detail/000000522451.do"
+      "url": "https://ichannela.com/news/detail/amp/000000522451.do"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "ichannela.com",
       "hostname": "ichannela.com",
       "favicon": "https://imgs.search.brave.com/mgkVZN4gSqEmY703F8Mzxp4GS3IzLyBi8R8x5kLgNmg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTUzNGRiODA1/Mjc0MTBhNWEwMmZj/YzQ0ZWIwM2Q5N2Q0/MzY4YzkwNjJlMGRl/NjY5MDRlYjQ0YTFm/NDRmMTYyYi9pY2hh/bm5lbGEuY29tLw",
-      "path": "› news  › detail  › 000000522451.do"
+      "path": "› news  › detail  › amp  › 000000522451.do"
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/s6A8fXNpFiCcdkGsmphFxiisu6_dqXZ3PdV_yjhZjVw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pY2hhbm5lbGEu/Y29tL2ltYWdlcy9j/aGFubmVsYS8yMDI2/LzA0LzA1LzAwMDAw/Mjk5OTM1OS8wMDAw/MDI5OTkzNTkyMDI2/MDQwNTE0MjczMTI2/MS53ZWJw"
@@ -595,46 +1123,200 @@
   },
   {
     "type": "news_result",
-    "title": "미국의 승인이 나면 이스라엘은 이란의 에너지 부문을 공격?? 기회를 얻게 ?? 것이다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/04/05/62005.html",
-    "description": "워싱턴의 명령이 내려올 때까지 트럼프 대통령은 이란 지부와 합의에 도달하기를 여전히 희망하지만, 그가 원하는 조건으로 합의를 이끌어내려 한다. 이스라엘은 이란의 군사 시설과 지도자들을 주로 겨냥해 공격을 계속하고 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-04-05T03:45:25",
+    "title": "미 특수부대, 이란서 격추된 F-15 두번째 탑승자도 구조 < 국제 < 기사본문 - 한국NGO신문",
+    "url": "https://ngonews.kr/news/articleView.html?idxno=227707",
+    "description": "미군이 대이란 군사작전 중 F-15 전투기 격추로 실종된 미군 탑승자 1명을 구조했다고 4일(현지시간) 미 정치전문매체 악시오스 등 주요 매체들이 잇따라 보도했다",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T04:55:44",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/04/05/62005.html"
+      "name": "Ngonews",
+      "url": "https://ngonews.kr/news/articleView.html?idxno=227707"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 04  › 05  › 62005.html"
+      "netloc": "ngonews.kr",
+      "hostname": "ngonews.kr",
+      "favicon": "https://imgs.search.brave.com/H5J-b-bvqR0VpZPgfKoViz8vthnaZBy0ckYCT3wOreU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWFmMDI0YTUw/Njk0NzI0MmZkNjNm/MDk1ZjcyOGRmY2Jk/OTE2MTQ0NjdjMjBm/Zjc4YWE2YWFhMDA3/MmRhZDNhYS9uZ29u/ZXdzLmtyLw",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/UIkF7ji9q6Q3xyX2kFmRCI12vvYvEMDWwNyWV0tVGJU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA1LzAzOWVh/NmQxOTNkOTQ0YTVl/NjM5NjEwNzVkODg3/YjI3X28uanBn"
+      "src": "https://imgs.search.brave.com/i3PRZ1RmD42rJHM7Ompd9i5arDiKkwx979q7W5DQKv0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmdvbmV3cy5rci9u/ZXdzL3Bob3RvLzIw/MjYwNC8yMjc3MDdf/MjMwMDIwXzUzMzAu/cG5n"
     }
   },
   {
     "type": "news_result",
-    "title": "트럼프, \"이란에 지옥 펼쳐지기까지 단 48시간 남았다\"(종합) :: 공감언론 뉴시스 ::",
-    "url": "https://www.newsis.com/view/NISX20260405_0003578208",
-    "description": "이란 \"이란 인프라 공격받으면 오히려 미국에 지옥문 열릴 것\" 3일 격추된 후 실종된 미군 조종사 찾아라…미·이란 수색 경쟁 아마존 웹서비스 시설 드론 공격 이어 오라클 사무실도 공격받아 이란혁명수비대 \"美 A10 공격 ...",
+    "title": "Live updates: Iran war news; US rescues F-15 airman, Trump threatens Tehran over Strait of Hormuz | CNN",
+    "url": "https://www.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil",
+    "description": "A US airman whose F-15 jet was shot down over Iran has been rescued after evading capture for more than a day, officials said. President Donald Trump announced the rescue overnight. Follow live updates.",
     "age": "1 day ago",
-    "page_age": "2026-04-05T03:12:55",
+    "page_age": "2026-04-05T04:03:42",
     "profile": {
-      "name": "Newsis",
-      "url": "https://www.newsis.com/view/NISX20260405_0003578208"
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "www.newsis.com",
-      "favicon": "https://imgs.search.brave.com/Kzbmq58Rc6fAq-JJj-MVCPvkxE_bblb8HWLggg7maew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDExN2M0MjFi/Yzc0MzQ2NDUzMWQ2/ZGM5NmEwNGEzZjU5/ZjcyOGE1ZWNhNDc5/Y2Q1NWRiODcxNmQ5/ODg3MjA0OS93d3cu/bmV3c2lzLmNvbS8",
-      "path": "› view  › NISX20260405_0003578208"
+      "netloc": "cnn.com",
+      "hostname": "www.cnn.com",
+      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+      "path": "› 2026  › 04  › 05  › world  › live-news  › iran-war-us-trump-oil"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/1URWj383zZ1_l8VWQ1qsLa0ZHxLduEMtlYLC7VZrck0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNC8wMi9O/SVNJMjAyNjA0MDJf/MDAwMTE1MTE1OV93/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/on9AY1ksPodXAhQColU4aeliurtatqtQcLl_HyuDV68/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2MtaGZpZ3RmdGJn/YWEwNGY1LmpwZz9j/PTE2eDkmcT13Xzgw/MCxjX2ZpbGw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "As the Iran war drags on, Israeli solidarity comes under strain | CNN",
+    "url": "https://www.cnn.com/2026/04/05/middleeast/iran-war-israeli-solidarity-intl",
+    "description": "Israel has “changed the Middle East,” he boasted · Just hours later, Iran unleashed one its heaviest barrages of the conflict, shattering the holiday mood and laying bare the gap between Netanyahu’s victorious rhetoric and the reality on the ground over a month into the US-Israeli war ...",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T04:00:55",
+    "profile": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/04/05/middleeast/iran-war-israeli-solidarity-intl"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnn.com",
+      "hostname": "www.cnn.com",
+      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+      "path": "› 2026  › 04  › 05  › middleeast  › iran-war-israeli-solidarity-intl"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/uChNyPJPiQlTHHLJGzyI50EATnM9VGdugry6zKB8Ga8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/LzIwMjYtMDQtMDR0/MDkwNTUxei0xMjAw/Mzg5ODMxLXJjMjlp/a2FkZjFrei1ydHJt/YWRwLTMtaXJhbi1j/cmlzaXMtaXNyYWVs/LkpQRz9jPTE2eDkm/cT13XzgwMCxjX2Zp/bGw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran - The New York Times",
+    "url": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html",
+    "description": "The airman evaded Iranian forces for more than 24 hours, at one point hiking up a 7,000-foot ridgeline, a senior U.S. military official said. U.S. attack aircraft dropped bombs and opened fire on Iranian convoys to keep them away from the area where the airman was hiding.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T03:57:43",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 04  › 04  › us  › politics  › military-iran-airman-rescue.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/pphFnWQyrBd-MxpbrxsJHvmZLOrRT-PWsT24UcrGudo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA0L2VzcGFu/b2wvMDRkYy1yZXNj/dWUtd2dmaC1FUy1j/b3B5MS8wNGRjLXJl/c2N1ZS13Z2ZoLWZh/Y2Vib29rSnVtYm8u/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Missing US Airman Rescued as Iran Steps Up Attacks on Neighbors",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
+    "description": "US forces rescued an airman from Iran more than a day after his fighter jet was shot down and President Donald Trump threatened to target the country’s infrastructure, while the Islamic Republic’s continued attacks damaged Kuwait’s oil headquarters and shut down an Emirati petrochemicals ...",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T03:49:59",
+    "profile": {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bloomberg.com",
+      "hostname": "www.bloomberg.com",
+      "favicon": "https://imgs.search.brave.com/JdflViMvNONX2cNzOInZ7EQWaTzeYAgL8uCSDVicA8Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDJhNjMyMGE1/YzY3MzRjMDAzZDU5/YzJiMWZlZmI4Yjkx/OWQyN2IzYzU1MjYw/ZDQyMjVjYzdjZWRi/ZTM5Njg4ZC93d3cu/Ymxvb21iZXJnLmNv/bS8",
+      "path": "› news  › articles  › 2026-04-05  › missing-us-airman-rescued-after-jet-downed-in-iran-axios"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/br0f3oTEDQ89WBaaJN6jbMXNUpDKVUyvY1V1AHz6Kyg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYndieC5pby9p/bWFnZXMvdXNlcnMv/aXFqV0hCRmRmeElV/L2lmcEwxSXV3NEVs/RS92MC8xMjAweDgw/MC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 독려 나선 美보수파…볼턴 \"이란 정권 교체해야 평화\" | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260405024400009",
+    "description": "또한 유럽과 한국, 일본, 인도 등에도 이란과의 전쟁 필요성을 적극적으로 설득해야 한다는 게 볼턴 전 보좌관의 주장이다.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T03:27:12",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260405024400009"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260405024400009"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/bCQc14DHOz7F2Ytckia__oPpJWGuzW6Z0hce0NzOrk8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc5/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNC8wNS9B/S1IyMDI2MDQwNTAy/NDQwMDAwOV8wMV9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Netanyahu confirms attack on petrochemical plant– as it happened | US-Israel war on Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+    "description": "Demonstrators join Rise and Resist’s anti-war protest under the Times Square US army recruiting station’s US flag, calling for an end to the war on Iran and denouncing President Trump and defence secretary Pete Hegseth.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T02:49:50",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › live  › 2026  › apr  › 04  › middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2fq4NTDjvBExF__QV5c7YKmf3yW6eIXY0mMuN-ANHrQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2YyNWZm/MDg4MWNmODEwNGU2/MGM1NDc2ZGY5NmI5/NjEzOWM4Yjg1Mjcv/NDgzXzEwM18yNjAy/XzIwODIvbWFzdGVy/LzI2MDIuanBnP3dp/ZHRoPTEyMDAmaGVp/Z2h0PTYzMCZxdWFs/aXR5PTg1JmF1dG89/Zm9ybWF0JmZpdD1j/cm9wJnByZWNyb3A9/NDA6MjEsb2Zmc2V0/LXg1MCxvZmZzZXQt/eTAmb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dGJHbDJaUzV3Ym1j/JmVuYWJsZT11cHNj/YWxlJnM9ODU4OThm/NTRiY2I2NTJmOWE2/YTE4NzhmZmJlMTRh/NTM"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“지옥문 열릴 것”…미·이란 긴장 고조, 실종 미군 찾기도 경쟁 - 매일경제",
+    "url": "https://mk.co.kr/news/world/12008144",
+    "description": "2 “슈퍼리치들의 주식투자, 역시 달라”…전쟁 중에 원전·방산 팔고 삼전 매집 · 3 100대 기업 '투자·배당 실탄' 1년새 270% 급증 · 4 \"이란전 악재 이미 반영\" 미국 증시 바닥론 솔솔",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T02:10:55",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12008144"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12008144"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8aW8GkGHSuFymf22SjRo7KTjj_yYb1epkUgTi321Bac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNS9uZXdzLXAu/djEuMjAyNjA0MDUu/Yzg0OTllNThlOGQ2/NGIyYzk0MDI1MWY1/Njg3ZDhiNTBfUi5w/bmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "US-Iran war LIVE: Iran vows to respond 'in kind’ after Trump's threats to attack power plants | World News",
+    "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-middle-east-israel-conflict-missile-strike-missing-f15-pilot-trump-tehran-dubai-hormuz-strait-101775352320546.html",
+    "description": "US Iran war LIVE updates: Donald Trump said there is a ‘good chance’ that US will make a deal with Iran on Monday. Earlier, he gave a fresh warning to Tehran to open the Strait of Hormuz or it will be ‘living in hell.’ | World News",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T01:55:02",
+    "profile": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-middle-east-israel-conflict-missile-strike-missing-f15-pilot-trump-tehran-dubai-hormuz-strait-101775352320546.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hindustantimes.com",
+      "hostname": "www.hindustantimes.com",
+      "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+      "path": "› world-news  › us-iran-war-live-updates-middle-east-israel-conflict-missile-strike-missing-f15-pilot-trump-tehran-dubai-hormuz-strait-101775352320546.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/eC1uRbI0pU0H2PDRN7UgD7Dni8BdNGr-HTBE8l0mbzo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNi8w/NC8wNS8xNjAweDkw/MC9MRUJBTk9OLUlT/UkFFTC1JUkFOLVVT/LVdBUi0zOF8xNzc1/NDAwNjY5MTk4XzE3/NzU0MDA2NzgwNTAu/anBn"
     }
   },
   {
@@ -661,6 +1343,72 @@
   },
   {
     "type": "news_result",
+    "title": "Iran-Israel war LIVE: Iranian minister dismisses Trump's threat, calls him 'unstable, delusional figure' - The Hindu",
+    "url": "https://thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
+    "description": "U.S.-Israel-Iran war LIVE: Follow The Hindu for the latest updates on the Iran-Israel war amid the escalating conflict in West Asia on April 5, 2026.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T01:20:24",
+    "profile": {
+      "name": "The Hindu",
+      "url": "https://thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "thehindu.com",
+      "hostname": "thehindu.com",
+      "favicon": "https://imgs.search.brave.com/tg3fKphZAprRPb4L-4jJW3Yntvj9K9jH2rajIJtITh8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JlYWQ4N2Ez/Y2QwNWFjNTk2NGY5/M2Q1MWFlYWMyYTcy/NjRlOWE0ODNlMjIx/ODg4ZTY0NTZjMjk2/YjM2ZmE1Mi90aGVo/aW5kdS5jb20v",
+      "path": "› news  › international  › iran-israel-war-west-asia-conflict-april-5-2026-live-updates  › article70825713.ece"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Gl-XD5SV7OgiNZIBzMXTRoj-LuC2Y8bwGDbd-r7UUv0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvanRldDkxL2Fy/dGljbGU3MDgyNzg3/Mi5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC9UcnVt/cF9Cb25kaV81NDRf/OS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Hours after Haifa missile strike, search continues for 4 feared buried under wreckage | The Times of Israel",
+    "url": "https://www.timesofisrael.com/liveblog-april-5-2026/",
+    "description": "Cars drive under a billboard depicting the late Iranian Supreme Leader Ayatollah Ali Khamenei handing an Iranian flag to his son Mojtaba Khamenei in Tehran, Iran, April 5, 2026. (AP Photo/Francisco Seco) Rescue workers search for victims at the site of an Israeli airstrike that hit a crowded ...",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T01:20:17",
+    "profile": {
+      "name": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-april-5-2026/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "timesofisrael.com",
+      "hostname": "www.timesofisrael.com",
+      "favicon": "https://imgs.search.brave.com/OJQMSAvTflmuKWaGFi8G1JN7iB7VR_SsBpLzPv0OKAo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRiNjdiZWJi/NTM0ZWE5YzIxMDRl/N2E2ZDc0MWViZDM3/NTRkOWE4ZjRiYWQ3/MjI1MWUyYjc1ZWQw/NTkxNmViZC93d3cu/dGltZXNvZmlzcmFl/bC5jb20v",
+      "path": "› liveblog-april-5-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/q6Es8l_-F0mdWbu1gTjdS5oJXPTqBLjpR2BiW-Bl8js/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLnRvaS1t/ZWRpYS5jb20vd3d3/L3VwbG9hZHMvMjAy/Ni8wNC9BUDI2MDk1/NjUyODg3MjkzLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Here’s What Happened in the War in the Middle East on Saturday - The New York Times",
+    "url": "https://nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html",
+    "description": "Iran: At least five people were ... to Iranian state media. The area is known as the Mahshahr Special Petrochemical Economic Zone, and it is one of the country’s most important industrial centers for petrochemical production. The zone is in the Khuzestan province near the Persian Gulf. Benjamin Netanyahu, the Israeli prime minister, ...",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T01:05:08",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://nytimes.com/2026/04/04/world/middleeast/iran-israel-us-war-middle-east.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "nytimes.com",
+      "favicon": "https://imgs.search.brave.com/RN_hisZu4P-ruAdWPR9uvaiS7YyW2d23CPtP4_gduCA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTRlZDNhZjVm/ZDNmYzA0NDdjYjYx/NjY5YWQ5ZDFiYmE1/ZTE5NjE5ZjBiYmRl/NTdkZGFiZDQ0M2Y5/NGNkZjA3Yi9ueXRp/bWVzLmNvbS8",
+      "path": "› 2026  › 04  › 04  › world  › middleeast  › iran-israel-us-war-middle-east.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XMqrl_we30aUA15PmcowdeOWw1kYPdR8NQMETkl_KGk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA0L211bHRp/bWVkaWEvMDRJU1JB/RUwtSVJBTi1GUk9O/VC1CWS1GUk9OVC1r/cXZsLzA0SVNSQUVM/LUlSQU4tRlJPTlQt/QlktRlJPTlQta3F2/bC1mYWNlYm9va0p1/bWJvLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "끝나도 끝난 게 아니다…중동 ‘세계의 화약고’ 되나 [최준영의 글로벌 워치] < 최준영의 글로벌 워치 < 연재 < 기사본문 - 시사저널",
     "url": "https://sisajournal.com/news/articleView.html?idxno=367921",
     "description": "2월28일 미국과 이스라엘의 기습적인 공격으로 시작된 이란 전쟁은 한 달 넘게 지속되고 있다. 충분한 준비 및 명확한 목표 없이 즉흥적으로 시작된 것라는 일각의 추측대로 전황은 혼전을 거듭하고 있다.",
@@ -683,486 +1431,134 @@
   },
   {
     "type": "news_result",
-    "title": "끝나도 끝난 게 아니다…중동 ‘세계의 화약고’ 되나 [최준영의 글로벌 워치] < 최준영의 글��벌 워치 < 연재 < 기사본문 - 시사저널",
-    "url": "https://www.sisajournal.com/news/articleView.html?idxno=367921",
-    "description": "2월28일 미국과 이스라엘의 기습적인 공격으로 시작된 이란 전쟁은 한 달 넘게 지속되고 있다. 충분한 준비 및 명확한 목표 없이 즉흥적으로 시작된 것라는 일각의 추측대로 전황은 혼전을 거듭하고 있다.",
+    "title": "Satellite firm Planet Labs to indefinitely withhold Iran war images | Reuters",
+    "url": "https://www.reuters.com/business/media-telecom/satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05/",
+    "description": "Satellite imaging firm Planet Labs said on Saturday it will indefinitely withhold ‌visuals of Iran and the region of conflict in the Middle East to comply with a request from the U.S. government.",
     "age": "1 day ago",
-    "page_age": "2026-04-05T01:00:00",
+    "page_age": "2026-04-05T00:35:13",
     "profile": {
-      "name": "Sisa Journal",
-      "url": "https://www.sisajournal.com/news/articleView.html?idxno=367921"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "sisajournal.com",
-      "hostname": "www.sisajournal.com",
-      "favicon": "https://imgs.search.brave.com/reN_66fKsMOhrICWwLPI0kNjD-5zYSkWxiHqSMNfRBY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjVkNzg5NDdi/ZWUyMGU0MDExZmU4/N2U1M2YyOTFmMDNm/ODlmN2RjYzM0Njc2/MjUwZTE4OThlZDc2/Zjk0NDc2OC93d3cu/c2lzYWpvdXJuYWwu/Y29tLw",
-      "path": "› news  › articleView.html"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› business  › media-telecom  › satellite-firm-planet-labs-indefinitely-withhold-iran-war-images-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Co4IsPtR4FGDjOFZT-SA47DdGUtpITRYC6j_iATbTqo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2lzYWpvdXJuYWwu/Y29tL25ld3MvdGh1/bWJuYWlsLzIwMjYw/NC8zNjc5MjFfMzc1/MjAwXzQyMzNfdjE1/MC5qcGc"
+      "src": "https://imgs.search.brave.com/auy7-yiNJlQebY1g8ar7NJmA108g0t0XyLWxm7qXCOo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9C/U01VQzJTWk5KUEdM/RTY1QVMzSllUNzU3/VS5qcGc_YXV0aD1i/M2M5Y2ViNzczZWVj/OGQ1NDBmNzNmOTk4/M2VkZGI5Y2U4YWZj/NTczMmNkZDM2MmZi/ZDVmYTNiODNlYTI3/ZWJiJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
     "type": "news_result",
-    "title": "트럼프의 데드라인과 상관없이 이스라엘/ 미군의 이란 인프라 파괴는 이미 시작됐다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/04/05/61986.html",
-    "description": "이스라엘/ 미군은 지난주 ... 생산 라인을 다시 완전히 가동하는 데는 약 2년이 걸릴 수 있다고 추가했다.#이란 #이스라엘......",
+    "title": "Live updates: Trump vows strikes on Iran’s infrastructure if Strait of Hormuz isn't reopened",
+    "url": "https://apnews.com/live/iran-war-israel-trump-04-05-2026",
+    "description": "The Israeli military has not named the intended target of the strike, which comes five weeks into the renewed Israel-Hezbollah war in Lebanon. ... Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share ... Iran’s joint military command spokesperson ...",
     "age": "1 day ago",
-    "page_age": "2026-04-05T00:49:19",
+    "page_age": "2026-04-05T00:16:00",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/04/05/61986.html"
+      "name": "AP News",
+      "url": "https://apnews.com/live/iran-war-israel-trump-04-05-2026"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 04  › 05  › 61986.html"
+      "netloc": "apnews.com",
+      "hostname": "apnews.com",
+      "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+      "path": "› live  › iran-war-israel-trump-04-05-2026"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/MISxKVhRCxWWNOZCzxuKzrXJ8o9QY9IzX9mAJeylcGQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA1L2FiZGRi/ZGFkYjkyZGM0ZWEy/OWZhN2Q2YTVmMTdh/MDFmX28uanBn"
+      "src": "https://imgs.search.brave.com/PFUgAyhYDfFuO0y9Njh5iw9nsjpEoSC4740IF67z9Sc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC85NjFiYmRkLzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/LzYwMDB4Mzk5OCsw/KzEvcmVzaXplLzk4/MHg2NTMhL3F1YWxp/dHkvOTAvP3VybD1o/dHRwcyUzQSUyRiUy/RmFzc2V0cy5hcG5l/d3MuY29tJTJGMmIl/MkZjNSUyRmU2MmUz/ZmZkNjQyMDQ4ODhh/YmRmYjIxMGQ5ODAl/MkY4N2YyMTY1NGU0/M2Y0ODVkYWFhZDYy/Mjk2NWI1ZTI3Nw"
     }
   },
   {
     "type": "news_result",
-    "title": "美, 前 이란 혁명수비대 사령관 조카딸 영주권 취소·구금… “반미 활동 확인” - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10710047",
-    "description": "[헤럴드경제=고승희 기자] 미국 정부가 전 이란 이슬람혁명수비대(IRGC) 사령관 가셈 솔레이마니의 조카딸 가족의 미국 영주권을 취소하고, 구금했다. 4일(현지시간) 미국",
+    "title": "실종 미군 구하려 美특수부대 투입?…이란은 현상금 걸고 나섰다",
+    "url": "https://chosun.com/international/international_general/2026/04/05/RAFCZI3EZZH7XJWXCWN4LCSOHY",
+    "description": "실종 미군 구하려 美특수부대 투입이란은 현상금 걸고 나섰다 미군 F-15 전투기가 격추된 후 실종된 미군의 신병을 놓고 미국과 이란 모두가 수색에 열을 올리고 있다. 4일현지 시각 뉴욕타임스NYT, 워싱턴포스트WP 등에 따르면 ...",
     "age": "1 day ago",
-    "page_age": "2026-04-05T00:30:20",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10710047"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10710047"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Bkt72O7twWgsJ1G0hfoRSp0qy7jqvHCz8Y8l23-KYA8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDQvMDUv/bmV3cy1wLnYxLjIw/MjYwMzI3LmEyZGRj/MGNiZDc4MDQ2ZDFi/ZmE2NTNlMzhmNTc0/ZjkwX1QxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국-이란 전쟁 - 나무위키",
-    "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
-    "description": "실시간 전황 (영문) 2026년 2월 28일 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및 핵",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T23:35:02",
-    "profile": {
-      "name": "Namu Wiki",
-      "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "namu.wiki",
-      "hostname": "namu.wiki",
-      "favicon": "https://imgs.search.brave.com/ASqhh3dK7hFX53bmp7XVZpSxqVtrrhYb5NAiPa7b2QU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MDQzMTIz/ZjZmOGYxZjdhYjkw/ODEwZTVjNjBlYWYy/M2JkZTkxNDIxNDZk/M2Y0NTg4MjhmMDg2/NjBjYTE4YS9uYW11/Lndpa2kv",
-      "path": "› w  › 미국-이란 전쟁"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/KG6Dn7KAK3cNw-VP9o_VfyhIIxAQTimZB_gMuzAqR3Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL1Z1/MW12VXlUR3piSVc5/MXJEQVZyX01YYWdF/dGFJczBrTkdyc2dU/bnM2WHVqZWM0NHY2/QndubFFpUkNHTjVy/TVp1TE1MeW9ZZjB5/VjhRN0pTdDV3Rlo1/SkhfNDhxczFFbUlG/aXN2VTZueXRHSktx/LV9qX0tyZ1N2MThm/czFTcTJpR2RBeEox/VDJNOHp6aXNPaHBU/Z3ZUUS53ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "B-2 스피릿 폭격기 배치 포기: 이란은 그? ?게 하거나 아니면 권? ?을 잃을 것이다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/04/05/61974.html",
-    "description": "현재 이란 발전소의 총 용량(이전 공격 이후에도 가동 중인 발전소 기준)은 약 97GW입니다. 이스라엘과 미국이 이란을 상대로 전쟁을 시작하기 불과 며칠 전, 이란 에너지부 장관 아바스 알리 아바디는 이란의 에너지 시스템이 ...",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T19:03:09",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/04/05/61974.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 04  › 05  › 61974.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/-yUiwEnX33Gs6fl_1x8dMMirv9KM_x26lNf-jRjPeog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA1LzllYTdi/NTA5NTg2ZTU0ZWZl/Y2NiOTgyODJjYTli/MmQwX28uanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 ��회 의장, 바브엘만데브 해협 봉쇄 우회적 위협 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260405001500099",
-    "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 이란 전쟁 발발 이후 소셜미디어를 통해 연일 미국과 이스라엘을 상대로 조롱과 협박 메시지를 내고 있는...",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T18:06:24",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260405001500099"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260405001500099"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6fkO-zcQl5b8rj8GtYwigpu4qu1hcF3tXhWhhE8wJVo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcy/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wMy8yNS9Q/QUYyMDI2MDMyNTE5/NjMwMTAwOV9QNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "중동 전쟁의 그림자 속 북아프리카: 모로코-알제리의 미묘한 외교 균형 - 전국인력신문",
-    "url": "https://www.kjob.news/news/478725",
-    "description": "스팀슨 센터의 보고서에 따르면, 이 서사하라 분쟁을 둘러싼 오랜 경쟁은 현재 두 국가가 미국-이스라엘-이란 전쟁에 대해 신중한 비응답 태도를 취하는 방식에도 직접적인 영향을 미치고 있습니다.",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T17:54:58",
-    "profile": {
-      "name": "Kjob",
-      "url": "https://www.kjob.news/news/478725"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kjob.news",
-      "hostname": "www.kjob.news",
-      "favicon": "https://imgs.search.brave.com/U9_oOXHC47VZDpVcprtGHAWw_JjKKRjVDrPtOJLQyps/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZjM2NDky/MDIxNzY0NzIwNDE4/MTIxMjFjNWQ0MTMx/NGQwMWJmNmJiZmY1/M2UxM2Y4NDk4YzQ2/Zjk3NGFhOC93d3cu/a2pvYi5uZXdzLw",
-      "path": "› news  › 478725"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/katCtssKvaZTqk22-V7EptZij2gDw8Pjk1eODPL2W7Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWhvbS5rci9uZXdz/LzIwMjYvMDQvMDUv/ZjM5Y2I3Mzc1NjUw/NDBjMjM0NTRmMzcz/ODMwMzNjOTIwMjUx/NTguanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 외무장관은 부셰르 원자? ? 발? ?소 공격을 자포리자 원자? ? 발? ?소 인근 상황에 비?? 했습니다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/russia/2026/04/05/61970.html",
-    "description": "이란 외무장관 아바스 아라그치는 이른바 \"엡스타인 연합\"과 미국 및 이스라엘의 지역 동맹국이 부셰르 원자력 발전소를 공격한 것에 대해 논평하면서, 이번 공격을 러시아 자포리자 원자력 발전소 주변 상황에 비유했습니다.",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T17:38:39",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/russia/2026/04/05/61970.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› russia  › 2026  › 04  › 05  › 61970.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/TCzpJbrbFh6imEgfFpOnn80cmTqRt0WQ0RF0Kg9OA94/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA1L2M2ZThj/MTMxZjc5Y2RjMDFm/NjZmOGUzYjgyYWQ5/YmNmX28uanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프의 중동 전략, 평화의 문인가 위기의 시작인가? - 전국인력신문",
-    "url": "https://www.kjob.news/news/478715",
-    "description": "실제로 미국 재무부 자료에 ... 이란의 GDP는 2018-2020년 사이 약 10% 이상 축소되었습니다. 트럼프 정책의 배경과 국제 사회의 반응 · 또한, 트럼프가 주도한 아브라함 협정(Abraham Accords)을 예로 들며, 이스라엘과 아랍 국가들 ...",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T16:27:28",
-    "profile": {
-      "name": "Kjob",
-      "url": "https://www.kjob.news/news/478715"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kjob.news",
-      "hostname": "www.kjob.news",
-      "favicon": "https://imgs.search.brave.com/U9_oOXHC47VZDpVcprtGHAWw_JjKKRjVDrPtOJLQyps/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZjM2NDky/MDIxNzY0NzIwNDE4/MTIxMjFjNWQ0MTMx/NGQwMWJmNmJiZmY1/M2UxM2Y4NDk4YzQ2/Zjk3NGFhOC93d3cu/a2pvYi5uZXdzLw",
-      "path": "› news  › 478715"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/sM1P5jWBvWayZwgCOSZgK4-E0GVGUHWIBW2Ko5QxHuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWhvbS5rci9uZXdz/LzIwMjYvMDQvMDUv/NGE0NTRiYTU3OTUz/OTRhY2E1NjQ1NDhj/ODhiMzU2ODUwMTI1/MjIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美·이스라엘 공습 확대... 이란 원전 또 때렸다",
-    "url": "https://www.chosun.com/international/international_general/2026/04/05/A5NQDERC3BCRDITIIOUJIGLVYA/",
-    "description": "美·이스라엘 공습 확대... 이란 원전 또 때렸다 미국과 이스라엘이 4일 오전 이란 내 석유화학단지와 원자력발전소를 공격했다고 이란 국영 IRNA 통신 등이 보도했다. 이란 남서부 후제스탄주 발리올라 하야티 부지사는 미국과 ...",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T15:01:34",
+    "page_age": "2026-04-05T00:02:27",
     "profile": {
       "name": "Chosun Daily",
-      "url": "https://www.chosun.com/international/international_general/2026/04/05/A5NQDERC3BCRDITIIOUJIGLVYA/"
+      "url": "https://chosun.com/international/international_general/2026/04/05/RAFCZI3EZZH7XJWXCWN4LCSOHY"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 04  › 05  › A5NQDERC3BCRDITIIOUJIGLVYA"
+      "hostname": "chosun.com",
+      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
+      "path": "› international  › international_general  › 2026  › 04  › 05  › RAFCZI3EZZH7XJWXCWN4LCSOHY"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/uZU59wzi5mKsJdL-ZQphKIJuuyPI6xY17Unq_zcl3Pg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0tZ/Wk9FWUJDWVJCVVRK/TUZOVUVHQ0pEVUJZ/LmpwZz9hdXRoPWMx/N2ExNzE1ZTNmZDc2/NDg3OGI1MjlmNTEw/OGYwYzBiM2ViMzQx/NjE3NTcyYmQ0YmM3/NzE3NzQzZTRkOWY2/NjImYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
+      "src": "https://imgs.search.brave.com/-g19RDebg4AQRBHWAdRaoDXMdFdkkoExwaeZp8kIYTE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL1lD/UkRBUkZWQ1pLVFhG/T1hBSjJRQUVPQUNF/LmpwZz9hdXRoPTcy/ODRjOGY5NzcyODA2/NzVjN2IxMTM5ODc5/N2E4ZjU3ZWFhZjA4/OTliMjU0NmY5Nzc2/OWU3MTE5MWRjYTAy/NDkmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
     }
   },
   {
     "type": "news_result",
-    "title": "트럼프 \"이란에 시간 10일 줬다…48시간 뒤 지옥이 펼쳐질 것\"(상보) - 뉴스1",
-    "url": "https://www.news1.kr/world/usa-canada/6125542",
-    "description": "도널드 트럼프 미국 대통령이 1일(현지시간) 미국 워싱턴 D.C. 백악관에서 이란 전쟁 관련 대국민 연설을 하고 있다.",
+    "title": "이란, ‘형제 국가’ 이라크에 호르무즈 해협 열었다 - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10710031",
+    "description": "이라크는 이란 전쟁 이후 해협이 막히면서 석유 생산량을 크게 줄인 상태다.",
     "age": "1 day ago",
-    "page_age": "2026-04-04T14:17:23",
-    "profile": {
-      "name": "News1",
-      "url": "https://www.news1.kr/world/usa-canada/6125542"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news1.kr",
-      "hostname": "www.news1.kr",
-      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
-      "path": "› world  › usa-canada  › 6125542"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/MC5uPNkVLbaW4J84Bz54aN0ZJQ04v0Jp1mcij6jzkas/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzQvMi83ODMy/ODcxL2hpZ2guanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미·이스라엘, 이란 석유화학단지·부셰르 원전 공격(종합) | 연합뉴스",
-    "url": "https://www.yna.co.kr/view/AKR20260404045751099",
-    "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 미국과 이스라엘이 4일(현지시간) 오전 이란 내 석유화학단지와 원자력발전소를 공격했다고 이란 국영 I...",
-    "age": "1 day ago",
-    "page_age": "2026-04-04T12:09:47",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20260404045751099"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "www.yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
-      "path": "› view  › AKR20260404045751099"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/16FseII1T2jKKxFztl9dIQqy_E02ouqWnngV4Gjv2Qw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc5/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMTIvMDEvMjkv/UEVQMjAxMjAxMjkw/NzkxMDEwMzRfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란전 직후 정체불명 단체 등장해 유럽도시 공격 배후 자처 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260404049200085",
-    "description": "(런던=연합뉴스) 김지연 특파원 = 이란 전쟁 발발 이후 정체불명의 단체가 갑자기 등장해 서유럽 주요 도시들에서 발생한 사건의 배후를 자처하고 ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T11:25:15",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260404049200085"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260404049200085"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/AHK2QsNbaJlJBfDaAWabt0fHKgbHGnDqhDNKIovOUUA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc0/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wMy8yNS9Q/QUYyMDI2MDMyNTAx/NjIwMTAwOV9QNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란전 직후 정체불명 단체 등장해 유럽도시 공격 배후 자처 | 연합뉴스",
-    "url": "https://www.yna.co.kr/view/AKR20260404049200085",
-    "description": "이란 전쟁 발발 이후 정체불명의 단체가 갑자기 등장해 서유럽 주요 도시들에서 발생한 사건의 배후를 자처하고 있다고 영국 일간 파이낸셜타임스가 4일 보도했다. 앞서 3월 16일 뉴욕멜론은행의 암스테르담 지점이 비슷한 공격 ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T11:25:15",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20260404049200085"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "www.yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
-      "path": "› view  › AKR20260404049200085"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/AHK2QsNbaJlJBfDaAWabt0fHKgbHGnDqhDNKIovOUUA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc0/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wMy8yNS9Q/QUYyMDI2MDMyNTAx/NjIwMTAwOV9QNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 상공 날다가 '쾅' 미군 전투기 2대 격추‥실종 조종사 구출 나선 미국",
-    "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6812685_37004.html",
-    "description": "현지시간 3일, 이란 남서부에서 미군 f-15 이글 전투기가 격추됐습니다. 조종사 2명은 추락 전 탈출했는데, 1명은 구조했지만, 1명은 아직 찾지 못했습니다. 이어 구조를 위해 출동한 미군 A-10 공격기도 이란 방공망에 격추됐고, ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T11:02:32",
-    "profile": {
-      "name": "IMBC",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6812685_37004.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› replay  › 2026  › nwdesk  › article  › 6812685_37004.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VYdDB2dvRdz2WIYntDqJa95DE4LIOoHjuh2k-7ufqBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbndkZXNr/L2FydGljbGUvX19p/Y3NGaWxlcy9hZmll/bGRmaWxlLzIwMjYv/MDQvMDQvZGVza18y/MDI2MDQwNF8yMDAy/MDFfMV8xX0xhcmdl/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“미군 전투기만 격추한 게 아냐”…이란, ‘기억할만한 전투’ 자평한 이유 - 매일경제",
-    "url": "https://mk.co.kr/news/world/12008026",
-    "description": "이란군을 통합지휘하는 하탐 알안비야 산하 방공본부의 알리레자 엘하미 부사령관은 4일 “라마단 전쟁(미국·이스라엘과 전쟁에 대한 이란 측 명칭)에서 적 전투기 여러 대, MQ-9을 비롯한 드론 160대, 수십발의 순항미사일을 ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T09:55:53",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/world/12008026"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › world  › 12008026"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/qZcmxQUh5bv3WKgw-oekHa47ANf6MqTr6vPuGqmN2Rw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NC8wNC9uZXdzLXAu/djEuMjAyNjA0MDQu/YzMwZjMwMWY4NzFj/NDE4YmI2MDhhMmQz/MGQyY2NhNTZfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "최근 이란 미사일 공격 이후 텔아비브.. 불발된 클러스터 탄 하나가 길거리에 보인다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/04/04/61937.html",
-    "description": "최근 이란 미사일 공격 이후 텔아비브.불발된 클러스터 탄 하나가 길거리에 보인다.#이란 #이스라엘 #미국 #전쟁 #제국주의@news_of_nutcracker",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T09:34:32",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/04/04/61937.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 04  › 04  › 61937.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2DVTD5sjjm73h8FjGCegTKdmNhJaSYd4qD4lw0cR0RE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA0LzZjZDk3/MzYwZGQ2N2RiYWFi/YTRkNjFhOGQ3NDM3/MTFlX28uanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "동남아, 에너지 대란에 관광 급감까지...이란전쟁 이중고 | 아주경제",
-    "url": "https://www.ajunews.com/view/20260404174954061",
-    "description": "태국 방콕의 유명 관광지인 왓 프라깨우(에메랄드 사원)를 둘러보는 외국인 관광객들 [사진=연합뉴스] 동남아 각국이 이란 전쟁으로 심각한 석유·가스 공급난에 더해 핵심 산업인 관광업까지 집중 피해를 보는 이중고에 ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T08:57:36",
-    "profile": {
-      "name": "Aju News",
-      "url": "https://www.ajunews.com/view/20260404174954061"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "www.ajunews.com",
-      "favicon": "https://imgs.search.brave.com/_AUj3DETaA8fJjC5U_ria7_IDrO4M6EUDxUwgMb-QgY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxYjExMzVm/Y2RiMmFiZDY0ODVh/ZDY0YTgyMWRjNjNk/YjY5ZTg5YWNiODVk/YzJhZjMxYzhiNjFj/ZjNkODQ1OC93d3cu/YWp1bmV3cy5jb20v",
-      "path": "› view  › 20260404174954061"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/c4g6eWWBiwde41rnZhMAjOkks5mSfKZIVi1p9w6r-Us/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDQv/MDQvMjAyNjA0MDQx/NzU2NTIxMDM1ODQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "對이란전 투입 美공군 잇단 '수모'... F-15 전투기·A-10 공격기 이란서 격추",
-    "url": "https://getnews.co.kr/news/articleView.html?idxno=866996",
-    "description": "미국과 이스라엘의 기습공격(2월 28일)으로 촉발된 이란과의 전쟁(이란전)이 두 달째로 접어든 상황에서 미공군의 K-15E 전투기와 A-10 대지(對地) 공격기가 잇따라 격추되는 등 수모를 겪는 것으로 나타났다.",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T08:56:01",
-    "profile": {
-      "name": "Getnews",
-      "url": "https://getnews.co.kr/news/articleView.html?idxno=866996"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "getnews.co.kr",
-      "hostname": "getnews.co.kr",
-      "favicon": "https://imgs.search.brave.com/sEyxbqy6Dy0ee21L3xwfJg1FVnKt1JN2skwirZ3Kdaw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMxOTU5NDlh/MDBmNWVmMWU3MjQ3/NThmNWI5NTJlNzk5/YzFiMTlkNDk0NTYx/MmUxMWUxODNiY2M2/OGI2NDVlOC9nZXRu/ZXdzLmNvLmtyLw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Nc1kzQ0r-tLlkDovBO_COKpaYCFKl8pDM2XVp59VSEI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z2V0bmV3cy5jby5r/ci9uZXdzL3Bob3Rv/LzIwMjYwNC84NjY5/OTZfNTE4ODQwXzQ3/NC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“호르무즈, 이란에 또 다른 무기 쥐어준 셈” - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10709921",
-    "description": "카타르 위성방송 알자지라는 이란이 세계 각국을 적대국, 중립국, 우호국 등 3개 그룹으로 분류해 호르무즈해협 통과 허용 여부와 정도에 차등을 둘 가능성이 있다고 4일 보도했다. 이스라엘과 미국 등 적대국 관련 선박들의 ...",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T07:27:02",
+    "page_age": "2026-04-05T00:01:44",
     "profile": {
       "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10709921"
+      "url": "https://biz.heraldcorp.com/article/10710031"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "biz.heraldcorp.com",
       "hostname": "biz.heraldcorp.com",
       "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10709921"
+      "path": "› article  › 10710031"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/KkKoyMFGvvVYzcNlLclGGWQkAiqKpdfrh4ZeKNlA93o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDQvMDQv/bmV3cy1wLnYxLjIw/MjYwMzAzLjAyOGUy/OWJlMzI2MTQxMGE4/MzI3OWEyYzViYmJl/NmU0X1QxLmpwZw"
+      "src": "https://imgs.search.brave.com/11PnheSuIqHZzEoMaXe2w_Ep2R-OqC8N9ePPR8LaYJs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDQvMDUv/bmV3cy1wLnYxLjIw/MjYwNDA0Ljc2NmU5/ZjdjMDY4NTQ5YTU5/ZTg4OGZkOTJjZGRj/MjlkX1QxLnBuZw"
     }
   },
   {
     "type": "news_result",
-    "title": "미국의 금속 문? ?.. 텅스텐, Foreign Policy의 지? ?. ? - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/04/04/61912.html",
-    "description": "그러나 이란이 추락한 미국 조종사의 영상을 공개한다면, 미국 의회와 국민들은 트럼프 행정부에 군사 작전을 중단하고 테헤란과... ... 레바논 헤즈볼라 무장단체는 이스라엘 군사 시설에 대한 일련의 공격을 보고했습니다.",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T04:00:40",
+    "title": "Kuwait Petroleum Corp reports damage at units after Iran drone attacks | Reuters",
+    "url": "https://www.reuters.com/world/middle-east/fire-erupts-kuwaits-shuwaikh-oil-sector-complex-after-drone-attack-state-news-2026-04-05/",
+    "description": "April 5 (Reuters) - Iranian drone attacks hit various targets in Kuwait on Sunday, ​with state energy company Kuwait Petroleum Corporation reporting ‌fires and \"severe material damage\" at some operating units.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T00:01:14",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/04/04/61912.html"
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/fire-erupts-kuwaits-shuwaikh-oil-sector-complex-after-drone-attack-state-news-2026-04-05/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 04  › 04  › 61912.html"
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› world  › middle-east  › fire-erupts-kuwaits-shuwaikh-oil-sector-complex-after-drone-attack-state-news-2026-04-05"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/vPBw53asUFYeTt6PkS8ho-KuHIpJCoyDaXqwQh9ehJU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNDA0L2U2Yjgz/NWU2ZmFjNTA4Njg0/YWE3NDAxMDAyMjQw/NDE2X28uanBn"
+      "src": "https://imgs.search.brave.com/2ZCZJsJWp82jpbdJHXXQuIgfPM2cIHVuQL_aq0Jl3B4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi80/NjZCSkpRN1BWR1k1/TzUzTlozS0w2NU1I/TS5wbmc_YXV0aD1i/OWMzYmYxNjZjNDBh/Njc3OGViNTY3Mjk5/M2ZkZTdjMzBhMTVm/NDgzMjkwMjY2NzRl/ZmY5MmFmZDhkYTFk/MGNhJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
     }
   },
   {
     "type": "news_result",
-    "title": "\"혁명수비대 중심 군사국가 재편\"… 고립무원 이란, '중동의 북한' 되나 < 외교/안보 < POLITICS < 기사본문 - 더퍼블릭",
-    "url": "https://thepublic.kr/news/articleView.html?idxno=299900",
-    "description": "포스트 러-우 전쟁, 이제는 ‘호르무즈’다…에너지 생존 전략 ‘비상’ · 키워드 #미국 #북한 #이란 #이스라엘 #군사국가",
-    "age": "2 days ago",
-    "page_age": "2026-04-04T00:06:42",
+    "title": "Iran war updates: Tehran slams Trump threats over Strait of Hormuz closure | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+    "description": "These were the updates about the US-Israeli war on Iran on Sunday, April 5, 2026.",
+    "age": "1 day ago",
+    "page_age": "2026-04-05T00:00:00",
     "profile": {
-      "name": "Thepublic",
-      "url": "https://thepublic.kr/news/articleView.html?idxno=299900"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "thepublic.kr",
-      "hostname": "thepublic.kr",
-      "favicon": "https://imgs.search.brave.com/E-K5yFKjohBabzLLjjGLGgvk5ChbGY_74vK0X7g2YuE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWFkMDU2NTQw/NjI2NDI4YjE3ZTc4/ZTNmNWVhMmU2YWQw/ZjQ5OTAwMjRhNjAw/MmU5MjIyYjFkZjQz/Njg3MjBlZC90aGVw/dWJsaWMua3Iv",
-      "path": "› news  › articleView.html"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › liveblog  › 2026  › 4  › 5  › iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/M82u-UxTPls_0Bec827ujjv5ogXTCjboKcZ8JcVByxo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlcHVibGljLmty/L25ld3MvcGhvdG8v/MjAyNjA0LzI5OTkw/MF8zMDIxMTJfMTgz/NC5qcGc"
+      "src": "https://imgs.search.brave.com/xT7Vf55W7nEYWoHlQ7-218q7jKG437Ibec2_iaS9P_s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNC9BRlBfXzIw/MjYwNDA1X19BNlQ3/N1RCX192MV9fSGln/aFJlc19fSXJhblVz/SXNyYWVsV2FyR3Vh/cmRzLTE3NzUzNzg3/MzguanBnP3Jlc2l6/ZT0xOTIwJTJDMTQ0/MA"
     }
   }
 ]
