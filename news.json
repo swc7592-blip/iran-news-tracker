@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "Iran war live: Israel continues to attack Lebanon and Tehran strikes Kuwait after US-Iran ceasefire agreed | Reuters",
+    "url": "https://www.reuters.com/world/iran-war-live-trump-announces-two-week-ceasefire-iran-says-talks-begin-soon-2026-04-08/",
+    "description": "U.S. President Donald Trump is dispatching his Iran negotiating team, led by Vice President JD Vance, to Pakistan for talks, the White House said.",
+    "age": "24 minutes ago",
+    "page_age": "2026-04-08T19:31:29",
+    "profile": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/iran-war-live-trump-announces-two-week-ceasefire-iran-says-talks-begin-soon-2026-04-08/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› world  › iran-war-live-trump-announces-two-week-ceasefire-iran-says-talks-begin-soon-2026-04-08"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ZDhUrASYQ1sZdvAn6bfgjlqa_toUraexNiMZGtCUrnk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9B/MjJGQ0RZVlpKQ0FU/Q1pMNk0zTlhORVVL/WS5KUEc_YXV0aD1l/NzBkYWQ3OTFjY2Ez/ZmY4NWU2MzZhMTgz/NWE4ODFkMzYwYzc2/MTIwNzRmMTZmNmFk/NmEzODM3NGQ2MzE0/ZmI4JmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran war live updates: Hegseth says Pentagon ‘has done its part’ for now amid uncertainty over fragile ceasefire",
+    "url": "https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-8-2026",
+    "description": "Uncertainty clouds the ceasefire with Iran and the reopening of the Strait of Hormuz.",
+    "age": "2 hours ago",
+    "page_age": "2026-04-08T17:54:59",
+    "profile": {
+      "name": "MS NOW",
+      "url": "https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-8-2026"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ms.now",
+      "hostname": "www.ms.now",
+      "favicon": "https://imgs.search.brave.com/Hn2ceNhinPUhKz7CfxmyRxBAOC8n43h2F4o-ysirhl4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmExYzE4ZDZm/NTY4YTc0ZjhmNWI0/ZTMyZTNiM2NmMTll/ZWJjYTNlYWI0MTRi/ZGZmOTFiZDBjNWZk/MmM2NGRkNy93d3cu/bXMubm93Lw",
+      "path": "› liveblog  › iran-war-news-today-trump-us-april-8-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/20N0gcVDZc0dcdjjflsrTpVntF1v2k-xlVut6wS5bOg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bXMubm93L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA0LzI2/MDQwOC1iZWlydXQt/enotMDMuanBnP3c9/MTIwMCZoPTYzMCZj/cm9wPTE"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Middle East crisis live: Iran closes strait of Hormuz over Israel’s attacks on Lebanon, state media say | Iran | The Guardian",
     "url": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
     "description": "World leaders have welcomed the announcement by the US and Iran of a two-week ceasefire, with Tehran agreeing to allow the safe transit of vessels through the strait of Hormuz. The ceasefire that was brokered by Pakistan has been hailed a victory by both sides. Donald Trump repeated the claim that the war ...",
-    "age": "1 hour ago",
+    "age": "2 hours ago",
     "page_age": "2026-04-08T17:27:00",
     "profile": {
       "name": "The Guardian",
@@ -23,24 +67,46 @@
   },
   {
     "type": "news_result",
-    "title": "US War With Iran by the Numbers, From Energy Drinks to Targets Struck - Business Insider",
-    "url": "https://www.businessinsider.com/us-war-with-iran-by-numbers-energy-drinks-to-targets-2026-4",
-    "description": "Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, provided stats on the war with Iran, from targets struck to energy drinks consumed.",
-    "age": "3 hours ago",
-    "page_age": "2026-04-08T15:34:34",
+    "title": "The Forgotten War That Iran Already Won - The Atlantic",
+    "url": "https://www.theatlantic.com/international/2026/04/iran-palestine-israel-war/686717/",
+    "description": "Tehran fought for decades to prevent Israeli-Palestinian peace.",
+    "age": "4 hours ago",
+    "page_age": "2026-04-08T15:32:00",
     "profile": {
-      "name": "Business Insider",
-      "url": "https://www.businessinsider.com/us-war-with-iran-by-numbers-energy-drinks-to-targets-2026-4"
+      "name": "The Atlantic",
+      "url": "https://www.theatlantic.com/international/2026/04/iran-palestine-israel-war/686717/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "businessinsider.com",
-      "hostname": "www.businessinsider.com",
-      "favicon": "https://imgs.search.brave.com/Z6wRqiE6vvL-8sy5MskRt7Tuy1z-PxXnfSbVXVy86vw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTI3NGQzMDdi/ZjEzYTA0MTI4NWMw/MWVjOTFmNDI3Yzdk/NGQzZDE1OTAxOWVj/NWIxMjk3YTcyNTg5/N2FiZjM2Yy93d3cu/YnVzaW5lc3NpbnNp/ZGVyLmNvbS8",
-      "path": "› us-war-with-iran-by-numbers-energy-drinks-to-targets-2026-4"
+      "netloc": "theatlantic.com",
+      "hostname": "www.theatlantic.com",
+      "favicon": "https://imgs.search.brave.com/Fk4JWZ_EIMwpnJKP-_EGkUz6NsTbCMox8leGFvdkWKE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDUyYzQzN2My/MTNkOThjMTliYWNk/ZWIyYTQyOWVhMDI3/MDg1YzkyNGQxNWY2/NjNiZTc3MGIwYmQ4/ZTIwYzMzOC93d3cu/dGhlYXRsYW50aWMu/Y29tLw",
+      "path": "› international  › 2026  › 04  › iran-palestine-israel-war  › 686717"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/w4umA3q9WzIfyi6J2Lj4Cp-RAmWQ79LIHqVKFQkHNqk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzY5/ZDY2NGQxY2M0Njhh/ZWVjNTI0Y2UxMD93/aWR0aD0xMjAwJmZv/cm1hdD1qcGVn"
+      "src": "https://imgs.search.brave.com/82p3j1m9KexqHKjnFPDwbOfWXF9qZ6UQGQZim2G6r0s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlYXRsYW50aWMu/Y29tL3RodW1ib3Iv/Zm5tX3ZTVmNMU0tp/ZkVtdUsySG11TDJD/dzE0PS8weDEwMjo0/NzkyeDI1OTgvMTIw/MHg2MjUvbWVkaWEv/aW1nL210LzIwMjYv/MDQvMjAyNl8wNF8w/N19UaGVfRm9yZ290/dGVuX1dhcl9JcmFu/X0FscmVhZHlfV29u/L29yaWdpbmFsLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "What Trump Has Accomplished in Iran After 5 Weeks of War - The New York Times",
+    "url": "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html",
+    "description": "President Trump said “we have already met and exceeded” his military objectives. But his goals are largely unresolved.",
+    "age": "5 hours ago",
+    "page_age": "2026-04-08T15:11:29",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 04  › 08  › us  › politics  › trump-iran-goals.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/oi0t0IEgIpax9ZzJhfdpmOFKK09O1zZqGrcX_SA8FfQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA4L211bHRp/bWVkaWEvMDhkYy1w/cmV4eS16d2JxLzA4/ZGMtcHJleHktendi/cS1mYWNlYm9va0p1/bWJvLmpwZw"
     }
   },
   {
@@ -48,7 +114,7 @@
     "title": "Defeat from the jaws of victory: Israel reacts to Trump’s Iran ceasefire | US-Israel war on Iran News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/4/8/defeat-from-the-jaws-of-victory-israel-reacts-to-trumps-iran-ceasefire",
     "description": "Israel's confrontation with its regional nemesis leaves Iran both standing and strategically stronger, analysts say.",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-04-08T13:34:36",
     "profile": {
       "name": "Al Jazeera",
@@ -67,10 +133,32 @@
   },
   {
     "type": "news_result",
+    "title": "Iran struck Saudi Arabia oil pipeline just hours after ceasefire, source says | Reuters",
+    "url": "https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/",
+    "description": "April 8 (Reuters) - Iran attacked Saudi Arabia's East-West Pipeline just hours after a ceasefire ‌was agreed to pause the Iran war, an industry source told Reuters on Wednesday, hitting its only crude oil export route since hostilities began.",
+    "age": "7 hours ago",
+    "page_age": "2026-04-08T12:50:21",
+    "profile": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/energy/saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› business  › energy  › saudi-arabias-east-west-oil-pipeline-hit-iranian-attack-damage-being-assessed-2026-04-08"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2ZCZJsJWp82jpbdJHXXQuIgfPM2cIHVuQL_aq0Jl3B4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi80/NjZCSkpRN1BWR1k1/TzUzTlozS0w2NU1I/TS5wbmc_YXV0aD1i/OWMzYmYxNjZjNDBh/Njc3OGViNTY3Mjk5/M2ZkZTdjMzBhMTVm/NDgzMjkwMjY2NzRl/ZmY5MmFmZDhkYTFk/MGNhJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "What the US, Iran, Israel and Pakistan have said about the ceasefire | Reuters",
     "url": "https://www.reuters.com/world/asia-pacific/what-us-iran-israel-pakistan-have-said-about-ceasefire-2026-04-08/",
     "description": "The United States, Israel and Iran have agreed to a two-week ceasefire, reached with Pakistani mediation, and U.S. and Iranian officials are expected to hold talks on Friday to discuss a long-term settlement.",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-04-08T12:50:04",
     "profile": {
       "name": "Reuters",
@@ -92,7 +180,7 @@
     "title": "S Arabia, UAE, Kuwait, Qatar, Bahrain report attacks after Iran-US truce | US-Israel war on Iran News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/4/8/uae-kuwait-bahrain-report-attacks-despite-iran-us-ceasefire",
     "description": "Several strikes reported across the Gulf region hours after the US and Iran announce a ceasefire for two weeks.",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-04-08T10:43:30",
     "profile": {
       "name": "Al Jazeera",
@@ -114,7 +202,7 @@
     "title": "Live Updates: President Trump vows 'positive action' as ceasefire agreement with Iran reached | Fox News Digital",
     "url": "https://www.foxnews.com/live-news/trump-us-iran-war-ceasefire-strait-hormuz-israel-live-updates-04-08-2026",
     "description": "Senate Minority Leader Chuck Schumer, D-N.Y. blasted President Donald Trump as \"a military moron\" in a Wednesday post on X, asserting that the nation is \"worse off\" now compared to when the commander in chief first launched the Iran war effort.",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-04-08T10:26:53",
     "profile": {
       "name": "Fox News",
@@ -133,32 +221,10 @@
   },
   {
     "type": "news_result",
-    "title": "US, Iran declare victory after ceasefire announcement. Live updates.",
-    "url": "https://www.usatoday.com/story/news/world/2026/04/08/iran-war-ceasefire-strait-hormuz-trump-updates--live/89509782007/",
-    "description": "President Trump announced a two-week ceasefire with Iran contingent on the reopening of the Strait of Hormuz. See what’s next in peace talks.",
-    "age": "9 hours ago",
-    "page_age": "2026-04-08T10:18:31",
-    "profile": {
-      "name": "USA Today",
-      "url": "https://www.usatoday.com/story/news/world/2026/04/08/iran-war-ceasefire-strait-hormuz-trump-updates--live/89509782007/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "usatoday.com",
-      "hostname": "www.usatoday.com",
-      "favicon": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw",
-      "path": "› story  › news  › world  › 2026  › 04  › 08  › iran-war-ceasefire-strait-hormuz-trump-updates--live  › 89509782007"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/65wHg_ZsXiP0oQl6Sgt4Qk14e0RN1G2jyCxTE4SDbdg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FubmV0dC1jZG4u/Y29tL2F1dGhvcmlu/Zy9hdXRob3Jpbmct/aW1hZ2VzLzIwMjYv/MDQvMDgvVVNBVC84/OTUxNDQyMTAwNy0y/MDI2MDQwOC10LTEy/NTcyNy16LTI2MTc4/OTc3MC1yYy0yMC1s/a2F3bC00LWl2LXJ0/cm1hZHAtMy1pcmFu/Y3Jpc2lzdXNhcGVu/dGFnb24uSlBHP2F1/dG89d2VicCZjcm9w/PTUwODcsMjg2Myx4/MCx5MjY0JmZvcm1h/dD1wanBnJndpZHRo/PTEyMDA"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Iranian Oil Refining Company confirms attack on Lavan refinery, Shana reports | Reuters",
     "url": "https://www.reuters.com/business/energy/iranian-oil-refining-company-confirms-attack-lavan-refinery-shana-reports-2026-04-08/",
     "description": "An oil refinery on ‌Iran's Lavan Island was targeted in an \"enemy attack\" ​on Wednesday, which caused ​no casualties, the National ⁠Iranian Oil Refining and ​Distribution Company said, according ​to the Oil Ministry's news outlet, Shana.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-08T10:12:08",
     "profile": {
       "name": "Reuters",
@@ -180,7 +246,7 @@
     "title": "Trump announces two-week ceasefire as Iran says talks to begin soon - as it happened | Reuters",
     "url": "https://www.reuters.com/world/iran-war-live-tehran-rejects-ceasefire-deal-trumps-deadline-reopen-strait-hormuz-2026-04-07/",
     "description": "Lebanese residents said the Israeli strikes came without the usual warnings for civilians to evacuate. ANALYSISAs Trump claims victory, Iran emerges bruised but powerful with leverage over Hormuz",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-04-08T09:33:37",
     "profile": {
       "name": "Reuters",
@@ -202,7 +268,7 @@
     "title": "Live updates: Iran war ceasefire begins though some new attacks hit Gulf; Israel says Lebanon not included",
     "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
     "description": "Follow live coverage from NBC News of the U.S.-Iran ceasefire, Trump's comments, the Strait of Hormuz reopening and Israel-Lebanon updates.",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-04-08T08:04:15",
     "profile": {
       "name": "NBC News",
@@ -221,54 +287,10 @@
   },
   {
     "type": "news_result",
-    "title": "US-Israeli war on Iran: What is happening on day 40? | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/4/8/iran-war-what-is-happening-on-day-40-of-us-israeli-attacks",
-    "description": "Iran says it has accepted a two-week ceasefire, with talks set to begin on Friday in Pakistan’s capital, Islamabad, after United States President Donald Trump agreed to suspend attacks on the condition that Tehran fully reopens the Strait of Hormuz.",
-    "age": "12 hours ago",
-    "page_age": "2026-04-08T07:03:17",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/iran-war-what-is-happening-on-day-40-of-us-israeli-attacks"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 4  › 8  › iran-war-what-is-happening-on-day-40-of-us-israeli-attacks"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7IVNGcmspsi72OYqdU9SkesXCCFMnna_e6Pm9FIxQFk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNC8yMDI2LTA0/LTA4VDAwNDAyNlpf/MTE1NDUzMzEyM19S/QzJPS0tBS0dXSTdf/UlRSTUFEUF8zX0lS/QU4tQ1JJU0lTLVVT/QS1UUlVNUC0xNzc1/NjI3ODA3LmpwZz9y/ZXNpemU9MTkyMCUy/QzE0NDA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war live: Israel kills 254 in Lebanon after US-Iran agree ceasefire | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz",
-    "description": "Israel carries out 100 strikes across Lebanon in 10 minutes, health minister says hospitals overwhelmed with victims.",
-    "age": "12 hours ago",
-    "page_age": "2026-04-08T07:00:00",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › liveblog  › 2026  › 4  › 8  › iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ZRaG-kloPoLhi28fVLiDjnXJ5qZoZ19_USQMqbwiTMg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNC9BUDI2MDk4/NDQ2ODc0NDMzLTE3/NzU2NTI4MzIuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Iran War Live Updates: U.S.-Iran Cease-Fire Shaky as Israel Strikes Lebanon and Confusion Grows Over Strait - The New York Times",
     "url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
-    "description": "Israel launched a major offensive against Iran-backed Hezbollah in Lebanon, and Iran threatened to retaliate if the strikes were not “immediately halted.” The Trump administration and Iran disagree about whether Lebanon was included in the truce.",
-    "age": "12 hours ago",
+    "description": "The speaker of Iran’s parliament accused the U.S. of violating the cease-fire over Israel’s attacks on Iran-backed Hezbollah in Lebanon. The Trump administration and Iran disagree about whether Lebanon was included in the truce.",
+    "age": "13 hours ago",
     "page_age": "2026-04-08T06:36:05",
     "profile": {
       "name": "NYTimes",
@@ -282,7 +304,7 @@
       "path": "› live  › 2026  › 04  › 08  › world  › iran-war-trump-news"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/5jsSWEC5fjTYW4Clni-ISwTPK4PfxZuzUDR6eWwHP68/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA4L211bHRp/bWVkaWEvMDhpc3Jh/ZWwtaXJhbi1wcm9t/by0xMzBwbS1sa3px/LzA4aXNyYWVsLWly/YW4tcHJvbW8tMTMw/cG0tbGt6cS1mYWNl/Ym9va0p1bWJvLmpw/Zw"
+      "src": "https://imgs.search.brave.com/ao010UT7D5r8w3vpTUQ0nrVbO__8kWKpej_VwAFVYUw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA4L211bHRp/bWVkaWEvMDhpcmFu/LTQwMC1rYnpxLzA4/aXJhbi00MDAta2J6/cS1mYWNlYm9va0p1/bWJvLmpwZw"
     }
   },
   {
@@ -290,7 +312,7 @@
     "title": "US and Iran agree to provisional ceasefire as Tehran says it will reopen strait of Hormuz | US-Israel war on Iran | The Guardian",
     "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
     "description": "In a separate post later, the US ... traffic buildup” in the strait of Hormuz and that “big money will be made” as Iran begins reconstruction. For several hours afterwards, Israel’s position or agreement with the deal was unclear....",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-04-08T06:01:44",
     "profile": {
       "name": "The Guardian",
@@ -312,7 +334,7 @@
     "title": "Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again",
     "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-8-2026-38d75d5e4f1c7339a1456fc99415bb2a",
     "description": "Iran closed the Strait of Hormuz again in response to Israeli attacks against the Hezbollah militant group in Lebanon.",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-04-08T04:14:06",
     "profile": {
       "name": "AP News",
@@ -334,7 +356,7 @@
     "title": "이번 미국·이란의 '2주 휴전'이 의미하는 바는 무엇일까 - BBC News 코리아",
     "url": "https://bbc.com/korean/articles/cj947zy9zmro",
     "description": "설령 이 2주간의 휴전이 항구적 평화로 이어진다 해도, 이번 이란 전쟁 및 트럼프 대통령의 최근 발언들은 국제 사회가 미국을 바라보는 시선을 근본부터 바꿔놓았을지도 모른다.",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-04-08T04:02:09",
     "profile": {
       "name": "BBC",
@@ -356,7 +378,7 @@
     "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ | US-Israel war on Iran News | Al Jazeera",
     "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon",
     "description": "Israeli Prime Minister Benjamin Netanyahu’s office has expressed support for the United States’ decision to suspend strikes on Iran, but said the two-week truce will not extend to Israel’s ongoing military operations in Lebanon.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-04-08T03:17:42",
     "profile": {
       "name": "Al Jazeera",
@@ -378,7 +400,7 @@
     "title": "Iran war live updates: ‘A whole civilization could die tonight,’ Trump says as deadline on Iran deal nears",
     "url": "https://www.ms.now/liveblog/iran-war-news-today-trump-us-april-7-2026",
     "description": "Iran accepted the ceasefire agreement and vowed to allow safe passage through the Strait of Hormuz during that period.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-04-08T03:11:58",
     "profile": {
       "name": "MS NOW",
@@ -399,8 +421,8 @@
     "type": "news_result",
     "title": "이란 \"美, 종전안 수용\"‥호르무즈 통행료 내라?",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6813574_36967.html",
-    "description": "그러면서 앞으로 2주 동안 호르무즈 해협을 안전하게 통과할 수 있다고 말했습니다. 이란 최고국가안보회의는 별도 성명을 통해 미국과 이스라엘을 상대로 한 전쟁에서 이란이 승리했다고 주장했습니다.",
-    "age": "16 hours ago",
+    "description": "그러면서 앞으로 2주 동안 호르무즈 해협을 안전하게 통과할 수 있다고 말했습니다. 이��� 최고국가안보회의는 별도 성명을 통해 미국과 이스라엘을 상대로 한 전쟁에서 이란이 승리했다고 주장했습니다.",
+    "age": "17 hours ago",
     "page_age": "2026-04-08T03:06:57",
     "profile": {
       "name": "IMBC",
@@ -419,10 +441,32 @@
   },
   {
     "type": "news_result",
+    "title": "What we know about the US and Iran's ceasefire deal",
+    "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o",
+    "description": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
+    "age": "17 hours ago",
+    "page_age": "2026-04-08T02:49:10",
+    "profile": {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbc.com",
+      "hostname": "www.bbc.com",
+      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+      "path": "› news  › articles  › ce84z6y3ke4o"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/jc12gwhErHcey8S31I7hGea3rWUJ1J_4EtdEp_1n8FM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/MDYzYi9saXZlLzlk/ODg1NWIwLTMzM2Yt/MTFmMS04NjA2LTA1/ZmUzNGIwNmUxYi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement",
     "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html",
     "description": "The UAE said its air defense systems were dealing with missile attacks and incoming drones from Iran. Saudi Arabia, Kuwait, Bahrain and Qatar also issued alerts or activated defenses. TEL AVIV, ISRAEL - APRIL 08: An Iranian cluster munition is fired towards Tel Aviv and the surrounding area ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-04-08T02:38:22",
     "profile": {
       "name": "CNBC",
@@ -441,24 +485,24 @@
   },
   {
     "type": "news_result",
-    "title": "Israel continuing to strike in Iran despite ceasefire announcement, security official tells ToI | The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/israel-continuing-to-strike-in-iran-despite-ceasefire-announcement-security-official-tells-toi/",
-    "description": "We’re really pleased that you’ve read X Times of Israel articles in the past month. You clearly find our careful reporting of the Iran war valuable, at a time when facts are often distorted and news coverage often lacks context.",
+    "title": "하메네이 폭사·호르무즈 봉쇄·하르그 공습…'금기 깬 40일' 전쟁 일지 - 뉴스1",
+    "url": "https://www.news1.kr/world/middleeast-africa/6129090",
+    "description": "2월28일 전쟁 첫날 이란 최고지도자 사망…3월8일 차남 모즈타바 선출 3월13일 美, '원유 섬' 폭격…4월 3일 이란 땅에 美 전투기 조종사 추락 미국과 이스라엘이 이란과 5주 이상 전쟁을 벌인 끝에 40일째가 된 8일(이란 현지시간 ...",
     "age": "18 hours ago",
-    "page_age": "2026-04-08T00:49:00",
+    "page_age": "2026-04-08T01:33:51",
     "profile": {
-      "name": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/israel-continuing-to-strike-in-iran-despite-ceasefire-announcement-security-official-tells-toi/"
+      "name": "News1",
+      "url": "https://www.news1.kr/world/middleeast-africa/6129090"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "timesofisrael.com",
-      "hostname": "www.timesofisrael.com",
-      "favicon": "https://imgs.search.brave.com/OJQMSAvTflmuKWaGFi8G1JN7iB7VR_SsBpLzPv0OKAo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRiNjdiZWJi/NTM0ZWE5YzIxMDRl/N2E2ZDc0MWViZDM3/NTRkOWE4ZjRiYWQ3/MjI1MWUyYjc1ZWQw/NTkxNmViZC93d3cu/dGltZXNvZmlzcmFl/bC5jb20v",
-      "path": "› liveblog_entry  › israel-continuing-to-strike-in-iran-despite-ceasefire-announcement-security-official-tells-toi"
+      "netloc": "news1.kr",
+      "hostname": "www.news1.kr",
+      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
+      "path": "› world  › middleeast-africa  › 6129090"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/R-HxSX3deQDX4htee_T_fBcNSKknHQiwFleVD3igneg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGltZXNvZmlz/cmFlbC5jb20vd3d3/L2ltYWdlcy90b2kt/bG4tMTIwMC5wbmc"
+      "src": "https://imgs.search.brave.com/PIfpqYUo2XSQ_DVTj01fOgXWpIKuN9xAFRm8uyFQSwk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzMvMS83Nzcz/MzA4L2hpZ2guanBn"
     }
   },
   {
@@ -466,7 +510,7 @@
     "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
     "url": "https://www.bbc.com/news/articles/cwyvp55xrlro",
     "description": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-04-08T00:45:08",
     "profile": {
       "name": "BBC",
@@ -488,7 +532,7 @@
     "title": "Iran's 10-point plan for ending war calls for 'acceptance' of uranium enrichment, removing all US sanctions | The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog_entry/irans-10-point-plan-for-ending-war-calls-for-acceptance-of-uranium-enrichment-removing-all-us-sanctions/",
     "description": "We’re really pleased that you’ve read X Times of Israel articles in the past month. You clearly find our careful reporting of the Iran war valuable, at a time when facts are often distorted and news coverage often lacks context.",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-04-08T00:34:25",
     "profile": {
       "name": "The Times of Israel",
@@ -507,10 +551,10 @@
   },
   {
     "type": "news_result",
-    "title": "Live updates: Iran closes Strait of Hormuz as Israel strikes Beirut after ceasefire | AP News",
+    "title": "Live updates: Iran accuses US of violating parts of deal framework, says ceasefire 'unreasonable'",
     "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
-    "description": "After Iran, the U.S. and Israel agreed to a two-week ceasefire, Iran closed the Strait of Hormuz due to Israeli strikes in Lebanon, per state media.",
-    "age": "19 hours ago",
+    "description": "Trump ha retrasado plazos para Irán, pero sugiere que éste es el último ... A woman and an injured man, center, are rescued by firefighters from a destroyed building that was hit in an Israeli airstrike in central Beirut, Lebanon, Wednesday, April 8, 2026.",
+    "age": "20 hours ago",
     "page_age": "2026-04-08T00:19:00",
     "profile": {
       "name": "AP News",
@@ -532,7 +576,7 @@
     "title": "미국·이란 ‘2주 휴전·호르무즈 개방’ 극적 합의",
     "url": "https://chosun.com/international/international_general/2026/04/08/V3UZORZE5BCB5EIYYZOE3DK65M",
     "description": "미국·이란 2주 휴전·호르무즈 개방 극적 합의 이란 최고국가안보회의 세부 사항은 10일 파키스탄서 확정할 것 미국과 이란이 2주간의 휴전과 호르무즈 개방에 사실상 합의했다. 도널드 트럼프 미국 대통령이 2주간 휴전과 ...",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-04-07T23:36:48",
     "profile": {
       "name": "Chosun Daily",
@@ -551,10 +595,32 @@
   },
   {
     "type": "news_result",
+    "title": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country | Iran | The Guardian",
+    "url": "https://www.theguardian.com/world/2026/apr/07/iran-cyberattacks-infrastructure",
+    "description": "Security agencies say municipalities should watch out for unusual activity, especially in water and energy sectors",
+    "age": "1 day ago",
+    "page_age": "2026-04-07T23:21:42",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/07/iran-cyberattacks-infrastructure"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› world  › 2026  › apr  › 07  › iran-cyberattacks-infrastructure"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hX-WCZX2E8B2ibj33TlNBTNPlHhL93o771NJ8E-c-No/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2NkYWEy/NTA2NmVlOTUzNGZm/MmY4M2M0NGQ5ZDQx/MDc2YmU0ZWY5YWIv/MzIwXzBfNDY0MV8z/NzExL21hc3Rlci80/NjQxLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz0xMzMz/NDIzOTlkNjEyM2Jm/N2QyNWJiNGM4YjUw/YWUzOA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "US, Iran to pause war, agree to 2-week ceasefire",
     "url": "https://www.axios.com/2026/04/07/iran-2-week-ceasfire-trump-pakistan",
     "description": "The announcement came hours before Trump's deadline to launch massive strikes.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T23:21:05",
     "profile": {
       "name": "Axios",
@@ -576,7 +642,7 @@
     "title": "미국·이란 '2주 휴전'… 국제유가 12% 급락 | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260408027900009",
     "description": "(서울=연합뉴스) 황정우 기자 = 도널드 트럼프 미국 대통령이 7일(현지시간) 이란이 호르무즈 해협을 개방하는 조건으로 2주간 이란에 대한 공격...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T23:19:28",
     "profile": {
       "name": "Yonhap News Agency",
@@ -595,32 +661,10 @@
   },
   {
     "type": "news_result",
-    "title": "Trump Backs Down, but Questions Remain Over Iran and the Strait of Hormuz - The New York Times",
-    "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html",
-    "description": "At 8:06 a.m. on Tuesday, President ... to Iran, declaring that unless his demand to open the Strait of Hormuz was fulfilled by nightfall, “a whole civilization will die tonight, never to be brought back again.” · Ten hours and 26 minutes later, at 6:32 p.m. Eastern time, he lifted the threat, for now. He said an intervention by the Pakistani government had led to a two-week cease-fire in a war that has wracked ...",
-    "age": "20 hours ago",
-    "page_age": "2026-04-07T23:15:37",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 04  › 07  › us  › politics  › trump-iran-2-week-ceasefire.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/8X9M3neI1yZXZZBTYcLLFnmQNw6NufOuTxjDnXL320c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzA3L211bHRp/bWVkaWEvMDdpc3Jh/ZWwtaXJhbi1jZWFz/ZS1maXJlLWpxd2wv/MDdpc3JhZWwtaXJh/bi1jZWFzZS1maXJl/LWpxd2wtZmFjZWJv/b2tKdW1iby5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
     "url": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-war-trump-us-israel-oil-strait-of-hormuz.html",
     "description": "The United States and Israel attacked Iran on Feb. 28, starting a weekslong war that spread to neighboring countries and rocked global markets.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T23:15:21",
     "profile": {
       "name": "NYTimes",
@@ -642,7 +686,7 @@
     "title": "Trump pauses planned Iran attack, cites progress toward peace deal | Fox News",
     "url": "https://www.foxnews.com/politics/trump-agrees-2-week-ceasefire-iran-opens-strait-hormuz",
     "description": "For a period of two weeks, Iran said safe passage through the Strait of Hormuz \"will be possible via coordination with Iran's Armed Forces\" and with \"due consideration of technical limitations.\" Israel has also agreed to suspend its bombing campaign in Iran as part of the last-minute deal.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T23:15:11",
     "profile": {
       "name": "Fox News",
@@ -661,10 +705,10 @@
   },
   {
     "type": "news_result",
-    "title": "Trump: There will be ‘no enrichment’ of uranium in Iran, we’ll dig out ‘nuclear dust’ | The Times of Israel",
+    "title": "Vance to lead US negotiating team at 1st round of Iran talks in Islamabad on Saturday | The Times of Israel",
     "url": "https://www.timesofisrael.com/liveblog-april-08-2026/",
-    "description": "Members of the Morozov-Kosiak family dismantle their tent in an underground shelter where they had been staying during the war with Iran, after the announcement of a two-week ceasefire, in Tel Aviv, Wednesday, April 8, 2026. (AP Photo/Ohad Zwigenberg) Smoke rises following an Israeli airstrike ...",
-    "age": "20 hours ago",
+    "description": "Netanyahu says 'finger on trigger’ to resume war at any time, US coordinated ceasefire with him * White House says plan published by Iran not the one approved by US as basis for talks * Staff Sgt. Touvel Yosef Lifshiz, 20, killed in clash with Hezbollah * Israel's airport, most schools reopening",
+    "age": "1 day ago",
     "page_age": "2026-04-07T22:45:53",
     "profile": {
       "name": "The Times of Israel",
@@ -678,7 +722,7 @@
       "path": "› liveblog-april-08-2026"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/vEhGO4frKmO5BdIOxFjWJ-Ld3tcYqpRI3mmadv3UcbY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLnRvaS1t/ZWRpYS5jb20vd3d3/L3VwbG9hZHMvMjAy/Ni8wNC9BUDI2MDk4/MjYxODM0MDQ4Lmpw/Zw"
+      "src": "https://imgs.search.brave.com/DQQ3fJVOT-aclkubFv7iZIzJbkIAv0iq9Cvdf8X2zVw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLnRvaS1t/ZWRpYS5jb20vd3d3/L3VwbG9hZHMvMjAy/Ni8wNC9BUDI2MDk3/NDU0ODk5MDE0LWUx/Nzc1NTY4MTU0ODE4/LmpwZw"
     }
   },
   {
@@ -686,7 +730,7 @@
     "title": "트럼프 ‘2주 휴전안’ 전격 수용…“호르무즈 개방 조건 폭격 중단” | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25418393",
     "description": "트럼프 대통령이 예고한 ... 대신 이란은 미국이 요구해 온 호르무즈 해협 안전 항행을 2주간 보장함으로써 해당 기간 종전 협상의 불씨를 살리자는 제안이다. 샤리프 총리는 “우리는 외교를 통해 전쟁을 종식시킬 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T22:43:20",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -708,7 +752,7 @@
     "title": "Trump announces Iran ceasefire ahead of 8 p.m. deadline - POLITICO",
     "url": "https://www.politico.com/news/2026/04/07/donald-trump-iran-war-ceasefire-00863103",
     "description": "President Donald Trump announced Tuesday evening that the U.S. had reached a two-week ceasefire agreement with Iran ahead of a looming deadline, averting what the president previously described as an attack that would lead to the death of a “whole civilization.”",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-04-07T22:42:00",
     "profile": {
       "name": "POLITICO",
@@ -793,28 +837,6 @@
   },
   {
     "type": "news_result",
-    "title": "\"이란 해커들 전쟁 발발 후 미국 핵심 인프라 공격 강화\"",
-    "url": "https://www.asiae.co.kr/article/2026040806065462241",
-    "description": "이란 해커들이 중동 전쟁 발발 후 미국 핵심 인프라를 겨냥한 공격을 강화하고 있는 것으로 나타났다.",
-    "age": "1 day ago",
-    "page_age": "2026-04-07T21:06:54",
-    "profile": {
-      "name": "Asiae",
-      "url": "https://www.asiae.co.kr/article/2026040806065462241"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "asiae.co.kr",
-      "hostname": "www.asiae.co.kr",
-      "favicon": "https://imgs.search.brave.com/RDmBfKpAPQmNETa2oahXWq_uYPANhdwj9snoGJ9MA_8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjMzZWMxOGYw/ZWI4YmJmOWY4OTM4/Y2I5YjcwYjU0MzU5/ODdhNzlhODNjMDEz/NDk0OWFhZDgyYjVm/ZTI5NjdkOC93d3cu/YXNpYWUuY28ua3Iv",
-      "path": "› article  › 2026040806065462241"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/osoCvCRN7AiBUYnHhMi29dVY6Xql1FXpaiM7hu2lI1A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jd3N0/YXRpYy5hc2lhZS5j/by5rci9hc2lhZV92/Mi9hc2lhZV9uZXdz/LnBuZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Iranian hackers are breaking into U.S. industrial systems, agencies warn",
     "url": "https://www.nbcnews.com/tech/security/iran-hack-break-us-industrial-systems-agencies-trump-target-rcna267162",
     "description": "The attacks are meant to cause disruption, according to federal agencies, but the specifics are still unclear. ... Iran’s hackers are actively breaking into industrial control systems in the U.S., multiple federal agencies warned Tuesday, in an ongoing attempt to disrupt American infrastructure.",
@@ -839,7 +861,7 @@
     "type": "news_result",
     "title": "“韓서 전쟁?” 진짜였네…이란전쟁, 韓이 최대 피해국 전망 | 문화일보",
     "url": "https://www.munhwa.com/article/11580570",
-    "description": "한 달 넘게 이어지고 있는 미국·이란 전쟁 여파로 한국이 주요국 중 가장 큰 경제적 피해를 입을 수 있다는 전망이 잇따라 제기되고 있다. 한국 원유 ��입의 70%가 통과하는 핵심 병목 지점인 호르무즈 해협이 사실상 ...",
+    "description": "한 달 넘게 이어지고 있는 미국·이란 전쟁 여파로 한국이 주요국 중 가장 큰 경제적 피해를 입을 수 있다는 전망이 잇따라 제기되고 있다. 한국 원유 수입의 70%가 통과하는 핵심 병목 지점인 호르무즈 해협이 사실상 ...",
     "age": "1 day ago",
     "page_age": "2026-04-07T19:48:35",
     "profile": {
@@ -969,28 +991,6 @@
   },
   {
     "type": "news_result",
-    "title": "With threat to destroy Iran’s ‘civilization,’ Trump fuels war crime fears - The Washington Post",
-    "url": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-bombing-civilization-war-crime/",
-    "description": "President Donald Trump spent Monday fending off questions about whether his threat to bomb “every” bridge and power plant in Iran would amount to war crimes. He rejected the premise, arguing that Iran’s leaders were “animals” who needed to be stopped.",
-    "age": "1 day ago",
-    "page_age": "2026-04-07T13:36:06",
-    "profile": {
-      "name": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-bombing-civilization-war-crime/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "washingtonpost.com",
-      "hostname": "www.washingtonpost.com",
-      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
-      "path": "› national-security  › 2026  › 04  › 07  › trump-iran-bombing-civilization-war-crime"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ILDmHIRq66fNNesnHoLYV8pN6otUm3CS7oKJDOlTBZ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcmMt/YW5nbGVyZmlzaC13/YXNocG9zdC1wcm9k/LXdhc2hwb3N0LnMz/LmFtYXpvbmF3cy5j/b20vcHVibGljL0U0/VzNLQU43RElOSVRR/NEhYU0NVS1NMM1lV/X3NpemUtbm9ybWFs/aXplZC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Trump agrees to suspend attacks for two weeks if Iran opens Strait of Hormuz",
     "url": "https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat/",
     "description": "The president said he had received a 10-point proposal from Iran that formed a “workable basis” for negotiations. But Israel said the ceasefire “does not include Lebanon.”",
@@ -1057,6 +1057,28 @@
   },
   {
     "type": "news_result",
+    "title": "이스라엘군 참모총장 “이란 전쟁, 전략적 분수령 접근…타격 심화할 것”",
+    "url": "https://news.kbs.co.kr/news/view.do?ncd=8529681",
+    "description": "에얄 자미르 이스라엘군 참모총장이 현지 시각 7일 대이란 전쟁이 \"전략적 분수령에 도달 중\"이라고 밝혔습...",
+    "age": "1 day ago",
+    "page_age": "2026-04-07T10:48:16",
+    "profile": {
+      "name": "KBS",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8529681"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news.kbs.co.kr",
+      "hostname": "news.kbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/oh7VaUhXaUqZE4qgN6sAT4M3WZzWki6tofzOl4OWJpQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQzZjRiMWM5/NmNiMGZiM2UyODll/MjAzZDc4ZWUzODJh/ZTJkMTk3ZjAwNzli/NGRhNjE4NGE1YTJm/N2I0NDUxOC9uZXdz/Lmticy5jby5rci8",
+      "path": "› news  › view.do"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/xLRgVSm6cgTnQRsOJJoSEdn5zbTX7YJh5Ze5w-L7eFs/rs:fit:200:200:1:0/g:ce/aHR0cDovL25ld3Mu/a2JzLmNvLmtyL2Rh/dGEvbmV3cy8yMDI2/LzA0LzA4LzIwMjYw/NDA4X0g0MURWTS5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Trump pauses Iran strikes for two weeks to negotiate 10-point peace deal | Live Updates from Fox News Digital",
     "url": "https://www.foxnews.com/live-news/trump-iran-deadline-israel-hormuz-april-7",
     "description": "Fuel prices are surging worldwide amid Iran's blockade on the Strait of Hormuz. The United Nations warned that Trump's threats to target Iran's power plants and bridges could constitute war crimes if they are carried out.",
@@ -1097,28 +1119,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/4tZX5inzJT_Fxuom9ENjIW-XNKnt_RD-_T2VGLL9J0Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMxLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/NC8wNy80ZjVlZTI2/ZC02NDhiLTQ2NmIt/OGRlYS0xM2VjMWQ4/YWJmZGEvdGh1bWJu/YWlsLzEyMDB4NjMw/ZzMvZTA0M2E0MWQz/NThiYjczNDVjZWU5/ZmE3NmEwYzJiZDIv/Z2V0dHlpbWFnZXMt/MjI2OTYyODQxMy5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘군 참모총장 “이란 전쟁, 전략적 분수령 접근…타격 심화할 것”",
-    "url": "https://news.kbs.co.kr/news/view.do?ncd=8529681",
-    "description": "에얄 자미르 이스라엘군 참모총장이 현지 시각 7일 대이란 전쟁이 \"전략적 분수령에 도달 중\"이라고 밝혔습...",
-    "age": "1 day ago",
-    "page_age": "2026-04-07T10:31:26",
-    "profile": {
-      "name": "KBS",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8529681"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.kbs.co.kr",
-      "hostname": "news.kbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/oh7VaUhXaUqZE4qgN6sAT4M3WZzWki6tofzOl4OWJpQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQzZjRiMWM5/NmNiMGZiM2UyODll/MjAzZDc4ZWUzODJh/ZTJkMTk3ZjAwNzli/NGRhNjE4NGE1YTJm/N2I0NDUxOC9uZXdz/Lmticy5jby5rci8",
-      "path": "› news  › view.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/xLRgVSm6cgTnQRsOJJoSEdn5zbTX7YJh5Ze5w-L7eFs/rs:fit:200:200:1:0/g:ce/aHR0cDovL25ld3Mu/a2JzLmNvLmtyL2Rh/dGEvbmV3cy8yMDI2/LzA0LzA4LzIwMjYw/NDA4X0g0MURWTS5q/cGc"
     }
   },
   {
@@ -1214,7 +1214,7 @@
     "title": "Trump, Iran agree to two-week ceasefire after threat of massive attacks",
     "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
     "description": "Coverage of the Iran war, the global energy crisis, Trump's Hormuz deadline and ceasefire talks.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-04-07T07:15:22",
     "profile": {
       "name": "NBC News",
@@ -1236,7 +1236,7 @@
     "title": "U.S., Iran and Israel Agree to Cease-Fire - The New York Times",
     "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
     "description": "Follow live updates on the war in the Middle East. See more of our coverage in your search results.Encuentra más de nuestra cobertura en los resultados de búsqueda. Add The New York Times on GoogleAgrega The New York Times en Google ... Tyler PagerFarnaz FassihiDavid E. Sanger and Eric Nagourney · The United States and Iran ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-04-07T07:09:59",
     "profile": {
       "name": "NYTimes",
@@ -1343,29 +1343,7 @@
   },
   {
     "type": "news_result",
-    "title": "Before winding down the war, US and Israel are determined to wipe out Iran’s nuclear expertise | CNN",
-    "url": "https://www.cnn.com/2026/04/07/middleeast/us-israel-iran-nuclear-expertise-intl",
-    "description": "Kia’s killing, and those of countless Iranian scientists in all parts of the country, demonstrates the lengths to which Israel and the United States are willing to go to ensure that Tehran’s ability to weaponize its nuclear program is significantly curtailed after the war ends.",
-    "age": "2 days ago",
-    "page_age": "2026-04-07T04:01:55",
-    "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/04/07/middleeast/us-israel-iran-nuclear-expertise-intl"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 04  › 07  › middleeast  › us-israel-iran-nuclear-expertise-intl"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/RlsvOOzsbeRjCOoXa3Wo4BwMq0c4-J1Q-Fre6mGsYMg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2FwMjYwODk2ODAy/NTQwMDctMjAyNjA0/MDYxNDQ0MjM0OTYu/anBnP2M9MTZ4OSZx/PXdfODAwLGNfZmls/bA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"4시간이면 초토화\"‥이란 전쟁 '운명의 20��간'",
+    "title": "\"4시간이면 초토화\"‥이란 전쟁 '운명의 20시간'",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6813233_36967.html",
     "description": "트럼프 대통령이 이란과의 협상 시한을 '우리 시간 내일 오전 9시'로 다시 한번 못 박았습니다. 앞으로 20시간 남짓 남았는데요. 합의가 안 될 경우 이란 내 발전소와...",
     "age": "2 days ago",
