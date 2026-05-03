@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "\"이란, 美해군 겨냥 '자폭 돌고래' 사용 검토\" - 파이낸셜뉴스",
+    "url": "https://www.fnnews.com/news/202605031743185033",
+    "description": "(서울=뉴스1) 이창규 기자 = 이란이 미국의 호르무즈 해협 봉쇄로 인한 경제 위기를 타파하기 위해 공격 작전의 일환으로 기뢰를 운반하는 돌고래를 사용하는 방안을 검토하고 있는 것으로 파악됐다.",
+    "age": "3 hours ago",
+    "page_age": "2026-05-03T08:43:19",
+    "profile": {
+      "name": "First News",
+      "url": "https://www.fnnews.com/news/202605031743185033"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "www.fnnews.com",
+      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
+      "path": "› news  › 202605031743185033"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/R7YMs2_Mrbe0mh8dZPOX2khwRP7VYrCR5C4fO15X8IU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/dy9pbWcvbm9faW1n/X2ZubmV3c181NzAu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "‘협상안’이라더니 전쟁 배상금·호르무즈 통제권 요구한 이란…‘핵 문제’도 빠져 | 채널A 뉴스",
     "url": "https://ichannela.com/news/detail/000000527181.do",
     "description": "뉴시스 이란이 미국의 종전 ... 외신이 보도했습니다. 외신에 따르면 이란은 파키스탄을 중재로 미국의 9개 항목 제안에 대한 14개 항목의 답변을 전달하고, 전쟁 종식을 위한 포괄적 합의를 요구했습니...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-05-03T06:11:00",
     "profile": {
       "name": "iChannelA",
@@ -23,32 +45,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란 \"30일 내 종전하자\", 美 \"핵 포기는 했니?\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202605031234100731",
-    "description": "이란, 미국 종전안에 대한 14개항 수정 협상안 제출 전쟁 배상금, 미군 철수, 제재 해제 등 포괄 요구 포함 핵, 호르무즈 해협 통제권 등이 핵심 쟁점 미국에겐 이들 2가지 쟁점은 타협 불가 협상 재개 시도 속 핵심 의제 간극 여전",
-    "age": "7 hours ago",
-    "page_age": "2026-05-03T03:58:46",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202605031234100731"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202605031234100731"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ZTrh_235t7Joja4oux8m35dY84oxuAvmmuY-8jQ_y8A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMDMvMjAy/NjA1MDMwOTM4MDkx/ODQzX2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "'배상금·해협 통제' 요구한 이란‥미국 '거부'",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6819664_36967.html",
     "description": "◀ 앵커 ▶ 이란이 전쟁 배상금 지급과 호르무즈 해협 통제, 30일 이내 종전을 골자로 하는 14개항의 수정 협상안을 미국에 역제안했습니다. 다만 트럼프 대통령이 이 새로운 협상안에 대해 회의적인 입장을 밝힌 만큼 협상 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-03T02:58:50",
     "profile": {
       "name": "IMBC",
@@ -67,10 +67,54 @@
   },
   {
     "type": "news_result",
+    "title": "‘30일내 종전’ 이란 14개항에…트럼프 “검토→수용 불가” 선회",
+    "url": "https://www.donga.com/news/Inter/article/all/20260503/133852110/2",
+    "description": "이란이 미국 측에 14개항으로 구성된 종전 협상안을 전달한 가운데 도널드 트럼프 미국 대통령이 이를 두고 “검토하겠다”는 입장을 밝혔다가 “수용하기 어렵다”며 부정적 입장으로 선회했다.2일(현지 시간) 뉴욕타임스...",
+    "age": "9 hours ago",
+    "page_age": "2026-05-03T02:50:00",
+    "profile": {
+      "name": "The DONG-A ILBO",
+      "url": "https://www.donga.com/news/Inter/article/all/20260503/133852110/2"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "donga.com",
+      "hostname": "www.donga.com",
+      "favicon": "https://imgs.search.brave.com/z1PmHrOm5K4NyCHEI_5MiNdTSCR64jdLsxhN0Hjm5eA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDkwZTU0Yzkz/ZTJjZDkxYTg4OGE4/M2Y2MmVkNzNkNjJl/MzM0YWVmYzlmYTEy/MTEzNzgwMzk5OTJh/MjliMjMzZC93d3cu/ZG9uZ2EuY29tLw",
+      "path": "› news  › Inter  › article  › all  › 20260503  › 133852110  › 2"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/i250aoS1hz96fGAnNkEbHTlP6MKPVjlC9hKQrZXNzgc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzA1LzAz/LzEzMzg1MjA5OS4z/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[국제]트럼프 \"이란 새 제안 검토\"...\"호르무즈 통제권 등 14개항\" | YTN",
+    "url": "https://www.ytn.co.kr/_ln/0104_202605031146161327",
+    "description": "이란 타스님 통신은 이란이 14개 항으로 구성된 제안서를 중재국 파키스탄을 통해 미국에 전달했다고 보도했습니다. 9개 항의 미국 종전 협상안에 대한 역제안입니다. 14개 항에는 전쟁 피해 배상금과 침략 재발 방지 보장, ...",
+    "age": "9 hours ago",
+    "page_age": "2026-05-03T02:46:00",
+    "profile": {
+      "name": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0104_202605031146161327"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ytn.co.kr",
+      "hostname": "www.ytn.co.kr",
+      "favicon": "https://imgs.search.brave.com/QCdBTL2sPMVF-0O4NxB3IB9Yq8WXONxXmroGymFTLlk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA4YzU5NTkz/YWRhNThmMjRiNDBl/MjJkMDBlNDY0OWI5/MGI1NGFhYzMxMWE1/ZWJiMmM2YmIwOGNi/ODI4ZmUxNi93d3cu/eXRuLmNvLmtyLw",
+      "path": "› _ln  › 0104_202605031146161327"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/QpIuJbH7VuFQK2O2N8GexNh2oIEUouJAjzhOc7MwQs8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wNTAzLzIw/MjYwNTAzMTE0NjE2/MTMyN190LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "“살인범이 웃고 춤춘다”…범죄자 AI 콘텐츠 확산, ‘2차 가해’ 논란 - 매일경제",
     "url": "https://mk.co.kr/news/society/12034395",
     "description": "최근 유튜브와 틱톡 등 동영상 플랫폼에서 실제 강력 범죄자를 기반으로 만든 ‘AI 범죄자’ 콘텐츠가 빠르게 확산되면서 논란이 커지고 있다. 흉악범들이 교도소에서 생활하는 모습이나 춤을 추는 장면 등이 밈(meme) 형태로 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-03T02:41:01",
     "profile": {
       "name": "MK",
@@ -89,10 +133,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란전쟁 주시하는 北...“최근 무기 시험, 실전 검증 초점” | 서울경제",
+    "title": "이란전쟁 주시하는 北...“��근 무기 시험, 실전 검증 초점” | 서울경제",
     "url": "https://www.sedaily.com/article/20039661",
     "description": "조 연구위원은 “북한의 ... 시스템의 개발이 필수적으로 보인다”고 덧붙였다. 한편 월스트리트저널(WSJ)은 이란 전쟁이 중국, 러시아, 북한 등에는 미국의 전쟁 수행 능력과 한계를 실시간으로 평가하는 절호의 ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-05-03T02:06:06",
     "profile": {
       "name": "Sedaily",
@@ -114,7 +158,7 @@
     "title": "[영상] 시총 6000조 시대 개막한 K-증시…1조 클럽 400곳 ‘사상 최대’ [마켓시그널] | 서울경제",
     "url": "https://www.sedaily.com/article/20039638",
     "description": "시장별로는 코스피 267곳, 코스닥 137곳, 코넥스 1곳으로 나타났다. 시총 10조 원 이상 ‘10조 클럽’은 79곳으로 집계됐다. 이는 미국의 이란 공격 개시 직전인 2월 27일(1조 클럽 377곳·10조 클럽 78곳) 수준을 모두 넘어선 수준이다.",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-03T01:15:56",
     "profile": {
       "name": "Sedaily",
@@ -136,7 +180,7 @@
     "title": "트럼프 \"이란 새 제안 곧 검토…문제 일으키면 공격 재개할 수도\"(종합) - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202605031006565804",
     "description": "(서울=뉴스1) 이창규 기자 ... 그는 해당 제안의 수용 가능성에 대해 회의적인 입장을 보이며, 이란이 추가 도발에 나설 경우 군사 공격을 재개할 가능성도 열어뒀다.....",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-03T01:06:57",
     "profile": {
       "name": "First News",
@@ -158,7 +202,7 @@
     "title": "이란 “배상금 내놓고 호르무즈 통제권도”…트럼프는 “수용 불가능” - 매일경제",
     "url": "https://www.mk.co.kr/news/world/12034357",
     "description": "이란, 14개항 수정 협상안 美 전달 철군·배상금·호르무즈 통제권 등 트럼프 수용 어려운 제안들 담긴듯 “이란 잘못 행동할 경우 공격 재개”",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-03T01:06:26",
     "profile": {
       "name": "MK",
@@ -180,7 +224,7 @@
     "title": "퇴근시간 꽉 막힌 도로서 ‘모세의 기적’ 봤다…고열 아기 살린 경찰 - 매일경제",
     "url": "https://mk.co.kr/news/society/12034351",
     "description": "M매경미디어 소개 · ESG 경영 확산, 기업의 생존 전략은",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-03T00:45:55",
     "profile": {
       "name": "MK",
@@ -199,10 +243,32 @@
   },
   {
     "type": "news_result",
+    "title": "한·이란 외교장관 통화…韓 “호르무즈 선박 안전통항 재개돼야” - 해사신문",
+    "url": "http://www.haesanews.com/news/articleView.html?idxno=147704",
+    "description": "이란 측 요청으로 한·이란 외교장관 통화가 이뤄졌지만, 페르시아만 일대에 발이 묶인 한국 선박과 선원 문제에 대한 가시적 진전은 아직 확인되지 않고 있다.외교부에 따르면 조현 외교부 장관은 5월 2일 저녁 세예드 압바스 ...",
+    "age": "11 hours ago",
+    "page_age": "2026-05-03T00:23:34",
+    "profile": {
+      "name": "Haesanews",
+      "url": "http://www.haesanews.com/news/articleView.html?idxno=147704"
+    },
+    "meta_url": {
+      "scheme": "http",
+      "netloc": "haesanews.com",
+      "hostname": "www.haesanews.com",
+      "favicon": "https://imgs.search.brave.com/D2Qc3KoigqQjV_5XcamWPiULIMB6gMGRbDQm6aUE18s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ZjZTA4YmI1/NjZmYjBlNDg5MjFm/MTRmY2JjMzE2ZmYy/MjNhNGY5YWVmZTUx/OWJlZWQxM2VhNzJj/NDYyNGYxNy93d3cu/aGFlc2FuZXdzLmNv/bS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/11STZGqnDH7TKIT-yAUj_y6lPxDAu9ExRIa9EwARk6E/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5o/YWVzYW5ld3MuY29t/L25ld3MvdGh1bWJu/YWlsLzIwMjYwNS8x/NDc3MDRfNzkxMzNf/MjMzMF92MTUwLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美, 중동 4개국에 13조원어치 무기 판매 긴급승인…의회 패싱",
     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01167686645445312",
     "description": "국가별 계약 내용을 보면 카타르가 최대 40억 1000만 달러 규모의 패트리엇 PAC-2·PAC-3 요격 미사일을 도입하는 것이 핵심이다. 카타르는 이란의 집중 공격에 직면하자 미국에 추가 요격체계를 요청한 것으로 알려졌다.",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-05-02T23:32:25",
     "profile": {
       "name": "Edaily",
@@ -221,10 +287,32 @@
   },
   {
     "type": "news_result",
+    "title": "\"이란, 美에 제안…2개월 휴전 거부하고 종전 목표로 30일내 합의\" < 채권/외환 < 기사본문 - 연합인포맥스",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412884",
+    "description": "미국은 2개월 휴전을 제안했지만, 이란은 30일 내 문제 해결을 주장했다고 한다. 이란은 단순한 휴전 연장이 아닌 전쟁의 완전한 종식을 초점으로 전환했다고 타스님 통신은 설명했다.",
+    "age": "13 hours ago",
+    "page_age": "2026-05-02T22:51:12",
+    "profile": {
+      "name": "Einfomax",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412884"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news.einfomax.co.kr",
+      "hostname": "news.einfomax.co.kr",
+      "favicon": "https://imgs.search.brave.com/oqjkpvgwzHIz_JtpOIGSjG-65iN6HSIBmCsZ7i27Z9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjhmMWVhYjEx/ZmNhYWRkY2ZjNjIx/Y2QzNmNjZGU5OTA1/NGYxZjczZjRiN2U3/OGRkNWQ5Mjg1OTY5/MmVmNjFkZi9uZXdz/LmVpbmZvbWF4LmNv/LmtyLw",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/SvXSWNvBo6dZODDNDsEyTVjdUkRPIObWAdcl0nzxdd4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3cy5laW5mb21h/eC5jby5rci9uZXdz/L3RodW1ibmFpbC8y/MDI2MDUvNDQxMjg4/NF8zMTI1ODFfNTIy/X3YxNTAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "‘1兆 클럽’ 400곳 돌파 ‘역대급’…삼전·하닉 선두 “대세 상승 유효” | 디지털타임스",
     "url": "https://www.dt.co.kr/article/12060528",
     "description": "시장별로는 코스피 267곳, 코스닥 137곳, 코넥스 1곳이었다. 같은 날 시가총액 10조원 이상 상장사는 79곳이었다. 미국의 이란 공격 개시 직전인 지난 2월 27일(1조 클럽 377곳·10조 클럽 78곳) 수준을 회복한 데 그치지 않고 이를 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-02T22:41:39",
     "profile": {
       "name": "Dt",
@@ -246,7 +334,7 @@
     "title": "美, 이스라엘·UAE 등에 무기 12.7조 '의회 우회' 긴급판매 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260503_0003615035",
     "description": "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 이스라엘과 카타르·아랍에미리트(UAE)·쿠웨이트 등 이란 보복 공격 피해를 입은 걸프 주요국에 약 86억 달러(12조7000억여원) 규모의 무기를 의회 승인 없이 판매하기로 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-02T22:04:47",
     "profile": {
       "name": "Newsis",
@@ -268,7 +356,7 @@
     "title": "“중국으로 꺼져”…행인 무차별 폭행 40대 남성의 최후 - 매일경제",
     "url": "https://mk.co.kr/news/society/12034315",
     "description": "일면식 없는 행인을 무작위로 폭행하고 기물을 파손한 40대 남성이 징역형의 집행유예에 처해졌다. 3일 법조계에 따르면 청주지법 형사2단독 임진수 부장판사는 재물손괴 및 폭행 등 혐의로 기소된 40대 A씨에게 징역 1년6개월에 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-02T21:59:05",
     "profile": {
       "name": "MK",
@@ -290,7 +378,7 @@
     "title": "먼저, 제가 제공받은 스포츠 중계의 언어를 알려주시겠어요? - 메종 포르통",
     "url": "https://jeanfourton.com/%EB%A8%BC%EC%A0%80-%EC%A0%9C%EA%B0%80-%EC%A0%9C%EA%B3%B5%EB%B0%9B%EC%9D%80-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EC%A4%91%EA%B3%84%EC%9D%98-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%8B%9C/",
     "description": "스포츠 중계, 그 매력의 세계로 여러분을 초대합니다. 단순히 경기의 승패와 기록을 전달하는 것을 넘어, 스포츠 중계는 팬들에게 잊지 못할 경험과 깊은 감동을 선사하는 특별한 장치입니다. 경기장의 뜨거운 열기, 선수들의 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-02T21:56:54",
     "profile": {
       "name": "Jeanfourton",
@@ -312,7 +400,7 @@
     "title": "석 달째 접어든 이란전쟁 승자와 패자는 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202605030555173949",
     "description": "CNN은 2일 지금까지 드러난 결과로 보면 이번 전쟁의 단기 승자는 러시아와 주요 석유 메이저들, 패자는 전쟁 당사자인 미국과 이란을 포함해 세계 경제라고 평가했다.",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-02T21:54:31",
     "profile": {
       "name": "First News",
@@ -334,7 +422,7 @@
     "title": "모사드가 돌연 꺼낸 이름 ‘M’…이란전 발단 ‘스파이 보트’ 실체 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25425309",
     "description": "사고 발생 수일 뒤 현지 언론은 사망자 4명 중 2명이 이탈리아 현직 정보요원이었고 한 명은 이스라엘 대외정보기관 모사드의 전직 요원이었다고 보도했다. 승객 중 13명이 모사드의 전·현직 요원이었고 8명은 이탈리아 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-05-02T21:00:01",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -353,32 +441,10 @@
   },
   {
     "type": "news_result",
-    "title": "불확실성 커진 미중 정상회담…트럼프, 이란 전쟁으로 전략적 열세 - 머니투데이",
-    "url": "https://mt.co.kr/world/2026/05/03/2026043022490086447",
-    "description": "이란 전쟁이 지속되면서 이달 중순 열릴 예정인 미중 정상회담의 불확실성이 커졌다는 평가다. 특히 미국이 전략적 열세에 놓였다는 분석이 나온다. 는 중동 전쟁 장기화가 미중 정상회담 개최에 어떤 영향을 미치고 있는지 ...",
-    "age": "14 hours ago",
-    "page_age": "2026-05-02T21:00:00",
-    "profile": {
-      "name": "Mt",
-      "url": "https://mt.co.kr/world/2026/05/03/2026043022490086447"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mt.co.kr",
-      "hostname": "mt.co.kr",
-      "favicon": "https://imgs.search.brave.com/h9H2yseG3OH04C6u0AuYJ_M0c_QKhl7OXvBoVCeXLdQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNiMTNmMzg1/Yzg1MjAwNWY5YjMy/YWM1NTE1NzBkMTZk/Nzg2YmM3OGQ3Njli/ZTk0ODZiOWM5Mzc3/NmQ0OTA0NC9tdC5j/by5rci8",
-      "path": "› world  › 2026  › 05  › 03  › 2026043022490086447"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DC5-UojOenn1ILPr8VCACZESLLcqCvG47VGbAFC-kBY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi5tdC5jby5rci9j/ZG4tY2dpL2ltYWdl/L2Y9YXZpZi8yMS8y/MDI2LzA0LzIwMjYw/NDMwMjI0OTAwODY0/NDdfMS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "임진왜란:조선의 반격 - 나무위키",
     "url": "https://namu.wiki/w/%EC%9E%84%EC%A7%84%EC%99%9C%EB%9E%80:%EC%A1%B0%EC%84%A0%EC%9D%98%20%EB%B0%98%EA%B2%A9",
     "description": "2026년 4월 28일 충무공탄신일 이다. 조이시티 에서 출시한 모바일 게임 . 임진록(게임) , 천년의",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-05-02T20:18:33",
     "profile": {
       "name": "Namu Wiki",
@@ -400,7 +466,7 @@
     "title": "중, 미국의 '이란석유 수입' 자국 기업 제재에 '금지령'…\"따라선 안돼\"",
     "url": "https://v.daum.net/v/20260503091801256",
     "description": "이번 제재는 이란의 석유 수출을 차단해 전쟁 자금줄을 묶는 동시에, 이란 석유의 약 90%를 들여오는 중국의 에너지 수급에도 타격을 미치려는 의도가 담긴 것으로 풀이됩니다.",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-05-02T17:17:37",
     "profile": {
       "name": "Daum",
@@ -422,7 +488,7 @@
     "title": "미국-이란 전쟁 - 나무위키",
     "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
     "description": "실시간 전황 (영문) 2026년 2월 28일 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및 핵",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-05-02T17:10:14",
     "profile": {
       "name": "Namu Wiki",
@@ -444,7 +510,7 @@
     "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260503001400071",
     "description": "(워싱턴=연합뉴스) 이유미 특파원 = 미국과 이란의 종전 협상이 교착되며 이란전이 장기화하고 있는 가운데 미국 내 유가 상승이 도널드 트럼프 행...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-05-02T16:46:05",
     "profile": {
       "name": "Yonhap News Agency",
@@ -459,6 +525,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/r4adDcmXuMKFe6-euS6_5VaViPzb_eCjKxFAy1Yrw3c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc1/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNS8wMy9B/S1IyMDI2MDUwMzAw/MTQwMDA3MV8wMV9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“이란, 원유 저장고 차올라 이미 산유량 감축 중”",
+    "url": "https://news.kbs.co.kr/news/view.do?ncd=8551579",
+    "description": "미국의 해상봉쇄로 원유 수출길이 막힌 이란이 원유 저장고가 빠르게 차오르자 이미 산유량을 줄이기 시작...",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T13:22:38",
+    "profile": {
+      "name": "KBS",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8551579"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news.kbs.co.kr",
+      "hostname": "news.kbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/oh7VaUhXaUqZE4qgN6sAT4M3WZzWki6tofzOl4OWJpQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQzZjRiMWM5/NmNiMGZiM2UyODll/MjAzZDc4ZWUzODJh/ZTJkMTk3ZjAwNzli/NGRhNjE4NGE1YTJm/N2I0NDUxOC9uZXdz/Lmticy5jby5rci8",
+      "path": "› news  › view.do"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wCGULivERbOqJCMm1J5CuGn5ACE3jqWoiUO7u3OHDbY/rs:fit:200:200:1:0/g:ce/aHR0cDovL25ld3Mu/a2JzLmNvLmtyL2Rh/dGEvbmV3cy8yMDI2/LzA1LzAzLzIwMjYw/NTAzX0FGWGpYTi5q/cGc"
     }
   },
   {
@@ -764,28 +852,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/aYblNRq_EiJPxgg0RK604yjmdHZieSaMH-YXaN7Nfnw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMi9uZXdzLXAu/djEuMjAyNjA1MDIu/NDE0ODcwZmZmYjQ3/NDkxMmFiODFiNzZk/ZDNmOGQyY2NfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "외교 무대까지 번진 ‘영토 전쟁’…베네수엘라 임시 대통령 배지에 가이아나 반발",
-    "url": "https://www.chosun.com/international/mideast-africa-latin/2026/05/02/L5Q2JOIBYRB6FGB5RASR3POLLY/",
-    "description": "외교 무대까지 번진 영토 전쟁베네수엘라 임시 대통령 배지에 가이아나 반발 로드리게스, 각종 외교 무대에서 에세키보 지역 포함된 배지 착용 이웃나라인 베네수엘라와 가이아나 간 해묵은 영토 분쟁이 다시 격화하는 양상을 ...",
-    "age": "1 day ago",
-    "page_age": "2026-05-02T01:37:39",
-    "profile": {
-      "name": "Chosun Daily",
-      "url": "https://www.chosun.com/international/mideast-africa-latin/2026/05/02/L5Q2JOIBYRB6FGB5RASR3POLLY/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › mideast-africa-latin  › 2026  › 05  › 02  › L5Q2JOIBYRB6FGB5RASR3POLLY"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/IgtgU3OZpfD_FMhtsqYpzv5-nhUISH_HIouHtb3VleY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyLzNN/MzVaM0pYQlpBV0xB/RDVQS1VUNkZCWFRR/LmpwZz9hdXRoPWYz/NWYyYzlhMDAzNDI5/YWIzZDliOTQ3OTEw/NDM3NGM4NGIzOTdl/YzcxZTNmNTIzNGZm/NjJjMDk2OGQ0M2Jk/NzkmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
     }
   },
   {
