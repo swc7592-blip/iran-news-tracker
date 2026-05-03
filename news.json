@@ -1,10 +1,76 @@
 [
   {
     "type": "news_result",
+    "title": "Iran-US war latest: Trump ramps up threats against Tehran as rift with Germany deepens | The Independent",
+    "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-germany-israel-strait-hormuz-b2969401.html",
+    "description": "Trump-Iran war latest updates today as Germany responds to US decision to withdraw 5,000 troops",
+    "age": "24 minutes ago",
+    "page_age": "2026-05-03T09:39:13",
+    "profile": {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-germany-israel-strait-hormuz-b2969401.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "independent.co.uk",
+      "hostname": "www.independent.co.uk",
+      "favicon": "https://imgs.search.brave.com/M_zo7zhS0WvQG9XhO-0Js_pwEAlWc2wtGKCPFnNjZjI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEyODE2YjY0/YzFkZDgyOGUzOThi/NmFhOGNkZTRhZDBm/ZmJiYWUxZGQ0MjYx/YWI5YjIyYWQ3N2E4/ZTZjNDk3YS93d3cu/aW5kZXBlbmRlbnQu/Y28udWsv",
+      "path": "› news  › world  › middle-east  › iran-us-war-live-trump-germany-israel-strait-hormuz-b2969401.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/kvjpNPqidrexmXGKfTwyJ2QdLespinK211Poz1WxzY8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8wNS8wMy8wMS8y/MjczNzA2Nzk3Lmpw/Zz93aWR0aD0xMjAw/JmhlaWdodD04MDAm/Y3JvcD0xMjAwOjgw/MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“이스라엘 공세에 레바논 사망자 2600명ㆍ피란민 100만 명 넘어” - 이투데이",
+    "url": "https://etoday.co.kr/news/view/2581256",
+    "description": "이스라엘과 레바논 간 최근 충돌은 2월 28일 시작된 이란 전쟁 초기 이스라엘군이 이란 최고지도자 아야톨라 알리 하메네이를 사살한 데 대한 보복으로 헤즈볼라가 이스라엘에 로켓 공격을 가하면서 촉발됐다.",
+    "age": "2 hours ago",
+    "page_age": "2026-05-03T08:15:00",
+    "profile": {
+      "name": "Etoday",
+      "url": "https://etoday.co.kr/news/view/2581256"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "etoday.co.kr",
+      "hostname": "etoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/8tYmt61rT0raA4kHfr7ZYeUKu2dRUMue-4o4Oi_bSQ0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MDA2ZDky/MDkxNTA2NmI1NWQw/M2VmZjU0OTZlZDNj/MDc4ZThjYjlmZDVi/MDhhNWRiN2UyZDg4/MGI0MTNjOS9ldG9k/YXkuY28ua3Iv",
+      "path": "› news  › view  › 2581256"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3Mn48mXvPgiYfsc3OpthhJo7El2TEO5_-m_GMsOcd7U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA1LzIwMjYwNTAz/MTY0MDU3XzIzMjky/MTRfMTIwMF84MDAu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "휴전 무색한 이스라엘 맹폭…레바논 두 달 새 2600명 사망·100만 피란 - 전자신문",
+    "url": "https://etnews.com/20260503000090",
+    "description": "이에 맞서 헤즈볼라도 이스라엘군을 겨냥한 공격을 이어갔다. 헤즈볼라는 이번 공격이 이스라엘의 휴전 위반에 대한 정당한 대응이라고 주장했다. 헤즈볼라는 중동에서 이란의 대표적인 대리 세력으로 꼽힌다.",
+    "age": "3 hours ago",
+    "page_age": "2026-05-03T06:49:21",
+    "profile": {
+      "name": "ET News",
+      "url": "https://etnews.com/20260503000090"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "etnews.com",
+      "hostname": "etnews.com",
+      "favicon": "https://imgs.search.brave.com/dc3sJkhNYYK-J6ZsFzRnY8QsepXftrIia8we7d9Eeqg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTZkYTIyZTAw/Njk3MTAwMDYwZDQ3/NzVjYjAxOTg5Y2U2/ZDhmYWM2OTNkMGYw/YzU0M2IzYzAxMzY2/OWE4MzY2NC9ldG5l/d3MuY29tLw",
+      "path": "› 20260503000090"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/FZxqreTyoYDLuJ7vUaQWLfitzslOCvGZdiqnVBJ6eJw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRuZXdzLmNvbS9u/ZXdzL2FydGljbGUv/MjAyNi8wNS8wMy9u/ZXdzLXAudjEuMjAy/NjA1MDMuZTg4YTc3/NGZhODJkNDg2OGE3/Njk2ZmM4MDk1NTky/MmJfUDEuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "‘협상안’이라더니 전쟁 배상금·호르무즈 통제권 요구한 이란…‘핵 문제’도 빠져 | 채널A 뉴스",
     "url": "https://ichannela.com/news/detail/000000527181.do",
     "description": "뉴시스 이란이 미국의 종전 ... 외신이 보도했습니다. 외신에 따르면 이란은 파키스탄을 중재로 미국의 9개 항목 제안에 대한 14개 항목의 답변을 전달하고, 전쟁 종식을 위한 포괄적 합의를 요구했습니...",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-05-03T06:11:00",
     "profile": {
       "name": "iChannelA",
@@ -23,10 +89,32 @@
   },
   {
     "type": "news_result",
+    "title": "이스라엘, 휴전에도 레바논 공습 - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10730301",
+    "description": "이스라엘과 레바논 간 최근 충돌은 올해 2월 28일 시작된 이란 전쟁 초기 이스라엘군이 이란 최고지도자 아야톨라 알리 하메네이를 사살한 데 대한 보복으로 헤즈볼라가 이스라엘에 로켓 공격을 가하면서 촉발됐다.",
+    "age": "5 hours ago",
+    "page_age": "2026-05-03T04:42:15",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10730301"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10730301"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/l7nsE6kO8f5T2ULQNUJ6XwKwfuuR9kD6iOA2TfsdTzE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDUvMDMv/bmV3cy1wLnYxLjIw/MjYwNTAzLmMyNzU0/OTJjMWI1NTQ5MWZh/ZjBkNmY1NDcxMGQ4/NGExX1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 \"30일 내 종전하자\", 美 \"핵 포기는 했니?\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202605031234100731",
     "description": "이란, 미국 종전안에 대한 14개항 수정 협상안 제출 전쟁 배상금, 미군 철수, 제재 해제 등 포괄 요구 포함 핵, 호르무즈 해협 통제권 등이 핵심 쟁점 미국에겐 이들 2가지 쟁점은 타협 불가 협상 재개 시도 속 핵심 의제 간극 여전",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-05-03T03:58:46",
     "profile": {
       "name": "First News",
@@ -45,32 +133,10 @@
   },
   {
     "type": "news_result",
-    "title": "“살인범이 웃고 춤춘다”…범죄자 AI 콘텐츠 확산, ‘2차 가해’ 논란 - 매일경제",
-    "url": "https://mk.co.kr/news/society/12034395",
-    "description": "최근 유튜브와 틱톡 등 동영상 플랫폼에서 실제 강력 범죄자를 기반으로 만든 ‘AI 범죄자’ 콘텐츠가 빠르게 확산되면서 논란이 커지고 있다. 흉악범들이 교도소에서 생활하는 모습이나 춤을 추는 장면 등이 밈(meme) 형태로 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-05-03T02:41:01",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/society/12034395"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › society  › 12034395"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/CREyk392Lnib5auPK4MLO7uwJcT_7DFPLARNmk_JMMQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMy9uZXdzLXAu/djEuMjAyNjA1MDMu/ZGIwZDM5M2NkMWQx/NDJhMmI2ZGQwYjA1/YWQ5MzM1YjVfUi5w/bmc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란전쟁 주시하는 北...“최근 무기 시험, 실전 검증 초점” | 서울경제",
     "url": "https://www.sedaily.com/article/20039661",
     "description": "조 연구위원은 “북한의 ... 시스템의 개발이 필수적으로 보인다”고 덧붙였다. 한편 월스트리트저널(WSJ)은 이란 전쟁이 중국, 러시아, 북한 등에는 미국의 전쟁 수행 능력과 한계를 실시간으로 평가하는 절호의 ...",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-05-03T02:06:06",
     "profile": {
       "name": "Sedaily",
@@ -89,10 +155,32 @@
   },
   {
     "type": "news_result",
+    "title": "[영상] 시총 6000조 시대 개막한 K-증시…1조 클럽 400곳 ‘사상 최대’ [마켓시그널] | 서울경제",
+    "url": "https://www.sedaily.com/article/20039638",
+    "description": "시장별로는 코스피 267곳, 코스닥 137곳, 코넥스 1곳으로 나타났다. 시총 10조 원 이상 ‘10조 클럽’은 79곳으로 집계됐다. 이는 미국의 이란 공격 개시 직전인 2월 27일(1조 클럽 377곳·10조 클럽 78곳) 수준을 모두 넘어선 수준이다.",
+    "age": "9 hours ago",
+    "page_age": "2026-05-03T01:15:56",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://www.sedaily.com/article/20039638"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
+      "path": "› article  › 20039638"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/9S8mkKTXj7m3YOddzupnfU9g32XBrCyOViBzcs3jBbo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDUvMDMvbmV3/cy1wLnYxLjIwMjYw/NTAzLmNhZTFhZTEz/Yzk3MTRmZjRhZThj/NGZhZTk5MTQ2MjZi/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프 \"이란 새 제안 곧 검토…문제 일으키면 공격 재개할 수도\"(종합) - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202605031006565804",
     "description": "(서울=뉴스1) 이창규 기자 ... 그는 해당 제안의 수용 가능성에 대해 회의적인 입장을 보이며, 이란이 추가 도발에 나설 경우 군사 공격을 재개할 가능성도 열어뒀다.....",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-03T01:06:57",
     "profile": {
       "name": "First News",
@@ -114,7 +202,7 @@
     "title": "이란 “배상금 내놓고 호르무즈 통제권도”…트럼프는 “수용 불가능” - 매일경제",
     "url": "https://www.mk.co.kr/news/world/12034357",
     "description": "이란, 14개항 수정 협상안 美 전달 철군·배상금·호르무즈 통제권 등 트럼프 수용 어려운 제안들 담긴듯 “이란 잘못 행동할 경우 공격 재개”",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-03T01:06:26",
     "profile": {
       "name": "MK",
@@ -133,32 +221,10 @@
   },
   {
     "type": "news_result",
-    "title": "퇴근시간 꽉 막힌 도로서 ‘모세의 기적’ 봤다…고열 아기 살린 경찰 - 매일경제",
-    "url": "https://mk.co.kr/news/society/12034351",
-    "description": "M매경미디어 소개 · ESG 경영 확산, 기업의 생존 전략은",
-    "age": "8 hours ago",
-    "page_age": "2026-05-03T00:45:55",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/society/12034351"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › society  › 12034351"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/mf92bjL5usgIY9g4YC39qSiaqxu4tPyrKbSVMyG_hiM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMy9uZXdzLXAu/djEuMjAyNjA1MDMu/NTlkNzY2NzU5MzE5/NDc2OTkxNjllMWE3/MTNhZTI5OWJfUi5w/bmc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "美, 중동 4개국에 13조원어치 무기 판매 긴급승인…의회 패싱",
     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01167686645445312",
     "description": "국가별 계약 내용을 보면 카타르가 최대 40억 1000만 달러 규모의 패트리엇 PAC-2·PAC-3 요격 미사일을 도입하는 것이 핵심이다. 카타르는 이란의 집중 공격에 직면하자 미국에 추가 요격체계를 요청한 것으로 알려졌다.",
-    "age": "9 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-02T23:32:25",
     "profile": {
       "name": "Edaily",
@@ -177,10 +243,32 @@
   },
   {
     "type": "news_result",
+    "title": "Trump says there is possibility U.S. could strike Iran again",
+    "url": "https://www.nbcnews.com/video/shorts/trump-says-there-is-possibility-u-s-could-strike-iran-again-262601797970",
+    "description": "Trump says there is possibility U.S. could strike Iran again",
+    "age": "11 hours ago",
+    "page_age": "2026-05-02T22:59:11",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/video/shorts/trump-says-there-is-possibility-u-s-could-strike-iran-again-262601797970"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› video  › shorts  › trump-says-there-is-possibility-u-s-could-strike-iran-again-262601797970"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wwas6DDL8oKV8WlIuFu3-YDo0XGQbhXLXlDogvNcOIU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9tcHgvMjcw/NDcyMjIxOS8yMDI2/XzA1L1RydW1wX1Bh/bG1fQmVhY2hfVGh1/bWJfVmVydC1sOHA3/YzYuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "‘1兆 클럽’ 400곳 돌파 ‘역대급’…삼전·하닉 선두 “대세 상승 유효” | 디지털타임스",
     "url": "https://www.dt.co.kr/article/12060528",
     "description": "시장별로는 코스피 267곳, 코스닥 137곳, 코넥스 1곳이었다. 같은 날 시가총액 10조원 이상 상장사는 79곳이었다. 미국의 이란 공격 개시 직전인 지난 2월 27일(1조 클럽 377곳·10조 클럽 78곳) 수준을 회복한 데 그치지 않고 이를 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-02T22:41:39",
     "profile": {
       "name": "Dt",
@@ -202,7 +290,7 @@
     "title": "美, 이스라엘·UAE 등에 무기 12.7조 '의회 우회' 긴급판매 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260503_0003615035",
     "description": "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부가 이스라엘과 카타르·아랍에미리트(UAE)·쿠웨이트 등 이란 보복 공격 피해를 입은 걸프 주요국에 약 86억 달러(12조7000억여원) 규모의 무기를 의회 승인 없이 판매하기로 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-05-02T22:04:47",
     "profile": {
       "name": "Newsis",
@@ -221,32 +309,10 @@
   },
   {
     "type": "news_result",
-    "title": "“중국으로 꺼져”…행인 무차별 폭행 40대 남성의 최후 - 매일경제",
-    "url": "https://mk.co.kr/news/society/12034315",
-    "description": "일면식 없는 행인을 무작위로 폭행하고 기물을 파손한 40대 남성이 징역형의 집행유예에 처해졌다. 3일 법조계에 따르면 청주지법 형사2단독 임진수 부장판사는 재물손괴 및 폭행 등 혐의로 기소된 40대 A씨에게 징역 1년6개월에 ...",
-    "age": "11 hours ago",
-    "page_age": "2026-05-02T21:59:05",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/society/12034315"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › society  › 12034315"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DAZsShTHNKtTyOW2Mn2Z5kAouTd0Sgnjwdvw9P23V2E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMy9uZXdzLXAu/djEuMjAyNjA1MDMu/MDExNjNiMzJlY2Jm/NDhjMjk2YzcyZDg3/ZWUyYjRjNTlfUi5w/bmc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "먼저, 제가 제공받은 스포츠 중계의 언어를 알려주시겠어요? - 메종 포르통",
     "url": "https://jeanfourton.com/%EB%A8%BC%EC%A0%80-%EC%A0%9C%EA%B0%80-%EC%A0%9C%EA%B3%B5%EB%B0%9B%EC%9D%80-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EC%A4%91%EA%B3%84%EC%9D%98-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%8B%9C/",
     "description": "스포츠 중계, 그 매력의 세계로 여러분을 초대합니다. 단순히 경기의 승패와 기록을 전달하는 것을 넘어, 스포츠 중계는 팬들에게 잊지 못할 경험과 깊은 감동을 선사하는 특별한 장치입니다. 경기장의 뜨거운 열기, 선수들의 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-05-02T21:56:54",
     "profile": {
       "name": "Jeanfourton",
@@ -268,7 +334,7 @@
     "title": "석 달째 접어든 이란전쟁 승자와 패자는 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202605030555173949",
     "description": "CNN은 2일 지금까지 드러난 결과로 보면 이번 전쟁의 단기 승자는 러시아와 주요 석유 메이저들, 패자는 전쟁 당사자인 미국과 이란을 포함해 세계 경제라고 평가했다.",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-05-02T21:54:31",
     "profile": {
       "name": "First News",
@@ -287,10 +353,32 @@
   },
   {
     "type": "news_result",
-    "title": "모사드가 돌연 꺼낸 이름 ‘M’…이란전 발단 ‘스파이 보트’ 실체 | 중앙일보",
+    "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign - The New York Times",
+    "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+    "description": "The United States and Israel attacked Iran on Feb. 28, starting a weekslong war that spread to neighboring countries and rocked global markets.",
+    "age": "13 hours ago",
+    "page_age": "2026-05-02T21:21:17",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› article  › iran-war-trump-us-oil-hormuz-key-dates-events.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/tI40F0uL1DX6mDOAiYxLmCQ8ZccLYzAsDnkPjKgJVFc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA0LzI0L211bHRp/bWVkaWEvMjRpc3Jh/ZWwtaXJhbi10aW1l/bGluZS1IRk8tMDMt/Z2hjYi8yNGlzcmFl/bC1pcmFuLXRpbWVs/aW5lLUhGTy0wMy1n/aGNiLWZhY2Vib29r/SnVtYm8uanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "모사드가 돌연 꺼낸 이름 ‘M’…이��전 발단 ‘스파이 보트’ 실체 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25425309",
     "description": "사고 발생 수일 뒤 현지 언론은 사망자 4명 중 2명이 이탈리아 현직 정보요원이었고 한 명은 이스라엘 대외정보기관 모사드의 전직 요원이었다고 보도했다. 승객 중 13명이 모사드의 전·현직 요원이었고 8명은 이탈리아 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-02T21:00:01",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -312,7 +400,7 @@
     "title": "불확실성 커진 미중 정상회담…트럼프, 이란 전쟁으로 전략적 열세 - 머니투데이",
     "url": "https://mt.co.kr/world/2026/05/03/2026043022490086447",
     "description": "이란 전쟁이 지속되면서 이달 중순 열릴 예정인 미중 정상회담의 불확실성이 커졌다는 평가다. 특히 미국이 전략적 열세에 놓였다는 분석이 나온다. 는 중동 전쟁 장기화가 미중 정상회담 개최에 어떤 영향을 미치고 있는지 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-02T21:00:00",
     "profile": {
       "name": "Mt",
@@ -334,7 +422,7 @@
     "title": "임진왜란:조선의 반격 - 나무위키",
     "url": "https://namu.wiki/w/%EC%9E%84%EC%A7%84%EC%99%9C%EB%9E%80:%EC%A1%B0%EC%84%A0%EC%9D%98%20%EB%B0%98%EA%B2%A9",
     "description": "2026년 4월 28일 충무공탄신일 이다. 조이시티 에서 출시한 모바일 게임 . 임진록(게임) , 천년의",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-02T20:18:33",
     "profile": {
       "name": "Namu Wiki",
@@ -353,10 +441,32 @@
   },
   {
     "type": "news_result",
+    "title": "Trump says US could restart Iran strikes 'if they misbehave' | Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
+    "description": "Speaking on condition of anonymity ... senior Iranian official said Tehran believed its latest proposal to shelve nuclear talks for a later stage was a significant shift aimed at facilitating an agreement. Under the proposal, the war would end with a guarantee that Israel and the United States would not attack ...",
+    "age": "16 hours ago",
+    "page_age": "2026-05-02T17:56:03",
+    "profile": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "reuters.com",
+      "hostname": "www.reuters.com",
+      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
+      "path": "› world  › asia-pacific  › iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/EkuJllog2q3QpsGPfKQCvaMe_PueoQlmiut-yTsoXD8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9F/VjNXRExNM0lSSkVQ/TlhSUTJYQjRKQk9V/US5qcGc_YXV0aD1j/NmY0NWFmZTc3YjI4/MTIyZDNmMjJiZjZm/YWViMDAzZWQwNGZm/YjFlNjcwNzU1ZGMy/ZjAwZTcwZGIxNGQw/MTMwJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "중, 미국의 '이란석유 수입' 자국 기업 제재에 '금지령'…\"따라선 안돼\"",
     "url": "https://v.daum.net/v/20260503091801256",
     "description": "이번 제재는 이란의 석유 수출을 차단해 전쟁 자금줄을 묶는 동시에, 이란 석유의 약 90%를 들여오는 중국의 에너지 수급에도 타격을 미치려는 의도가 담긴 것으로 풀이됩니다.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-05-02T17:17:37",
     "profile": {
       "name": "Daum",
@@ -378,7 +488,7 @@
     "title": "미국-이란 전쟁 - 나무위키",
     "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
     "description": "실시간 전황 (영문) 2026년 2월 28일 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및 핵",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-05-02T17:10:14",
     "profile": {
       "name": "Namu Wiki",
@@ -400,7 +510,7 @@
     "title": "출구 못 찾는 이란戰…트럼프, '美 유가 대응' 카드 제한적 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260503001400071",
     "description": "(워싱턴=연합뉴스) 이유미 특파원 = 미국과 이란의 종전 협상이 교착되며 이란전이 장기화하고 있는 가운데 미국 내 유가 상승이 도널드 트럼프 행...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-05-02T16:46:05",
     "profile": {
       "name": "Yonhap News Agency",
@@ -419,10 +529,54 @@
   },
   {
     "type": "news_result",
+    "title": "‘16 BASES IN 8 COUNTRIES…’: Iran Attacks Leave US Army Sites 'INOPERABLE'? Shock Damage Revealed - Times of India Videos",
+    "url": "https://timesofindia.indiatimes.com/videos/international/16-bases-in-8-countries-iran-attacks-leave-us-army-sites-inoperable-shock-damage-revealed/videoshow/130715107.cms",
+    "description": "A new investigative report has raised serious concerns over the condition of US military infrastructure across West Asia. According to the findings, multiple American bases in the region have been struck during a wave of retaliatory attacks linked to rising regional tensions.",
+    "age": "17 hours ago",
+    "page_age": "2026-05-02T16:40:56",
+    "profile": {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/videos/international/16-bases-in-8-countries-iran-attacks-leave-us-army-sites-inoperable-shock-damage-revealed/videoshow/130715107.cms"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "timesofindia.indiatimes.com",
+      "hostname": "timesofindia.indiatimes.com",
+      "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+      "path": "› videos  › international  › 16-bases-in-8-countries-iran-attacks-leave-us-army-sites-inoperable-shock-damage-revealed  › videoshow  › 130715107.cms"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/b3uh0JU0BVjGRBBS9qIpjg0J_nshkkEsApApRpJ8CJE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9tc2lk/LTEzMDcxNTEwNyx3/aWR0aC0xMjgwLGhl/aWdodC03MjAsaW1n/c2l6ZS0yODk2NCxy/ZXNpemVtb2RlLTYs/b3ZlcmxheS10b2lf/c3cscHQtMzIseV9w/YWQtNjAwL3Bob3Rv/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners - The New York Times",
+    "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html",
+    "description": "The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review.",
+    "age": "19 hours ago",
+    "page_age": "2026-05-02T14:58:29",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 05  › 02  › world  › middleeast  › us-fast-track-arms-deal-middle-east.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/NQsOKkhhBVqYgT8C4iUWkTNoHTVdQEJLAkFIc9go2TI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA1LzAyL211bHRp/bWVkaWEvMDJtaWRl/YXN0LWFybS1kZWFs/LWNwYmcvMDJtaWRl/YXN0LWFybS1kZWFs/LWNwYmctZmFjZWJv/b2tKdW1iby5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "“호르무즈 재개하고 종전한 뒤 핵협상”…이란 제안, 트럼프 거절 - 매일경제",
     "url": "https://mk.co.kr/news/world/12034295",
     "description": "이란이 미국에게 호르무즈 ... 위해 내놓은 것으로, 이란은 미국 측에 이스라엘과 미국이 이란을 다시 공격하지 않는다는 보장과 함께 전쟁 종식을 원했어요....",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-05-02T12:58:53",
     "profile": {
       "name": "MK",
@@ -444,7 +598,7 @@
     "title": "조현 장관, 이란 외교장관과 통화…중동 정세·선박 통항 논의 | 서울경제",
     "url": "https://www.sedaily.com/article/20039606",
     "description": "한국 선박을 포함한 모든 선박의 안전한 통항이 재개돼야 한다고 강조했다. 호르무즈 해협은 글로벌 원유 수송의 핵심 해상 통로로, 이란-이스라엘 간 군사적 긴장이 고조되면서 선박 통항에 차질이 빚어지고 있다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-05-02T12:48:49",
     "profile": {
       "name": "Sedaily",
@@ -459,6 +613,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Byc5RIKxJDIir5l3fQ6iISv4SUyH-YHP8-ADqreaLfY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDUvMDIvbmV3/cy1wLnYxLjIwMjYw/MzIzLjFmYmRjYmZk/YmNkMTRiMDRhNDBj/MGI3ZDA2NWZjNmE3/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz",
+    "url": "https://www.9news.com.au/world/us-israel-iran-war-shipping-firms-warned-of-sanctions-over-paying-iranian-tolls-strait-of-hormuz/0471c2d7-d1c0-48b3-a8b6-e1bfcd6f8ae3",
+    "description": "Iran effectively closed the strait to normal traffic by attacking and threatening to attack ships after the US and Israel launched a war on February 28.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T12:34:26",
+    "profile": {
+      "name": "9News",
+      "url": "https://www.9news.com.au/world/us-israel-iran-war-shipping-firms-warned-of-sanctions-over-paying-iranian-tolls-strait-of-hormuz/0471c2d7-d1c0-48b3-a8b6-e1bfcd6f8ae3"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "9news.com.au",
+      "hostname": "www.9news.com.au",
+      "favicon": "https://imgs.search.brave.com/laG6lI3oTnz6q5oACfc7tVe0hKVlBPEHyG8hgldQqiU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjJmOGZhNWZm/YTMxN2NiZTgyODkx/NjVlODE4ZWEyOWJm/M2YyNTM3ZmJiMThl/YzQ4MWFiODRkOTNi/MDg1OWE5ZS93d3cu/OW5ld3MuY29tLmF1/Lw",
+      "path": "› world  › us-israel-iran-war-shipping-firms-warned-of-sanctions-over-paying-iranian-tolls-strait-of-hormuz  › 0471c2d7-d1c0-48b3-a8b6-e1bfcd6f8ae3"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XxWcBbK4Q2v6oHr3vrtVItFPJrulRClufRu3uTS8O30/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXJlc2l6ZXIuc3Rh/dGljOS5uZXQuYXUv/M2lxZkpieUtET29s/UDB2UVN6RldFTWY5/Z1BrPS8weDE2Nzox/NjAweDEwNjcvMTIw/MHg2Mjgvc21hcnQv/aHR0cHMlM0ElMkYl/MkZwcm9kLnN0YXRp/YzkubmV0LmF1JTJG/ZnMlMkZlZGEzY2Zm/Yi00NTRlLTQ5N2Mt/ODc2NS1jZTM3OWUz/MDc3OGI"
     }
   },
   {
@@ -529,6 +705,91 @@
   },
   {
     "type": "news_result",
+    "title": "Iran War: Trump Leans Towards Another Attack on Iran as More Weapons Arrive; Further Confirmation of US Base Damage in Theater; More on War Cost; El Niño as Famine Multiplier | naked capitalism",
+    "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-leans-towards-another-attack-on-iran-as-more-weapons-arrive-in-theater-further-confirmation-of-us-base-damage-in-theater-el-nino-as-famine-multiplier.html",
+    "description": "Today's Iran war update: Trump still seems primed to attack again in Iran even as costs to the US and Israel mount.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T10:58:44",
+    "profile": {
+      "name": "Naked Capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-leans-towards-another-attack-on-iran-as-more-weapons-arrive-in-theater-further-confirmation-of-us-base-damage-in-theater-el-nino-as-famine-multiplier.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nakedcapitalism.com",
+      "hostname": "www.nakedcapitalism.com",
+      "favicon": "https://imgs.search.brave.com/53wyKBbXD6-9R4pFRyqxuKWpB9_oxet79iuyZvqcWVw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjJjYzJhNGE4/YTI4MTQ0YTZhOWVi/NTYwNzc3Y2Q5OGE3/Mzg3YmQ1NWU5YTdl/ZTM4ZTI2NTI2MWQy/Y2RiZmUxMC93d3cu/bmFrZWRjYXBpdGFs/aXNtLmNvbS8",
+      "path": "› 2026  › 05  › iran-war-trump-leans-towards-another-attack-on-iran-as-more-weapons-arrive-in-theater-further-confirmation-of-us-base-damage-in-theater-el-nino-as-famine-multiplier.html"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "US rejects Iran's offer to open Hormuz without nuclear talks, pushes for Aoun-Netanyahu meeting",
+    "url": "https://www.jpost.com/middle-east/iran-news/2026-05-01/live-updates-894813",
+    "description": "Ayatollah Ali Khamenei was killed by an Israeli strike on a Tehran bunker. Iran’s defense minister and several IRGC generals were also killed in the largest-ever aerial attack by the IAF",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T10:17:43",
+    "profile": {
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-01/live-updates-894813"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "jpost.com",
+      "hostname": "www.jpost.com",
+      "favicon": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw",
+      "path": "› middle-east  › iran-news  › 2026-05-01  › live-updates-894813"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/gCR_bQFVAZynxjHXVkWirJK-N-jOZF_sD3J6wNro_W8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzE4OTk4"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran accused of supplying Mohajer-6 attack drones to Sudan's armed forces | Fox News",
+    "url": "https://www.foxnews.com/world/irans-killer-drones-increase-slaughter-sudan-amid-worlds-forgotten-war",
+    "description": "Iran is accused of supplying Mohajer-6 attack drones to Sudan's armed forces as the civil war's death toll reportedly reaches as many as 400,000 people.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T10:00:36",
+    "profile": {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/world/irans-killer-drones-increase-slaughter-sudan-amid-worlds-forgotten-war"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "foxnews.com",
+      "hostname": "www.foxnews.com",
+      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
+      "path": "› world  › irans-killer-drones-increase-slaughter-sudan-amid-worlds-forgotten-war"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/tyDiYWv5wklZHYG-6zteyGKvgvkjaTyprqpn1RB5HlE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm94bmV3cy5j/b20vZm94bmV3cy5j/b20vY29udGVudC91/cGxvYWRzLzIwMjYv/MDMvaXJhbi1kcm9u/ZXMtY2hpbmEtcGFy/dHMuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "The Memo: Trump’s frustration on Iran boils over in attacks against media",
+    "url": "https://thehill.com/homenews/the-memo/5860143-trump-frustrated-war-iran-media/",
+    "description": "President Trump's frustration with media coverage of the war on Iran intensifies as the conflict drags on, with rising oil prices and public disapproval.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T10:00:00",
+    "profile": {
+      "name": "The Hill",
+      "url": "https://thehill.com/homenews/the-memo/5860143-trump-frustrated-war-iran-media/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "thehill.com",
+      "hostname": "thehill.com",
+      "favicon": "https://imgs.search.brave.com/3vZRKWe3Z8PDPL7PYg2LbSB-xm9smJxmp7fU8MEj8jA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE3ODFmZDMz/MmVhOTY5M2UxOWU0/N2JjZTQ0ODQ3ZGJi/OGQwNzc0MGJjY2U3/ZTUzOWExMmJjZjkx/NDBhYTVkZS90aGVo/aWxsLmNvbS8",
+      "path": "› homenews  › the-memo  › 5860143-trump-frustrated-war-iran-media"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/-ACj7hXOakdWCCrb_PeB1GVB0OP7FPUsUWwiJ0Qbz10/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVo/aWxsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDI2LzA1L0FQMjYx/MjE3NDgyNTA4MjMt/ZTE3Nzc3MTcyOTU3/MTYuanBnP3c9MTI4/MA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 강경파 의원 지도부 공격 시 아랍 왕실도 표적",
     "url": "https://bbs.ruliweb.com/news/board/300018/read/3740868",
     "description": "바티칸 시국 (4579180) 추천의 달인 추천흡수기 유게이 추천성애자 · 활동내역 작성글 쪽지 마이피 타임라인",
@@ -566,6 +827,72 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/vOWMX8LvY9nTExIVYpDyXaXbY8DU4I-BBTiF3-r3t5A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzA1LzAy/LzEzMzg1MTAyNy4x/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Tucker Carlson Discusses Breaking With Trump, the Iran War and Antisemitism - The New York Times",
+    "url": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html",
+    "description": "Then, in February, President Trump made the call to attack Iran alongside Israel, a decision that Carlson is completely opposed to. He now says he regrets supporting Trump and has become a vocal and influential critic of the administration on his show. He also blames Israel for making Trump ...",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T09:15:08",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-interview-trump-iran.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 05  › 02  › magazine  › tucker-carlson-interview-trump-iran.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ZC0D0AiT614L3rGDZOZ34q262KKEZa5OfunhCj3IoR4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzEwLzA1L21hZ2F6/aW5lLzEwbWFnLWlu/dGVydmlldy1jYXJs/c29uLWltYWdlLzEw/bWFnLWludGVydmll/dy1jYXJsc29uLWlt/YWdlLWZhY2Vib29r/SnVtYm8uanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Takeaways From The Times’s Interview With Tucker Carlson - The New York Times",
+    "url": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-takeaways-interview.html",
+    "description": "From his Fox News days to “The Tucker Carlson Show” that he hosts now to the campaign trail, he had been a loud and high-profile cheerleader. But all of that changed in February, when the president decided to attack Iran, something Carlson vehemently opposed.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T09:15:05",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/05/02/magazine/tucker-carlson-takeaways-interview.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 05  › 02  › magazine  › tucker-carlson-takeaways-interview.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/y59WaHwfwrNbrvbj7Hqz6M38MWPKsc2Ht2Dr2vze8iU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA1LzEwL21hZ2F6/aW5lLzEwbWFnLWlu/dGVydmlldy1jYXJs/c29uLXRha2Vhd2F5/cy8xMG1hZy1pbnRl/cnZpZXctY2FybHNv/bi10YWtlYXdheXMt/ZmFjZWJvb2tKdW1i/by5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "How Germany May Have Misjudged Trump’s Anger on Iran - The New York Times",
+    "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+    "description": "Germany had appeared not to believe President Trump’s threats to pull troops from the country. Once it was announced, Berlin offered a measured response.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T07:12:16",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 05  › 02  › world  › europe  › germany-trump-merz-troops-withdrawal.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/7Y8hV9xG4uj9hpuGIaprK_2GG1atU0GpoMQ-rHx8hEE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA1LzAyL211bHRp/bWVkaWEvMDJpbnQt/R2VybWFueS10cm9v/cHMtMDEtenRqYi8w/MmludC1HZXJtYW55/LXRyb29wcy0wMS16/dGpiLWZhY2Vib29r/SnVtYm8uanBn"
     }
   },
   {
@@ -680,24 +1007,68 @@
   },
   {
     "type": "news_result",
-    "title": "“어제 살 걸 그랬다” 하루 사이에 2배 올라...10년 만에 ‘초유의 상황’ - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/137100",
-    "description": "중동 전쟁으로 국제 유가가 고공 행진하면서 이번 달 발권되는 항공권에 전월 대비 약 2배 높은 유류할증료가 부과된다. 미국 뉴욕, 워싱턴 등으로 가는 장거리 노선을 발권할",
+    "title": "Ukraine attacks Russia's oil as the Iran war raises energy prices | AP News",
+    "url": "https://apnews.com/article/russia-ukraine-war-oil-drone-attacks-environment-bd5d03a3e3515f0a3b5b48031bc2c18c",
+    "description": "Ukrainian drones are flying deep into Russia to strike oil facilities. Plumes of smoke can be seen from space and toxic rain has fallen on tourist destinations on the Black Sea.",
     "age": "1 day ago",
-    "page_age": "2026-05-02T04:03:10",
+    "page_age": "2026-05-02T05:06:21",
     "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/137100"
+      "name": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-oil-drone-attacks-environment-bd5d03a3e3515f0a3b5b48031bc2c18c"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 137100"
+      "netloc": "apnews.com",
+      "hostname": "apnews.com",
+      "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+      "path": "› article  › russia-ukraine-war-oil-drone-attacks-environment-bd5d03a3e3515f0a3b5b48031bc2c18c"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/DyJQ4GKld1Abt4iDLDG9vjFIjdtnm5t5pfQtZbaenO8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzAyL0FL/UjIwMjYwMTA1MDkw/OTAwMDA0XzAxX2lf/UDQuanBn"
+      "src": "https://imgs.search.brave.com/M3E3M6roWUWjqe_mPHwUw-96L_dfCPu0jzObW06rsKs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9hNTM0ZTI5LzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/LzExMDIyeDczNDQr/MTAxNyswL3Jlc2l6/ZS85ODB4NjUzIS9x/dWFsaXR5LzkwLz91/cmw9aHR0cHMlM0El/MkYlMkZhc3NldHMu/YXBuZXdzLmNvbSUy/RjMwJTJGZmElMkZk/NTQ0NTRlM2FlZGM0/MjYyMjU4Y2JhMzBj/MmQxJTJGNjdlNWJi/MjVjYjNjNGRhYmIy/YzU1NzgxMjVmMTY3/MTg"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "'Can't let lunatics have nuclear weapons': Trump's big Iran attack day after his officials claim war is over | World News",
+    "url": "https://www.hindustantimes.com/world-news/cant-let-lunatics-have-nuclear-weapons-trumps-big-iran-attack-day-after-his-officials-claim-war-is-over-us-101777693880896.html",
+    "description": "Donald Trump's fresh attack on the US enemy comes not so long after his officials claimed that the war with Iran was effectively “terminated”. | World News",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T04:11:58",
+    "profile": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/cant-let-lunatics-have-nuclear-weapons-trumps-big-iran-attack-day-after-his-officials-claim-war-is-over-us-101777693880896.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hindustantimes.com",
+      "hostname": "www.hindustantimes.com",
+      "favicon": "https://imgs.search.brave.com/6oiSajNB7C3FmHradE3V3z23td9GnbX-OZbVqJO9gzY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY1MjVjODdh/ZjU0MTA4Mjc4NzA0/ODM1MjllODZmNGMy/NTViMTUyNjk2ZTU1/MGZiNDRhZjI1NzRh/N2U2NTA0YS93d3cu/aGluZHVzdGFudGlt/ZXMuY29tLw",
+      "path": "› world-news  › cant-let-lunatics-have-nuclear-weapons-trumps-big-iran-attack-day-after-his-officials-claim-war-is-over-us-101777693880896.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/iSnXXXczYinqvIdpIrWgH0DLjzIWOJudHPIqfXeWAf0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNi8w/NS8wMi81NTB4MzA5/L0FQMDUtMDItMjAy/Ni0wMDAwMDFBLTBf/MTc3NzY5NDA1NzI3/NV8xNzc3Njk0MDY0/OTAyLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Day 64 of Middle East conflict — Israel and Hezbollah continue to trade blows despite declared ceasefire | CNN",
+    "url": "https://www.cnn.com/2026/05/02/world/live-news/iran-war-news",
+    "description": "Israel and Hezbollah continued ... the pro-Iranian militant group. The Israel Defense Forces said that it struck “approximately 70 military structures and approximately 50 Hezbollah infrastructure sites” in several areas. The militants said they attacked a cluster of ...",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T04:05:30",
+    "profile": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/05/02/world/live-news/iran-war-news"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnn.com",
+      "hostname": "www.cnn.com",
+      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+      "path": "› 2026  › 05  › 02  › world  › live-news  › iran-war-news"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8LYvP90dKNJp1wkfuNoTZaAD4aekw5brrl7K2V12KqE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2dldHR5aW1hZ2Vz/LTIyNzQwODUyNjQu/anBnP2M9MTZ4OSZx/PXdfODAwLGNfZmls/bA"
     }
   },
   {
@@ -724,24 +1095,24 @@
   },
   {
     "type": "news_result",
-    "title": "“식재료가 중국산이라 그닥”…AI ‘범죄자 근황’ 밈 확산, 웃고 넘기기엔 - 매일경제",
-    "url": "https://mk.co.kr/news/society/12034128",
-    "description": "최근 온라인에서 빠르게 확산 중인 ‘범죄자 근황’ 영상이 논란이다. 악명 높은 강력범죄자들이 교도소에서 식사를 하며 농담을 주고받는 영상들인데 실제처럼 보이지만, 모두 인공지능(AI)으로 만들어진 가짜 콘텐츠다.",
+    "title": "Israel-Iran war LIVE: Iran military official says renewed war with U.S. 'likely' - The Hindu",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece",
+    "description": "Tehran delivered the new proposal for talks with the U.S. via Pakistan, which is acting as a mediator between the two sides, even as its Revolutionary Guards warned that American warships “will burn” like U.S. bases in the region, if Iran is attacked again.",
     "age": "1 day ago",
-    "page_age": "2026-05-02T01:47:08",
+    "page_age": "2026-05-02T02:46:56",
     "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/society/12034128"
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026/article70930695.ece"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › society  › 12034128"
+      "netloc": "thehindu.com",
+      "hostname": "www.thehindu.com",
+      "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+      "path": "› news  › international  › iran-israel-us-war-ceasefire-news-strait-of-hormuz-live-updates-may-2-2026  › article70930695.ece"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/aYblNRq_EiJPxgg0RK604yjmdHZieSaMH-YXaN7Nfnw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMi9uZXdzLXAu/djEuMjAyNjA1MDIu/NDE0ODcwZmZmYjQ3/NDkxMmFiODFiNzZk/ZDNmOGQyY2NfUi5q/cGc"
+      "src": "https://imgs.search.brave.com/Av78RPpS6PHc77Cw8D_O4GUiz18S5FbjEU9wEE0vG8Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvaW5jb21p/bmcvdXJpYzVhL2Fy/dGljbGU3MDkzMDcz/OS5lY2UvYWx0ZXJu/YXRlcy9MQU5EU0NB/UEVfMTIwMC8yMDI2/LTA1LTAxVDE3MjAw/N1pfOTgyOTAwODIx/X1JDMjEwTEFYNUlQ/T19SVFJNQURQXzNf/SVJBTi1DUklTSVMt/U0FVREktTElRVU9S/LkpQRw"
     }
   },
   {
@@ -834,6 +1205,28 @@
   },
   {
     "type": "news_result",
+    "title": "U.S. asks for help with opening Strait of Hormuz while Trump attacks allies",
+    "url": "https://www.nbcnews.com/politics/national-security/us-asks-help-opening-strait-hormuz-trump-attacks-allies-rcna343082",
+    "description": "After President Donald Trump suggested the U.S. needed no assistance in reopening the Strait of Hormuz, the administration has launched a new effort to get allies to help move ships through the critical passageway blocked by Iran.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T00:08:10",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/politics/national-security/us-asks-help-opening-strait-hormuz-trump-attacks-allies-rcna343082"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› politics  › national-security  › us-asks-help-opening-strait-hormuz-trump-attacks-allies-rcna343082"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/5CWz66s6yEob_9H18NkiIGITzS1VSHaH-f1ok_TVFjM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDUvMjYw/NTAxLWlyYW4tc3Ry/YWl0LWhvcm11ei1t/bi0xMjUwLTM5Nzhh/MS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미 국방부 “해상봉쇄로 이란 48억 달러 손실 추산” - 매일경제",
     "url": "https://mk.co.kr/news/world/12034058",
     "description": "“해상봉쇄 이후 3주간 유조선 31척 발 묶여”",
@@ -852,6 +1245,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/FUybSf6P-o6W6je_12JOYOOXU5L0bEqOHPmJaZJcv8w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/NS8wMi9uZXdzLXAu/djEuMjAyNjA1MDIu/MTc1ZWVjNGIzMjJh/NDFmNzk1N2VmYTEw/Zjg5NDk3NGNfUi5q/cGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran war updates: IRGC warns conflict may resume, says it’s fully prepared | Conflict News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer",
+    "description": "These were the updates about the US-Israel war on Iran and Israel's attacks on Lebanon on Saturday, May 2, 2026.",
+    "age": "1 day ago",
+    "page_age": "2026-05-02T00:00:00",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › liveblog  › 2026  › 5  › 2  › iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/9HlsbJlU4PrQnxeVdf2AtRuQ1qf8Yq7UaCl2Y7t4tGk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNS8yMDI2LTA1/LTAxVDE0NDkzMVpf/MTMzNzgzNjMxNl9S/QzJFMExBRDlINkVf/UlRSTUFEUF8zX0lS/QU4tQ1JJU0lTLUxF/QkFOT04tSVNSQUVM/LTE3Nzc2Nzg0NDcu/anBnP3Jlc2l6ZT0x/OTIwJTJDMTQ0MA"
     }
   }
 ]
