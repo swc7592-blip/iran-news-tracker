@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "호르무즈서 美·이란 직접 충돌…트럼프 \"가벼운 한 방\"에도 호르무즈 긴장 고조",
+    "url": "https://www.newspim.com/news/view/20260508001328",
+    "description": "CENTCOM은 \"미군은 이란의 도발 없는 공격을 요격했으며 자위권 차원의 대응 타격을 실시했다\"며 \"미국 자산 피해는 없었다\"고 밝혔다.",
+    "age": "2 hours ago",
+    "page_age": "2026-05-08T09:47:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260508001328"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260508001328"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Hbgqu7Z-cgAntEzMMSSG8VO9aZC0ra7MpzSoEy9t-Mc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzE2LzI2MDMxNjEw/NTY0NDc4MTBfdDEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란전 교착·무기 고갈에…中 \"美는 절뚝거리는 거인\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202605081718310835",
     "description": "이 남성 뒤에는 호르무즈 해협이 도널드 트럼프 미국 대통령의 입을 꿰맨 모습이 담긴 대형 홍보물이 걸려 있다. 2026.05.08. [서울=뉴시스]구자룡 기자 = 미국이 이란과의 전쟁에 무기를 쏟아 붓자 중국은 미국을 ‘절뚝거리는 ...",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-05-08T08:19:13",
     "profile": {
       "name": "First News",
@@ -23,32 +45,10 @@
   },
   {
     "type": "news_result",
-    "title": "中유조선, 호르무즈해협서 공격받아…\"이란전쟁 발발후 처음\"(종합) - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202605081647059829",
-    "description": "CMA CGM은 성명에서 공격 주체를 명확히 밝히진 않았으나 이란 측 공격을 받은 것으로 알려졌다. 중국 유조선의 공격 주체도 확인되지 않았다. 중국 정부는 해당 유조선에 자국민이 타고 있었지만, 인명피해는 없었다고 밝혔다.",
-    "age": "3 hours ago",
-    "page_age": "2026-05-08T07:47:46",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202605081647059829"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202605081647059829"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wpRZnQbzDaM-AbgCpE0tgv7Wb6RAnjhVMpGVL3-mY-k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMDgvMjAy/NjA1MDgxNjQ3NDMy/MTE0X2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "청해부대 48진 왕건함, '드론 전장' 아덴만 출격… 대(對)드론 전력 전격 보강",
     "url": "https://www.newspim.com/news/view/20260508001156",
     "description": "이번 전력 보강은 최근 중동 해역에서 드론 위협이 급증한 데 따른 대응 조치로 풀이된다. 특히 2025년 이후 이란이 자폭형 무인기(UAV)와 수중 무인체계(UUV)를 결합한 복합 공격 전술을 실전에서 활용하면서, 기존 대공·대함 ...",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-05-08T06:55:00",
     "profile": {
       "name": "Newspim",
@@ -70,7 +70,7 @@
     "title": "“이란,거의 매일 사형 집행중”…유족에 시신인계 거부도 - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10733923",
     "description": "이란 당국은 마약 또는 살인 혐의를 받은 사형수들이 대상이라고 주장하지만, 최근에는 전쟁으로 혼란한 틈을 타 반정부 세력을 제거하고 있다는 게 인권단체들의 주장이다.",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-05-08T06:05:45",
     "profile": {
       "name": "Herald Corp",
@@ -92,7 +92,7 @@
     "title": "\"나만 믿어 작전 실패\" 조롱 받는 '프로젝트 프리덤'…트럼프, 이란전에 갇혔다",
     "url": "https://www.newspim.com/news/view/20260508000781",
     "description": "이란은 현재 미국 협상팀에 대한 신뢰가 거의 없다는 것이 가디언의 진단이다. 미국 측 협상팀에는 트럼프 대통령의 사위 재러드 쿠슈너와 특사 스티브 위트코프가 참여하고 있는데, 두 사람 모두 부동산 개발업자로 핵 협상 경험이 거의 없다. 이스라엘과의 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-08T03:15:00",
     "profile": {
       "name": "Newspim",
@@ -114,7 +114,7 @@
     "title": "이란 의회 관계자 “韓선박 공격 안했다, 믿어달라…한국에 대단히 우호적 감정” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10733602",
     "description": "[헤럴드경제=이원율 기자]이란 의회 고위 관계자는 호르무즈 해협에서 발생한 한국 선박의 화재·폭발 원인을 놓고 “이란군이 공격하지 않았다”는 취지의 주장을 거듭 펼",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-05-08T01:43:32",
     "profile": {
       "name": "Herald Corp",
@@ -136,7 +136,7 @@
     "title": "美-이란, 확전 아니라는데…협상 첫관문 앞두고 치열한 '서사 전쟁'",
     "url": "https://www.newspim.com/news/view/20260508000414",
     "description": "[시드니=뉴스핌] 권지언 특파원 = 미국과 이란이 7일(현지시간) 호르무즈 해협에서 또다시 교전을 벌이면서 '종전 협상' 기대에 찬물을 끼얹었다. 위태롭게 유지되던 휴전이 재차 확전 양상으로 비화하는 게 아니냐는 우려도 고개를 들었다. 양측은 서로 상대방이 먼저 공격했다고 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-08T01:20:00",
     "profile": {
       "name": "Newspim",
@@ -158,7 +158,7 @@
     "title": "中 유조선, 호르무즈 해협 인근서 공격받아‥\"이란전쟁 발발 후 처음\"",
     "url": "https://imnews.imbc.com/news/2026/world/article/6820895_36925.html",
     "description": "중국 소유 유조선이 이란 전쟁 발발 이후 처음으로 호르무즈 해협 인근에서 공격받은 사실이 뒤늦게 알려졌습니다. 영국 로이터통신은 현지시간 8일 중국 소유 석유 제품 운반선 한 척이...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-08T01:17:50",
     "profile": {
       "name": "MBC 뉴스",
@@ -180,7 +180,7 @@
     "title": "미국, 트럼프 '빠른 협정 체결' 요구에 이란 공격 + 뉴스 속보 | 코인피클",
     "url": "https://www.coinpickle.net/news/flash/69fd346a714c29e1e44f3bbe",
     "description": "미국, 트럼프 '빠른 협정 체결' 요구에 이란 공격 + 코인피클에서 암호화폐 관련 속보를 빠르게 확인하고, 최신 시장 동향을 놓치지 마세요!",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-08T00:47:09",
     "profile": {
       "name": "Coinpickle",
@@ -202,7 +202,7 @@
     "title": "이란 국영TV “한국 선박 타격” 주장... 대사관은 “강력 부인” 혼선",
     "url": "https://www.insight.co.kr/news/553167",
     "description": "국민의힘 소속 김석기 국회 외교통일위원장은 지난 7일 아지지 위원장과의 화상 면담 내용을 공개하며 \"아지지 위원장은 이란 군이 공격하지 않았다고 얘기했다\"고 밝혔다.",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-05-08T00:31:19",
     "profile": {
       "name": "Insight",
@@ -221,10 +221,76 @@
   },
   {
     "type": "news_result",
+    "title": "호르무즈 인근서 中유조선 피격…美·이란 전쟁 후 처음 - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10733458",
+    "description": "CMA CGM은 공격 주체를 명확히 밝히지는 않았지만, 업계에서는 이란의 미사일 공격 가능성에 무게를 두고 있는 것으로 전해졌다.",
+    "age": "12 hours ago",
+    "page_age": "2026-05-08T00:25:49",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10733458"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10733458"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8W1ntoNTNEhlQVBDad-dats1A6CCdUO1a7IYTPaoh-8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDUvMDgv/cmN2LllOQS4yMDI2/MDMxMy5QQUYyMDI2/MDMxMzMwMzYwMTAw/OV9UMS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 \"휴전 여전히 유효\"…호르무즈 교전 '가벼운 타격' 일축",
+    "url": "https://www.newspim.com/news/view/20260508000111",
+    "description": "그는 \"이 과정은 적의 공격 속에서 진행됐지만, 세 척의 구축함 모두 어떤 피해도 입지 않았다\"며 \"반면 이란의 공격 세력은 큰 피해를 입었고 완전히 파괴됐다\"고 주장했다.",
+    "age": "12 hours ago",
+    "page_age": "2026-05-07T23:35:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260508000111"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260508000111"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/-8KF3nIupIOViSD9aKZqogu73qBJLS4Dm6f9-q3oAH8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA1/LzA4LzI2MDUwODA4/MzI0NjI4NzBfMzYz/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "CIA \"이란, 美해상봉쇄 3~4개월 버틴다\"…백악관 낙관론 무색 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202605080820478791",
+    "description": "WP는 사안에 정통한 관계자 4명을 인용해 이란의 군사력 또한 여전히 건재한 것으로 파악됐다고 전했다. CIA는 미국과 이스라엘의 대규모 공습에도 이란이 전쟁 전 보유했던 미사일 재고의 약 70%와 이동식 발사대의 75%를 ...",
+    "age": "13 hours ago",
+    "page_age": "2026-05-07T23:21:08",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202605080820478791"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202605080820478791"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XkLZm4KIBmjOmXylRrrB8WNQwhhroD3vzWdDCfUXuOc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/dy9pbWcvZm5fZW1w/dHkuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미군, 이란 구축함 공격에 반격…호르무즈해협 인근서 교전 발생 - 이투데이",
     "url": "https://etoday.co.kr/news/view/2582575",
     "description": "7일(현지시간) 로이터통신에 따르면 미 중앙사령부는 이날 호르무즈해협에서 오만만으로 향하던 미사일 구축함이 이란 측 공격을 받았다고 발표했다. 다수의 미사일과 드론이 발사돼 이를 요격했다고 밝혔다.",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-07T23:11:00",
     "profile": {
       "name": "Etoday",
@@ -246,7 +312,7 @@
     "title": "트럼프 “이란 공격 완전히 파괴…합의 안 하면 더 폭력적 타격”",
     "url": "https://chosun.com/international/international_general/2026/05/08/6MU6M5YRPFBFXFLWHLUBWLQLCQ",
     "description": "트럼프 이란 공격 완전히 파괴합의 안 하면 더 폭력적 타격 미국과 이란 간의 종전 협상 타결이 임박했다는 관측이 무색하게 호르무즈 해협에서 또다시 양국 간 무력 충돌이 발생했다. 도널드 트럼프 미국 대통령은 미 군함이 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-07T22:52:48",
     "profile": {
       "name": "Chosun Daily",
@@ -265,46 +331,24 @@
   },
   {
     "type": "news_result",
-    "title": "\"미국이 휴전 깼다\"…이란, 유조선 공격 주장 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202605080706267394",
-    "description": "이란이 미국이 휴전을 위반했다며 유조선과 민간 지역을 공격했다고 주장했다.미국과 이란 간 종전 양해각서 체결 가능성이 거론되던 가운데 호르무즈 해협 긴장이 다시 고조되는 분위기다.이란 합동군사사령부는 8일 새벽 ...",
-    "age": "13 hours ago",
-    "page_age": "2026-05-07T22:08:26",
+    "title": "호르무즈서 美 구축함 3척 공격받아… \"이란 시설 타격\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202605080712474050",
+    "description": "미국 중부사령부는 8일 호르무즈 해협을 통과하던 미 해군 함정 3척이 이란의 공격을 받았으며, 이에 대응해 이란 군사시설을 타격했다고 밝혔다. 중부사령부는 이날 소셜미디어를 통해 \"미 해군 구축함들이 호르무즈 해협을 ...",
+    "age": "14 hours ago",
+    "page_age": "2026-05-07T22:16:35",
     "profile": {
       "name": "First News",
-      "url": "https://fnnews.com/news/202605080706267394"
+      "url": "https://fnnews.com/news/202605080712474050"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "fnnews.com",
       "hostname": "fnnews.com",
       "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202605080706267394"
+      "path": "› news  › 202605080712474050"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ixECTqNEqpfAaPNA5BqpAok4Q7-ny1Kc7MzQNGQ3ERc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMDgvMjAy/NjA1MDgwNjQzMDM0/MDQyX2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"미국이 휴전 깼다\"…이란, 유조선 공격 주장 - 파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202605080706267394",
-    "description": "이란이 미국이 휴전을 위반했다며 유조선과 민간 지역을 공격했다고 주장했다.미국과 이란 간 종전 양해각서 체결 가능성이 거론되던 가운데 호르무즈 해협 긴장이 다시 고조되는 분위기다.이란 합동군사사령부는 8일 새벽 ...",
-    "age": "13 hours ago",
-    "page_age": "2026-05-07T22:08:26",
-    "profile": {
-      "name": "First News",
-      "url": "https://www.fnnews.com/news/202605080706267394"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "www.fnnews.com",
-      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
-      "path": "› news  › 202605080706267394"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ixECTqNEqpfAaPNA5BqpAok4Q7-ny1Kc7MzQNGQ3ERc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMDgvMjAy/NjA1MDgwNjQzMDM0/MDQyX2wuanBn"
+      "src": "https://imgs.search.brave.com/xtOR2IhEUGCW0Hnt5bLXainj-sfv7tqfs-G_z0jO0Ks/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMDgvMjAy/NjA1MDgwNjM3MzI1/MDA5X2wuanBn"
     }
   },
   {
@@ -312,7 +356,7 @@
     "title": "[금/유가] 유가, 하락 마감 후 호르무즈 긴장 재고조로 급반등...금 상승",
     "url": "https://www.newspim.com/news/view/20260508000033",
     "description": "또 이란 타스님통신은 호르무즈 해협 인근 미 구축함 3척이 이란 해군 공격 대상이 됐다고 보도했고, 이란 최고 합동군사령부는 이란이 \"어떤 공격에도 주저함 없이 강력히 대응할 것\"이라면서 긴장감을 더했다.",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-05-07T21:34:00",
     "profile": {
       "name": "Newspim",
@@ -331,46 +375,24 @@
   },
   {
     "type": "news_result",
-    "title": "[속보]이란 매체 “미군이 유조선 공격, 미사일 반격에 후퇴” | 시카고 토탈 WIN TV",
-    "url": "https://chicagototal.com/%EC%86%8D%EB%B3%B4%EC%9D%B4%EB%9E%80-%EB%A7%A4%EC%B2%B4-%EB%AF%B8%EA%B5%B0%EC%9D%B4-%EC%9C%A0%EC%A1%B0%EC%84%A0-%EA%B3%B5%EA%B2%A9-%EB%AF%B8%EC%82%AC%EC%9D%BC-%EB%B0%98%EA%B2%A9%EC%97%90/",
-    "description": "[속보]이란 매체 “미군이 유조선 공격, 미사일 반격에 후퇴”시카고 토탈 WIN TV",
-    "age": "13 hours ago",
-    "page_age": "2026-05-07T21:31:46",
+    "title": "'호르무즈 화재 선박' 나무호, 두바이항 도착…접안 후 본격 조사",
+    "url": "https://www.newspim.com/news/view/20260508000030",
+    "description": "앞서 이란 국영 프레스TV는 ... 에브라힘 아지지 위원장은 국회 외교통일위원장인 김석기 국민의힘 의원에게 \"이란군이 공격하지 않았다\"는 입장을 밝힌 것으로 확인됐다....",
+    "age": "15 hours ago",
+    "page_age": "2026-05-07T21:26:00",
     "profile": {
-      "name": "Chicagototal",
-      "url": "https://chicagototal.com/%EC%86%8D%EB%B3%B4%EC%9D%B4%EB%9E%80-%EB%A7%A4%EC%B2%B4-%EB%AF%B8%EA%B5%B0%EC%9D%B4-%EC%9C%A0%EC%A1%B0%EC%84%A0-%EA%B3%B5%EA%B2%A9-%EB%AF%B8%EC%82%AC%EC%9D%BC-%EB%B0%98%EA%B2%A9%EC%97%90/"
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260508000030"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "chicagototal.com",
-      "hostname": "chicagototal.com",
-      "favicon": "https://imgs.search.brave.com/-F3_M0wuM0ExQ2GjD77s_y9y1rE9BwTPXMQ9kDufipo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmJjNjE0YzRi/NmRmMGExMzc4OWM1/NTU3YTRmN2M2ZTU5/OWY2NzJlZGIzYjgy/ZDg3YTE5MGIyNmEy/NTQ0NDFjNi9jaGlj/YWdvdG90YWwuY29t/Lw",
-      "path": "› 속보이란-매체-미군이-유조선-공격-미사일-반격에"
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260508000030"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/GpQjOFzopwqPz4r3rK56GI_5ZhhB0bFrCzl17KMjy-U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jaGlj/YWdvdG90YWwuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzA1L3BpYzItMTAy/NHg2MTEucG5n"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[속보]협상 근접했다더니…美, 또다시 이란 공습 “호르무즈 인근서 폭발음” | 문화일보",
-    "url": "https://www.munhwa.com/article/11587526",
-    "description": "미잔 통신은 이란군과 적대 세력 간 교전 과정에서 게슘섬의 바흐만 부두가 공격 대상이 됐다고 전했다. 또 IRIB는 미군이 이란 유조선을 공격했으며, 이후 이란의 미사일 공격을 받은 적군 세력이 후퇴했다고 주장했다.",
-    "age": "13 hours ago",
-    "page_age": "2026-05-07T21:24:06",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://www.munhwa.com/article/11587526"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "www.munhwa.com",
-      "favicon": "https://imgs.search.brave.com/1kuN8S7qafYNC3cyLmYyz-ezvd9p-f8WiLc7ehxSSI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YyOTVmNDAw/NWNmMjNiOTY2ZGMz/NmUyYWIwZDg3ZmM1/NzE4ZTc2ODI3NzRk/MjYzZDI5NjZmOTVl/NjkzMWZjZC93d3cu/bXVuaHdhLmNvbS8",
-      "path": "› article  › 11587526"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/0pUQgBU2O-19YhIQM64Q403OL6g7O-H6eDKgX4NXlIw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNS8wOC9uZXdz/LXAudjEuMjAyNjA1/MDguOGI1NGM0NzZj/MTM4NGMyZDk5NDk2/YTBhNTA4ZGIwY2Jf/Ui5qcGc"
+      "src": "https://imgs.search.brave.com/000jqBjpKHFitgHyVUjz2nJhDkhU-3mFvee3T4Rg-m0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA1/LzA3LzI2MDUwNzA5/NTE0MTE4NzBfMjY1/X3RjLmpwZw"
     }
   },
   {
@@ -378,7 +400,7 @@
     "title": "\"미군 드론 2대 격추\"‥이란, 전쟁 배상까지 요구",
     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6820819_37012.html",
     "description": "미국과 이란의 종전 협상이 진전을 보이고 있단 소식이 전해지고 있지만, 오히려 호르무즈 해협에선 전운이 고조되고 있습니다. 이란이 적의 드론 두 대를 격추하고, 이란 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-05-07T21:06:43",
     "profile": {
       "name": "IMBC",
@@ -400,7 +422,7 @@
     "title": "[속보] \"이란군, 반다르아바스·게슘섬 상공서 적 비행체 격추\" | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260508007500108",
     "description": "[속보] \"이란군, 반다르아바스·게슘섬 상공서 적 비행체 격추\" 북마크 공유 댓글 글자크기 프린트 제보 마이페이지 검색창 열기 메뉴 열기 · 광고 · 광고 · 최신뉴스 · 송고2026-05-08 05:07 · 송고 2026년05월08일 05시07분 ·",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-05-07T20:07:02",
     "profile": {
       "name": "Yonhap News Agency",
@@ -419,10 +441,10 @@
   },
   {
     "type": "news_result",
-    "title": "[오늘의 채널A]미중 정상회��, 이란전쟁 해결책 될까?｜동아일보",
+    "title": "[오늘의 채널A]미중 정상회담, 이란전쟁 해결책 될까?｜동아일보",
     "url": "https://donga.com/news/Entertainment/article/all/20260508/133881853/2",
     "description": "트럼프 미국 대통령이 ... 무리한 속도전은 아닌지 우려도 나오고 있는 상황이다. 미중 정상회담이 미국-이란 전쟁의 해결책이 될 수 있을지 전망해 본다....",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-05-07T19:30:00",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -444,7 +466,7 @@
     "title": "사우디·쿠웨이트, 미군 기지·영공 사용 제한 해제…호르무즈 호송작전 재개 임박",
     "url": "https://www.newspim.com/news/view/20260508000024",
     "description": "이 같은 조치는 미국과 걸프 동맹국 간 안보 인식 차에서 비롯된 것으로 전해졌다. 사우디 등은 이란의 드론·미사일 공격 위협을 미국이 과소평가하고 있다고 판단했고, 교전 확대 시 충분한 방어를 제공받지 못할 수 있다는 ...",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-05-07T18:30:00",
     "profile": {
       "name": "Newspim",
@@ -466,7 +488,7 @@
     "title": "이란의 核 딜레마와 간 커진 北 - 매일신문",
     "url": "https://imaeil.com/page/view/2026050716252340184",
     "description": "지난달 29일(현지시간) 한 남성이 이란 테헤란에서 열린 집...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-05-07T16:33:02",
     "profile": {
       "name": "Imaeil",
@@ -485,10 +507,32 @@
   },
   {
     "type": "news_result",
+    "title": "미군 자산 228개 타격 당해…`이란 과소평가했나?` - 매일신문",
+    "url": "https://imaeil.com/page/view/2026050714591452012",
+    "description": "WP, 중동 내 미군기지 위성 이미지 분석 美 자산 피해, 알려진 것보다 훨씬 많아 이란 타격 능력 과소평가, 드론전 대비 약해 · 지난달 29일(현지시간) 사우디아라비아 프린스술탄 공군기지에서 이란의 미사일·드론 공격으로 ...",
+    "age": "20 hours ago",
+    "page_age": "2026-05-07T15:37:56",
+    "profile": {
+      "name": "Imaeil",
+      "url": "https://imaeil.com/page/view/2026050714591452012"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "imaeil.com",
+      "hostname": "imaeil.com",
+      "favicon": "https://imgs.search.brave.com/ofS5A9VE_Vo5OwBvj3-xpWjA26_9QpquWr56_j1e5UA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTI0Y2QwZWU2/MjZlYjRmYzcwYzBk/OWNmMTUxYjNiZjUw/MGM1NjE0NWRmZDJh/ZjQ1NWVkMmJiYWI2/OWJmYmExZi9pbWFl/aWwuY29tLw",
+      "path": "› page  › view  › 2026050714591452012"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hkfBd0U8CyIzFjE4QMZQQKYbn6ZI_UND84JCESCCI9E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aW1hZWlsLmNvbS9w/aG90b3MvMjAyNi8w/My8zMC8yMDI2MDMz/MDE3MTIxNDU5MDk2/X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[이혜정의 글로벌 퍼스펙티브] 호르무즈 해법, 파병은 선택지 아냐 | 서울신문",
     "url": "https://www.seoul.co.kr/news/editOpinion/opinion/Global-Perspective/2026/05/08/20260508026003",
     "description": "호르무즈 해협 봉쇄가 석 달째다. 미국과 이스라엘의 이란에 대한 불법적인 침공으로 인한 결과다. 미국과 이스라엘의 대대적 공습에 이란은 해협 봉쇄와 이스라엘 및 걸프 전역 미군 기지와 민간 시설에 대한 공격으로 맞섰다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-05-07T15:14:00",
     "profile": {
       "name": "Seoul",
@@ -507,46 +551,24 @@
   },
   {
     "type": "news_result",
-    "title": "미국, 협상 국면 속 이란 겨냥 추가 제재…“프로젝트 프리덤 재개 검토”",
-    "url": "https://news.kbs.co.kr/news/view.do?ncd=8555737",
-    "description": "[앵커] 미국과 이란 간 종전 협상이 급물살을 타는 모습을 보이는 가운데 미국이 이란을 겨냥한 추 경제...",
+    "title": "호르무즈 열고 30일 멈춘다…미국·이란 물밑 협상",
+    "url": "https://v.daum.net/v/20260508054139185",
+    "description": "【파이낸셜뉴스 뉴욕=이병철 특파원】 미국과 이란이 호르무즈 해협 재개방과 30일간 교전 중단을 골자로 한 임시 휴전안을 놓고 협상 중인 것으로 알려졌다. 다만 이란의 핵농축 프로그램과 고농축 우라늄 비축분 처리 문제가 ...",
     "age": "1 day ago",
-    "page_age": "2026-05-07T14:21:37",
+    "page_age": "2026-05-07T14:02:23",
     "profile": {
-      "name": "KBS",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555737"
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260508054139185"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news.kbs.co.kr",
-      "hostname": "news.kbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/oh7VaUhXaUqZE4qgN6sAT4M3WZzWki6tofzOl4OWJpQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQzZjRiMWM5/NmNiMGZiM2UyODll/MjAzZDc4ZWUzODJh/ZTJkMTk3ZjAwNzli/NGRhNjE4NGE1YTJm/N2I0NDUxOC9uZXdz/Lmticy5jby5rci8",
-      "path": "› news  › view.do"
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260508054139185"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Wa0IIOHPeuXt3S7nWRrUrI5C8y2XogVV5TP-dcT8-F0/rs:fit:200:200:1:0/g:ce/aHR0cDovL25ld3Mu/a2JzLmNvLmtyL2Rh/dGEvbmV3cy90aXRs/ZV9pbWFnZS9uZXdz/bXA0L25ld3NwbGF6/YV9wMS8yMDI2LzA1/LzA4LzQwXzg1NTU3/MzcuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "뉴욕증시, 미-이란 협상 주목하며 혼조 출발 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260507189400009",
-    "description": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 미국과 이란의 종전 협상 진행 과정에 주목하며 혼조세로 출발했다.",
-    "age": "1 day ago",
-    "page_age": "2026-05-07T14:11:36",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260507189400009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260507189400009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2OAWENUMysEfczMYXchFs0MVS6WeZRyTMjGDzaL0Qjs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcw/LnluYS5jby5rci9w/aG90by9ldGMvZ3Qv/MjAyNi8wNS8wNy9Q/R1QyMDI2MDUwNzA2/OTYwMTAwOV9QNC5q/cGc"
+      "src": "https://imgs.search.brave.com/2oWx_bH50zjRuaEUgMKT1l9OlnjLOMCPUFATm_Om6g4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNS8w/OC9mbm5ld3NpLzIw/MjYwNTA4MDU0MTM5/NDUzbXVqai5qcGc"
     }
   },
   {
@@ -921,28 +943,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/tXtNPPT-My3vf2GGFsAz1jT5BMOKYh66o67T6VKeo-k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wNTA3LzIw/MjYwNTA3MTM0NzQ5/NDgxMF90LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "‘韓선박 둘러싸고 커지는 의혹’…이란 언론 “韓선박 표적 무력행사”..외부 타격 가능성 | 문화일보",
-    "url": "https://www.munhwa.com/article/11587416",
-    "description": "미국과 이란 간 협상에서 진척이 있다고 하나 프랑스 선박 피격과 아랍에미리트(UAE) 푸자이라 항구 공격, 미국의 이란 유조선 무력 저지까지 이어지면서 호르무즈 해협을 둘러싼 군사적 긴장감은 여전한 상태다.",
-    "age": "1 day ago",
-    "page_age": "2026-05-07T03:06:21",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://www.munhwa.com/article/11587416"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "www.munhwa.com",
-      "favicon": "https://imgs.search.brave.com/1kuN8S7qafYNC3cyLmYyz-ezvd9p-f8WiLc7ehxSSI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YyOTVmNDAw/NWNmMjNiOTY2ZGMz/NmUyYWIwZDg3ZmM1/NzE4ZTc2ODI3NzRk/MjYzZDI5NjZmOTVl/NjkzMWZjZC93d3cu/bXVuaHdhLmNvbS8",
-      "path": "› article  › 11587416"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/IEmCEjX5cImDdmoK7HQAjvdITGYoiFHTH3RBREMBi_s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNS8wNy9uZXdz/LXAudjEuMjAyNjA1/MDcuOGE2NjI1ZjJi/ODc4NDgxYjk4M2I5/OTllMzg4YWEyNzdf/Ui5qcGc"
     }
   },
   {
