@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "이스라엘 \"네타냐후 총리, UAE 방문해 양국 정상회담… 양국 관계 역사적 돌파구\"",
+    "url": "https://www.newspim.com/news/view/20260514001305",
+    "description": "UAE는 지난 2020년 9월 도널드 트럼프 미국 대통령의 적극 중재로 이스라엘과 국교 정상화에 합의하는 내용의 '아브라함 협정'을 체결했으며 이번 이란 전쟁 국면에서는 아이언돔(Iron Dome) 등 첨단 방공시스템을 지원받는 등 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-05-14T09:01:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260514001305"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260514001305"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/UDJuVEILIvqQlzceY8jmUWKl6MqEsJPKxkPbFBQqrbs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA0/LzI2LzI2MDQyNjAz/NDcyODc2MjBfdDEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "조현 \"민간 선박 공격 용납될 수 없어...대응 조치 취할 것\"",
+    "url": "https://www.newspim.com/news/view/20260514000875",
+    "description": "정부는 나무호 피격 추가 조사와 공격 주체 확인 시 외교적 공세 등 대응에 나서겠다고 밝혔다 · 정부는 이란 개입 가능성을 높게 보고 미국과 공조하며 비행체 잔해 정밀 감식을 진행 중이다",
+    "age": "5 hours ago",
+    "page_age": "2026-05-14T05:21:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260514000875"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260514000875"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/7xjSigu0tImEE_4BV4UhDQrSDdl7ZddYuARPqmpYqho/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA1/LzE0LzI2MDUxNDE0/MTUwNDIzMjBfdDEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "정부 고위 당국자 “나무호 피격, 이란 외 주체일 가능성 크지 않다” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10737962",
     "description": "[헤럴드경제=문혜현 기자] 정부 고위당국자는 14일 HMM 나무호의 피격 주체와 관련해 “이란 이외에 다른 어떤 주체에 의한 공격 가능성은 아직 모르지만, 상식적으로 그렇",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-05-14T05:04:15",
     "profile": {
       "name": "Herald Corp",
@@ -26,7 +70,7 @@
     "title": "외교부 고위당국자 \"이란 이외의 공격 가능성 낮지만, 조사결과 봐야\" - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0112&CNTN_CD=A0003234145&PAGE_CD=N0002",
     "description": "그 근처에 해적이 있었던 ... 없이 이란 측에 '너희들밖에 없다'고 얘기할 수는 없는 거 아니겠느냐\"라고 말했다. 이 당국자는 지난 4일 있었던 나무호에 대한 공격은 33번째였고, 그에 이어 34번째의 공격이 중국 선사의 유조선에 가해지는 등 미국·이스라엘-이란 전쟁 ...",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-05-14T04:35:00",
     "profile": {
       "name": "OhmyNews",
@@ -48,7 +92,7 @@
     "title": "외교부 고위당국자 \"이란 이외의 공격 가능성 낮지만, 조사결과 봐야\" - 오마이뉴스",
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003234145&PAGE_CD=N0002&CMPT_CD=M0112",
     "description": "페르시아만에서 화물선 HMM나무호를 공격한 쪽은 이란일 가능성이 높다는 정부 고위관계자의 발언이 나왔다. 하지만 정확한 조사결과가 나와야 외교적 대응도 가능하다는 설명이다.외교부 고위당국자는 14일 오전 기자들을 ...",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-05-14T04:35:00",
     "profile": {
       "name": "OhmyNews",
@@ -70,7 +114,7 @@
     "title": "고위당국자 \"나무호, 이란 외 다른 주체 공격 가능성 크지 않다…공격 주체 확인되면 응분의 외교적 공세\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202605141313381706",
     "description": "[서울=뉴시스] 박준호 기자 = 정부 고위당국자는 14일 중동전쟁으로 호르무즈 해협에서 정박 중이던 HMM 나무호 피격과 관련해 \"이란 이외에 다른 주체에 의한 공격 가능성은 아직 모르지만 상식적으로 그렇게 크지 않다고 ...",
-    "age": "4 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-05-14T04:14:11",
     "profile": {
       "name": "First News",
@@ -92,7 +136,7 @@
     "title": "[쇼츠] 美블랙호크 박살낸 이란의 도발적 훈련 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260514092700704",
     "description": "(서울=연합뉴스) 이란 이슬람혁명수비대는 미군의 지상전 침략에 대비해 최근 수도권을 방어하는 대규모 훈련을 했다고 12일(현지시간) 밝혔습니다.",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-05-14T03:09:26",
     "profile": {
       "name": "Yonhap News Agency",
@@ -114,7 +158,7 @@
     "title": "방산주 호르무즈 긴장 수혜 기업 정리 2026년 5월 신청 방법·조건 총정리 - 21세기 이슈",
     "url": "https://issue.cyberbabarian.com/bangsanju-hormuz-2026/",
     "description": "📌 참고자료 → 이란-이스라엘 긴장 고조에 따른 국제유가 급등 우려 (연합뉴스, 2024)",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-05-14T02:42:06",
     "profile": {
       "name": "Cyberbabarian",
@@ -136,7 +180,7 @@
     "title": "[속보] 고위당국자 \"증거 제시하면 어떤 형태든 이란측 반응 예상\" | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260514085300504",
     "description": "[속보] 고위당국자 \"증거 제시하면 어떤 형태든 이란측 반응 예상\" 북마크 공유 댓글 글자크기 프린트 제보 마이페이지 검색창 열기 메뉴 열기 · 광고 · 광고 · 최신뉴스 · 송고2026-05-14 11:40 · 송고 2026년05월14일 11시40분 ·",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-05-14T02:40:30",
     "profile": {
       "name": "Yonhap News Agency",
@@ -158,7 +202,7 @@
     "title": "트럼프 시진핑 정상회담 시작...이란전쟁 분수령",
     "url": "https://www.newspim.com/news/view/20260514000667",
     "description": "이번 정상회담의 주요 의제는 단연 이란 전쟁일 것으로 평가되고 있다. 현재 전 세계는 호르무즈 해협 안정을 기대하고 있으며, 미중 양국 역시 해협 안정을 필요로 하고 있다.",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-05-14T02:40:00",
     "profile": {
       "name": "Newspim",
@@ -180,7 +224,7 @@
     "title": "외교부 고위관계자 “나무호 피격 주체 확인시 응분의 외교적 공세” | 서울경제",
     "url": "https://www.sedaily.com/article/20044006",
     "description": "“이란 외 주체의 공격 가능성, 상식적으로 크지 않아” “중국 선박 피격 등 사례와 외국 대응 등 검토 중” “잔해물 UAE에…신속히 국내 들여올 것” ‘이란 민병대’ 공격설에 “아직 누군지 모른다는 취지” 미상 비행체의 ...",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-05-14T02:40:00",
     "profile": {
       "name": "Sedaily",
@@ -202,7 +246,7 @@
     "title": "美, 이란 전쟁으로 인한 미사일 재고 우려…저가 미사일 확충 나서 - 이투데이",
     "url": "https://www.etoday.co.kr/news/view/2584425",
     "description": "▲3월 21일(현지시간) 알레이 버크급 유도 미사일 구축함 USS 토머스 허드너함에서 토마호크 지상 공격 미사일이 발사되고 있다. (로이터연합뉴스)이란",
-    "age": "6 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-05-14T01:53:00",
     "profile": {
       "name": "Etoday",
@@ -224,7 +268,7 @@
     "title": "이란 \"네타냐후 UAE 방문 알아…이스라엘과 결탁 용서 못해\"(종합) - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202605141018382400",
     "description": "[서울=뉴시스] 권성근 이재우 기자 = 베냐민 네타냐후 이스라엘 총리가 미국·이스라엘과 이란 간 전쟁 기간 중 아랍에미리트(UAE)를 비공개 방문했다는 외신 보도가 나온 가운데 이란은 이런 사실을 인지하고 있었다며 양국의 ...",
-    "age": "6 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-05-14T01:19:04",
     "profile": {
       "name": "First News",
@@ -246,7 +290,7 @@
     "title": "[Y녹취록]새 작전명으로 대응 준비?...美, 이란 공격 재개하나 | YTN",
     "url": "https://www.ytn.co.kr/_ln/0134_202605140911027316",
     "description": "■ 진행 : 이세나 앵커■ 출연 : 백승훈 한국외대 중동연구소 전임연구원, 정한범 국방대 안보정책학부 교수* 아래 텍스트는 실제 방송 내용과 차이가 있을 수 있으니 보다 ...",
-    "age": "8 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-05-14T00:11:00",
     "profile": {
       "name": "YTN",
@@ -268,7 +312,7 @@
     "title": "종전안 ‘쓰레기’라는 트럼프…부통령은 “이란과 진전 있다” - 매일경제",
     "url": "https://mk.co.kr/news/world/12047135",
     "description": "JD 밴스 미국 부통령이 이란과의 종전협상에서 진전이 이뤄지고 있다고 주장했다. 도널드 트럼프 대통령이 이란이 내놓은 수정 종전안에 대해 ‘용납불가’, ‘쓰레기’라고 비난한 것과 엇갈린 주장이다.",
-    "age": "8 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-05-13T23:35:20",
     "profile": {
       "name": "MK",
@@ -290,7 +334,7 @@
     "title": "미 부통령 “이란과 진전⋯레드라인은 핵무기 포기” - 이투데이",
     "url": "https://etoday.co.kr/news/view/2584296",
     "description": "“전쟁 때문에 가뜩이나 힘든데”…공사비 올리는 입법 줄줄이 · 층간소음 미달 땐 보완시공·준공 불허 추진 전문가 \"사업비 급증에 주택공급 축소 우려\" 적정임금제 재발의…업계 “비용 반영 장치 필요” 미국·이란 전쟁 ...",
-    "age": "8 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-05-13T23:25:00",
     "profile": {
       "name": "Etoday",
@@ -309,10 +353,32 @@
   },
   {
     "type": "news_result",
+    "title": "한설 “美, 실패한 이란 전쟁…전투사 창설·전작권 환수 등 자주국방 강화해야” | 서울경제",
+    "url": "https://sedaily.com/article/20043590",
+    "description": "“도널드 트럼프 미국 대통령이 이란과의 종전 협상이 교착 상태에 빠지자 추가 폭격을 위협하고 있으나 사실상 실패했다고 봅니다. 우리는 미국의 전쟁 수행 능력이 제한적이라는 점에 주목해 (가칭) 전투지휘사령부 창설과 ...",
+    "age": "12 hours ago",
+    "page_age": "2026-05-13T22:30:00",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://sedaily.com/article/20043590"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "sedaily.com",
+      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
+      "path": "› article  › 20043590"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/iNOgFQsVwvC0dqo_v1nI7z4cmdx2Bb8C8cZS6IhsNFo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDUvMTQvbmV3/cy1wLnYxLjIwMjYw/NTEyLjQ1YTIwNDYw/YTQ3NjRjOTk5ZTA1/MDJjZWE3NzFlNmQw/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美·이란 협상은 계속…밴스 부통령 \"진전 이루고 있어\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202605140627415355",
     "description": "[워싱턴=뉴시스] 이윤희 특파원 = JD 밴스 미국 부통령이 이란과 종전 협상이 진전을 보이고 있다고 13일(현지 시간) 주장했다. AP통신에 따르면 밴스 부통령은 이날 백악관 아이젠하워 행정동에서 개최한 사기범죄TF ...",
-    "age": "10 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-05-13T21:27:58",
     "profile": {
       "name": "First News",
@@ -334,7 +400,7 @@
     "title": "“사우디도 비밀리 이란 공습” 걸프국들 잇단 보복에 확전 우려",
     "url": "https://www.donga.com/news/Inter/article/all/20260514/133918330/2",
     "description": "미국과 이란이 살얼음판 ... 쿠웨이트에 최근 이란 혁명수비대 침투조와 교전이 벌어졌다. 이에 따라 미국과 이란 간 전쟁 재개 시 주변 걸프국들이 본격적으로 참전하며 확전될 수 있다는 우려가 커지고 ...",
-    "age": "12 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-05-13T19:30:00",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -356,7 +422,7 @@
     "title": "미 상원, 워시 연준 의장 인준…인플레 급등 속 금리 정책 험난한 출발",
     "url": "https://www.newspim.com/news/view/20260514000012",
     "description": "다수의 연준 인사들은 트럼프 ... 이란 전쟁발 유가 급등의 영향을 넘어 인플레이션이 더 광범위하게 확산되고 있다며 금리 인상을 고려해야 한다고 주장하고 있다. 워시는 연준 독립성에 대한 전례 없는 도전에도 직면하게 됐다. 도널드 트럼프 미국 대통령은 금리 인하를 집요하게 요구해왔으며 파월 의장이 \"일련의 법적 공격\"이라고 ...",
-    "age": "12 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-05-13T19:29:00",
     "profile": {
       "name": "Newspim",
@@ -378,7 +444,7 @@
     "title": "이란·우크라전쟁으로 정유 생산량 급감…수년 만 최대 타격 < 세계 < 기사본문 - 블로터",
     "url": "https://bloter.net/news/articleView.html?idxno=662258",
     "description": "전쟁이 종료되더라도 공급 회복에 수개월이 걸릴 것이라는 경고가 나온다. ... 13일(현지시간) 로이터통신은 에너지산업 모니터링업체인 IIR 자료를 인용해 이란과 우크라이나 전쟁으로 인해 전 세계 하루 정제 능력인 ...",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-05-13T16:54:37",
     "profile": {
       "name": "Bloter",
@@ -400,7 +466,7 @@
     "title": "사우디·UAE, 당하고만 있지 않았다… 휴전 직전 이란 향해 보복 공격 감행",
     "url": "https://www.newspim.com/news/view/20260513001381",
     "description": "UAE는 공격에 대한 공식 입장을 밝히지 않으면서도 \"적대 행위에 대해서는 군사적 대응을 포함한 대응권을 행사할 권리가 있다\"고 주장했다. UAE는 이번 중동 분쟁 과정에서 이란의 공격을 가장 많이 받은 국가로 평가되고 있다.",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-05-13T14:15:00",
     "profile": {
       "name": "Newspim",
@@ -422,7 +488,7 @@
     "title": "미국-이란 전쟁 - 나무위키",
     "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
     "description": "실시간 전황 (영문) 2026년 2월 28일, 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-05-13T12:45:05",
     "profile": {
       "name": "Namu Wiki",
@@ -441,32 +507,10 @@
   },
   {
     "type": "news_result",
-    "title": "[국제]이란, 미 지상전 대비 훈련...걸프국, 전쟁 확산 우려 | YTN",
-    "url": "https://www.ytn.co.kr/_ln/0104_202605132145549670",
-    "description": "미국과 이란의 휴전이 불안하게 유지되는 가운데, 이란군은 미군의 지상전 침략에 대비해 대규모 방위 훈련을 했습니다.자칫 휴전이 깨지게 되면 걸프국들이 순식간에 전...",
-    "age": "19 hours ago",
-    "page_age": "2026-05-13T12:45:00",
-    "profile": {
-      "name": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0104_202605132145549670"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ytn.co.kr",
-      "hostname": "www.ytn.co.kr",
-      "favicon": "https://imgs.search.brave.com/QCdBTL2sPMVF-0O4NxB3IB9Yq8WXONxXmroGymFTLlk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA4YzU5NTkz/YWRhNThmMjRiNDBl/MjJkMDBlNDY0OWI5/MGI1NGFhYzMxMWE1/ZWJiMmM2YmIwOGNi/ODI4ZmUxNi93d3cu/eXRuLmNvLmtyLw",
-      "path": "› _ln  › 0104_202605132145549670"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/EXZoaC6mo2sFOFzeaBh7yHRo9Erxi6foX-AEA5qx5cc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wNTEzLzIw/MjYwNTEzMjE0NTU0/OTY3MF90LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"UAE, 지난달 적어도 2차례 이란 직접 공격…이스라엘과 공조도\" | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260513175700009",
     "description": "이 매체는 관련 사안을 잘 아는 소통을 인용, \"미국과 이란의 휴전이 시작된 지난달 8일을 전후로 UAE가 이란을 적어도 2차례 공격했다\"며 \"그 중 한번은 지난달 이란이 UAE 보루즈 석유화학단지를 공격하자 이스라엘과 공조해 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-05-13T12:39:57",
     "profile": {
       "name": "Yonhap News Agency",
@@ -481,6 +525,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/O5Qyf78f8AyO7UukeC_iL-ajXX40jIBxX9TMWy9qh18/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcw/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMjYvMDMvMTYv/UEVQMjAyNjAzMTYz/MDYzMDEwMDlfUDQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[뉴스브리핑] 美, 이란전쟁 작전명 '슬레지해머' 변경 검토…공격 재개하나 - 하이유에스코리아뉴스",
+    "url": "https://hiuskorea.com/featured/2026051301/",
+    "description": "미 NBC 방송은 미 정부 관계자 2명을 인용해 이같이 보도했다. 작전명 변경을 논의하는 것은 트럼프 행정부가 이란 전쟁 재개를 얼마나 심각하게 고려하고 있는지를 보여준다고 NBC는 설명했다. 5월 13일 뉴스브리핑을 ...",
+    "age": "1 day ago",
+    "page_age": "2026-05-13T11:14:30",
+    "profile": {
+      "name": "Hiuskorea",
+      "url": "https://hiuskorea.com/featured/2026051301/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hiuskorea.com",
+      "hostname": "hiuskorea.com",
+      "favicon": "https://imgs.search.brave.com/UrpilGqOiOYgR_Cb4_epz88Zw1hUFm22z4vxs23drY8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTE2ODc2NDdj/NzdjZTA1YTM1MTVk/NWU2MDQ0MzFkMThk/NDQ2MjMzZTI2YjE3/MWM2MTllM2NiMzk2/M2Q0ODcyNi9oaXVz/a29yZWEuY29tLw",
+      "path": "› featured  › 2026051301"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2pGv4YZcYMT5_Sb6c3w9utNkXcX_n-3YPuRildP5z6U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9oaXVz/a29yZWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzEx/L-uqqOuLneuJtOyK/pDMuanBn"
     }
   },
   {
@@ -595,28 +661,6 @@
   },
   {
     "type": "news_result",
-    "title": "濠 들어설 계획이던 트럼프 타워, \"이란전쟁 등 트럼프의 부정적 이미지\"로 무산 :: 공감언론 뉴시스 ::",
-    "url": "https://www.newsis.com/view/NISX20260513_0003628171",
-    "description": "[서울=뉴시스]호주 퀸즐랜드주에 15억 호주 달러(약 2조2352억원) 규모의 트럼프 타워를 건설하려던 계획이 호주 개발업체가 '부정적' 이미지를 갖는 트럼프라는 브랜드와 이란 전쟁을 이유로 들면서 폐기됐다고 BBC가 16일 ...",
-    "age": "1 day ago",
-    "page_age": "2026-05-13T08:57:46",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://www.newsis.com/view/NISX20260513_0003628171"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "www.newsis.com",
-      "favicon": "https://imgs.search.brave.com/Kzbmq58Rc6fAq-JJj-MVCPvkxE_bblb8HWLggg7maew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDExN2M0MjFi/Yzc0MzQ2NDUzMWQ2/ZGM5NmEwNGEzZjU5/ZjcyOGE1ZWNhNDc5/Y2Q1NWRiODcxNmQ5/ODg3MjA0OS93d3cu/bmV3c2lzLmNvbS8",
-      "path": "› view  › NISX20260513_0003628171"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/SOad7KW1p6CAjqx5ygAQISDsnn0Q2omyPzl8nDzR4Vs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNS8xMy9O/SVNJMjAyNjA1MTNf/MDAwMjEzNDY0M193/ZWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 \"美 배상 없인 종전 없다\"… 트럼프 방중에 맞춰 버티기 - 매일경제",
     "url": "https://mk.co.kr/news/world/12046414",
     "description": "소식통은 \"미국과 이란의 휴전이 시작된 지난달 8일을 전후로 UAE가 이란을 적어도 두 차례 공격했다\"며 \"그중 한 번은 지난달 이란이 UAE 보루즈 석유화학단지를 공격하자 이스라엘과 공조해 공격한 것\"이라고 전했다.",
@@ -707,7 +751,7 @@
     "type": "news_result",
     "title": "美 이란 공격 재개? 작전명 '장대한 분노'서 '대형 망치'로 변경 검토 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202605131437170933",
-    "description": "미국 정부가 이란과의 휴전을 깨고 전쟁을 재개할 경우 작전명을 기존의 '장대한 분노'에서 '슬레지해머'로 변경하는 방안을 검토 중이다. 미국의 새 작전명 검토는 기존의 '장대한 분노' 작전이 종료됐다고 선언한 이후의 ...",
+    "description": "미국 정부가 이란과의 휴전을 깨고 전쟁을 재개할 경우 작전명을 기존의 '장대한 분노'에서 '슬레지해머'로 변경하는 방안을 검토 중이다.미국의 새 작전명 검토는 기존의 '장대한 분노' 작전이 종료됐다고 선언한 이후의 ...",
     "age": "1 day ago",
     "page_age": "2026-05-13T06:55:48",
     "profile": {
@@ -789,28 +833,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/P3zI6cT7juzT9zDJf0pIRMM0dS6QO9VJ7yoFZNX5pyg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzA1LzEz/LzEzMzkxMzYwNS4x/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란에 발목 잡힌 미·중…‘안보 의제’ 빠지고 ‘비즈니스 딜’만 남아 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202605131140150522",
-    "description": "(서울=뉴스1) 강민경 기자 = 도널드 트럼프 미국 대통령의 방중을 앞두고 이란 전쟁이라는 변수가 미중 정상회담의 기대치를 크게 낮추고 있다는 진단이 나온다. 뉴욕타임스(NYT)는 트럼프 대통령과 시진핑 중국 국가주석 모두 ...",
-    "age": "1 day ago",
-    "page_age": "2026-05-13T02:40:16",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202605131140150522"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202605131140150522"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/5XS1L0cxFBW_yedJxgjXDtOqp7COMNj8FWwVf3l84W8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDUvMTMvMjAy/NjA1MTMxMTQwMTQ3/MDU5X2wuanBn"
     }
   },
   {
@@ -1009,6 +1031,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/UP42zdKdn7vtgyaXnNmIR-6iuihqIBls-3vGGiifp4E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL1hJ/QUVMR0tIMlJMQ1hC/SzRTTVFXV0JXRzdF/LmpwZz9hdXRoPTdm/YTNkOTk2MGVmOWY5/NWZiYTBiZWQyMzcy/M2FmY2UyODU2NTc2/NTQ4ODYyN2ViMWZh/MjI4YTg5MTk4NzM4/NGQmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"미국·이란 휴전 깨지면 UAE 가장 먼저 전쟁 휘말릴 듯\"",
+    "url": "https://v.daum.net/v/20260513091702855",
+    "description": "(서울=연합뉴스) 신재우 기자 = 아슬아슬하게 유지되고 있는 미국, 이란 간 휴전이 깨질 경우 일부 중동 걸프국들은 전쟁의 소용돌이에 직접적으로 휘말리게 될 가능성이 높다는 전망이 나오고 있다.",
+    "age": "1 day ago",
+    "page_age": "2026-05-13T00:45:05",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260513091702855"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260513091702855"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/w4k45RqZUNKs_HIu5EwuYXp35VeaFMeJub2YOGikzMo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNS8x/My95b25oYXAvMjAy/NjA1MTMwOTE3MDIx/NTlpb2dvLmpwZw"
     }
   }
 ]
