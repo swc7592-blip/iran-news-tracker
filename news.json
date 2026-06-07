@@ -1,10 +1,98 @@
 [
   {
     "type": "news_result",
+    "title": "Al Jazeera reports from Beirut after Israeli attack | Israel attacks Lebanon | Al Jazeera",
+    "url": "https://aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack",
+    "description": "Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.",
+    "age": "4 hours ago",
+    "page_age": "2026-06-07T16:04:21",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
+      "path": "› video  › newsfeed  › 2026  › 6  › 7  › al-jazeera-reports-from-beirut-after-israeli-attack"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Cx3FHCRMKM1pdP40lzv36bAR91juU5gV9nVZgWNm23U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi9pbWFnZS0x/NzgwODQ4MjI4Lmpw/Zz9yZXNpemU9MTky/MCUyQzEwODAmYW1w/O3F1YWxpdHk9ODA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이스라엘, 트럼프 만류에도 베이루트 공습…헤즈볼라 거점 타격",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=03312806645479424&mediaCodeNo=257",
+    "description": "[이데일리 신하연 기자] 이스라엘이 도널드 트럼프 미국 대통령의 공습 자제 요청에도 불구하고 레바논 수도 베이루트를 공습했다. 미국과 이란의 종전 협상이 진행 중인 상황에서 이스라엘이 군사행동을 강행하면서 중동 ...",
+    "age": "7 hours ago",
+    "page_age": "2026-06-07T13:04:11",
+    "profile": {
+      "name": "Edaily",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03312806645479424&mediaCodeNo=257"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "edaily.co.kr",
+      "hostname": "www.edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/OV8B3AMbz_2y41Y09vXqWgBF2d69aACGrQ4rnd63SdU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzgzYTYyZDk3/YzA1MTE0MGRhNzAz/MTUzMzJjNjRjMTMw/YTA0YjQxNDY0ZGEy/MjBhZDQwNjg4ZWMz/ZGRjZjgzMi93d3cu/ZWRhaWx5LmNvLmty/Lw",
+      "path": "› News  › Read"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/TS-s0VoSCNaZFC7zG5daV1c-0GHQqLL1OWFXfoiUdKk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNi9Q/UzI2MDYwNzAxMDUx/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[국제]미국 \"이스라엘 못 믿겠다...방첩 경보 최고수준 격상\" | YTN",
+    "url": "https://www.ytn.co.kr/_cs/_ln_0104_202606072155342236_005.html",
+    "description": "[앵커] 미국이 최근 이스라엘에 대한 방첩 위협 수준을 최고 단계로 격상했다는 언론 보도가 나왔습니다. 이란과의 종전 협상이 교착 상태에 빠진 가운데 트럼프 대통령과 네타냐후 총리 사이 갈등이 심화하면서 나온 조치로 ...",
+    "age": "7 hours ago",
+    "page_age": "2026-06-07T12:55:00",
+    "profile": {
+      "name": "YTN",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0104_202606072155342236_005.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ytn.co.kr",
+      "hostname": "www.ytn.co.kr",
+      "favicon": "https://imgs.search.brave.com/QCdBTL2sPMVF-0O4NxB3IB9Yq8WXONxXmroGymFTLlk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA4YzU5NTkz/YWRhNThmMjRiNDBl/MjJkMDBlNDY0OWI5/MGI1NGFhYzMxMWE1/ZWJiMmM2YmIwOGNi/ODI4ZmUxNi93d3cu/eXRuLmNvLmtyLw",
+      "path": "› _cs  › _ln_0104_202606072155342236_005.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/euyUm5CYLZSSOhmtcUfI9xwCaBd14W4Wc0hVriK6YEg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wNjA3LzIw/MjYwNjA3MjE1NTM0/MjIzNl90LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 협상까지 엿들었나…美, 이스라엘 도청 의혹에 강경 대응 | 중앙일보",
+    "url": "https://www.joongang.co.kr/article/25434584",
+    "description": "미국이 이란 협상에 관여한 고위 당국자들을 이스라엘이 도청했다는 우려 속에 이스라엘에 대한 방첩 경계 수위를 최고 단계로 격상했다. 6일(현지시간) 뉴욕타임스(NYT)와 NBC방송에 따르면 미국 정보기관은 최근 보고서를 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-06-07T10:46:35",
+    "profile": {
+      "name": "JoongAng Ilbo",
+      "url": "https://www.joongang.co.kr/article/25434584"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "joongang.co.kr",
+      "hostname": "www.joongang.co.kr",
+      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
+      "path": "› article  › 25434584"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/j2xxpisHGt3TyrdrK8t3wJ60UpZpfVNfLyzlRa2A0Rs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDYvMDcvNDRl/MGYyNDQtNDNiMC00/MjVhLWE4MjctNmNj/ZGFkMjEwYjBhLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "\"이스라엘, 이란 협상 美도청 선 넘어\"…美, 방첩 '최고 단계' 격상 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202606071851046157",
     "description": "[서울=뉴시스]신정원 기자 = 미국 국방부가 최근 이스라엘의 대미(對美) 첩보 활동 위협 등급을 최고 단계로 격상한 것으로 확인됐다고 뉴욕타임스(NYT)가 6일(현지 시간) 보도했다. 특히 이란과의 휴전 협상 내용을 파악하기 ...",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-07T09:51:51",
     "profile": {
       "name": "First News",
@@ -26,7 +114,7 @@
     "title": "폭격 맞아 건물 무너져도 매입…이란, 전쟁 중 집값 80% 급등 | 한국경제",
     "url": "https://www.hankyung.com/article/2026060717541",
     "description": "\"폭격 맞아 건물 무너져도 매입\"…이란, 전쟁 중 집값 80% 급등, 리알화 가치 1년 만에 53% 하락 현금, 부동산으로 바꾸려 줄 서",
-    "age": "9 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-06-07T09:31:35",
     "profile": {
       "name": "Hankyung",
@@ -45,10 +133,54 @@
   },
   {
     "type": "news_result",
+    "title": "美·이란戰 100일…협상 교착·공방 지속, 출구는 어디에(종합2보) :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260607_0003659256",
+    "description": "[워싱턴=AP/뉴시스] 미국과 이란 전쟁이 7일(현지 시간)로 100일을 맞았지만 돌파구를 차지 못한 채 군사적 공방이 계속되고 있다. 사진은 지난 4월 1일 백악관에서 이란 전쟁과관련해 대국민 연설을 하는 도널드 트럼프 미국 ...",
+    "age": "12 hours ago",
+    "page_age": "2026-06-07T07:55:21",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260607_0003659256"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260607_0003659256"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yzUUg9qozmXZRpqbpWyN3ASHvIXgYA8CsLnvfbw5MJQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNC8wMi9O/SVNJMjAyNjA0MDJf/MDAwMTE1MTI3MV93/ZWIuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美·이란戰 100일…협상 교착·공방 지속, 출구는 어디에(종합2보) :: 공감언론 뉴시스 ::",
+    "url": "https://www.newsis.com/view/NISX20260607_0003659256",
+    "description": "美-이란, 군사 공방…파키스탄, 중재 노력 계속 이란 동결 자산 '해제'vs'걸프국 지원' 쟁점으로 이스라엘, 휴전 위반하고 레바논 공격 지속",
+    "age": "12 hours ago",
+    "page_age": "2026-06-07T07:55:21",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://www.newsis.com/view/NISX20260607_0003659256"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "www.newsis.com",
+      "favicon": "https://imgs.search.brave.com/Kzbmq58Rc6fAq-JJj-MVCPvkxE_bblb8HWLggg7maew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDExN2M0MjFi/Yzc0MzQ2NDUzMWQ2/ZGM5NmEwNGEzZjU5/ZjcyOGE1ZWNhNDc5/Y2Q1NWRiODcxNmQ5/ODg3MjA0OS93d3cu/bmV3c2lzLmNvbS8",
+      "path": "› view  › NISX20260607_0003659256"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yzUUg9qozmXZRpqbpWyN3ASHvIXgYA8CsLnvfbw5MJQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNC8wMi9O/SVNJMjAyNjA0MDJf/MDAwMTE1MTI3MV93/ZWIuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미국, 이스라엘 스파이 활동 긴장...이란 협상 도청 시도 - 이투데이",
     "url": "https://www.etoday.co.kr/news/view/2591159",
     "description": "위트코프 등 고위 관리 도청 시도 늘려안보당국, 방첩 위협 수준 ‘심각’으로 격상▲베냐민 네타냐후(왼쪽) 이스라엘 총리와 도널드 트럼프 미국 대통령",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-06-07T07:51:00",
     "profile": {
       "name": "Etoday",
@@ -70,7 +202,7 @@
     "title": "4주면 끝난다더니 100일 맞은 전쟁...트럼프 “시간 좀 걸릴 것”[美-이란전쟁] | 서울경제",
     "url": "https://www.sedaily.com/article/20052630",
     "description": "CNN은 최근 위성 사진 분석을 토대로 이란이 지하 미사일 시설로 연결되는 69개의 터널 입구 중 50개를 복구했다고 보도했다. 이란의 미사일 능력 무력화는 트럼프 대통령이 3월 밝힌 전쟁 목표 5가지 중 첫 번째 목표였다.",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-06-07T07:43:14",
     "profile": {
       "name": "Sedaily",
@@ -92,7 +224,7 @@
     "title": "4주면 끝난다더니 100일 맞은 전쟁...트럼프 “시간 좀 걸릴 것”[美-이란전쟁] | 서울경제",
     "url": "https://sedaily.com/article/20052630",
     "description": "국제에너지기구(IEA)의 파티 비롤 사무총장은 지난 4월 “이란 전쟁으로 중동 전역에서 80개 이상의 에너지 시설이 공격 또는 피해를 입었으며, 이 중 3분의 1 이상이 심각한 손상을 입었다”고 밝힌 바 있다.",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-06-07T07:43:14",
     "profile": {
       "name": "Sedaily",
@@ -113,8 +245,8 @@
     "type": "news_result",
     "title": "호르무즈 살얼음판…美·이란, 종전협상 교착에 신경전 격화 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606071631368115",
-    "description": "미국과 이란은 모두 방어적 성격의 행동임을 강조하며 전면전 재개에는 일단 선을 그었다. 호르무즈 해협에 정박된 선박들 (출처=연합뉴스) 도널드 트럼프 미국 대통령은 미국인 사망자가 나오지 않는 한 전쟁을 본격화할 ...",
-    "age": "11 hours ago",
+    "description": "트럼프 미국 대통령(왼쪽)과 ... 제한적 무력충돌을 이어가며 신경전을 벌였다. 호르무즈 개방, 이란핵, 이란 동결자산, 이스라엘의 레바논 공격 등 협상 의제가 난마처럼 얽힌 상황에서 중재국 파키스탄은 대화 ...",
+    "age": "13 hours ago",
     "page_age": "2026-06-07T07:32:17",
     "profile": {
       "name": "First News",
@@ -136,7 +268,7 @@
     "title": "“동맹국 도청, 선 넘었다”…美 성역 없는 이스라엘 스파이 행위에 안보 경보 [美-이란 전쟁] | 서울경제",
     "url": "https://www.sedaily.com/article/20052617",
     "description": "이스라엘 위협 수준 ‘높음’→‘심각’ 최고단계로 “위트코프 등 美 고위 안보라인 도청 가능성 ↑” 이란 협상 국면서 생긴 입장차에 이스라엘 총력전 도널드 트럼프 미국 대통령(왼쪽)과 베냐민 네타냐후 이스라엘 총리.",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-06-07T06:51:09",
     "profile": {
       "name": "Sedaily",
@@ -155,32 +287,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란협상도 엿들었나…美, 이스라엘에 '도청 선넘었다' 대응조치 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260607033200009",
-    "description": "미국이 이란 협상에 관여한 주요 관계자를 이스라엘이 전방위적으로 도청했다는 우려 속에서 이스라엘의 방첩 위협을 최고 수준으로 격상했다고 뉴욕타임스, NBC 방송이 6일 보도했다.",
-    "age": "12 hours ago",
-    "page_age": "2026-06-07T06:50:39",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260607033200009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260607033200009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/9x5ZYFf8Bv46ADTaV_1WTn7MLZtfsHdc3dKxlm_sfDU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LnluYS5jby5rci9w/aG90by9hcC8yMDIz/LzEwLzI2L1BBUDIw/MjMxMDI2MjU0MDAx/MDA5X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미국ㆍ이란, 호르무즈서 또 무력충돌...반격에 재반격 - 이투데이",
     "url": "https://etoday.co.kr/news/view/2591143",
     "description": "6일(현지시간) CNN방송에 따르면 미국 중부사령부는 엑스(X·옛 트위터)에 “오전 미군은 중동 지역에서 국제 해상 교통을 위협한 이란 자폭형 드론 2기를 호르무즈 해협 상공에서 격추했다”며 “미군은 이란 공격 행위에 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-06-07T06:18:00",
     "profile": {
       "name": "Etoday",
@@ -202,7 +312,7 @@
     "title": "“이스라엘 선 넘었다”…美-이란 협상단 통신 도청 덜미",
     "url": "https://www.donga.com/news/Inter/article/all/20260607/134063125/1",
     "description": "이스라엘이 미국의 대(對)이란 협상단의 통신을 도청한 정황이 포착돼 미 전쟁부(국방부)가 이스라엘의 방첩 위협 등급을 최고 단계로 올린 것으로 전해졌다. 이스라엘의 레바논에 대한 대대적인 군사작전을 계기로 불거진 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-07T05:34:00",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -224,7 +334,7 @@
     "title": "전쟁 100일 넘겼다…이란, 마음 급한 트럼프에 ‘추가 요구’ 공세 | 중앙일보",
     "url": "https://joongang.co.kr/article/25434525",
     "description": "트럼프 대통령은 이미 이란의 공격으로 미군 사망자가 나오지 않는 한 전쟁을 본격화할 의향이 없다는 뜻을 밝혔다. 로이터통신은 이날 \"트럼프 행정부가 이란의 동결 자산을 걸프 지역 국가들의 피해 복구 및 재건에 활용하는 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-07T05:33:02",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -246,7 +356,7 @@
     "title": "전쟁 100일 넘겼다…이란, 마음 급한 트럼프에 ‘추가 요구’ 공세 | 중앙일보",
     "url": "https://www.joongang.co.kr/article/25434525",
     "description": "그러나 파키스탄의 중재에도 불구하고 합의 조건은 갈수록 복잡해지고 있다는 평가가 나온다. 호르무즈해협의 개방 문제가 풀리지 않은 가운데 고농축 우라늄 반출, 이스라엘과 레바논 간의 휴전 문제에 이어 이란의 동결 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-07T05:33:02",
     "profile": {
       "name": "JoongAng Ilbo",
@@ -265,10 +375,10 @@
   },
   {
     "type": "news_result",
-    "title": "친서 들고 테헤란行…협상 ‘키맨’ 파키스탄 다시 떴다[美-이란전쟁] | 서울경제",
+    "title": "친서 들고 테헤란行…협상 ‘키맨’ 파키스탄 다시 떴다[美-��란전쟁] | 서울경제",
     "url": "https://www.sedaily.com/article/20052591",
     "description": "미국과 이란의 종전 협상이 교착 상태에 빠진 가운데 중재국인 파키스탄 고위 인사가 이란을 방문했다. 파키스탄이 협상 재개를 시도하는 것 아니냐는 관측이 나오고 있으나 구체적인 대화 내용은 공개되지 않았다.",
-    "age": "14 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-06-07T04:28:25",
     "profile": {
       "name": "Sedaily",
@@ -290,7 +400,7 @@
     "title": "트럼프, 종전 포기?…이란 드론 격추·레이더 기지 박살내고 올린 영상 [핫이슈] | 나우뉴스",
     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260607601006",
     "description": "미국과 이란 사이의 전쟁이 ... 중부사령부는 6일(현지시간) 엑스에 “미군은 전날 호르무즈 해협을 향해 발사된 이란의 자폭형 공격 드론 4기를…...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-06-07T04:25:22",
     "profile": {
       "name": "Seoul",
@@ -312,7 +422,7 @@
     "title": "호르무즈 또 무력충돌…\"양측 모두 확전 원치 않아\" < 정치 < 세계 < 기사본문 - 중앙이코노미뉴스",
     "url": "https://www.joongangenews.com/news/articleView.html?idxno=524192",
     "description": "미 중부사령부는 6일(현지시간) 엑스(X·옛 트위터)를 통해 \"호르무즈 해협의 국제 해상 교통을 위협하던 이란의 자폭형 공격 드론 2기를 격추했다\"고 밝혔다.",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-06-07T04:03:43",
     "profile": {
       "name": "Joongangenews",
@@ -331,32 +441,10 @@
   },
   {
     "type": "news_result",
-    "title": "[외교저널 (Diplomacy Journal)] 프랑스·영국·노르웨이의 대(對)이스라엘 제재와 국제질서의 변화",
-    "url": "https://www.djournal.co.kr/news/article.html?no=80773",
-    "description": "가자지구 전쟁과 이스라엘-헤즈볼라 충돌, 그리고 이란을 둘러싼 군사적 긴장이 국제사회의 시선을 독점하는 동안, 프랑스는 요르단강 서안지구(West Bank)에서 벌어지고 있는 정착민 폭력 문제를 다시 국제 의제의 중심으로 ...",
-    "age": "16 hours ago",
-    "page_age": "2026-06-07T03:12:49",
-    "profile": {
-      "name": "Djournal",
-      "url": "https://www.djournal.co.kr/news/article.html?no=80773"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "djournal.co.kr",
-      "hostname": "www.djournal.co.kr",
-      "favicon": "https://imgs.search.brave.com/fRqqXMuinAgiB9Cvb1_E5H1SZgFwu2_tBvOJYOuExBM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJkY2M2OTM4/ZjMxNGZlMmVjMTcw/NTY1YTdhYzNjZjIy/YWJiOGY2MmQyOTRh/MDEzZWYwZWYyYWM0/MWFhZWE1Mi93d3cu/ZGpvdXJuYWwuY28u/a3Iv",
-      "path": "› news  › article.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/qGOWqsFHKAPh68QVThN-bC2GBYJWfxLP5pVVWNb-NlQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGpvdXJuYWwuY28u/a3IvZGF0YS9waG90/b3MvMjAyNjA2MjMv/YXJ0XzE3ODA4MDA5/Njk1OTYzX2NlYWE5/MC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 돈으로 이란 공격 피해 메운다?…트럼프의 ‘역발상’ 카드 [美-이란 전쟁] | 서울경제",
     "url": "https://sedaily.com/article/20052562",
     "description": "그는 “협상 요구와 군사 ... 탓에 회담 진전 의지가 제한적”이라고 말했다. 한편 이란 전문가회의 위원인 아흐마드 하타미는 무즈타바 하메네이가 전쟁 첫날 다리에 부상을 입었다고 발표했다....",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-07T01:56:59",
     "profile": {
       "name": "Sedaily",
@@ -378,7 +466,7 @@
     "title": "이란 돈으로 이란 공격 피해 메운다?…트럼프의 ‘역발상’ 카드 [美-이란 전쟁] | 서울경제",
     "url": "https://www.sedaily.com/article/20052562",
     "description": "도널드 트럼프 미국 대통령이 이란의 동결 자산을 걸프 국가들에 지원하는 방안을 검토 중이다. 이란 공격으로 피해를 입은 페르시아만 동맹국에 자금을 나눠 회복을 돕겠다는 복안이다. 7일(현지시간) 로이터에 따르면 스콧 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-07T01:56:59",
     "profile": {
       "name": "Sedaily",
@@ -400,7 +488,7 @@
     "title": "파키스탄, 이란 최고지도자에 친서 전달…물밑중재 분주 | 연합뉴스",
     "url": "https://yna.co.kr/amp/view/AKR20260607017300009",
     "description": "(서울=연합뉴스) 이신영 기자 = 미국과 이란의 종전 협상이 교착에서 벗어나지 못하는 와중에 대화의 불씨를 되살리기 위한 중재국의 노력이 이어지...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-06-07T01:29:50",
     "profile": {
       "name": "Yonhap News Agency",
@@ -420,13 +508,13 @@
   {
     "type": "news_result",
     "title": "이스라엘, 美협상 대표 도청했나…美 \"적성국보다 위험\"",
-    "url": "https://edaily.co.kr/News/Read?newsId=01312006645479424",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01312006645479424",
     "description": "[이데일리 성주원 기자] 미국 국방부가 이스라엘의 대미 첩보 위협 등급을 최고 수준인 ‘위험’으로 상향 조정한 것으로 전해졌다. 이스라엘이 미국의 이란 협상 대표단의 통신을 도청한 정황까지 보고된 가운데 이란 전쟁을 ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-06-07T01:03:19",
     "profile": {
       "name": "Edaily",
-      "url": "https://edaily.co.kr/News/Read?newsId=01312006645479424"
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01312006645479424"
     },
     "meta_url": {
       "scheme": "https",
@@ -444,7 +532,7 @@
     "title": "[기고]세계 최강 미국은 승리 못하고, 약체 이란은 패배 않는 진짜 이유는?…김태준의 美·이란戰 중계<41> | 문화일보",
     "url": "https://munhwa.com/article/11593706",
     "description": "많은 사람들은 세계 최강 해군이 전개된 바다는 곧 통제된 바다라고 생각한다. 미국 항모강습단이 투입되면 해상질서는 회복되고, 상대는 결국 굴복할 것이라는 인식이 오랫동안 국제정치의 상식처럼 받아들여져왔다.",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-06T23:37:41",
     "profile": {
       "name": "Munhwa",
@@ -466,7 +554,7 @@
     "title": "2000㎞ 이동, 40시간 버스, 13명 비자 문제…험난했던 이란의 북중미행 - 스포츠경향",
     "url": "https://sports.khan.co.kr/article/202606070819003",
     "description": "전쟁의 영향도 컸다. 대표팀은 지난 3월 테헤란에서 튀르키예까지 약 40시간 동안 버스를 타고 이동해야 했다. 국내 리그도 중단되면서 최종 명단 26명 가운데 17명의 국내파 선수들은 오랜 기간 실전 경기를 치르지 못했다. 그럼에도 이란은 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-06T23:19:00",
     "profile": {
       "name": "Khan",
@@ -610,28 +698,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/KBKies2lGXoRomM1wS_3r8ujYHFsZiix12tztIdyETc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMDYvcmN2/LllOQS4yMDI2MDYw/Ni5QQVAyMDI2MDYw/NjIxODgwMTAwOV9S/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "6월 6일 ‘팔레스타인인들과 연대하는 사람들’ 서울 집회: 레바논 공격을 확대하는 이스라엘을 규탄하다 | 노동자 연대",
-    "url": "https://ws.or.kr/article/39238",
-    "description": "제국주의 팔레스타인·이란전쟁 내란 청산과 극우 이재명 정부 이주민·난민 긴 글 ... 광화문 교보문고 앞에서 ‘팔레스타인인들과 연대하는 사람들’의 128번째 서울 집회가 열리고 있다 · 6월 6일 서울 광화문역 인근에서 ‘팔레스타인인들과 연대하는 사람들’(이하 “팔연사”)의 128번째 서울 집회가 열렸다. 이번 집회는 이스라엘이 ...",
-    "age": "1 day ago",
-    "page_age": "2026-06-06T12:36:16",
-    "profile": {
-      "name": "Ws",
-      "url": "https://ws.or.kr/article/39238"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ws.or.kr",
-      "hostname": "ws.or.kr",
-      "favicon": "https://imgs.search.brave.com/EyRPs-aMpkUx1THuytz-6WFcCCLh0iFa1rPmXu7g7VU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDU2YWI4NzVh/ODllYWNhYjM2ZmYy/NTNhYjMwM2ZjMTBk/OWIyZTY5NmRjMTQ2/YjIxN2E5NjZlZGIx/OTk4ZTBlZC93cy5v/ci5rci8",
-      "path": "› article  › 39238"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VOLkWBrvubODq6zTuifFnzx1dl7V-kqn_cKaD20zCg8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMud3Mub3Iua3Iv/cmVzaXplZC8yMDI2/LzA2LzMwZGRjNWNj/NGUzZmZlNmRhOGM2/ZTc1ZTgwOGU1ZWQz/LndlYnA"
     }
   },
   {
@@ -790,7 +856,7 @@
   },
   {
     "type": "news_result",
-    "title": "美·이��� 또 무력 충돌...트럼프 “합의까지 시간 걸릴 듯” [美-이란 전쟁] | 서울경제",
+    "title": "美·이란 또 무력 충돌...트럼프 “합의까지 시간 걸릴 듯” [美-이란 전쟁] | 서울경제",
     "url": "https://sedaily.com/article/20052483",
     "description": "이란군, 호르무즈서 유조선 4척에 드론 공격 바레인·쿠웨이트에도 미사일...美, 해안 타격 트럼프 “베트남 전쟁은 19년, 난 겨우 3개월” ‘합의 임박’ 주장에서 후퇴...“이란 자존심 세” 도널드 트럼프 미국 대통령.",
     "age": "2 days ago",
@@ -1050,28 +1116,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Hqaw07ovhrkQIVVgej1PAuUGJ-GgmlNnto_W83XmpGg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z2V0bmV3cy5jby5r/ci9uZXdzL3Bob3Rv/LzIwMjYwNi84NzE3/NDNfNTI1NjQ3XzE1/My5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘, 헤즈볼라 반발에 레바논 공습 확대…美 중재 좌초 위기 - 아시아투데이",
-    "url": "https://asiatoday.co.kr/kn/view.php?key=20260606010001940",
-    "description": "그러나 헤즈볼라는 이스라엘군의 점령지 철수가 보장되지 않은 일방적 조건이라고 반발하고 있다. 이란의 지원을 받는 헤즈볼라는 레바논에서 정치적·군사적으로 막강한 영향력을 행사하는 조직이다.",
-    "age": "2 days ago",
-    "page_age": "2026-06-06T01:01:04",
-    "profile": {
-      "name": "Asiatoday",
-      "url": "https://asiatoday.co.kr/kn/view.php?key=20260606010001940"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "asiatoday.co.kr",
-      "hostname": "asiatoday.co.kr",
-      "favicon": "https://imgs.search.brave.com/jz-MgZrrEBrDxN_IoINuod88vcK8xYg_baudVzy86Hg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODMwMmY5MDZi/YTJiMzY3NDZlY2I2/NTIxZWY4MDk2ZDBl/NGRjMGEyYTNhZjA5/ZTRmYzQ1ODIxN2Nj/ZDI5NTFhMi9hc2lh/dG9kYXkuY28ua3Iv",
-      "path": "› kn  › view.php"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cBXBO3g_g7i_NBb4II-1eZqIuaX2o0bv5gUQFTVRtKw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/YXNpYXRvZGF5LmNv/LmtyL2ZpbGUvMjAy/NnkvMDZtLzA2ZC8y/MDI2MDYwNjAxMDAw/MzczNzAwMDE5NDAx/LmpwZw"
     }
   },
   {
