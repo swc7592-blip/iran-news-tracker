@@ -1,46 +1,200 @@
 [
   {
     "type": "news_result",
-    "title": "[특징주] 한국전력, 장중 4만3100원 터치…4.9% 상승",
-    "url": "https://www.newspim.com/news/view/20260617000274",
-    "description": "미국·이란 휴전 기대 속 투자심리 개선 · [서울=뉴스핌] 양태훈 기자 = 한국전력이 중동 전쟁 종전 국면 진입 기대에 장 초반 5% 가까이 상승하고 있다.",
-    "age": "46 minutes ago",
-    "page_age": "2026-06-17T00:54:00",
+    "title": "신현송 한은 총재 \"유가 안정 오랜 시간 소요…물가, 높은 수준 오름세 지속\" - 중앙이코노미뉴스",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=526551",
+    "description": "[중앙이코노미뉴스 김수현] 신현송 한국은행 총재가 미국과 이란 종전 이후에도 국제유가가 안정될 때까지 시간이 걸릴 것이라며 이에 따라 소비자물가 역시 상당 기간",
+    "age": "1 hour ago",
+    "page_age": "2026-06-17T05:25:56",
+    "profile": {
+      "name": "Joongangenews",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=526551"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "joongangenews.com",
+      "hostname": "www.joongangenews.com",
+      "favicon": "https://imgs.search.brave.com/gqgSV-7jPuyaHrigMxe3KcUUoh_oZkiMJjkmRepl6Zc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRmMDU1NTlh/NTA2ZTkzNmNjZWY2/NTc3Y2U5NmQ4OGI0/MmVkMGMxM2ZiNmFh/NzZhY2NhODMxZjY2/NGYxYzIwZS93d3cu/am9vbmdhbmdlbmV3/cy5jb20v",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/9mE95KjAKUY5D9QTzOZqrgdbG0SnEAl76EUtYgO_NKk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/am9vbmdhbmdlbmV3/cy5jb20vbmV3cy9w/aG90by8yMDI2MDYv/NTI2NTUxXzMzMTM4/OV8yNTM0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "'핵 포기' 약속한 이란…종전 직전 美CIA는 안 믿었다 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202606171048425566",
+    "description": "미국이 이란과의 종전 양해각서 합의 발표를 앞두고 개최한 고위급 회의에서 일부 인사들이 이란의 핵무기 포기 의지와 합의 이행 가능성에 의구심을 제기했던 것으로 드러났다.16일 미 정치전문매체 악시오스는 \"지난 14일 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-06-17T05:11:31",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202606171048425566"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202606171048425566"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/e1EaC_f7eL_moYSg8YUhcWqPwYB4yfX-wBE_fRTPUzQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTcvMjAy/NjA2MTcwNjM3MTQ3/MzA4X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "전쟁 끝나도 고유가 쇼크 여전⋯\"6개월 후 '간접효과' 1년 더 간다\" [물가목표 점검] - 이투데이",
+    "url": "https://www.etoday.co.kr/news/view/2594415",
+    "description": "▲북중미 월드컵이 열리는 ... 이란 국기가 보인다. 로스엔젤레스(미국)/로이터연합뉴스 · 올해 2월 말 시작된 중동전쟁이 양측 간 종전 서명을 앞두는 등 마무리 단계에 접어들고 있지만 이와 별개로 올 하반기 국내 소비자물가에 강력한 '2차 충격'이 예고됐다. 전쟁 직후인 3월 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-06-17T05:00:00",
+    "profile": {
+      "name": "Etoday",
+      "url": "https://www.etoday.co.kr/news/view/2594415"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "etoday.co.kr",
+      "hostname": "www.etoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/IFJ3NbcbAZ_siboNBcSNBtBH6JmpwR7fbgHi51Avx7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGM1NGYyYjZl/YmI0MjFkNzQ2NGU4/MTZjNGViNWNkODE0/MDVjOGE1MGNmZWU5/YzEzNzE4Zjc1MWQ2/Y2RiMjY5Mi93d3cu/ZXRvZGF5LmNvLmty/Lw",
+      "path": "› news  › view  › 2594415"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wE56WVPJD-0KfkfyZ1gc5d0DWCU9zM1GJdjTcumUs9Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA2LzIwMjYwNjE2/MDgwMDA4XzIzNDY0/ODNfMTIwMF84MDAu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 “미·이란 합의, 이스라엘 레바논 철군 포함해야”…서명 앞두고 중동 정세 다시 긴장 - Radio Seoul",
+    "url": "https://www.radioseoul1650.com/archives/142962",
+    "description": "미국과 이란의 전쟁 종식 합의가 공식 서명을 앞두고 또 다른 난관에 부딪혔습니다. 이란은 미국과의 합의가 성립되려면 이스라엘군이 레바논 남부에서 철수해야 하며, 이스라엘의 추가 공습도 중단돼야",
+    "age": "3 hours ago",
+    "page_age": "2026-06-17T04:06:32",
+    "profile": {
+      "name": "Radio Seoul",
+      "url": "https://www.radioseoul1650.com/archives/142962"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "radioseoul1650.com",
+      "hostname": "www.radioseoul1650.com",
+      "favicon": "https://imgs.search.brave.com/7P9r4tSYUAWA1qGZh_QZfmy_aVNJ6gLfGvXo8x3_-Ro/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTY4OWQzMmZi/ZWQ1MmZmYmNjZjk4/N2QzMGI0MzVkYTU1/OGYwNDk1NWUwOGRh/YjQ4YTRkNGQ4NGM1/NDUxN2MxOC93d3cu/cmFkaW9zZW91bDE2/NTAuY29tLw",
+      "path": "› archives  › 142962"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/UN6iuZhOL6mqfFyN2Ji1lMtjmrK7Ll2ZUhfKZ7cOpdk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA2L2ly/YW4tcGVhY2UuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "‘포스트 이란전’ 중동 군비 경쟁…K방산, 특수 ‘기대’",
+    "url": "https://newstomato.com/ReadNews.aspx?no=1304258",
+    "description": "17일 방산업계에 따르면 이번 전쟁 종식을 계기로 국내 방산업체들의 중동 진출이 한층 확대될 것이라는 관측이 나오고 있습니다. 이란의 미사일 공격과 역내 안보 불안을 직접 경험한 중동 국가들이 방공망을 비롯해 ...",
+    "age": "4 hours ago",
+    "page_age": "2026-06-17T02:58:08",
+    "profile": {
+      "name": "NewsTomato",
+      "url": "https://newstomato.com/ReadNews.aspx?no=1304258"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newstomato.com",
+      "hostname": "newstomato.com",
+      "favicon": "https://imgs.search.brave.com/VJO0Z6oeXTJ0pvfUjbebmtoAqUAOMhPvINlwt7MGt4U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjU0NDU1NDc1/NGYwMjgxNjZiMjcy/NmFhZDEwNWQzYWY2/ZThhYzFmOWRmMzlm/N2Q1ZDcxYjlhMDgy/OTBkZDRmNi9uZXdz/dG9tYXRvLmNvbS8",
+      "path": "› ReadNews.aspx"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/xm7-tXGcOsTmJuWoUPKTSteiRQZnoIQhNjhJtYTmKv0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5uZXdzdG9tYXRv/LmNvbS9uZXdzaW1n/LzIwMjYvNi8xNy8x/MzA0MjU4L2F0dGFj/aC5qcGc_dj0yMDI2/MDYxNzExNTc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[글로벌 마켓 리포트 6월 17일]",
+    "url": "https://www.newspim.com/news/view/20260617000441",
+    "description": "이번 합의안은 지난 4월 발표된 불안정한 휴전을 추가로 60일 연장하고, 미국과 이스라엘의 이란 공격 이후 사실상 봉쇄됐던 호르무즈 해협을 다시 개방하는 내용을 담고 있다.",
+    "age": "5 hours ago",
+    "page_age": "2026-06-17T02:10:00",
     "profile": {
       "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260617000274"
+      "url": "https://www.newspim.com/news/view/20260617000441"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "newspim.com",
       "hostname": "www.newspim.com",
       "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260617000274"
+      "path": "› news  › view  › 20260617000441"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/2OtFu16creRConri0HSiC5Pu-A4tYzzMYfeM8ILZdeo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzI1LzI2MDMyNTAy/NTMyOTEwOTBfdDEu/anBn"
+      "src": "https://imgs.search.brave.com/stv-hqyfTmzAE8uCHNumpI96g14rsab_Zb46xZq8fTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA2/LzE3LzI2MDYxNzEx/MDQwMTUyMTBfNjgz/X3RjLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "트럼프의 ‘이란 달래기’ 전략?... ‘454조 재건 기금’에 한국 기업 등 글로벌 자본 투입",
-    "url": "https://www.insight.co.kr/news/558864",
-    "description": "16일(현지 시간) 로이터통신 ... 이상의 출자를 확약했다고 보도했다. 이 자금은 에너지, 물류, 제조업, 운송 등 이란 현지의 전쟁 피해 복구 및 경제 재건 사업에 투입될 예정이다....",
-    "age": "2 hours ago",
-    "page_age": "2026-06-17T00:00:36",
+    "title": "핵 포기하면 1000억 달러…美·이란 ‘세기의 빅딜’ 시작됐다",
+    "url": "https://www.sedaily.com/article/20056774",
+    "description": "미국과 이란이 서명한 양해각서(MOU)에는 이란에 대한 광범위한 재정 인센티브가 대거 포함된 것으로 알려졌다. 16일(현지시간) 이스라엘 신문 이스라엘 하욤은 미국이 이란의 석유 수출 제재를 사실상 완화하고 있다고 ...",
+    "age": "5 hours ago",
+    "page_age": "2026-06-17T01:56:54",
     "profile": {
-      "name": "Insight",
-      "url": "https://www.insight.co.kr/news/558864"
+      "name": "Sedaily",
+      "url": "https://www.sedaily.com/article/20056774"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "insight.co.kr",
-      "hostname": "www.insight.co.kr",
-      "favicon": "https://imgs.search.brave.com/IpaaIbUPyzzg-kgvWOwhiX62C3hsepaiZnqNdfWb0v4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjI4MTQwZWVl/M2JjZmQxZTAyNmU3/NjUzNTQzZjVkNTA0/N2RjNGI5NThjM2Ey/Yjg3ODY0MTUxNzNh/MDhhNTNhNi93d3cu/aW5zaWdodC5jby5r/ci8",
-      "path": "› news  › 558864"
+      "netloc": "sedaily.com",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
+      "path": "› article  › 20056774"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/_h-JM4SpGwl0I11W6G9ycQSWxg9YiCu_Dr7_VZgloiE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aW5zaWdodC5jby5r/ci9zdGF0aWMvMjAy/Ni8wNi8xNy8xMjAw/L2ltZ18yMDI2MDYx/NzA5MDAxOF92bDgw/OTBkMi5qcGc"
+      "src": "https://imgs.search.brave.com/ox1360s10nYscd_QHi5RqsORbaL4cg-Lq_73TRJGhsc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMTcvbmV3/cy1wLnYxLjIwMjYw/NjE3LmVkMDgwOTc4/YWFhOTQwYjRhMGEx/ZmUzNjAzMDRiNGIz/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란전쟁 최대 수혜자는 중국?...“미국, 동맹 유럽과 갈등 심해졌다” - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10773419",
+    "description": "NYT는 “경제적 이점은 ... “이번 전쟁으로 인해 미국은 오랜 동맹인 유럽과의 갈등이 심해졌다. 그 결과, 중국은 국제 사회를 주도할 역할을 확대할 기회가 생겼다”고 했다. 밴스 “이란에 미국 돈 한 푼도 ...",
+    "age": "5 hours ago",
+    "page_age": "2026-06-17T01:40:21",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10773419"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10773419"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/YkUf2oJSwOUxc-5gsuFBCHgiJVYxf6ARepEcraxvtXg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMTcv/bmV3cy1wLnYxLjIw/MjYwNjE3LjhkMzM3/ZjgzNWZiNDQ3NWE4/NDA3NmI3NTZjMGY1/ZjZkX1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"이란전쟁 승자는 중국…에너지 세계질서 불가역적 재편\" | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260617058700009",
+    "description": "NYT는 미국과 이란의 전쟁으로 촉발된 이 같은 에너지 전환기에서 중국이 가장 큰 수혜자로 떠오르고 있다고 분석했다.",
+    "age": "6 hours ago",
+    "page_age": "2026-06-17T01:17:34",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20260617058700009"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260617058700009"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ObUlH_xjBZYAQeBvGi5dT1TJ2D0VqgkP2Pu7Y8oK_a8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDUvMTgv/UFJVMjAyNjA1MTgy/NjkzMDEwMDlfUDQu/anBn"
     }
   },
   {
@@ -48,7 +202,7 @@
     "title": "이란전쟁 이후 중국 국채만 강세...외국인 20조원 순매수",
     "url": "https://www.newspim.com/news/view/20260617000121",
     "description": "[베이징=뉴스핌] 조용성 특파원 = 이란 전쟁 이후 중국 국채가 글로벌 안전자산으로 부각되고 있다. 중국 내수 침체가 이어지고 있지만, 중국 국채의 매력도는 오히려 상승하고 있다.국부펀드와 중앙은행, 보험사 등 글로벌 ...",
-    "age": "2 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-06-16T23:32:00",
     "profile": {
       "name": "Newspim",
@@ -70,7 +224,7 @@
     "title": "\"이스라엘, 美에 MOU 열람 요청했다 거부당해…유출 우려 때문\"",
     "url": "https://www.newspim.com/news/view/20260617000094",
     "description": "[서울=뉴스핌] 최원진 기자= 이스라엘이 미국에 이란과 예비 합의한 종전 양해각서(MOU) 전문 공개를 요청했으나 거부당했다고 CNN이 이스라엘 소식통을 인용해 16일(현지시간) 보도했다.",
-    "age": "2 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-06-16T23:17:00",
     "profile": {
       "name": "Newspim",
@@ -89,24 +243,24 @@
   },
   {
     "type": "news_result",
-    "title": "“美, 이스라엘 ‘종전MOU’ 열람 요구 거절…네타냐후 입지 흔들” - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10773165",
-    "description": "[헤럴드경제=정목희 기자] 도널드 트럼프 미국 행정부가 이란과 종전을 위한 양해각서(MOU)에 이미 전자 서명을 마친 것으로 알려진 가운데, 이번 전쟁의 또 다른 당사국인 이스라엘은 아직 해당 문서를 열람하지 못한 것으로 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-06-16T21:28:47",
+    "title": "종전합의는 남 얘기...또 로켓 주고받는 이스라엘-헤즈볼라, 최소 4명 사망 - 머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/06/17/2026061705401078726",
+    "description": "16일(현지시간) 레바논 남부의 한 주민이 이스라엘과 헤즈볼라(레바논 무장 단체) 간 무력 충돌로 무너진 집 잔해 위에 앉아있다. /AFPBBNews=뉴스1 · 미국과 이란의 종전 양해각서(MOU) 체결 합의에도 레바논 남부에서 이스라엘과 ...",
+    "age": "10 hours ago",
+    "page_age": "2026-06-16T21:19:07",
     "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10773165"
+      "name": "Mt",
+      "url": "https://www.mt.co.kr/world/2026/06/17/2026061705401078726"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10773165"
+      "netloc": "mt.co.kr",
+      "hostname": "www.mt.co.kr",
+      "favicon": "https://imgs.search.brave.com/i0ZvllZujUwXm7Ix4-_1ToHeW7Eq3L6F7Ei6VLmsewY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI3ODA0YWNk/M2JkYTk5YjM5MDJm/NTZkZGE2ZWYxMjk5/OTM0OWVjMTg3MTUz/ZDE0YTA4YTRmNTcy/ZjVjMDUxYy93d3cu/bXQuY28ua3Iv",
+      "path": "› world  › 2026  › 06  › 17  › 2026061705401078726"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/NmppM4rcMj5zWQfJNLGlQgGQwDdUtUqfAHlw70Do_Ws/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMTcv/cmN2LllOQS4yMDI2/MDYwMy5QQUYyMDI2/MDYwMzI1MTgwMTAw/OV9UMS5qcGc"
+      "src": "https://imgs.search.brave.com/i0WjnQEbmV48UEPcHVxZ13OCQzpyZIPOK8O6iPQjVDs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi5tdC5jby5rci9j/ZG4tY2dpL2ltYWdl/L3c9MTIwMCxoPTgw/MCxmaXQ9Y292ZXIs/Ymc9d2hpbHRlLGY9/YXV0byxxdWFsaXR5/PWhpZ2gsc2hhcnBl/bj0yLGc9ZmFjZS8y/MS8yMDI2LzA2LzIw/MjYwNjE3MDU0MDEw/Nzg3MjZfMS5qcGc"
     }
   },
   {
@@ -114,7 +268,7 @@
     "title": "종전합의 무색…이스라엘-헤즈볼라 공방 지속에 이란 “가혹한 대응” 경고 - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10773164",
     "description": "[헤럴드경제=정목희 기자] 미국과 이란의 종전 합의에도 불구하고 레바논 남부에서는 이스라엘군과 친이란 무장정파 헤즈볼라 간 무력 충돌이 이어지고 있다. 이란은 도널",
-    "age": "4 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-16T21:17:03",
     "profile": {
       "name": "Herald Corp",
@@ -136,7 +290,7 @@
     "title": "[금/유가] 미-이란 MOU 세부사항 공개에 유가 5% 급락…금값 1% 상승",
     "url": "https://www.newspim.com/news/view/20260617000025",
     "description": "이번 합의안은 지난 4월 발표된 불안정한 휴전을 추가로 60일 연장하고, 미국과 이스라엘의 이란 공격 이후 사실상 봉쇄됐던 호르무즈 해협을 다시 개방하는 내용을 담고 있다.",
-    "age": "5 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-16T21:03:00",
     "profile": {
       "name": "Newspim",
@@ -158,7 +312,7 @@
     "title": "뉴욕증시, 기술주 약세에 혼조…다우 사상 최고·스페이스X 강세 지속",
     "url": "https://www.newspim.com/news/view/20260617000024",
     "description": "이번 합의는 4월 발표된 위태로운 휴전을 60일 더 연장하고 2월 미국과 이스라엘의 이란 공격 이후 이란이 사실상 봉쇄해온 호르무즈 해협을 재개방할 것으로 예상된다.",
-    "age": "5 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-16T20:27:00",
     "profile": {
       "name": "Newspim",
@@ -177,10 +331,54 @@
   },
   {
     "type": "news_result",
+    "title": "종전합의에도 이스라엘-헤즈볼라 공방…이란 \"가혹한 대응\" 경고 | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260617004900079",
+    "description": "(카이로=연합뉴스) 김상훈 특파원 = 미국과 이란의 종전 합의에도 불구하고 레바논 남부에서 이스라엘군과 친이란 무장 정파 헤즈볼라 간 무력 충돌...",
+    "age": "11 hours ago",
+    "page_age": "2026-06-16T19:24:05",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260617004900079"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260617004900079"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/q3hjlfayitp6nDhmlnebgCeQ3mQDp7V1eARGpo451dA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc3/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMjYvMDQvMjgv/UEVQMjAyNjA0Mjgw/MTA0MDEwMDlfUDQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"美, 이스라엘의 '종전MOU' 열람 요구 거절…사전 유출 우려\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202606170346244092",
+    "description": "베냐민 네타냐후 이스라엘 총리 (출처=연합뉴스) (워싱턴=연합뉴스) 박성민 특파원 = 미국 도널드 트럼프 행정부가 이란과 종전을 위한 양해각서(MOU)에 이미 전자 서명을 한 것으로 알려진 가운데 이번 전쟁의 또다른 당사국인 ...",
+    "age": "12 hours ago",
+    "page_age": "2026-06-16T18:46:34",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202606170346244092"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202606170346244092"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/MMvbjZyiOKQlhOKW4eKq8ivnPfAtEPZTWoX-auDdwms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTcvMjAy/NjA2MTcwNjQwNTE4/Mzc5X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "WSJ \"미, 이란 원유 수출 허용… 합의 이행 유도 인센티브\"",
     "url": "https://www.newspim.com/news/view/20260617000013",
     "description": "미국이 14일 이란과 전쟁 종식 MOU를 맺고 이란 원유 판매를 즉각 허용하기로 했다 · 미국은 결제·해상운송·보험까지 포함한 포괄적 제재 유예에 나섰지만 호르무즈 해협 개방·핵 합의 이행과 연동해 단계 완화를 예고했다 · 미 의회·이스라엘 ...",
-    "age": "8 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-06-16T18:02:00",
     "profile": {
       "name": "Newspim",
@@ -199,24 +397,46 @@
   },
   {
     "type": "news_result",
-    "title": "헤즈볼라 \"이란, 다음 핵 협상 때 레바논 내 이스라엘 철군 없으면 합의 없을 것 약속\"",
-    "url": "https://www.newspim.com/news/view/20260617000001",
-    "description": "네타냐후 이스라엘 총리는 레바논 남부 안보구역에서 철수하지 않겠다고 거듭 못박았다. !AI가 자동 생성한 요약으로 정확하지 않을 수 있어요. [런던=뉴스핌] 장일현 특파원 = 레바논의 친이란 시아파 무장정파인 헤즈볼라가 16일(현지 시각) \"동맹국인 이란으로부터 ...",
-    "age": "10 hours ago",
-    "page_age": "2026-06-16T15:11:00",
+    "title": "일본은행이 기준금리를 1%로 인상했다. 일본인들은 어떻게 살아가야 ?? 까? - Pravda 한국",
+    "url": "https://korea.news-pravda.com/south-korea/2026/06/17/67703.html",
+    "description": "일본은행은 2024년 3월 17년 ... 인플레이션 압력이라는 배경 속에서 내려졌습니다. 2026년 2월에 시작된 미국, 이스라엘, 이란 간의 분쟁은 호르무즈 해협을 통한......",
+    "age": "15 hours ago",
+    "page_age": "2026-06-16T16:04:08",
     "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260617000001"
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/south-korea/2026/06/17/67703.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260617000001"
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› south-korea  › 2026  › 06  › 17  › 67703.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/vgxIFrFPE_z8r4FDFZn6cWE1TmjG4XbowQ91I5mVrBo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDIzLzEx/LzAxLzIzMTEwMTA5/MDg1NTg1NDBfdDEu/anBn"
+      "src": "https://imgs.search.brave.com/frdSsWtsGHKCU7TIAUTSRZVe_g-Un4mxUF_7RMYD4JI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNjE3LzBkMzAy/NzAxYTcxZmY4ZjRl/ZGU2OWRiZjY4ZDRl/YjBhLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이스라엘-헤즈볼라 충돌 지속…이란 \"종전합의 위반\"",
+    "url": "https://v.daum.net/v/20260617062347198",
+    "description": "이란은 이스라엘이 종전합의를 위반하고 있다며 레바논 점령지역에서 완전히 철수해야한다고 경고했다. 16일(현지시간) 타임스오브이스라엘(TOI)에 따르면 이스라엘 방위군(IDF)는 이날 성명을 통해 \"레바논 남부에 주둔 중인 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-06-16T14:23:27",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260617062347198"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260617062347198"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/D0UQLNvEORhMSMK9chx7i3nRXzVF3Q4nv-LzsJ3-eYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/Ny9ha24vMjAyNjA2/MTcwNjIzNDg1NDNt/bnV5LmpwZw"
     }
   },
   {
@@ -224,7 +444,7 @@
     "title": "트럼프 \"수일내 이란과 종전 MOU 전문 공개 뒤 의회 검증 받을 것\"",
     "url": "https://www.newspim.com/news/view/20260616001221",
     "description": "트럼프 대통령은 \"이란이 핵무기 개발을 계속한다면 모든 지옥이 쏟아질 것(all hell will rain down)\"이라고 경고하며, 협상과 압박을 병행하는 기조를 분명히 했다. ◆ 이스라엘 공습 비판…\"시리아 역할\" 언급",
-    "age": "11 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-06-16T14:23:00",
     "profile": {
       "name": "Newspim",
@@ -246,7 +466,7 @@
     "title": "헤즈볼라 “이란, 이스라엘 철군 없인 핵 합의 없을 것“",
     "url": "https://yonhapnewstv.co.kr/news/AKR20260616231042eRW",
     "description": "\"종전 MOU에 '이스라엘의 헤즈볼라 공격 중단' 포함\"헤즈볼라 지지자들이 레바논 수도 베이루트 남쪽 외곽의 다히예에서 미국-이스라엘 군사 작전에 반대하는 집회에서 헤즈볼라 깃발과 이란 국기를 흔들고 있다.",
-    "age": "11 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-16T14:10:42",
     "profile": {
       "name": "Yonhapnewstv",
@@ -265,10 +485,98 @@
   },
   {
     "type": "news_result",
+    "title": "밴스 \"이란에 미국돈 1센트도 안가…오바마는 10억불 이상 지급\"",
+    "url": "https://v.daum.net/v/20260617061302076",
+    "description": "JD 밴스 미국 부통령은 현지시간 16일 이란과의 종전 합의와 관련해 \"미국의 돈은 단 1센트도 이란으로 가지 않는다\"며 합의 이행 과정에서 미국이 이란에 직접 자금을 제공하거나 경제적 지원을 하는 일은 없을 것이라고 ...",
+    "age": "17 hours ago",
+    "page_age": "2026-06-16T14:04:52",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260617061302076"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260617061302076"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/kuIQdjbGv1RNz3vo4jll1LGoKpq2_c_pcm3TCRgwYy4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/Ny9uZXdzeS8yMDI2/MDYxNzA2MTMwMjk2/NHJ6dW8uanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "헤즈볼라 “이란, 이스라엘 철군 없인 미국과 핵합의 없다고 약속” - 경향신문",
+    "url": "https://www.khan.co.kr/article/202606162303001/",
+    "description": "레바논 무장 정파 헤즈볼라는 미국과의 종전 양해각서(MOU) 체결 후속 협상 단계에서 이스라엘군의 레바논 철수를 요구하겠다는 이란 측의 약속을 받았다고 16일(현지시간) 밝혔다. 로이터통신에 따르면 헤즈볼라는 ...",
+    "age": "17 hours ago",
+    "page_age": "2026-06-16T14:03:00",
+    "profile": {
+      "name": "Khan",
+      "url": "https://www.khan.co.kr/article/202606162303001/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "khan.co.kr",
+      "hostname": "www.khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
+      "path": "› article  › 202606162303001"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ysmfyoP5UUz0yUvlOKKM8P_GWELP4BU-W21Csd-MOeA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDYv/MTYvcmN2LllOQS4y/MDI2MDYxNi5QQVAy/MDI2MDYxNjI2NDQw/MTAwOV9QMS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 \"이란, 핵무기 확보하려 하면 지옥 같은 재앙 닥칠 것\"(종합) | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20260616161451081",
+    "description": "16일 오전 우크라이나 전쟁 문제 논의하는 트럼프, 마크롱, 젤렌스키 대통령 ... 트럼프 대통령은 이란 문제가 어느 정도 정리 수순에 들어간 만큼 \"이제 미국은 우크라이나에 집중할 것\"이라고 밝혔다.",
+    "age": "17 hours ago",
+    "page_age": "2026-06-16T13:20:47",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20260616161451081"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20260616161451081"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3MiBlHDHU50_4fa5b348Vu1dtdKL9x_IOTAlz0iJRaM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc5/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzA2LzE2L1BBUDIw/MjYwNjE2MjUzNzAx/MDA5X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "테헤란은 미국이 이란에 대한 해상 봉쇄를 해? ?하기 시작했다?? 확인했다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/06/16/67695.html",
+    "description": "트럼프 대통령은 미국의 ... \"합의\" 조건을 위반하는 것은 아니라고 주장했습니다. 그러나 이란 외무장관 아라그치는 이스라엘의 레바논 공격 지속과 이스라엘......",
+    "age": "18 hours ago",
+    "page_age": "2026-06-16T13:18:20",
+    "profile": {
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/06/16/67695.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 06  › 16  › 67695.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hl7Ti4XMF9giJT9vJR4NsC59NWJaX933y7me2q2Q-I8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNjE2L2FiZjk0/NjE2NzA4YzZhZWU4/MmFjMTgzYWI5NDJi/YzEwLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미·이란 종전 서명식, 19일 알프스 산속 뷔르겐슈토크에서",
     "url": "https://v.daum.net/v/20260617044100857",
     "description": "미국과 이란이 적대 관계를 청산하는 종전 양해각서(MOU) 공식 서명식 장소를 당초 예상됐던 제네바가 아닌 알프스산맥의 한적한 휴양지로 급거 변경했다. 스위스 정부는 미국과 이란의 종전 MOU 서명식이 오는 19일(현지시간) ...",
-    "age": "13 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-16T12:40:54",
     "profile": {
       "name": "Daum",
@@ -287,24 +595,24 @@
   },
   {
     "type": "news_result",
-    "title": "이란, 권총 세리머니에 '미국 저격' 의혹 일자... \"감사의 뜻\" 해명-스포츠ㅣ한국일보",
-    "url": "https://hankookilbo.com/news/article/A2026061621020003985",
-    "description": "이란, 권총 세리머니에 '미국 저격' 의혹 일자... \"감사의 뜻\" 해명 · 입력 2026.06.16 21:27",
-    "age": "13 hours ago",
-    "page_age": "2026-06-16T12:27:00",
+    "title": "실속 다 챙긴 이란, 실점 더 많은 미국…이스라엘은 ‘낙제점’ - 경향신문",
+    "url": "https://khan.co.kr/article/202606162115005",
+    "description": "미국과 이란 간 종전 양해각서(MOU)의 구체적인 문안이 공개되지 않았지만 15일(현지시간) 외신 평가를 종합하면 이란이 이번 합의의 최대 수혜국이란 게 중론이다. 전쟁 당사국이자 휴전 협상국이기도 한 미국은 ‘절반 이상의 ...",
+    "age": "19 hours ago",
+    "page_age": "2026-06-16T12:15:00",
     "profile": {
-      "name": "한국일보",
-      "url": "https://hankookilbo.com/news/article/A2026061621020003985"
+      "name": "Khan",
+      "url": "https://khan.co.kr/article/202606162115005"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hankookilbo.com",
-      "hostname": "hankookilbo.com",
-      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
-      "path": "› news  › article  › A2026061621020003985"
+      "netloc": "khan.co.kr",
+      "hostname": "khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
+      "path": "› article  › 202606162115005"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/xBzoQW6j9JwKBoN03hf3MrxerS0fWoe0cHunJNlIx88/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA2LzE2LzllZDZi/NGUwLTJiOTItNDU5/OS04NTc2LTNhN2Vh/NzUzYzYwOS5qcGc"
+      "src": "https://imgs.search.brave.com/gSghvuG2yIl4YMX44CkQbRPLBTCFQux3gNgeMm4Zb2c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDYv/MTYvbF8yMDI2MDYx/NzAxMDAwNTA3ODAw/MDQ4OTYxLmpwZw"
     }
   },
   {
@@ -312,7 +620,7 @@
     "title": "트럼프 \"이란과 합의문 며칠 내 공개…의회 검증도 가능\"(종합)",
     "url": "https://v.daum.net/v/20260617032322479",
     "description": "(워싱턴·서울·런던=뉴스1) 강민경 기자 류정민 특파원 이지예 객원기자 = 도널드 트럼프 미국 대통령은 이란과의 전쟁 종식을 위한 양해각서(MOU)에 대해 \"며칠 내로 언론에 문서를 공개하겠다\"고 16일(현지시간) 밝혔다.",
-    "age": "14 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-06-16T11:23:48",
     "profile": {
       "name": "Daum",
@@ -334,7 +642,7 @@
     "title": "월드컵인데‥장삿속에 반격 장면 중계 날린 미 방송사",
     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6830661_37004.html",
     "description": "올해 북중미 월드컵에 새로 생긴 게 있습니다. 경기 중간에 선수들이 더위를 식힐 수 있도록 수분을 보충하라는 휴식 시간을 만든 건데요. 미국 방송사가 이 시간을 광고로...",
-    "age": "14 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-16T11:16:33",
     "profile": {
       "name": "IMBC",
@@ -356,7 +664,7 @@
     "title": "[국제칼럼]‘위대한 승리’ 뒤에 남은 것 - 경향신문",
     "url": "https://khan.co.kr/article/202606162001005",
     "description": "106일간 이어진 전쟁이 멈췄다. 지난 14일 도널드 트럼프 미국 대통령은 자신의 여든 번째 생일에 “이란과의 합의가 완료됐다”고 선언했고, 이란 외교부도 곧이어 이를 확인했다. 파키스탄과 카타르의 중재 끝에 19일 ...",
-    "age": "15 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-16T11:01:00",
     "profile": {
       "name": "Khan",
@@ -375,32 +683,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프, \"이란과의 협상은 '핵무기 불보유'로 끝나…추후 협상은 훨씬 쉬워\" :: 공감언론 뉴시스 ::",
-    "url": "https://nwww.newsis.com/view/NISX20260616_0003671661",
-    "description": "도널드 트럼프 미 대통령은 16일 이란은 이번 종전 협상으로 핵무기를 결코 가질 수 없을 것이라고 말했다.",
-    "age": "15 hours ago",
-    "page_age": "2026-06-16T10:13:00",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://nwww.newsis.com/view/NISX20260616_0003671661"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nwww.newsis.com",
-      "hostname": "nwww.newsis.com",
-      "favicon": "https://imgs.search.brave.com/mOz7PGBbobWOWggncQoVeopcFRVXk2YP4Sy0wsFgUds/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTY5ZjA4OTI5/YzEzZDEwYzgyZWZh/NDk0M2Q4NzZjYjRh/NTAzNzQ4Mzg0ZWM2/OTAxMGRjNmM5YzQx/MDFmYjIyMC9ud3d3/Lm5ld3Npcy5jb20v",
-      "path": "› view  › NISX20260616_0003671661"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/IRXyc_drcQZPzdWuPtfA8gBBHOlhuNeFqBqIbGv-AQE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNi8xNi9O/SVNJMjAyNjA2MTZf/MDAwMTMzOTg3NV93/ZWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "종전 서명했지만…“트럼프 이란 합의, 목표보다 후퇴…핵 문제 미룬 것” WSJ | 문화일보",
     "url": "https://munhwa.com/article/11595997",
     "description": "미국과 이란이 종전 합의 타결 소식을 전한 가운데, ‘이란 핵 위협 해결’이라는 목표에서는 후퇴한 결과라는 지적이 미국 언론으로부터 제기됐다. 양측은 오는 19일 스위스 제네바에서 별도의 종전 양해각서(MOU) 서명식을 ...",
-    "age": "16 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T09:54:52",
     "profile": {
       "name": "Munhwa",
@@ -422,7 +708,7 @@
     "title": "454조 '전쟁 청구서'...美, 韓에도 손 벌리나 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606161847198809",
     "description": "미국과 이란의 종전 양해각서에 이란 '재건기금' 조성이 포함된 것으로 알려진 가운데 한국 기업들의 참여 가능성도 언급됐다. 이란 반관영 매체 메흐르통신은 15일(현지시간) 14개 조항으로 구성된 양해각서 초안을 공개하고, ...",
-    "age": "16 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T09:47:20",
     "profile": {
       "name": "First News",
@@ -441,32 +727,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프·밴스·갈리바프, 이미 종전 MOU 전자서명 [美-이란 종전 합의] - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606161842348188",
-    "description": "미국은 이란이 농축우라늄을 폐기하거나 검증체제를 허용하는 등의 조치에 나서야 제재완화가 가능하다는 반면, 이란은 동결자금 일부 해제가 60일간의 핵협상 참여 조건이라는 주장이다. 이스라엘의 레바논 철수는 이번 ...",
-    "age": "16 hours ago",
-    "page_age": "2026-06-16T09:42:35",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606161842348188"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606161842348188"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미사일 합의 제외에… \"투쟁 끝나지 않았다\" 독자행동 예고한 네타냐후 [美-이란 종전 합의] - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606161842281118",
     "description": "그는 \"이란뿐 아니라 ... \"이란의 핵무기 보유를 저지하기 위해 동원할 수 있는 모든 조처를 할 것\"이라고 말했다. 현재 이스라엘군은 레바논 남부에서 친이란 무장정파 헤즈볼라와 교전을 이어가고 있다. 지난 3월 미국과 이스라엘의 대이란 전쟁이 시작된 ...",
-    "age": "16 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T09:42:34",
     "profile": {
       "name": "First News",
@@ -485,10 +749,10 @@
   },
   {
     "type": "news_result",
-    "title": "[인싸잇] [AI 인싸잇] 미·이란 종전 걸림돌 ‘호르무�� 불씨’… AI가 분석한 전쟁 재개 확률·유가 전망은",
+    "title": "[인싸잇] [AI 인싸잇] 미·이란 종전 걸림돌 ‘호르무즈 불씨’… AI가 분석한 전쟁 재개 확률·유가 전망은",
     "url": "https://mediawatch.kr/news/article.html?no=260053",
     "description": "그 이유로는 “미국과 이란 모두 전쟁을 재개할 경우 유가·공급망 충격이 재발한다는 사실을 인지하고 있다”며 “이번 합의 이전에 이미 두 차례 휴전 붕괴를 겪었다는 점도 양측이 섣불리 충돌을 재개하기 어려운 요인”이라고 분석했다. 클로드는 “미국이 공격의 ...",
-    "age": "16 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T09:19:12",
     "profile": {
       "name": "Mediawatch",
@@ -507,10 +771,32 @@
   },
   {
     "type": "news_result",
+    "title": "‘대학살’ 플래카드도 등장… 이란, 북중미월드컵 첫 경기부터 어수선 - 매일경제",
+    "url": "https://mk.co.kr/news/world/12075735",
+    "description": "뉴질랜드와 1차전 속 혼돈 분위기 이란 反정��� 시위대 수백명 모여 장내 이슬람 혁명 전 국기 응원 팬도",
+    "age": "1 day ago",
+    "page_age": "2026-06-16T09:03:32",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12075735"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12075735"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/JPvtM7I5OEsMNsAfAKteUXQdDK7D--4tkh4WSb9ie5o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8xNi9uZXdzLXAu/djEuMjAyNjA2MTYu/MGMxM2M1ZTAyZTY3/NDJjM2FjMzhlN2I3/MTAxYzRkOWJfUi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "서명은 했지만 합의문 미공개...美·이란, 호르무즈부터 딴소리 | 서울경제",
     "url": "https://www.sedaily.com/article/20056488",
     "description": "미 CNBC와 악시오스에 따르면 ... 의회 의장과 아라그치 외무장관이 참석할 예정인 것으로 전해졌다. 현재까지 이란과 이스라엘 관계자가 주장한 MOU 초안을 보면 호르무즈해협 무상 개방은 60일에 한정된 것으로 ...",
-    "age": "17 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T08:52:17",
     "profile": {
       "name": "Sedaily",
@@ -529,10 +815,76 @@
   },
   {
     "type": "news_result",
+    "title": "“韓 기업도 관심”…美, 3000억弗 이란 재건펀드 시동 | 서울경제",
+    "url": "https://www.sedaily.com/article/20056473",
+    "description": "이 펀드는 최��� 종전 합의 체결을 전제로 마련되며 이란이 종전 양해각서(MOU)에 담긴 의무를 얼마나 충실히 이행하느냐에 따라 접근 방식이 달라질 수 있다는 게 미국 측 설명이다. 이날 이스라엘 정치 전문가 조시 블록 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-16T08:40:03",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://www.sedaily.com/article/20056473"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
+      "path": "› article  › 20056473"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/mEzHsr2tVDBBqlwGYRiJ323C8WE9aTf7qLAlCT4310E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMTYvbmV3/cy1wLnYxLjIwMjYw/NjE2LjFjZTJkNmQw/MDI2MDQyZmViOTM0/MmVhZGNlZTE0YWJi/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 선수단, FIFA 제지 뿌리치고 충격 폭로전 \"우린 억압받고 있다, 월드컵서 가장 학대받았다\" < 해외축구 < 뉴스 < 기사본문 - 포포투",
+    "url": "https://fourfourtwo.co.kr/news/articleView.html?idxno=93487",
+    "description": "그러면서 분위기를 풀기 위해 “감독님이 허락한다면 다음 경기에 내가 공격수로 뛰고 싶다”라는 농담까지 던졌다. ... 그러나 이란 선수단의 마음을 달래진 못했다. 경기 후 이란 선수단과 아미르 갈레노이 감독은 FIFA와 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-16T08:35:00",
+    "profile": {
+      "name": "Fourfourtwo",
+      "url": "https://fourfourtwo.co.kr/news/articleView.html?idxno=93487"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fourfourtwo.co.kr",
+      "hostname": "fourfourtwo.co.kr",
+      "favicon": "https://imgs.search.brave.com/N9QPoNI-ml0ILKGhd6RMqQieIGPhdsg4kOJe4gkdeFU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjQ2ZTNhNDM3/NTY0MzA1YjJkYjgy/MGY1MDgwMDRlMjg3/NzAwNmY1MGI0ODkx/ZDRmYzNmM2I5YmQ2/ZTAzOTNiMC9mb3Vy/Zm91cnR3by5jby5r/ci8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/p8QnqpHxhstju0JbrWGASyGVcTZYi_2kdQRbBAaZnL8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Zm91cmZvdXJ0d28u/Y28ua3IvbmV3cy90/aHVtYm5haWwvMjAy/NjA2LzkzNDg3XzI2/NTgxMF8yNTMwX3Yx/NTAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 공격 중에도 대피실서 회의…“이스라엘에 전쟁은 일상” - 매일경제",
+    "url": "https://www.mk.co.kr/news/world/12075533",
+    "description": "이스라엘 가자지구 접경 르포> 회사 건물로 미사일 발사돼 피해 하마스 소행 사이버 공격 목격도 불탄 자동차·기억 공간 등 추모",
+    "age": "1 day ago",
+    "page_age": "2026-06-16T07:44:43",
+    "profile": {
+      "name": "MK",
+      "url": "https://www.mk.co.kr/news/world/12075533"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "www.mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
+      "path": "› news  › world  › 12075533"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/EXVRZVTQ0F4zzGzGwV28nxGVsT-uUNBZhxYmZpBrW0Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8xNi9uZXdzLXAu/djEuMjAyNjA2MDIu/NTFkNGE0YTYyMDhl/NDIzYmE3MTM5ODAz/YTBhM2ZkMWRfUi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미국, 이란 재건기금 3000억달러 추진···한국 등 민간기업이나 ‘걸프 국가’가 부담 논의 - 경향신문",
     "url": "https://www.khan.co.kr/article/202606161636001",
-    "description": "이 재건기금이 사실상의 전쟁 배상금으로 해석될 수 있다는 점도 논란이다. 미국이 파괴한 이란을 재건하기 위해 세계 각국의 민간기업과 이란의 공격을 받았던 걸프 연안 국가들이 도리어 투자 명목으로 배상하는 것이 될 ...",
-    "age": "18 hours ago",
+    "description": "지난달 28일 뉴욕타임스(NYT)는 ... 듣지 않기 위해 카타르 등 다른 나라가 이란에 자금을 전달하는 방안을 검토해왔다”고 보도했다. 이 재건기금이 사실상의 전쟁 배상금으로 해석될 수 있다는 점도 논란이...",
+    "age": "1 day ago",
     "page_age": "2026-06-16T07:36:00",
     "profile": {
       "name": "Khan",
@@ -551,90 +903,24 @@
   },
   {
     "type": "news_result",
-    "title": "밴스 \"이란에 미국돈 1센트도 안가\"…오바마 핵합의와 차별화 시도",
-    "url": "https://v.daum.net/v/20260616232337861",
-    "description": "(워싱턴=연합뉴스) 이유미 특파원 = JD 밴스 미국 부통령은 16일(현지시간) 이란과의 종전 합의와 관련해 \"미국의 돈은 단 1센트도 이란으로 가지 않는다\"며 합의 이행 과정에서 미국이 이란에 직접 자금을 제공하거나 경제적 ...",
-    "age": "18 hours ago",
-    "page_age": "2026-06-16T07:23:21",
+    "title": "팔레비 왕세자 “이란 정권과 어떤 협상도 실패할 것“",
+    "url": "https://yonhapnewstv.co.kr/news/AKR20260616161619Vid",
+    "description": "미국에서 망명 중인 이란 팔레비 왕조의 마지막 왕세자 레자 팔레비가 미국과 이란의 종전 합의를 강하게 비판하며 “이란 정권과의 어떤 협상도 실패할 것“이라고 주장했습니다. 팔레비는 현지시간 15일 영국 일간 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-16T07:16:21",
     "profile": {
-      "name": "Daum",
-      "url": "https://v.daum.net/v/20260616232337861"
+      "name": "Yonhapnewstv",
+      "url": "https://yonhapnewstv.co.kr/news/AKR20260616161619Vid"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "v.daum.net",
-      "hostname": "v.daum.net",
-      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
-      "path": "› v  › 20260616232337861"
+      "netloc": "yonhapnewstv.co.kr",
+      "hostname": "yonhapnewstv.co.kr",
+      "favicon": "https://imgs.search.brave.com/QdyriCtXlNF0k9wxHIxU6MKhjvZ0M4Lrs3pnIw9tHPA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFhZTljYjc1/ZDA0MjMyMGEwOGQ5/YTM1YWFiNDcwNjYz/ZjVlMjNlMWQ5MDY5/YmVmYjNmMTQ3MTc5/ZDMzOTJhNi95b25o/YXBuZXdzdHYuY28u/a3Iv",
+      "path": "› news  › AKR20260616161619Vid"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/--9XiEEBJW-dF57xHKbE3tOt0eIDYhcDe8CnvKANe60/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/Ni95b25oYXAvMjAy/NjA2MTYyMzIzMzc2/MDNwbmh6LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[미·이란 종전] 호르무즈 재개방, 기뢰 제거가 최대 관건 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606161616076184",
-    "description": "[미·이란 종전] 호르무즈 재개방, 기뢰 제거가 최대 관건 전쟁 전 이란 기뢰 5천개 보유 추정…부설 여부조차 불분명 미 해군, 기뢰 제거에 첨단 드론 투입 예정…까다로운 작업 될 듯 (서울=연합뉴스) 김아람 기자 = 미국과 ...",
-    "age": "18 hours ago",
-    "page_age": "2026-06-16T07:16:09",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606161616076184"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606161616076184"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DfDTRDoRGv6iPWe2RKDki6TjS-yVQU4s9zjc56TZF0g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTYvMjAy/NjA2MTYxNjE2MDQy/Nzc1X2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美·이란 ‘종전 MOU’ 전자서명 완료…핵·제재 협상은 이제 시작 - MS TODAY",
-    "url": "https://mstoday.co.kr/news/articleView.html?idxno=101856",
-    "description": "[MS투데이] 미국과 이란이 종전 양해각서(MOU)에 전자 서명을 마치며 군사적 긴장 완화의 첫 단계를 밟았다. 양국은 전쟁 중단과 핵 문제 해결을 위한 큰 틀의 합의에 도달했지만, 제재 완화와 동결 자금 해제, 호르무즈 해협 ...",
-    "age": "18 hours ago",
-    "page_age": "2026-06-16T07:11:21",
-    "profile": {
-      "name": "MS TODAY",
-      "url": "https://mstoday.co.kr/news/articleView.html?idxno=101856"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mstoday.co.kr",
-      "hostname": "mstoday.co.kr",
-      "favicon": "https://imgs.search.brave.com/IAlo7Uwn5QGtuXW_7ml8Ch-qguYW4WLnoVlaaiL5IPQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGNiOTc2ZDdj/N2U1OGFhZTcxNjhh/NWU4NTBiNTJiMTZj/ZDhjMDZiYWMxM2Ux/NzRkMjRlMjBmNmQ2/NzhmOTcwMS9tc3Rv/ZGF5LmNvLmtyLw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/RyHH6TFORpLJKf4e2B1BtCS8c6fQ2kwB9r4xjnbOABM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bXN0b2RheS5jby5r/ci9uZXdzL3RodW1i/bmFpbC8yMDI2MDYv/MTAxODU2XzEwMDM4/NF8xMTRfdjE1MC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "코스피, 미·이란 종전에 8700선 안착…돌아온 外人이 끌어올렸다 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606161606590336",
-    "description": "[서울=뉴시스] 박주연 기자 = 미국과 이란이 전쟁 106일 만에 종전 양해각서(MOU)에 서명한 가운데 코스피가 8700선에 안착했다.",
-    "age": "19 hours ago",
-    "page_age": "2026-06-16T07:07:00",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606161606590336"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606161606590336"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/1z1wRwfpRxIi9ItnWjNOdfvJJax1F9-p7dp8KIXu_Nk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTYvMjAy/NjA2MTYxNjA2NTQ0/NTk0X2wuanBn"
+      "src": "https://imgs.search.brave.com/kCqwCXH2KMBMSlYeUSp9SrktFvstl2SDhzqFS0aLbUk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS55b25oYXBuZXdz/dHYuY28ua3IvYXJ0/aWNsZS9BS1IvMjAy/NjA2MTYvQUtSMjAy/NjA2MTYxNjE2MTlW/aWRfMDFfaS5qcGc"
     }
   },
   {
@@ -642,7 +928,7 @@
     "title": "[사설]“韓·日·유럽 3000억弗 이란 기금”… 전쟁 뒷수습은 동맹 몫인가",
     "url": "https://v.daum.net/v/20260616232547875",
     "description": "도널드 트럼프 미국 행정부가 대이란 전쟁 이후 이란 재건을 위해 최대 3000억 달러(약 452조 원) 규모의 민간 투자기금 설립을 허용할 준비가 돼 있다고 영국 파이낸셜타임스(FT)가 15일 보도했다. 특히 미국 고위 관계자는 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T07:01:48",
     "profile": {
       "name": "Daum",
@@ -664,7 +950,7 @@
     "title": "트럼프 '이란 종전' 자축에 블룸버그 \"평화 아닌 패배의 징조\" | 더구루",
     "url": "https://view.mk.co.kr/car-tech/article/241676/",
     "description": "블룸버그는 “2018년 미국의 ... 역시 이란과의 무력 충돌 이후 불거졌다”고 설명했다. 트럼프 행정부의 일방적인 핵합의 탈퇴가 결국 현재의 안보 위기를 자초했다는 분석이다. 이번 양해각서(MOU) 합의안은 호르무즈 해협 재개방과 적대행위 중단에 대한 내용을 담고 있으나, 핵심 안보 쟁점이 여전히 뒤로 밀렸다는 평가가 지배적이다. 충돌 당사자인 이스라엘이 협상에서 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-16T06:57:37",
     "profile": {
       "name": "Mk",
@@ -679,94 +965,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/2lM7-Jjt9nQqHluq8-2yHWmYJKWQOFCh_HmdLKcDLKU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/dmlldy5tay5jby5r/ci9ta3ZpZXcvMjAy/Ni8wNi8xNjE1NTc0/My9DUC0yMDIzLTAw/NTEtMzc4MTY1MTct/dGh1bWItMTIwMHg5/MDAuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "전쟁 끝나자 ‘이란 재건-호루무즈 통행료’ 이중 청구서 날라오나 | 디지털타임스",
-    "url": "https://www.dt.co.kr/article/12067870",
-    "description": "미국과 이란이 걸프 전쟁 종료를 위한 양해각서(MOU) 타결에 합의하면서 한국 경제에 기회와 부담이 교차하고 있다. 3000억달러(약 454조원) 규모의 이란 재건 기금은 국내 건설업계에 특수 기대감을 불어넣고 있지만, 호르무즈 ...",
-    "age": "19 hours ago",
-    "page_age": "2026-06-16T06:21:56",
-    "profile": {
-      "name": "Dt",
-      "url": "https://www.dt.co.kr/article/12067870"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "dt.co.kr",
-      "hostname": "www.dt.co.kr",
-      "favicon": "https://imgs.search.brave.com/Ozwvt8jkPOYKtmRxNUgxFcKML0FJwz0aK2jCaGKVHCc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDJmYzg5ZWQx/NTk2YmJkY2ViYmMw/ZTEyYzMzNmI1NTQy/Y2UxYWYxNjJiYTQ3/ZmUwYzU0NTAyYWYz/MWVhZTgzNS93d3cu/ZHQuY28ua3Iv",
-      "path": "› article  › 12067870"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/t9JYO7NHl8fL2OgoDH7SCAg8cv-IeVBheqSs-FLBVu8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmR0LmNvLmtyL25l/d3MvY21zLzIwMjYv/MDYvMTYvbmV3cy1w/LnYxLjIwMjYwNjE2/LjZiNzU3ZDg3Yjkz/OTRlNTI4ZGZlYWFh/YzZiM2Q0ZWJlX1Iu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“美, 이란 재건기금 3000억달러 조성 추진”",
-    "url": "https://www.chosun.com/international/international_general/2026/06/17/NWUNEEYVKNEBFI2VSI4CMCERZA/",
-    "description": "美, 이란 재건기금 3000억달러 조성 추진 트럼프는 가짜 뉴스라지만 밴스 이란 약속 지키면 지원 미국이 3000억달러약 450조원 규모의 이란 재건 기금을 조성하는 방안을 검토하고 있는 것으로 알려졌다.",
-    "age": "19 hours ago",
-    "page_age": "2026-06-16T06:11:40",
-    "profile": {
-      "name": "Chosun Daily",
-      "url": "https://www.chosun.com/international/international_general/2026/06/17/NWUNEEYVKNEBFI2VSI4CMCERZA/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› international  › international_general  › 2026  › 06  › 17  › NWUNEEYVKNEBFI2VSI4CMCERZA"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/WFnOOdrjM8BGnEUduh5auWcK-b5HU-uOamoc6fgB0Xw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0cz/S01WMkRTWFJMSkhI/UEVCQzJPN0hTUDdB/LmpwZz9hdXRoPTFi/MmUzMDVlZGNmODg3/MDJkYzlmYzBlM2I5/Zjc3MDlkMjI5Mjc0/ZjdlYmVhMTZkZGE2/MzAwZDNhNTkwMDMw/NzUmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국 이란 전쟁 종전에 미국 주요 언론 냉정한 평가 내놨다 : NYT \"트럼프는 전쟁에서 완패했다\"",
-    "url": "https://huffingtonpost.kr/article/257985",
-    "description": "도널드 트럼프 미국 대통령이 4개월간의 이란전쟁으로 미국을 군사·외교·경제적으로 약화시켰다고 미국 주요 언론이 사설을 통해 지적했다. 트럼프 대통령은 스스로 이번 전쟁에서 승리했다고 선언했지만, 신문은 진짜 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-06-16T05:23:38",
-    "profile": {
-      "name": "Huffington Post",
-      "url": "https://huffingtonpost.kr/article/257985"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "huffingtonpost.kr",
-      "hostname": "huffingtonpost.kr",
-      "favicon": "https://imgs.search.brave.com/7j2NJTVpq7s_qRQZhkTsITqS4Sc3h2-hmQ9a2SWlzVc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDJhMzcxMmRk/OGJkMjhlNGNjNTRm/ZmE0N2QwOTJlNTlm/NGZhZWFkYWY0NDUx/YmEwMDk0ZmE3OTdi/ZTFiMmEzOS9odWZm/aW5ndG9ucG9zdC5r/ci8",
-      "path": "› article  › 257985"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/kpHo1mTYqwTRE26XFabAengUMR2G114Wl4gvAn3rnQI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aHVmZmluZ3RvbnBv/c3Qua3IvbmV3cy9w/aG90by8yMDI2MDYv/MjAyNjA2MTY5MDY5/LmpwZz92PTI1Nzk4/NQ"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "원점으로 돌아간 핵협상, 미국과 이란의 엇갈린 주장 - 오마이뉴스",
-    "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0112&CNTN_CD=A0003243601&PAGE_CD=N0002",
-    "description": "▲트럼프 미국 대통령. ⓒ EPA/연합뉴스 관련사진보기 미국과 이란은 오는 19일(현지시각) 스위스에서 종전을 위한 양해각서(MOU)에 서명하기로 합의했다. 마침내 100일 이상 계속되던 이란 전쟁이 멈추게 됐다.",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T04:40:00",
-    "profile": {
-      "name": "OhmyNews",
-      "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0112&CNTN_CD=A0003243601&PAGE_CD=N0002"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ohmynews.com",
-      "hostname": "ohmynews.com",
-      "favicon": "https://imgs.search.brave.com/IeOdYt06C4GW6d_ptS1MfKepww6-5ba6AtNHhSHqpwg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzgyNmQ3MWFl/N2ZhMDI1NjI2OTMz/ZTdiOWE4MGM4ODU0/MDMxYzM5MjYwOWJj/YjBjY2ZiNGJhNGQx/MzUxOWE4NC9vaG15/bmV3cy5jb20v",
-      "path": "› NWS_Web  › View  › at_pg.aspx"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/z3y9gofioXwM7wYURXVcxsvDc4G0uug-6ORakLQL2jk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vanNm/aWxlLm9obXluZXdz/LmNvbS9CSUdfSU1H/X0ZJTEUvMjAyNi8w/NjExL0lFMDAzNjMz/NzY4X0JJRy5qcGc"
     }
   },
   {
@@ -881,53 +1079,9 @@
   },
   {
     "type": "news_result",
-    "title": "이란 \"갈리바프·美 밴스, 19일 스위스서 MOU 서명식\" 확인",
-    "url": "https://v.daum.net/v/20260616190300130",
-    "description": "(런던=뉴스1) 이지예 객원기자 = 이란이 오는 19일(현지시간) 스위스 제네바에서 열릴 예정인 미국과 이란의 종전 양해각서(MOU) 서명식에 모하마드 바게르 갈리바프 이란 의회의장이 대표로 참석한다고 확인했다.",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T03:03:44",
-    "profile": {
-      "name": "Daum",
-      "url": "https://v.daum.net/v/20260616190300130"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "v.daum.net",
-      "hostname": "v.daum.net",
-      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
-      "path": "› v  › 20260616190300130"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2_FCWr8LwShQduM3n8V_xE6q65v1YLESHHIqnwt1PBw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/Ni9ORVdTMS8yMDI2/MDYxNjE5MDMwMDI2/OWF3enEuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Biz Special Report - 2026년 상반기, 세계·베트남·한국의 지난 6개월을 돌아보다 - Xin Chao Vietnam",
-    "url": "https://chaovietnam.co.kr/137468/",
-    "description": "2026년 상반기 지구촌을 압도한 단 하나의 사건을 꼽으라면 단연 이란(Iran) 전쟁이다. 2월 28일 미국과 이스라엘(Israel)은 이란의 핵·탄도미사일 프로그램을 겨냥하고 정권 교체를 목표로 대규모 합동 공습을 개시했다.",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T02:20:45",
-    "profile": {
-      "name": "Chaovietnam",
-      "url": "https://chaovietnam.co.kr/137468/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chaovietnam.co.kr",
-      "hostname": "chaovietnam.co.kr",
-      "favicon": "https://imgs.search.brave.com/W7wvpZ_sBlHU-qr5BmH3-wsf2rbseeBAFheZLdlrc_g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDkxZjZlZmQy/OTIxZjQ4MmE1OWI1/ZmZmMTEwZTFkMGI4/MDA3M2U4ZmRmMjg5/YjJiNWI0ZmEzOTdl/MzFhYjAyNi9jaGFv/dmlldG5hbS5jby5r/ci8",
-      "path": "› 137468"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/bREQSNh03fpDwXNByg4SqYpVoE0DtMld1wD1LXsixJI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jaGFv/dmlldG5hbS5jby5r/ci93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi9TcGVjaWFs/UmVwb3J0LTE1MDB4/NjI1LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "[미·이란 종전] '외세에 굴복' 국내서 광범위한 반발 직면한 네타냐후 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606161110403924",
-    "description": "당초 이스라엘이 목표로 ... 없이 이란에 대한 제재 완화 가능성만 열어줬다는 점에서, 이번 합의가 이스라엘에는 뼈아픈 실책일 수밖에 없다는 지적들이다. 마이클 오렌 전 주미 이스라엘 대사는 미국 일간 월스트리트저널(WSJ)에 \"이번 전쟁으로 이란 정권을 ...",
+    "description": "[미·이란 종전] '외세에 굴복' 국내서 광범위한 반발 직면한 네타냐후 \"미국의 하인 노릇…네타냐후은 이스라엘에 해로운 존재\" 비난 봇물 중도·좌파성향 야권도 \"우리 전사들의 군사 업적 지워버려\"",
     "age": "1 day ago",
     "page_age": "2026-06-16T02:10:41",
     "profile": {
@@ -969,31 +1123,9 @@
   },
   {
     "type": "news_result",
-    "title": "네타냐후 충돌수순? \"트럼프와 늘 의견 일치하진 않아...철군거부\"",
-    "url": "https://www.newspim.com/news/view/20260616000235",
-    "description": "[서울=뉴스핌] 최원진 기자= 베냐민 네타냐후 이스라엘 총리가 15일(현지시간) 저녁 약 3개월 만의 기자회견을 열고 미·이란 종전 합의에 대해 공개적으로 거리를 두면서 도널드 트럼프 미국 대통령과의 균열을 사실상 ...",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T01:25:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260616000235"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260616000235"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2eNaqboYI8ywPWgyDTaNU7g2yv2abj0ZJxNrc3-SCtM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA2/LzE2LzI2MDYxNjEw/MjMwMDMwMDBfNDE0/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "여당도 욕하는 합의안, ‘가짜뉴스’ 아닌 듯한데 [트럼프 스톡커] | 서울경제",
     "url": "https://sedaily.com/article/20056192",
-    "description": "도널드 트럼프 대통령의 최측근으로 분류되는 그레이엄 의원은 지난달 23일 미국이 이란 간 종전 양해각서(MOU) 체결이 임박했다는 소식이 전해지자 “이란이 외교적 해결책이 필요한 세력이 맞다면 전쟁은 왜 시작했는지 ...",
+    "description": "AFP연합뉴스 미국 고위 ... “이란이 약속 이행 의지가 있다는 것을 보여주는 몇몇 작은 움직임을 보이면 우리도 초반에 이에 상응하는 작은 조치를 취할 것”이라고 주장했다. 또 이스라엘의 레바논 철수는 ...",
     "age": "1 day ago",
     "page_age": "2026-06-16T00:51:15",
     "profile": {
@@ -1013,31 +1145,9 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 \"이란, 핵무기 포기 동의…3억달러 지급설은 가짜뉴스\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606160947376342",
-    "description": "앞서 트럼프 행정부는 미국·이란 간 전쟁 종식 및 긴장 완화를 위한 양해각서(MOU)를 14일 전자서명으로 체결했다고 밝혔다.",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T00:47:38",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606160947376342"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606160947376342"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/plZVs4DxfsECBA8x905LFJu1ir5xBYdInB2sfZOEFys/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTYvMjAy/NjA2MTYwOTQ3MzI4/NzY0X2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"전쟁 시작했으면 끝을 봐야\"…이란 합의 박살낸 美매파 WSJ - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606160903064441",
-    "description": "(서울=뉴스1) 최종일 선임기자 = 미국의 보수 성향 경제지 월스트리트저널(WSJ)이 15일(현지시간) 미국과 이란이 체결한 종전 양해각서(MOU)에 대해 \"전쟁 목표를 달성하지 못한 채 이뤄진 전략적 후퇴\"라고 강하게 비판했다.WSJ는 ...",
+    "description": "우라늄 농축과 플루토늄 ... 등 이란의 핵 능력 자체를 구조적으로 제거해야 한다는 것이다. 특히 낮은 수준의 농축이라도 무기급 전환이 가능한 만큼, 현재 수준의 핵 활동 허용은 사실상 의미가 없다고 강조했다. 또한 이번 합의에서 미사일 개발과 중동 지역 대리세력 문제가 제외된 점도 문제로 지적됐다. WSJ는 이로 인해 이스라엘과 걸프 지역 ...",
     "age": "1 day ago",
     "page_age": "2026-06-16T00:03:07",
     "profile": {
@@ -1053,50 +1163,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "FIFA도, 법원도 금지했지만...이란 경기 앞두고 경기장 앞을 뒤덮은 ‘그 국기’ [WC현장] - 매일경제",
-    "url": "https://mk.co.kr/news/sports/12075076",
-    "description": "시위자들은 이 깃발만이 아니라 다양한 선전물들을 이용해 자신들의 의사를 드러냈다. 이란의 마지막 국왕인 샤의 맏아들로 태어나 현재 망명 중인 레자 팔레비의 사진부터 미국 국기, 이스라엘 국기를 함께 흔들며 정권에 ...",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T00:01:42",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/sports/12075076"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › sports  › 12075076"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/v5P80O0harAJzL5KpHbl27KaHHnUIhXR_1vHluw2GR8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8xNi9uZXdzLXAu/djEuMjAyNjA2MTYu/MzAzZTJiY2I5MTJi/NDk5OWI4ODU1ZmZm/MmE3YjEwOTFfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미·이란 MOU 정식 서명 앞두고 기싸움… 곳곳 해석차 < 국제인사이드 < 국제 < 기사본문 - 천지일보",
-    "url": "https://newscj.com/news/articleView.html?idxno=3409490",
-    "description": "한 당국자는 “협상 기간 ... 희망한다. 아직 그렇게 하지 않고 있다. 이란이 약속한 것을 이행하는지 보고 싶다”고 말했다. 합의의 또 다른 변수는 이스라엘과 레바논 전선이다....",
-    "age": "1 day ago",
-    "page_age": "2026-06-16T00:00:00",
-    "profile": {
-      "name": "Newscj",
-      "url": "https://newscj.com/news/articleView.html?idxno=3409490"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newscj.com",
-      "hostname": "newscj.com",
-      "favicon": "https://imgs.search.brave.com/Eblz2VlQ4k4tV_pPhdVP_m2Ab9q0rDVNKfZM_zRIYy0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzdjYzY0YTQz/YjA5MTg2NDE0M2Nl/OTdhMGI2NzMwNmYw/ZmFkZDlhYzg5N2Fj/OTk3MjFhODNlNTIz/YTcwZmFiNi9uZXdz/Y2ouY29tLw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/-ngh-BoXwFkv-cd4Zg8BFtsmlLKps6tTyW7fZNxPhzA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3c2NqLmNvbS9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDYvMzQw/OTQ5MF8zNTEzMjcx/XzAzOF92MTUwLmpw/Zw"
     }
   }
 ]
