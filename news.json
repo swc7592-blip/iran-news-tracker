@@ -1,76 +1,10 @@
 [
   {
     "type": "news_result",
-    "title": "Iran-US war latest: Trump hits out at ‘jealous fools’ criticising his peace deal with Tehran | The Independent",
-    "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deal-netanyahu-strait-of-hormuz-b2997139.html",
-    "description": "Iran’s foreign ministry spokesperson said any further Israeli attacks on Lebanon would be considered a breach of the terms of the deal.",
-    "age": "6 minutes ago",
-    "page_age": "2026-06-18T16:00:45",
-    "profile": {
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deal-netanyahu-strait-of-hormuz-b2997139.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "independent.co.uk",
-      "hostname": "www.independent.co.uk",
-      "favicon": "https://imgs.search.brave.com/M_zo7zhS0WvQG9XhO-0Js_pwEAlWc2wtGKCPFnNjZjI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEyODE2YjY0/YzFkZDgyOGUzOThi/NmFhOGNkZTRhZDBm/ZmJiYWUxZGQ0MjYx/YWI5YjIyYWQ3N2E4/ZTZjNDk3YS93d3cu/aW5kZXBlbmRlbnQu/Y28udWsv",
-      "path": "› news  › world  › middle-east  › iran-us-war-live-trump-deal-netanyahu-strait-of-hormuz-b2997139.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UcIP9Le1nQ-LFt-wo0JEDYoTgbP_PiH4SSuKyLG74iU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8wNi8xOC8wOS80/ZWM2MTk3ZTk2OTFi/ZGE3OTE1MDY1MGQ1/MWI2YzU4OVkyOXVk/R1Z1ZEhObFlYSmph/R0Z3YVN3eE56Z3hP/RFUyTXpVeS0yLjg0/MjQ5NDI2LmpwZz93/aWR0aD0xMjAwJmhl/aWdodD04MDAmY3Jv/cD0xMjAwOjgwMA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "7 Times Trump Has Backtracked on Iran War Aims - Newsweek",
-    "url": "https://www.newsweek.com/donald-trump-iran-war-deal-peace-agreement-12090390",
-    "description": "Trump’s defense of the Iran deal shows how his war aims shifted from regime change and disarmament to stability and economics.",
-    "age": "2 hours ago",
-    "page_age": "2026-06-18T13:52:32",
-    "profile": {
-      "name": "Newsweek",
-      "url": "https://www.newsweek.com/donald-trump-iran-war-deal-peace-agreement-12090390"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsweek.com",
-      "hostname": "www.newsweek.com",
-      "favicon": "https://imgs.search.brave.com/PyNRakclvDjMYE-KKrT1jXhVbbvMiBF3N-tfeXW1ziw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmRjZTU0MTBh/MjZiZTAwZDBhMjdi/M2YzZDUzMTY3ZjA1/ZWQwZThlYWNiY2Y3/NzQ0NjZjYjhmZGYy/MTZhMjhjNi93d3cu/bmV3c3dlZWsuY29t/Lw",
-      "path": "› donald-trump-iran-war-deal-peace-agreement-12090390"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/bcpT7VHkEy62TC7s7XJPF3Zbqg5qGy3AqYBHCabk56w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubmV3c3dlZWsu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI2LzA2L0NvcHkt/b2YtMzItU3BsaXQt/U2NyZWVuLTIwMjYt/MDYtMThUMTMzNjU2/LTg3OC5wbmc_dz0x/MjAwJmFtcDtjcm9w/PTE"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal | Israel attacks Lebanon News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal",
-    "description": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
-    "age": "3 hours ago",
-    "page_age": "2026-06-18T13:04:54",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 6  › 18  › israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cFZVeSL3xbqqRvDfjZsGUSutTTwVGmHktwHK1RBomV4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi9BRlBfXzIw/MjYwNjE3X19CN0U4/N1pIX192Nl9fSGln/aFJlc19fVG9wc2hv/dElzcmFlbExlYmFu/b25JcmFuVXNXYXIt/MTc4MTc3MTc5MC5q/cGc_cmVzaXplPTE5/MjAlMkMxNDQw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 대통령 “종전 MOU는 역사적 문서…강력한 이란의 메시지” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10777732",
     "description": "[헤럴드경제=양근혁 기자] 마수드 페제시키안 이란 대통령은 18일(현지시간) 소셜미디어 X(옛 트위터)를 통해 전날 자신과 도널드 트럼프 미국 대통령이 서명한 종전 양해",
-    "age": "3 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-06-18T12:49:33",
     "profile": {
       "name": "Herald Corp",
@@ -89,32 +23,10 @@
   },
   {
     "type": "news_result",
-    "title": "Iran live updates: Trump lashes out at critics, after Schumer calls war 'one of the biggest American disasters' - ABC News",
-    "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
-    "description": "Officials from the U.S. and Iran are expected to meet on Friday in Switzerland, where they'll be joined by officials from mediating countries Pakistan and Qatar, \"for initial negotiations on the implementation of the agreement,\" the Swiss foreign ministry said in a statement. The meeting is expected to take place in Bürgenstock, a resort area near Lucerne, the ministry said. ... Israeli ...",
-    "age": "4 hours ago",
-    "page_age": "2026-06-18T12:18:19",
-    "profile": {
-      "name": "ABC News",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "abcnews.com",
-      "hostname": "abcnews.com",
-      "favicon": "https://imgs.search.brave.com/Z0KUww45BkH61d1JNgt5vuvkxgmQcR6lt5OjVsfLgN0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWZjN2U4ZGRi/NzY4NGE0ZmNhYWRh/NDM5MWE5MTI5OTZm/ZDYzZjMxYTdjYWQ3/NDBlOGY4MWUzYWI1/OTQ1OTNlNS9hYmNu/ZXdzLmNvbS8",
-      "path": "› International  › live-updates  › iran-live-updates-israel-withdraw-lebanon-katz-after"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/kFhrvToWBSkkqaSS-kPK3LCftB_oeZXJjyoNiDAxWXw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmFi/Y25ld3NmZS5jb20v/YS9hY2ZjNDFhNS03/YWY3LTRhZjMtYTc1/Mi03Yzc1ZjBkODg1/MjYvdHJ1bXAtZW1i/ZWRfMTc4MTc3NzYy/NjA4OF9ocE1haW5f/Ml8xNng5LmpwZz93/PTE2MDA"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "‘핵협상’ 60일 내 난망… 이란 미사일·헤즈볼라 갈등도 빠져 | 세계일보",
     "url": "https://segye.com/newsView/20260618516082",
     "description": "미국과 이란의 종전 합의 ... 없이 이란에 전적으로 유리하다는 비판이 제기되고 있다. 비핵화와 관련한 건 60일간 이어질 후속 협상으로 미뤘고, 호르무즈해협 통항료는 60일 동안만 면제된다. 전쟁 전 ...",
-    "age": "4 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-06-18T12:00:00",
     "profile": {
       "name": "Sekye",
@@ -133,134 +45,24 @@
   },
   {
     "type": "news_result",
-    "title": "Trump and Iran’s president sign initial deal to end war, open Strait of Hormuz and ease sanctions",
-    "url": "https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513",
-    "description": "The interim agreement declares an intent to bring about an “immediate and permanent termination of military operations” in the U.S.-Israeli war with Iran.",
-    "age": "5 hours ago",
-    "page_age": "2026-06-18T11:07:34",
+    "title": "CGTN 여론조사 | \"서사적 분노\", 왜 호르무즈를 점령하지 못했나?",
+    "url": "https://korean.cri.cn/2026/06/18/ARTI1781776862415715",
+    "description": "미국과 이란이 양해각서(MOU)를 체결함에 따라, 3개월 넘게 이어져 온 미국-이스라엘-이란 분쟁에 화해의 서광이 비치기 시작했다......",
+    "age": "9 hours ago",
+    "page_age": "2026-06-18T10:01:06",
     "profile": {
-      "name": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513"
+      "name": "Cri",
+      "url": "https://korean.cri.cn/2026/06/18/ARTI1781776862415715"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nbcnews.com",
-      "hostname": "www.nbcnews.com",
-      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
-      "path": "› world  › iran  › strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513"
+      "netloc": "korean.cri.cn",
+      "hostname": "korean.cri.cn",
+      "favicon": "https://imgs.search.brave.com/0EgXLByk0ovojTaUr46vStwaPIXgYEQBfqKsAIutbUU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E1ODMwM2Zi/MGQzYTY1MDI1NTkz/NGVjYzczMDYwMWMy/Njc2NTAyNTk3MGRh/NjM2ZDczNTU0ZWM3/MWQ4ZDE5Yi9rb3Jl/YW4uY3JpLmNuLw",
+      "path": "› 2026  › 06  › 18  › ARTI1781776862415715"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/jQmyLPyFF8Y-mSunAs80qZ1bO7PFSoatQ8OU_QJST00/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDYvMjYw/NjE3LVN0cmFpdC1v/Zi1Ib3JtdXotY2gt/MTQxNi0zYTA1YWIu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel Stunned by Trump’s Iran Deal - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html",
-    "description": "The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.",
-    "age": "5 hours ago",
-    "page_age": "2026-06-18T11:07:10",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 18  › world  › middleeast  › israel-iran-deal-reaction-netanyahu.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/gLYCcZPQuPzNzFH8gA1d3sty3V_udXJN51iRq-0XcIw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE4L211bHRp/bWVkaWEvMThpbnQt/bWlkZWFzdC1pc3Jh/ZWwtbmV0YW55YWh1/LWJmbG0vMThpbnQt/bWlkZWFzdC1pc3Jh/ZWwtbmV0YW55YWh1/LWJmbG0tZmFjZWJv/b2tKdW1iby5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
-    "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
-    "description": "The Bank of England's Monetary Policy Committee voted 7-2 to keep rates on hold.",
-    "age": "5 hours ago",
-    "page_age": "2026-06-18T11:02:37",
-    "profile": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cnbc.com",
-      "hostname": "www.cnbc.com",
-      "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
-      "path": "› 2026  › 06  › 18  › inflation-interest-rates-uk-bank-of-england-iran-deal.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/XwDgP3nYjHxj9cTieWM1TjKV1BvLJG6d-c23vB2uXSE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgyNDM2ODIt/MTc2NjA3NjU1MjIw/MjUtMTItMTh0MTY0/NTQ3el8yMDk2OTIz/NDIwX3JjMjNqaWFl/NXBmNV9ydHJtYWRw/XzBfYnJpdGFpbi1i/b2UuanBlZz92PTE3/NjYwNzY2MTYmYW1w/O3c9MTkyMCZhbXA7/aD0xMDgw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "U.S., Iran sign initial deal to end war, open Strait of Hormuz - The Washington Post",
-    "url": "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/",
-    "description": "The president defended the agreement, but it has been criticized as a return to the prewar status quo.",
-    "age": "6 hours ago",
-    "page_age": "2026-06-18T10:29:08",
-    "profile": {
-      "name": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/18/us-iran-sign-initial-deal-end-war-open-strait-hormuz/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "washingtonpost.com",
-      "hostname": "www.washingtonpost.com",
-      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
-      "path": "› politics  › 2026  › 06  › 18  › us-iran-sign-initial-deal-end-war-open-strait-hormuz"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/CWiRnRfBVLvQ0OKp05iNbS29iYiM22lw_xVYv9vRWsU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbG91/ZGZyb250LXVzLWVh/c3QtMS5pbWFnZXMu/YXJjcHVibGlzaGlu/Zy5jb20vd2Fwby9H/S1BCQjdMRFVEWlla/T0ZRM0ZGVUhTVlVM/QS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran War Live Updates: Oil Prices Fall After U.S. and Iran Sign Preliminary Cease-Fire Deal - The New York Times",
-    "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
-    "description": "The vice president told reporters Iran’s nuclear program “has been completely destroyed” and its capacity to threaten its neighbors is “largely gone.” He said Iran will only receive economic benefits if its leaders “change their behavior.”",
-    "age": "6 hours ago",
-    "page_age": "2026-06-18T10:14:00",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› live  › 2026  › 06  › 18  › world  › iran-war-trump-us-deal"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/gDD2xOyPojW0C6SzAFWnGzqTV3FlQYMEOg0iIQsSWFI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE4L211bHRp/bWVkaWEvMThtaWRl/YXN0LWxpdmUtcHJv/bW8xMTMwYS1ta3dn/LzE4bWlkZWFzdC1s/aXZlLXByb21vMTEz/MGEtbWt3Zy1mYWNl/Ym9va0p1bWJvLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel Asked Facebook to Censor Iran War Content, Internal Documents Show",
-    "url": "https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/",
-    "description": "Company records reviewed by The Intercept show Israel urged Facebook and Instagram to take down posts supportive of Iran.",
-    "age": "6 hours ago",
-    "page_age": "2026-06-18T10:12:00",
-    "profile": {
-      "name": "The Intercept",
-      "url": "https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "theintercept.com",
-      "hostname": "theintercept.com",
-      "favicon": "https://imgs.search.brave.com/tcXaTQ98ywiXNB93IQ4tHgc0D642GIJJ5aJyXwlctd0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjEzZGIzZWNj/ODU0NjU4MGQwODZm/ZjlkZGRhNTM2Mzkz/NWNmNDJjYmYxOWQ2/NTllMDU5YzgyMDZl/YzhmNTIxMi90aGVp/bnRlcmNlcHQuY29t/Lw",
-      "path": "› 2026  › 06  › 18  › israel-facebook-censor-content-moderation-iran-war"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/FiAELklGNd2fPx8snl9g6Xcvm_0rbls__Sd2ffs0Ex0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVp/bnRlcmNlcHQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzA2L0FQMjYwODIy/MTA1NjQ3ODctZTE3/ODE1NTIzOTQ4MjAu/anBnP2ZpdD02MDQ4/JTJDMzAyNCYjMDM4/O3c9MTIwMCYjMDM4/O2g9ODAw"
+      "src": "https://imgs.search.brave.com/-etHuW3_a-kpc5WVUg9FXimpYa6UdaGQLbSFwfkT414/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8zOHBp/Y3Jlcy5jZ3RuLmNv/bS9waG90b0FsYnVt/L3BhZ2UvcGVyZm9y/bWFuY2UvaW1nLzIw/MjQvOC8zMS8xNzI1/MDg0MjY4MzkxXzg5/OC5wbmc"
     }
   },
   {
@@ -268,7 +70,7 @@
     "title": "미국-이란 합의: '3000억 달러 마련은 어떻게?' 여전히 모호한 미-이란 합의의 핵심 쟁점들 - BBC News 코리아",
     "url": "https://bbc.com/korean/articles/c74yq81d9kko",
     "description": "한 당국자는 미국은 이란에 한 푼도 지불할 의무가 없으며, 기금에 출연할 필요도 없다고 설명했다. 그러나 합의문의 실제 문구는 모호하며, 전쟁 종식에 합의하는 과정에서 미국이 결국 이란에 일정 자금을 지급할 가능성도 ...",
-    "age": "6 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-06-18T09:46:18",
     "profile": {
       "name": "BBC",
@@ -287,90 +89,24 @@
   },
   {
     "type": "news_result",
-    "title": "호르무즈 60일만 무료… 이란 \"이후 서비스 대가 받을 것\" [美-이란 종전 합의] - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606181829013326",
-    "description": "이는 향후 이란이 해상 안전 관리, 항로 통제, 선박 지원 서비스 등을 명분으로 일정한 비용을 부과할 근거로 해석된다. 실제 이란은 전쟁 기간 해협을 자국 관리 구역처럼 운영하며 외국 선박들에 통행료를 부과해 왔다.",
-    "age": "7 hours ago",
-    "page_age": "2026-06-18T09:29:10",
+    "title": "불타오르는 모스크바. 드론 수백대 대규모 공습 - 포텐 터짐 최신순 - 에펨코리아",
+    "url": "https://www.fmkorea.com/best/9972273447",
+    "description": "전쟁 이후 최대 규모 드론 공습 받은 모스크바.모스크바의 핵심 정유 시설인 모스크바 정유공장 (카포트냐 지역에 있어서 카포트냐 정유공장이라고도 함) 모습 ...",
+    "age": "10 hours ago",
+    "page_age": "2026-06-18T08:51:34",
     "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606181829013326"
+      "name": "FM Korea",
+      "url": "https://www.fmkorea.com/best/9972273447"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606181829013326"
+      "netloc": "fmkorea.com",
+      "hostname": "www.fmkorea.com",
+      "favicon": "https://imgs.search.brave.com/1UqMLpODoGuOGgFqYksJQvcudcQfc5NIpbUsjLyo7Ow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjhjNTc0MzI5/YTk5Y2JmZWYzYzI0/NTExZmIyYTY4ZWEz/NDE0ZGZkYWEyMDE2/NjFiODU0MTgzMWE2/YWUyNjE1NC93d3cu/Zm1rb3JlYS5jb20v",
+      "path": "› best  › 9972273447"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/dm_-HpOh0f_Ad7UTdrykMwfI64V3jDoux0kIoaExQl0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTgvMjAy/NjA2MTgxODI5MDI3/ODU4X2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"정말 끔찍한 합의\"…\"오바마랑 똑같다\" [美-이란 종전 합의] - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606181828532476",
-    "description": "미국과 이란의 종전 양해각서 전문이 공개되자 미국 보수 진영에서 거센 반발이 터져 나오고 있다.대표적인 보수 성향 라디오 진행자 마크 레빈도 \"처음부터 이란 정권은 어떤 합의도 지키지 않을 것이라고 말했다\"면서 ...",
-    "age": "7 hours ago",
-    "page_age": "2026-06-18T09:28:55",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606181828532476"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606181828532476"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Opinion | Trump and Netanyahu Have Really Stepped in It Now - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html",
-    "description": "In the aftermath of its terrible, ... on Oct. 7, the Israel Defense Forces had killed senior leaders of Hamas and Hezbollah, decimated Hamas and seriously damaged Hezbollah, and (with American and British help, among others) swatted aside Iran’s missile and drone ...",
-    "age": "7 hours ago",
-    "page_age": "2026-06-18T09:04:23",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/18/opinion/israel-america-iran-trump-vance.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 18  › opinion  › israel-america-iran-trump-vance.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cq7nk9mIxIwNgysjqfYc85RrI9YGQKr0khyD0PAVe6g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE4L29waW5p/b24vMThmcmVuY2gt/bmV3c2xldHRlci8x/OGZyZW5jaC1uZXdz/bGV0dGVyLWZhY2Vi/b29rSnVtYm8uanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump says 'fools' who criticize Iran stance 'are either jealous, bad people, or stupid' | The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-fools-who-criticize-iran-stance-are-either-jealous-bad-people-or-stupid/",
-    "description": "Thank you, David Horovitz, Founding Editor of The Times of Israel Join Our Community Join Our Community Already a member? Sign in to stop seeing this ... Op-edTrump’s deal is a catastrophic capitulation to Iran’s aggressors, leaves Israel vulnerable and constrained",
-    "age": "7 hours ago",
-    "page_age": "2026-06-18T08:48:08",
-    "profile": {
-      "name": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/trump-says-fools-who-criticize-iran-stance-are-either-jealous-bad-people-or-stupid/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "timesofisrael.com",
-      "hostname": "www.timesofisrael.com",
-      "favicon": "https://imgs.search.brave.com/OJQMSAvTflmuKWaGFi8G1JN7iB7VR_SsBpLzPv0OKAo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRiNjdiZWJi/NTM0ZWE5YzIxMDRl/N2E2ZDc0MWViZDM3/NTRkOWE4ZjRiYWQ3/MjI1MWUyYjc1ZWQw/NTkxNmViZC93d3cu/dGltZXNvZmlzcmFl/bC5jb20v",
-      "path": "› liveblog_entry  › trump-says-fools-who-criticize-iran-stance-are-either-jealous-bad-people-or-stupid"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/rNxJ9jKJXCochRI5y1k4EDK2mWbd3Vzv5pnPPea2lTw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLnRvaS1t/ZWRpYS5jb20vd3d3/L3VwbG9hZHMvMjAy/Ni8wNi9BUDI2MTY5/MDE2Mjc5MDk0LWUx/NzgxNzYyNzE1NTQx/LmpwZw"
+      "src": "https://imgs.search.brave.com/PTrUCuT36vsEwGCB_91Dn8nUrcIWxq7n0Bmp3IMm1gU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbWtvcmVhLmNv/bS9maWxlcy9hdHRh/Y2gvbmV3NS8yMDI2/MDYxOC85OTcyMjcz/NDQ3XzQ4NjI2M185/NmY5MmE3YjExNWI2/Y2U4MDJkYjNlNjY3/YmJiZTgwZi5qcGVn/P2M9MjAyNjA2MTgy/MDEzMjg"
     }
   },
   {
@@ -378,7 +114,7 @@
     "title": "美·이란 종전 서명…중동질서 뒤집히는 시발점 되나 | 한국경제",
     "url": "https://hankyung.com/article/2026061851441",
     "description": "세부 조항을 보면 이란은 ‘핵무기를 획득하거나 개발하지 않기로 재확인한다’는 데 합의해준 대가로 원유와 연료의 자유로운 수출을 보장받았다. 60일 이내에 최종 합의하면 미국 정부는 물론 유엔 등 국제기구의 각종 제재도 해제된다. ‘전쟁 ...",
-    "age": "8 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-18T08:34:54",
     "profile": {
       "name": "Hankyung",
@@ -397,10 +133,32 @@
   },
   {
     "type": "news_result",
+    "title": "연합뉴스TV",
+    "url": "https://yonhapnewstv.co.kr/news/AKR20260618145221yP5",
+    "description": "동결 자산 해제는 미국과의 합의에 반발하는 이란 내 강경파를 설득하려는 조치였다는 것이 오바마 행정부의 설명이었습니다. 그러나 당시 이스라엘과 미국 내 보수파는 오바마 행정부가 풀어준 해외 동결 자금이 친 이란 ...",
+    "age": "13 hours ago",
+    "page_age": "2026-06-18T05:52:23",
+    "profile": {
+      "name": "Yonhapnewstv",
+      "url": "https://yonhapnewstv.co.kr/news/AKR20260618145221yP5"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yonhapnewstv.co.kr",
+      "hostname": "yonhapnewstv.co.kr",
+      "favicon": "https://imgs.search.brave.com/QdyriCtXlNF0k9wxHIxU6MKhjvZ0M4Lrs3pnIw9tHPA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFhZTljYjc1/ZDA0MjMyMGEwOGQ5/YTM1YWFiNDcwNjYz/ZjVlMjNlMWQ5MDY5/YmVmYjNmMTQ3MTc5/ZDMzOTJhNi95b25o/YXBuZXdzdHYuY28u/a3Iv",
+      "path": "› news  › AKR20260618145221yP5"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/h9RockVmCbpzFp2fcNVCs7xDLYaTbmptm9gAxNzO3jI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS55b25oYXBuZXdz/dHYuY28ua3IvYXJ0/aWNsZS9BS1IvMjAy/NjA2MTgvQUtSMjAy/NjA2MTgxNDUyMjF5/UDVfMDFfaS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美당국자 \"이란 요청으로 종전 MOU 전문 공개 며칠 미뤄\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606181422410849",
     "description": "(서울=뉴스1) 김지완 기자 = 미국 정부 당국자는 이란과의 종전 양해각서(MOU) 전문을 미리 공개하지 않은 것에 대해 이를 19일까지 공개하지 말아 달라는 이란의 요청이 있었기 때문이라고 밝혔다.17일(현지시간) 타임스오브...",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-06-18T05:22:43",
     "profile": {
       "name": "First News",
@@ -419,90 +177,46 @@
   },
   {
     "type": "news_result",
-    "title": "Live updates: US and Iran sign initial agreement to end war but tougher talks lie ahead | CNN",
-    "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon",
-    "description": "President Donald Trump and Iranian President Masoud Pezeshkian signed a copy of the US-Iran agreement that aims to reopen the Strait of Hormuz and end the war. Follow for live updates.",
-    "age": "12 hours ago",
-    "page_age": "2026-06-18T04:32:04",
-    "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 06  › 18  › world  › live-news  › iran-war-trump-israel-lebanon"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/u7x4pxd7KU1fCnxNWq_GiI8SJE0FiHsxNm2y-2FPGKw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2lyYW4tMi0yMDI2/MDYxODAxMTU1MjUx/My5KUEc_Yz0xNng5/JnE9d184MDAsY19m/aWxs"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Ukraine launches largest attack on Moscow since start of full-scale war | CNN",
-    "url": "https://www.cnn.com/2026/06/18/europe/ukraine-strikes-moscow-oil-refinery-intl-hnk",
-    "description": "Some attacks took place in the Leningrad region, where St. Petersburg recently hosted a global economic forum often dubbed Russian President Vladimir Putin’s version of Davos. Russia’s state budget relies on oil earnings for at least one-third of its revenue, according to analysts. Since the Ukraine war began, the pool of buyers for Russian oil has shrunk, thanks to stricter sanctions from the European Union and Washington – though the Iran ...",
-    "age": "12 hours ago",
-    "page_age": "2026-06-18T04:20:44",
-    "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/06/18/europe/ukraine-strikes-moscow-oil-refinery-intl-hnk"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 06  › 18  › europe  › ukraine-strikes-moscow-oil-refinery-intl-hnk"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/1FLppkWfzbQtNnXu-eePE_3JIyt8smnx0U66bM7XvuI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L3VudGl0bGVkLTEt/MjAyNjA2MTgwNDI3/MTc0MzcuanBnP2M9/MTZ4OSZxPXdfODAw/LGNfZmlsbA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Oil prices fall after peace deal signed – as it happened | US-Israel war on Iran | The Guardian",
-    "url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
-    "description": "Iran’s foreign ministry said the agreement was already in effect as of Wednesday, as did mediator Pakistan. The deal calls for an immediate and permanent halt to military operations on all fronts, including Lebanon. It commits both sides and their allies to cease hostilities and refrain from the threat or use of force against each other, though Israel retains the right to strike back if Hezbollah attacks...",
-    "age": "12 hours ago",
-    "page_age": "2026-06-18T03:55:07",
-    "profile": {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "theguardian.com",
-      "hostname": "www.theguardian.com",
-      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
-      "path": "› world  › live  › 2026  › jun  › 17  › middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Ii7Uy2VnNThbJLhPCdyc_3ax9U3gtrRORLa4DTiOAK8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2NhZmE3/YzZiNWFkYTY2NTVi/YTQyNzllZGY3OGQ5/YjhhNGY5NjU0Yzkv/Ml8wXzQ2NTFfMzcy/MS9tYXN0ZXIvNDY1/MS5qcGc_d2lkdGg9/MTIwMCZoZWlnaHQ9/NjMwJnF1YWxpdHk9/ODUmYXV0bz1mb3Jt/YXQmZml0PWNyb3Am/cHJlY3JvcD00MDoy/MSxvZmZzZXQteDUw/LG9mZnNldC15MCZv/dmVybGF5LWFsaWdu/PWJvdHRvbSUyQ2xl/ZnQmb3ZlcmxheS13/aWR0aD0xMDBwJm92/ZXJsYXktYmFzZTY0/PUwybHRaeTl6ZEdG/MGFXTXZiM1psY214/aGVYTXZkR2N0Ykds/MlpTNXdibWMmZW5h/YmxlPXVwc2NhbGUm/cz00ZDllMzRjNmFk/ZDNiMDgwZjJhMTM0/OTZlZDE0YTQyOA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Donald Trump’s Iran deal met with anger, relief and incredulity | US-Israel war on Iran | The Guardian",
-    "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity",
-    "description": "President Donald Trump waves as ... of understanding on the Iran deal. Photograph: Anna Moneymaker/Getty Images ... G7 leaders and mediator Pakistan hailed the release of the memorandum of understanding, views that were not widely shared in Israel and among US Republ...",
+    "title": "'유가 담합 의혹' 현대오일뱅크 실무진 구속 기로…檢, 정유사 첫 신병 확보 나서",
+    "url": "https://www.newspim.com/news/view/20260618000709",
+    "description": "앞서 이재명 대통령은 지난 2월 말 미국의 이란 공격 이후 국내 유가 상승 우려가 커지자, 지난 3월 9일 중동상황 관련 비상경제점검회의에서 \"어려운 시장 환경을 악용해 부당 이익을 취하려는 세력에 대해서는 엄단해야 ...",
     "age": "13 hours ago",
-    "page_age": "2026-06-18T03:32:15",
+    "page_age": "2026-06-18T05:06:00",
     "profile": {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/18/donald-trump-iran-deal-reactions-anger-relief-incredulity"
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260618000709"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "theguardian.com",
-      "hostname": "www.theguardian.com",
-      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
-      "path": "› world  › 2026  › jun  › 18  › donald-trump-iran-deal-reactions-anger-relief-incredulity"
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260618000709"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/YX3_KuHgtFviES8PBICryt7LW6PStmg9QZBaRGryWjI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2NmMzA2/M2Q4YzUwYmQ0MmI4/YjhlYzliN2Y5Nzlk/NjdjMzEyZjkyNWMv/MjQzXzBfMjQzM18x/OTQ2L21hc3Rlci8y/NDMzLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz1lZDAw/N2U1ODFhNGYxOTNl/ODUwYjE4NmU3Zjdk/ZmNlOQ"
+      "src": "https://imgs.search.brave.com/m9xRqBwtaSz9AO2pC1-5qBvle12bCEYIH8RVqCtv4jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzI0LzI2MDMyNDE2/NDgwNDIzN190MS5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"이스라엘, 전쟁 패했다…핵합의 미루고 미사일·대리세력 그대로\" - 뉴스1",
+    "url": "https://www.news1.kr/world/usa-canada/6201257",
+    "description": "美싱크탱크 애틀랜틱카운슬 연구원 \"이란 신정은 막대한 자산 얻어\" 미국 싱크탱크 애틀랜틱 카운슬의 샬롬 립너 스코크로프트 중동 안보 이니셔티브 비상주 선임 연구원이 17일(현지시간) 미국·이란의 종전 양해각서(MOU) ...",
+    "age": "15 hours ago",
+    "page_age": "2026-06-18T03:23:01",
+    "profile": {
+      "name": "News1",
+      "url": "https://www.news1.kr/world/usa-canada/6201257"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news1.kr",
+      "hostname": "www.news1.kr",
+      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
+      "path": "› world  › usa-canada  › 6201257"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hDPSBy_dLdv1bCfMBXa_w7_iis4pumRGCwxNfDioCkg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI1LzEwLzEwLzc1/MzM5MDMvaGlnaC5q/cGc"
     }
   },
   {
@@ -510,7 +224,7 @@
     "title": "종전합의 : 미국-이란 14개항 양해각서의 구체적인 내용은? - BBC News 코리아",
     "url": "https://www.bbc.com/korean/articles/c7vynp652lqo",
     "description": "양해각서 서명 이후, 이란은 호르무즈 해협을 통과하는 상선들이 안전하게 항해할 수 있도록 \"최선을 다해 조처\"할 것이며, 이에 대한 요금은 부과하지 않는다고 한다. 이 해협의 재개방은 전쟁이 발발하고 전 세계 유가가 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-18T03:14:45",
     "profile": {
       "name": "BBC",
@@ -529,46 +243,24 @@
   },
   {
     "type": "news_result",
-    "title": "US and Iranian presidents sign deal aiming to end war",
-    "url": "https://www.bbc.com/news/articles/crr8z4z2er9o",
-    "description": "But the issue of Iran's nuclear programme, the main reason stated by the US for the conflict, is still to be negotiated over an extendable 60-day period. US President Donald Trump, who signed the deal in France during the G7 summit, defended the proposal, saying it would stave off an \"economic catastrophe\". He warned...",
-    "age": "13 hours ago",
-    "page_age": "2026-06-18T03:02:56",
+    "title": "공개된 양해각서... 이란은 미국을 완전히 이겼다 - 오마이뉴스",
+    "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0112&CNTN_CD=A0003244291&PAGE_CD=N0002",
+    "description": "미국은 얻은 것 없고 이란은 호르무즈 통제권까지 얻었다 ... ▲17일 이스라엘 북부 어퍼 갈릴리 지역, 이스라엘-레바논 국경 인근에서 이스라엘 메르카바 탱크들이 레바논 남부의 파괴된 건물들을 지나 도로를 따라 이동하고 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-06-18T02:39:00",
     "profile": {
-      "name": "BBC",
-      "url": "https://www.bbc.com/news/articles/crr8z4z2er9o"
+      "name": "OhmyNews",
+      "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0112&CNTN_CD=A0003244291&PAGE_CD=N0002"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "www.bbc.com",
-      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
-      "path": "› news  › articles  › crr8z4z2er9o"
+      "netloc": "ohmynews.com",
+      "hostname": "ohmynews.com",
+      "favicon": "https://imgs.search.brave.com/IeOdYt06C4GW6d_ptS1MfKepww6-5ba6AtNHhSHqpwg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzgyNmQ3MWFl/N2ZhMDI1NjI2OTMz/ZTdiOWE4MGM4ODU0/MDMxYzM5MjYwOWJj/YjBjY2ZiNGJhNGQx/MzUxOWE4NC9vaG15/bmV3cy5jb20v",
+      "path": "› NWS_Web  › View  › at_pg.aspx"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/qY50MOOCJ3uYXokFY8aco0Jnj11oXyCaYI2YTYiom-Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/MGY5NS9saXZlLzg3/NGQyNzYwLTZhYzgt/MTFmMS04Y2FjLTk5/NjcyNTJlYjdjNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump Iran deal leaves Israel's Netanyahu fuming, allies raging",
-    "url": "https://www.axios.com/2026/06/18/israel-reaction-trump-iran-deal-netanyahu",
-    "description": "There will be no repeat of Netanyahu's address to Congress in 2015 to rally opposition to then-President Obama's Iran deal. Netanyahu can't even go on cable news and bluntly oppose the deal, unless he wants a fight with Trump. Behind the scenes: Instead of public denunciations, Israeli officials ...",
-    "age": "13 hours ago",
-    "page_age": "2026-06-18T02:47:18",
-    "profile": {
-      "name": "Axios",
-      "url": "https://www.axios.com/2026/06/18/israel-reaction-trump-iran-deal-netanyahu"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "axios.com",
-      "hostname": "www.axios.com",
-      "favicon": "https://imgs.search.brave.com/36Qcnqeww33w_XW2TE8H562NGeN_xx12UkMckmcwb90/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
-      "path": "› 2026  › 06  › 18  › israel-reaction-trump-iran-deal-netanyahu"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Ygy3ptRv-QozeJtWSb19nFN-iPxjdt2bAtJGOihlwhA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXhpb3MuY29t/L2ZidGRwc3BXWmRS/UzVYOERqSE51d2p4/N1VoRT0vMHgwOjE5/MjB4MTA4MC8xMzY2/eDc2OC8yMDI2LzA0/LzE2LzE3NzYzNjA2/MzY5MDQuanBlZw"
+      "src": "https://imgs.search.brave.com/F06zdmEkqOOp4Db3nDfFVOzJZ-dsX_GtYytz8Lglh_s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vanNm/aWxlLm9obXluZXdz/LmNvbS9DUklfVF9J/TUcvMjAyNi8wNjE4/L0EwMDAzMjQ0Mjkx/X1QuanBn"
     }
   },
   {
@@ -576,7 +268,7 @@
     "title": "미국, 이란과의 종전 MOU 전문 공개... \"60일 내 합의 도출할 것\" - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003244252",
     "description": "트럼프 대통령은 \"이번 ... \"만약 이란이 합의를 준수하지 않는다면 그들이 이를 준수할 때까지 다시 폭격하게 될 것\"이라고 경고했다. 한편 백악관은 트럼프 대통령이 이날 베르사유 궁에서 양해각서에 서명했다며 트럼프 대통령이 에마뉘엘 마크롱 프랑스 대통령이 보는 앞에서 서명하는 장면을 공개하기도 했다. 호르무즈 해협, 60일간 비용 없이 통항... \"전쟁 이전엔 ...",
-    "age": "14 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-18T01:58:00",
     "profile": {
       "name": "OhmyNews",
@@ -598,7 +290,7 @@
     "title": "이란·미국 종전 협상 타결에 떠올린 얼굴들 - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003244169",
     "description": "필자는 과거 이란 반다르아바스 항구에서 만난 노동자를 떠올리며, 이란-미국 전쟁 당시 그곳을 걱정했던 경험을 회상한다. 조해진의 소설 '빛과 멜로디'는 러-우 전쟁을 배경으로 사진작가 권은과 기자 승준의 이야기를 통해 ...",
-    "age": "14 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-18T01:43:00",
     "profile": {
       "name": "OhmyNews",
@@ -617,200 +309,134 @@
   },
   {
     "type": "news_result",
-    "title": "Trump personally signs Iran deal at Versailles in major diplomatic breakthrough | Live Updates from Fox News Digital",
-    "url": "https://www.foxnews.com/live-news/iran-war-news-trump-deal-strait-hormuz-oil-prices-june-17",
-    "description": "President Donald Trump earlier slammed a \"false story\" about a $300 investment fund for Iran, saying the U.S. is \"not investing 10 cents.\" Speaking to reporters at the G-7 summit in France, Trump said he has not asked Arab allies to invest in any such fund. He warned Iran that the memorandum ...",
-    "age": "15 hours ago",
-    "page_age": "2026-06-18T01:31:34",
-    "profile": {
-      "name": "Fox News",
-      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-deal-strait-hormuz-oil-prices-june-17"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "foxnews.com",
-      "hostname": "www.foxnews.com",
-      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
-      "path": "› live-news  › iran-war-news-trump-deal-strait-hormuz-oil-prices-june-17"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/0NBu479nXi_KcSvX4ltEGUqkCzpJrMmaxyESwfTQnso/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZm94bmV3cy5j/b20vbGl2ZWJsb2cv/Zm4vcHJvZC9pbWFn/ZXMvMjAyNi8wNi82/YzM1ZWUzMGJmOTk0/YzI2OTI4Y2ZkZDEy/MTYxZmRlYS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Before Making a Deal, Trump Demanded Iran’s Surrender. He Got a Surprise. - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
-    "description": "David E. Sanger has covered five ... on the Iranian nuclear program for more than 20 years. ... See more of our coverage in your search results.Encuentra más de nuestra cobertura en los resultados de búsqueda. Add The New York Times on GoogleAgrega The New York Times en Google · It was less than 15 weeks ago when President Trump, at the height of his bravado about how the war with Iran ...",
-    "age": "15 hours ago",
-    "page_age": "2026-06-18T00:51:29",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › us  › politics  › trump-iran-deal-nuclear-program-strait.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/eqN9BtPqX71qJ-I3PIl6JvxldfS5vE3Aem7Jnq4pET0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L211bHRp/bWVkaWEvMTdEQy1Q/UkVYWS1tdnFqLzE3/REMtUFJFWFktbXZx/ai1mYWNlYm9va0p1/bWJvLXYyLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump signs Iran peace plan, claiming deal averts ‘worldwide depression’ | US-Israel war on Iran | The Guardian",
-    "url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
-    "description": "In extraordinary remarks on Wednesday, ... of dollars in frozen Iranian assets. Those remarks, as well as the full text of the agreement – which was hailed by the Hezbollah chief, Naim Qassem, as a “great victory” – are likely to fuel anger in Israel and among hardliners in ...",
-    "age": "16 hours ago",
-    "page_age": "2026-06-18T00:36:22",
-    "profile": {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "theguardian.com",
-      "hostname": "www.theguardian.com",
-      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
-      "path": "› world  › 2026  › jun  › 17  › trump-us-iran-war-mou-deal"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Zy-nLnUkmUnNiXoGWKT3DVSp3eAMbveNgmybA0mWaIA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2JjMGU1/Yjc3MzZlZDFlZGMy/MDI4NmNkM2MzZGE5/NjAzYzhjZmQ3Y2Mv/MjEwXzBfNzI1XzU4/MC9tYXN0ZXIvNzI1/LmpwZz93aWR0aD0x/MjAwJmhlaWdodD02/MzAmcXVhbGl0eT04/NSZhdXRvPWZvcm1h/dCZmaXQ9Y3JvcCZw/cmVjcm9wPTQwOjIx/LG9mZnNldC14NTAs/b2Zmc2V0LXkwJm92/ZXJsYXktYWxpZ249/Ym90dG9tJTJDbGVm/dCZvdmVybGF5LXdp/ZHRoPTEwMHAmb3Zl/cmxheS1iYXNlNjQ9/TDJsdFp5OXpkR0Yw/YVdNdmIzWmxjbXho/ZVhNdmRHY3RaR1Zt/WVhWc2RDNXdibWMm/ZW5hYmxlPXVwc2Nh/bGUmcz1iN2JjODBj/OTZmMGFiZWM5Mjg4/NmQ5NWQ1MGM2ODUx/ZA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "US and Iran presidents sign ceasefire agreement, but Trump says he could still resume attacks | Reuters",
-    "url": "https://www.reuters.com/world/middle-east/g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17/",
-    "description": "Iran's theocratic government remains in place, its stockpile of highly enriched uranium has not been surrendered, its ballistic missile capabilities have not been destroyed and it has not ended its support for anti-Israel militias like Hezbollah in Lebanon.",
-    "age": "16 hours ago",
-    "page_age": "2026-06-18T00:05:55",
-    "profile": {
-      "name": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "reuters.com",
-      "hostname": "www.reuters.com",
-      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
-      "path": "› world  › middle-east  › g7-leaders-demand-ceasefire-lebanon-welcome-iran-deal-2026-06-17"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/5pOGRHwzZuFTdy4kuMbk0rrjtbHoUBnCa0aNDR8wEEE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9a/SUU3VUI2U0FST1BM/QlpLVkdUNUNQTFEy/TS5qcGc_YXV0aD0x/OTBlNTQzYTQ5ZDIy/NjBlZWE0OWUyMmQ5/NmQ2NTFiMjYwZGNi/ODdjNzI5ZGY3Yzlh/NTM4M2Q4NjVkMWUx/MGZhJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war live: Iran president hails US deal as ‘historic document’ | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz",
-    "description": "Remarks comes as Israel continues its war on Lebanon, killing several people",
-    "age": "16 hours ago",
-    "page_age": "2026-06-18T00:00:00",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › liveblog  › 2026  › 6  › 18  › iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ThUcLIcf9whn_DbKA7RqIeXRiTeS8SQxjlN1zedWmJE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNy9BRlBfXzIw/MjUwNzA3X182NFpR/OTlGX192MV9fSGln/aFJlc19fRmlsZXNJ/cmFuSXNyYWVsQ29u/ZmxpY3RQb2xpdGlj/cy0xNzUxOTAzODI2/LmpwZz9yZXNpemU9/MTkyMCUyQzE0NDA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 “중·러 덕에 전쟁 악화 막아···이란 합의 위반 땐 다시 폭격” - 경향신문",
-    "url": "https://khan.co.kr/article/202606180824001",
-    "description": "도널드 트럼프 미국 대통령이 이란과의 종전 합의 과정에서 중국과 러시아가 중립을 유지했다며 공개적으로 감사를 표했다. 그는 두 나라가 이란을 군사적으로 지원하지 않은 덕분에 상황이 악화하지 않았다고 평가했다.",
+    "title": "이란·미국 종전 협상 타결에 떠올린 얼굴들 - 오마이뉴스",
+    "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0117&CNTN_CD=A0003244169&PAGE_CD=N0002",
+    "description": "석 달 전부터 한동안 매일 아침 일어나면 구글 검색창에 'Bandar Abbas(반다르아바스)'라 쳐서 넣는 것이 일이었다. 미국이 이란을 선제 공격하며 매일 같이 이란 군사 시설에 미사일이 떨어지던 때였다.",
     "age": "17 hours ago",
-    "page_age": "2026-06-17T23:24:00",
+    "page_age": "2026-06-18T01:43:00",
     "profile": {
-      "name": "Khan",
-      "url": "https://khan.co.kr/article/202606180824001"
+      "name": "OhmyNews",
+      "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0117&CNTN_CD=A0003244169&PAGE_CD=N0002"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "khan.co.kr",
-      "hostname": "khan.co.kr",
-      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
-      "path": "› article  › 202606180824001"
+      "netloc": "ohmynews.com",
+      "hostname": "ohmynews.com",
+      "favicon": "https://imgs.search.brave.com/IeOdYt06C4GW6d_ptS1MfKepww6-5ba6AtNHhSHqpwg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzgyNmQ3MWFl/N2ZhMDI1NjI2OTMz/ZTdiOWE4MGM4ODU0/MDMxYzM5MjYwOWJj/YjBjY2ZiNGJhNGQx/MzUxOWE4NC9vaG15/bmV3cy5jb20v",
+      "path": "› NWS_Web  › View  › at_pg.aspx"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/B9tl_Mm1PfcXb4C1CNHvI2oAhg1XLX9XZrVtqrCVFiQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDYv/MTgvcmN2LllOQS4y/MDI2MDYxOC5QQVAy/MDI2MDYxODE2Mjgw/MTAwOV9QMS5qcGc"
+      "src": "https://imgs.search.brave.com/bsQZ-12CYqYK18svjWEjaLrE7Ycec24rVQ0WaxCz3Q8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vanNm/aWxlLm9obXluZXdz/LmNvbS9DVF9UX0lN/Ry8yMDI2LzA2MTcv/SUUwMDM2MzY1MTBf/TFQuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "The Israeli Ultra-Hawks Who Feel Betrayed by Trump’s Iran Deal | The New Yorker",
-    "url": "https://www.newyorker.com/news/q-and-a/the-israeli-ultra-hawks-who-feel-betrayed-by-trumps-iran-deal",
-    "description": "Isaac Chotiner interviews Shimon Riklin, an anchor on Israel’s right-leaning Channel 14, and a Benjamin Netanyahu ally, who feels stabbed in the back by Trump’s Iran deal.",
+    "title": "이란 종전·매파 연준에 글로벌 증시 “반도체·MLCC 빼고 다 내린다” [줍줍 리포트] | 서울경제",
+    "url": "https://www.sedaily.com/article/20057228",
+    "description": "글로벌 투자 자금은 반도체로 집중 삼성전자와 하이닉스 나란히 상승세 종전 합의에 방산주 조선주는 급락 전력과 배터리 로봇주도 동반 하락 미국과 이란의 전쟁 종식 합의라는 호재 속 국내외 증시가 극심한 ‘반도체 ...",
     "age": "17 hours ago",
-    "page_age": "2026-06-17T23:22:24",
+    "page_age": "2026-06-18T01:21:41",
     "profile": {
-      "name": "The New Yorker",
-      "url": "https://www.newyorker.com/news/q-and-a/the-israeli-ultra-hawks-who-feel-betrayed-by-trumps-iran-deal"
+      "name": "Sedaily",
+      "url": "https://www.sedaily.com/article/20057228"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newyorker.com",
-      "hostname": "www.newyorker.com",
-      "favicon": "https://imgs.search.brave.com/tkitLMg3J1vY-5YZpaJGRPVOaBY3q2e4gqlsrnEaKJs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q1NGM2MWZk/MTdhOTRjYzJlOWNj/NzM5Mjc5MmQ2ZTFl/N2MxOTg2NDYxYjI5/NjZkNjdmNTViMDY0/OTExMDI0ZS93d3cu/bmV3eW9ya2VyLmNv/bS8",
-      "path": "› news  › q-and-a  › the-israeli-ultra-hawks-who-feel-betrayed-by-trumps-iran-deal"
+      "netloc": "sedaily.com",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
+      "path": "› article  › 20057228"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/LNNF2WkN83s8D_x-XwW77gyO48HWfETyah1FwUI6F5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5uZXd5b3JrZXIu/Y29tL3Bob3Rvcy82/YTMzMDI5Nzg0YTI1/NmYwOTM1OTA5OTYv/MTY6OS93XzEyODAs/Y19saW1pdC9DaG90/aW5lci1HZXR0eUlt/YWdlcy0yMjgxMTUy/NzU1LmpwZw"
+      "src": "https://imgs.search.brave.com/HahO2dEUaqltOe96mbaTLBwl4uLHmzQOv0fO5A9wfOo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMTgvbmV3/cy1wLnYxLjIwMjYw/NjE4LjBhYjYyOTU5/NTY4ZDQ5MGE5NWEw/ZDJjNmNmNDczZTQw/X1IuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "Senate targets Hegseth’s travel in standoff over Iran school attack, boat strikes - The Washington Post",
-    "url": "https://www.washingtonpost.com/national-security/2026/06/17/senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes/",
-    "description": "Frustrated senators are threatening to withhold 75 percent of Defense Secretary Pete Hegseth’s travel budget unless the Pentagon provides Congress with answers about an apparent U.S. strike on a girls’ school in Iran and the military’s ongoing attacks targeting alleged drug smuggling ...",
+    "title": "[중동戰 그 후]\"60일만 공짜\"…美·이란 MOU, 호르무즈 통행료 예고하나 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202606181012185078",
+    "description": "공개된 문구에 따르면 \"이란은 60일 동안만 수수료 부과 없이 호르무즈 해협을 통과하는 상선의 자유 통항을 보장하기 위해 최선을 다한다\"고 명시됐다. 미국 측은 이를 전쟁 이후 호르무즈 해협의 조기 정상화 조치로 설명하고 ...",
     "age": "17 hours ago",
-    "page_age": "2026-06-17T22:55:18",
+    "page_age": "2026-06-18T01:12:19",
     "profile": {
-      "name": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/17/senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes/"
+      "name": "First News",
+      "url": "https://fnnews.com/news/202606181012185078"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "washingtonpost.com",
-      "hostname": "www.washingtonpost.com",
-      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
-      "path": "› national-security  › 2026  › 06  › 17  › senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes"
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202606181012185078"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/O--lwKHcv-pdQoBpO1-w5OakAflPu4q4I8JRUJmssTg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbG91/ZGZyb250LXVzLWVh/c3QtMS5pbWFnZXMu/YXJjcHVibGlzaGlu/Zy5jb20vd2Fwby9a/NzRBNjRKT0pMQkFU/Q1NTVUo1S1E0RUJD/US5KUEc"
+      "src": "https://imgs.search.brave.com/s4w4eJX_VN_lImbSEctMKVr1a6E_xfFOkrEoKDF_yTc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMTgvMjAy/NjA2MTgxMDEyMTI2/MzIxX2wuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "How Does Trump’s Deal With Iran Compare to Obama’s? - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-obama-iran-deals.html",
-    "description": "Who’s involved: The Obama-era ... Union. It addressed Iran’s nuclear program. The recently negotiated memorandum of understanding is an arrangement between Washington and Tehran that addresses the conflict that began with the U.S.-Israeli attack on Iran in late ...",
+    "title": "미-이란 양해각서 발효...레바논 전쟁 종식·457조 재건기금 등 포함 < 종합 < 서울& < 기사본문 - SPN 서울평양뉴스",
+    "url": "https://spnews.co.kr/news/articleView.html?idxno=108213",
+    "description": "그러나 이 조항은 앞으로 이스라엘의 레바논 공격과 이스라엘이 \"안보 지대\"라고 부르는 레바논 남부 점령에 대해 이란이 트럼프 대통령을 압박할 근거가 될 수 있다.",
     "age": "18 hours ago",
-    "page_age": "2026-06-17T22:35:38",
+    "page_age": "2026-06-18T00:19:11",
     "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-obama-iran-deals.html"
+      "name": "Spnews",
+      "url": "https://spnews.co.kr/news/articleView.html?idxno=108213"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › world  › middleeast  › trump-obama-iran-deals.html"
+      "netloc": "spnews.co.kr",
+      "hostname": "spnews.co.kr",
+      "favicon": "https://imgs.search.brave.com/rHcAlyo0PeHCqlf6BshM6CGj58J7PoGv8pQoD7NBBYQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Q2NDNiNTNj/NmJmZjdlYTI4NGQ5/M2QzYTJlNGJhOTE3/M2ZmODA3NmM1OWE1/MjEwMmYxMDlhN2Q1/ZjE2NzU0Yi9zcG5l/d3MuY28ua3Iv",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/pz3Nxj9QCywhfhPuHRVc7KqhkDGtn52RBODl1eOpqkQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L211bHRp/bWVkaWEvMTdpbnQt/amNwb2EtdHJ1bXAx/LWtjcHEvMTdpbnQt/amNwb2EtdHJ1bXAx/LWtjcHEtZmFjZWJv/b2tKdW1iby5qcGc"
+      "src": "https://imgs.search.brave.com/9srvHKDG_EUCzAKRnnNZSNfp3Gl6_UNMKr2CVi1OYwY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BuZXdzLmNvLmty/L25ld3MvcGhvdG8v/MjAyNjA2LzEwODIx/M18xMDk4ODVfMjIz/MS5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美·이란 합의 숨은 공신은 카타르…이스라엘은 번번이 훼방",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02978246645483032",
+    "description": "블룸버그, 美·이란 협상 막전막후 보도 카타르, 테헤란·워싱턴D.C 오가며 물밑 중재 합의 임박 때마다 이스라엘 레바논 공격에 발목 美 이란 해상 봉쇄 해제 막판 제시하자 타결",
+    "age": "20 hours ago",
+    "page_age": "2026-06-17T22:59:09",
+    "profile": {
+      "name": "Edaily",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02978246645483032"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "edaily.co.kr",
+      "hostname": "edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
+      "path": "› News  › Read"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/qi3Nbde2N8wXsUGgC7zouR0rZhvPBEJreQwu6jMdveA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNi9Q/UzI2MDYxODAwMTgw/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "모퓰리즘? 탈모 건보 지원 7000억 원, 우선순위 맞나: 슬로우레터 6월18일. - 슬로우뉴스.",
+    "url": "https://slownews.kr/161726",
+    "description": "자금이 풀리면 이란은 인플레이션을 낮출 수 있다. 탈옥(jailbreak)은 AI의 안전장치를 깨는 걸 말한다. 증류(distillation)는 AI에 프롬프트 폭탄을 던져서 추론 능력을 베끼는 걸 말한다. 앤트로픽 미토스와 페이블의 차이가 여기에 있다. 미토스에 안전장치를 심은 게 페이블인데 페이블을 탈옥해서 공격 ...",
+    "age": "20 hours ago",
+    "page_age": "2026-06-17T22:40:52",
+    "profile": {
+      "name": "Slownews",
+      "url": "https://slownews.kr/161726"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "slownews.kr",
+      "hostname": "slownews.kr",
+      "favicon": "https://imgs.search.brave.com/kEx1nZ_1sf_YIH6crc2L30ekXTwXT9PmaPWZJJZ6HBE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDAxYzcyZGUy/ZWY2Y2M4ZjkwOTkw/YjFkMzc4NjU1YjIy/NTZlODdmMzA0M2Zj/M2JhODQwYzMwMGEw/M2U5YjM1ZC9zbG93/bmV3cy5rci8",
+      "path": "› 161726"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/cQVH0DhDU2H22pFD0dRwM5-BiwxjkuoizsXpIKTek0E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zbG93/bmV3cy5rci93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNi8wNi9H/ZXR0eUltYWdlcy0x/NDU4ODM4MDc2Lmpw/Zw"
     }
   },
   {
@@ -818,7 +444,7 @@
     "title": "이란 “종전 MOU, 이스라엘의 레바논 공격 중단 포함해 ‘실질적 이행’ 돼야” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10774309",
     "description": "중국 외교부는 17일 왕이 중국 공산당 중앙외사판공실주임과 아바스 아라그치 이란 외무장관이 전화 통화로 현안에 관한 의견을 교환했다고 알리며 이란은 미국과 체결한",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-17T22:34:20",
     "profile": {
       "name": "Herald Corp",
@@ -837,266 +463,112 @@
   },
   {
     "type": "news_result",
-    "title": "Trump signs MOU with Iran ending war while at Versailles with Emmanuel Macron",
-    "url": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/",
-    "description": "President Trump on Wednesday signed the memorandum of understanding (MOU) between the U.S. and Iran ending the war between the two countries while visiting French President Emmanuel Macron at Versa…",
-    "age": "18 hours ago",
-    "page_age": "2026-06-17T22:18:42",
-    "profile": {
-      "name": "The Hill",
-      "url": "https://thehill.com/homenews/administration/5929356-trump-signs-iran-agreement/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "thehill.com",
-      "hostname": "thehill.com",
-      "favicon": "https://imgs.search.brave.com/3vZRKWe3Z8PDPL7PYg2LbSB-xm9smJxmp7fU8MEj8jA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE3ODFmZDMz/MmVhOTY5M2UxOWU0/N2JjZTQ0ODQ3ZGJi/OGQwNzc0MGJjY2U3/ZTUzOWExMmJjZjkx/NDBhYTVkZS90aGVo/aWxsLmNvbS8",
-      "path": "› homenews  › administration  › 5929356-trump-signs-iran-agreement"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/--0Ix4ESqi4EytZONnFvnVkAirXBJZTctCUDPOXIrgg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVo/aWxsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDI2LzA2L0FQMjYx/Njg2ODk3OTMxOTAu/anBnP3c9MTI4MA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "How the U.S.-Iran Deal Came Down to the Wire - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-deal-trump.html",
-    "description": "The agreement, which punted many of the toughest issues to future negotiations, came after a last-minute scramble.",
-    "age": "18 hours ago",
-    "page_age": "2026-06-17T22:08:21",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-deal-trump.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › us  › politics  › us-iran-deal-trump.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/62BVUkNb22XzFm-gsjWOmcaEe09Yj_pdRLOPEZAxELw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE2L211bHRp/bWVkaWEvMTZEQy1E/RUFMLXRvcC1wbWtn/LzE2REMtREVBTC10/b3AtcG1rZy1mYWNl/Ym9va0p1bWJvLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Here's how much the Iran war cost -- and how its effects will linger : NPR",
-    "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
-    "description": "More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.",
-    "age": "19 hours ago",
-    "page_age": "2026-06-17T21:23:54",
-    "profile": {
-      "name": "NPR",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "npr.org",
-      "hostname": "www.npr.org",
-      "favicon": "https://imgs.search.brave.com/Y1l6Dzd6VM4_ltfNpwB9Esia4wtA5Fyy600GWlxTPcY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGY0NTM3MmEx/MjJkYTQ5YTlmYjFk/YTJhYmNjNGM5M2Q2/NThjYjg0YWMxY2My/YmU5NDlmMTQ0YzJi/YzNjNGFlMS93d3cu/bnByLm9yZy8",
-      "path": "› 2026  › 06  › 17  › nx-s1-5860739  › iran-war-cost-oil-military-trade"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DCCXqihQukqb4CJvmmjbvIqcjOlxegEiQ6FwbTpQ_sg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ucHIu/YnJpZ2h0c3BvdGNk/bi5jb20vZGltczMv/ZGVmYXVsdC9zdHJp/cC9mYWxzZS9jcm9w/LzYyNDB4MzUxMCsw/KzMyNS9yZXNpemUv/MTQwMC9xdWFsaXR5/Lzg1L2Zvcm1hdC9q/cGVnLz91cmw9aHR0/cCUzQSUyRiUyRm5w/ci1icmlnaHRzcG90/LnMzLmFtYXpvbmF3/cy5jb20lMkZhNSUy/RjQ3JTJGMjY2ZGIy/MDg0MDE5OWZiMjgy/MGZmMjJmYzA5NSUy/RmdldHR5aW1hZ2Vz/LTIyNzg1NTk0NDMu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump Defends Deal to End the War With Iran as Details Emerge - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
-    "description": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
-    "age": "19 hours ago",
-    "page_age": "2026-06-17T21:17:38",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › world  › middleeast  › trump-iran-deal-obama.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3nLO09E1jK4_rCLncNGfZ3-OjeO8qkIwHb2R6YmpnwA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L211bHRp/bWVkaWEvMTdpbnQt/aXJhbi1sZWRlYWxs/LTEtcXpjbC8xN2lu/dC1pcmFuLWxlZGVh/bGwtMS1xemNsLWZh/Y2Vib29rSnVtYm8u/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "US Ambassador to Israel Mike Huckabee pushes back at Iran over Lebanon",
-    "url": "https://thehill.com/homenews/administration/5928860-israel-hezbollah-iran-lebanon-mike-huckabee/",
-    "description": "U.S. Ambassador to Israel Mike Huckabee on Wednesday pushed back on Iran after officials called on Israel to withdraw from Lebanon and stop carrying out airstrikes. “Iran demands @Israel ceas…",
-    "age": "20 hours ago",
-    "page_age": "2026-06-17T20:09:08",
-    "profile": {
-      "name": "The Hill",
-      "url": "https://thehill.com/homenews/administration/5928860-israel-hezbollah-iran-lebanon-mike-huckabee/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "thehill.com",
-      "hostname": "thehill.com",
-      "favicon": "https://imgs.search.brave.com/3vZRKWe3Z8PDPL7PYg2LbSB-xm9smJxmp7fU8MEj8jA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE3ODFmZDMz/MmVhOTY5M2UxOWU0/N2JjZTQ0ODQ3ZGJi/OGQwNzc0MGJjY2U3/ZTUzOWExMmJjZjkx/NDBhYTVkZS90aGVo/aWxsLmNvbS8",
-      "path": "› homenews  › administration  › 5928860-israel-hezbollah-iran-lebanon-mike-huckabee"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Q5aQHK10bocgEDeFwFVqYX6x5SzpYkp_TZUEj5D9_QI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVo/aWxsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDI1LzA2L0FQMjUx/NDYyNjk3Mjg2OTYt/ZTE3NTA3OTAyNjM2/OTUuanBnP3c9MTI4/MA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel cut out of Iran deal as Trump keeps deriding Netanyahu in public",
-    "url": "https://www.nbcnews.com/world/israel/israel-iran-deal-trump-criticizes-netanyahu-mou-rcna350488",
-    "description": "The Israeli public’s reckoning with Netanyahu’s performance has collided with an increasingly impatient Trump.",
+    "title": "이란 MOU 전문 공유 논란…美 \"이스라엘 배제 없었다\" | 아주경제",
+    "url": "https://www.ajunews.com/view/20260618063833346",
+    "description": "미국과 이란의 종전 양해각서(MOU) 내용을 이스라엘이 사전에 전달받았는지를 두고 양측 설명이 엇갈리고 있다.이스라엘 채널12 방송은 17일(현지시간) 미국 고위...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T18:02:14",
+    "page_age": "2026-06-17T21:39:53",
     "profile": {
-      "name": "NBC News",
-      "url": "https://www.nbcnews.com/world/israel/israel-iran-deal-trump-criticizes-netanyahu-mou-rcna350488"
+      "name": "Aju News",
+      "url": "https://www.ajunews.com/view/20260618063833346"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nbcnews.com",
-      "hostname": "www.nbcnews.com",
-      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
-      "path": "› world  › israel  › israel-iran-deal-trump-criticizes-netanyahu-mou-rcna350488"
+      "netloc": "ajunews.com",
+      "hostname": "www.ajunews.com",
+      "favicon": "https://imgs.search.brave.com/_AUj3DETaA8fJjC5U_ria7_IDrO4M6EUDxUwgMb-QgY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxYjExMzVm/Y2RiMmFiZDY0ODVh/ZDY0YTgyMWRjNjNk/YjY5ZTg5YWNiODVk/YzJhZjMxYzhiNjFj/ZjNkODQ1OC93d3cu/YWp1bmV3cy5jb20v",
+      "path": "› view  › 20260618063833346"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Pw7DjCG6pJSpaAWsmOY_8R6TbhuGfI4tdBvyhgJHo4w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDYvMjYw/NjE3LW5ldGFueWFo/dS10cnVtcC1tYi0x/MzM4LWMzNjg5My5q/cGc"
+      "src": "https://imgs.search.brave.com/2HombxUPGq_boR3rF6S53M9J01n5XJYUx9u9cJR3c5k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDYv/MTgvMjAyNjA2MTgw/NjM4NTM0MTgyMjIu/anBn"
     }
   },
   {
     "type": "news_result",
-    "title": "Trump and Iran's President Pezeshkian sign memorandum aimed to end war",
-    "url": "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html",
-    "description": "President Trump earlier said at the G7 summit that the memorandum of understanding with Iran \"might not be the kind of document that I should be signing.\"",
+    "title": "‘이스라엘 패싱’ 논란에 美 “네타냐후와 종전 합의 두고 지속 소통…MOU 열람 요청 안해” - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10774281",
+    "description": "지난해 12월 29일 도널드 ... 이스라엘 총리를 플로리다 주 팜비치에 있는 마러라고 클럽으로 불러 중동 안보에 관해 논의했다. 당시 기자회견의 모습. [게티이미지] [헤럴드경제=도현정 기자] 미국 정부가 이란과의 종전 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T17:15:24",
+    "page_age": "2026-06-17T21:28:59",
     "profile": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html"
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10774281"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "cnbc.com",
-      "hostname": "www.cnbc.com",
-      "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
-      "path": "› 2026  › 06  › 17  › trump-vance-iran-deal-nuclear-g7.html"
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10774281"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/2Coal1K-BFqAGR0WnJickBqHc_mlcUhP5WDnnNlGgYw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgzMjMzMTYt/MTc4MTcxNDk2ODY4/Ni1nZXR0eWltYWdl/cy0yMjgxNDQ3OTg5/LUFGUF9CN0ZBODZL/LmpwZWc_dj0xNzgx/NzE1MDA3JmFtcDt3/PTE5MjAmYW1wO2g9/MTA4MA"
+      "src": "https://imgs.search.brave.com/szNekNdFIkLFsbVIXupZPlP8PkDIymrRgwSvG8Cko-A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMTgv/bmV3cy1wLnYxLjIw/MjYwNjE4LmI1NjBi/MGQ1ZjdjNTQzMDU5/ZTJjOWE4NWY1Y2Zl/ZjdjX1QxLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "U.S.-Iran Agreement Includes Strait of Hormuz, Lebanon and More: See Full Text of the Deal - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html",
-    "description": "The final deal will confirm the permanent termination of the war on all fronts, including in Lebanon, and other provisions of this paragraph. The references to Lebanon here amount to remarkable rejections by the United States of Israel’s concerns about the threat posed by Hezbollah, the Iran-al...",
+    "title": "내일 종전 MOU‥\"이란, 합의 안 지키면 또 폭격\"",
+    "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6831012_37012.html",
+    "description": "◀ 앵커 ▶ 종전에 합의한 미국과 이란이 양해각서 초안을 두고 이견을 드러낸 상황에서, 미국 트럼프 대통령이 \"합의를 준수하지 않으면 또 폭격할 거\"라며 위협적인 발언을 내놨습니다. ◀ 앵커 ▶ 레바논에선 헤즈볼라와 이스라엘 사이 보복 공격이 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T17:13:12",
+    "page_age": "2026-06-17T21:04:20",
     "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html"
+      "name": "IMBC",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6831012_37012.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › us  › politics  › us-iran-agreement-deal-text.html"
+      "netloc": "imnews.imbc.com",
+      "hostname": "imnews.imbc.com",
+      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
+      "path": "› replay  › 2026  › nwtoday  › article  › 6831012_37012.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/MEWuvBpam2H0srBaMHymUGyGGVz-iFkFwnexwjQLSPI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L3VzLzE3/ZGMtaXJhbi1kZWFs/LXByb21vLTAyLzE3/ZGMtaXJhbi1kZWFs/LXByb21vLTAyLWZh/Y2Vib29rSnVtYm8u/cG5n"
+      "src": "https://imgs.search.brave.com/L4b6xiFditV9P-fl1CsX0ePI04jaW32aJbYvDFJUquc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbnd0b2Rh/eS9hcnRpY2xlL19f/aWNzRmlsZXMvYWZp/ZWxkZmlsZS8yMDI2/LzA2LzE4L3RvZGF5/XzIwMjYwNjE4XzA2/MDM1MF8xXzJfTGFy/Z2UuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "Stars of Israel’s TV Channel for Bibi Fans Turn on Trump - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html",
-    "description": "Leading figures from Channel 14, a right-wing broadcaster that supports Prime Minister Benjamin Netanyahu, are openly attacking the U.S. president over his Iran deal.",
+    "title": "[금/유가] \"이란 합의 안 지키면 폭격\" 트럼프에 유가 상승…FOMC 후 금값 하락",
+    "url": "https://www.newspim.com/news/view/20260618000032",
+    "description": "레바논 보안 소식통에 따르면 친이란 무장단체 헤즈볼라도 남부 지역의 이스라엘군을 겨냥해 드론 공격 두 차례를 감행했다. 이번 양해각서는 이스라엘과 이란의 지원을 받는 레바논 무장정파 헤즈볼라 간의 교전을 중단하는 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T15:19:37",
+    "page_age": "2026-06-17T20:53:00",
     "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/world/middleeast/israel-channel-14-trump-criticism.html"
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260618000032"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › world  › middleeast  › israel-channel-14-trump-criticism.html"
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260618000032"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/d3s45DpQFOGOu9N4I5Bs0ddtwrq4On7DWgn4YlAWIqY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L3dvcmxk/LzE3aXNyYWVsLWNo/YW5uZWwxNC8xN2lz/cmFlbC1jaGFubmVs/MTQtZmFjZWJvb2tK/dW1iby12Mi5qcGc"
+      "src": "https://imgs.search.brave.com/EX3JTDHxoJBZieVVE9QpxovcwVFq3MQF051I48b-EDM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzMwLzI2MDMzMDA4/MDM0NjA3NTBfMzA4/X3RjLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "Senate threatens to freeze Hegseth’s travel in bid for boat strike videos, Iran school strike probe - POLITICO",
-    "url": "https://www.politico.com/news/2026/06/17/senate-threatens-to-freeze-hegseths-travel-in-bid-for-boat-strike-videos-iran-school-strike-probe-00964789",
-    "description": "no evidence the U.S. committed a war crime with the attack. Roughly 150 individuals — mostly children — were killed in the bombing of the elementary school in Minab on Feb. 28 in the opening hours of the U.S. assault on Iran.",
+    "title": "미국 역사상 가장 '강경한' 대통? ?이 이란이 평화 협? ?을 파기한 것에 대해 ? ?재를 가하?? 다?? 위협했다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/06/18/67805.html",
+    "description": "트럼프 대통령이 언급했듯이, 이란과 미국 간의 모든 합의 사항이 양해각서에 반영된 것은 아닙니다. 이스라엘은 앞서 양해각서를 검토하고 내용을 파악하기 위해 접근을 요청했지만, 미국은 이를 거부했습니다.",
     "age": "1 day ago",
-    "page_age": "2026-06-17T14:29:00",
+    "page_age": "2026-06-17T17:38:12",
     "profile": {
-      "name": "POLITICO",
-      "url": "https://www.politico.com/news/2026/06/17/senate-threatens-to-freeze-hegseths-travel-in-bid-for-boat-strike-videos-iran-school-strike-probe-00964789"
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/06/18/67805.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "politico.com",
-      "hostname": "www.politico.com",
-      "favicon": "https://imgs.search.brave.com/5pGbbvvoTdkXtJPdMBGIy7Z3DxpMCmwu8SBfsS3NRs0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjEyYjZjY2M2/ZTYyOTVmZTlhNzI4/ZDJlNjNhNmU1ZmUy/Zjc2MWNkYWM5ZDM4/ZWQ0YjIxOTM4Y2Zj/MDZjNjAwOC93d3cu/cG9saXRpY28uY29t/Lw",
-      "path": "› news  › 2026  › 06  › 17  › senate-threatens-to-freeze-hegseths-travel-in-bid-for-boat-strike-videos-iran-school-strike-probe-00964789"
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 06  › 18  › 67805.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/TUCwqhMGkihMlh_eTCsQuk1VApmSw06te4N5OxhjZJk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cG9saXRpY28uY29t/L2RpbXM0L2RlZmF1/bHQvcmVzaXplLzEy/MDAvcXVhbGl0eS85/MC9mb3JtYXQvanBn/P3VybD1odHRwcyUz/QSUyRiUyRnN0YXRp/Yy5wb2xpdGljby5j/b20lMkY2MSUyRmI5/JTJGNmM4YWQ0OWM0/ODUzYTUwMmFkYjU2/Y2Y0MjZiMSUyRnBl/bnRhZ29uLWNvbmdy/ZXNzLTUtMjE4Lmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama - The New York Times",
-    "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html",
-    "description": "Obama on the world stage underscored ... with Iran, which Mr. Trump has trumpeted as a legacy-defining achievement. The president has regularly sought to cast himself as a better negotiator than Mr. Obama, and he has criticized the deal Mr. Obama signed in 2015 as financially rewarding Tehran without an ironclad guarantee that it would never obtain a nuclear weapon. His personal attack on the former ...",
-    "age": "1 day ago",
-    "page_age": "2026-06-17T14:09:53",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› 2026  › 06  › 17  › us  › politics  › trump-iran-peace-deal-obama.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_9sb61lgP-yh5S_4uLmgcnpn_znMfDQIekXnP5LHmVk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L211bHRp/bWVkaWEvMTd0cnVt/cC1pcmFuLWRlYWwt/anRxYy8xN3RydW1w/LWlyYW4tZGVhbC1q/dHFjLWZhY2Vib29r/SnVtYm8tdjIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israeli air strikes on Lebanon continue despite US-Iran deal | Israel attacks Lebanon News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal",
-    "description": "There has been a reduction in violence since the US-Iran agreement was announced, but attacks have not stopped.",
-    "age": "1 day ago",
-    "page_age": "2026-06-17T13:15:42",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 6  › 17  › israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_Rub3eHTNKuIvuyhRdn2A0640ALS5K321Tpk9APTZOA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi9hZnBfNmEz/MWIyZmIwNjQ1LTE3/ODE2NDE5NzkuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
+      "src": "https://imgs.search.brave.com/aKvPDZFDdb2L9K1E6aUMeyECc7qBhJWTq4JHW6bphd0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNjE4LzNlOWYy/MzkxMWU3MjMxZDY3/YmU3MTg3ODU1ZDdm/YmNiLmpwZw"
     }
   },
   {
@@ -1145,6 +617,28 @@
   },
   {
     "type": "news_result",
+    "title": "이란 매체 “블룸버그가 공개한 종전 MOU 세부내용 부정확해”",
+    "url": "https://v.daum.net/v/20260617213251200",
+    "description": "이란 타스님뉴스는 17일(현지시간) 블룸버그 통신이 공개한 미·이란간 종전 양해각서(MOU) 내용이 “부정확하고 세부 내용이 상당 부분 미흡하다”고 보도했다. 종전 협상에 정통한 소식통은 매체에 “블룸버그가 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-17T12:38:06",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260617213251200"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260617213251200"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/MOpSnEq84jUgMVKTvj8g0iLXQWpWRgMioRyU16SPUWs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/Ny9qb29uZ2FuZy8y/MDI2MDYxNzIxMzI1/MzQzNmRwcW0uanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란전쟁 끝나서 심심한 트황상 근황",
     "url": "https://bbs.ruliweb.com/community/board/300143/read/75604736",
     "description": "21세기 전쟁사의 로스트 테크놀러지 · 생전 처음보는 반도체 출고 모습 · 손님 차 끌고 마트가서 장보고 온 식당 사장 · 미쿠가 걱정되는 뉴비 · \"치과의사는 당신의 구강성교 여부를 알 수 있다\" 뒤에 배경 밤으로 바꿔줘 ·",
@@ -1167,90 +661,134 @@
   },
   {
     "type": "news_result",
-    "title": "Vance says US will only release 'economic chokehold' on Iran if it changes behaviour as he defends deal - live updates - BBC News",
-    "url": "https://www.bbc.com/news/live/c8j2ewl0dpxt",
-    "description": "The main question for many here ... gained from this war and that it was worth short-term economic unease. ... Vance is asked when the 60-day negotiation period begins, and he says it starts today. He is then asked how the conflict between Israel and Iran-backed Hezbollah in ...",
+    "title": "美, 19일부터 이란 원유 판매 허용… 韓 기업 참여 투자펀드도 띄운다 < 외교/안보 < POLITICS < 기사본문 - 더퍼블릭",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=308097",
+    "description": "다만 미국이 기존에 동결한 ... 이란 자산은 이번 합의 대상에서 제외된다. 새로 발생하는 원유 수입과 민간 투자만 허용하고, 기존 동결 자산은 앞으로 협상 지렛대로 남겨두겠다는 것이다. 미국, 이스라엘 냅무에서는 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T11:09:38",
+    "page_age": "2026-06-17T11:26:56",
     "profile": {
-      "name": "BBC",
-      "url": "https://www.bbc.com/news/live/c8j2ewl0dpxt"
+      "name": "Thepublic",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=308097"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "www.bbc.com",
-      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
-      "path": "› news  › live  › c8j2ewl0dpxt"
+      "netloc": "thepublic.kr",
+      "hostname": "www.thepublic.kr",
+      "favicon": "https://imgs.search.brave.com/PYRB0shlAmAMkmYbRvfqNoywPZcGrL_VIaOCKEFsYBU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FmZDZkMTEz/ZTdlYTgxYmNjMTJj/MTFhNmQwN2Y5ZTFj/NDg2NDQyYWQzYmMw/OTIzN2I2MzdkOTI0/ZmU5NjE3ZC93d3cu/dGhlcHVibGljLmty/Lw",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/DdSDaqKGRq9HT4oy-wgh3nL6RhMZBfxZ7bARy43Ypec/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L2FjZS9icmFuZGVk/X25ld3MvMTIwMC9j/cHNwcm9kcGIvOWZj/Mi9saXZlL2Q2ZDE4/YTAwLTZiMjMtMTFm/MS04ZTFkLWJiYmIx/MDE3ZDIxMC5wbmc"
+      "src": "https://imgs.search.brave.com/syvc86UyXYSB_1FZUFfuJ1MERrjooqFwWepHDsx95P0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlcHVibGljLmty/L25ld3MvcGhvdG8v/MjAyNjA2LzMwODA5/N18zMTA3MzNfMjY1/Ny5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "Trump formally signs U.S.-Iran deal as questions linger about nuclear program, missiles",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-israel/",
-    "description": "The Trump administration released the 14-point memorandum of understanding on Wednesday. President Trump emphasized the U.S.-Iran agreement is not a final deal, and he warned the U.S. could resume bombing Iran \"if they don't behave.\" A White House official later confirmed to CBS News that the U.S.",
+    "title": "양해각서 초안 까보니 이란의 승리?…훨씬 유리한 조항들",
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008615313",
+    "description": "반면 미국이 강조했던 핵 ... 이란이 외교적으로 승리한 것이라는 평가가 나옵니다. 첫 소식, 김영아 기자의 보도입니다. <기자> 블룸버그 통신은 오늘(17일) 미국이 G7 정상회의에서 동맹국들에게 종전 양해각서 초안을 돌리기 시작했다며 그 내용을 공개했습니다. 14개 항으로 구성된 합의문의 첫 조항에선 MOU 서명과 동시에 레바논을 포함한 모든 전선에서 전쟁을 끝낸다고 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T10:19:00",
+    "page_age": "2026-06-17T11:04:00",
     "profile": {
-      "name": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-israel/"
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008615313"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "cbsnews.com",
-      "hostname": "www.cbsnews.com",
-      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
-      "path": "› live-updates  › iran-war-us-trump-peace-deal-israel"
+      "netloc": "news.sbs.co.kr",
+      "hostname": "news.sbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
+      "path": "› news  › endPage.do"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/HgfvqRlMHTUXLx60ZVIod_65YkmR3dMiXUvmzIwCgeo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMyLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/Ni8xNy84NDA5MzZh/Mi05OWJlLTRhMmIt/OTUxYi02YzE2MjA5/MmJlMjkvdGh1bWJu/YWlsLzEyMDB4NjMw/ZzIvMjcxMTk2NjI2/YTRhNDM3NTQwYTM5/YTA1NGQxNDQzOTcv/Z2V0dHlpbWFnZXMt/MjI4MTQxODkzMC5q/cGc"
+      "src": "https://imgs.search.brave.com/ivRUxGg_Nb4DBl9jxO7iDr81J3u_C8YPP0AI7jRZjyE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYwNjE3LzIwMjE5/MzY5M18xMjgwLmpw/Zw"
     }
   },
   {
     "type": "news_result",
-    "title": "Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal | Reuters",
-    "url": "https://www.reuters.com/world/middle-east/netanyahu-israels-arch-survivor-set-face-voter-fury-over-iran-deal-2026-06-17/",
-    "description": "JERUSALEM, June 17 (Reuters) - Israeli Prime Minister Benjamin Netanyahu's hopes of clinging to power in an election this autumn have long been shaky, but the interim U.S. deal with Iran has added yet another complication.",
+    "title": "이스라엘이 ? ?바논에 대한 새로운 공격을 감행함으로써, 그들은 합의를 무시하?? 있음을 보여주?? 있다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/06/17/67770.html",
+    "description": "이스라엘이 ? ?바논에 대한 새로운 공격을 감행함으로써, 그들은 합의를 무시하?? 있음을 보여주?? 있다 ... 이스라엘은 미국과 이란이 체결한 합의에 관심이 없다는 점을 분명히 하고 있습니다.",
     "age": "1 day ago",
-    "page_age": "2026-06-17T10:07:12",
+    "page_age": "2026-06-17T10:34:55",
     "profile": {
-      "name": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-israels-arch-survivor-set-face-voter-fury-over-iran-deal-2026-06-17/"
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/06/17/67770.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "reuters.com",
-      "hostname": "www.reuters.com",
-      "favicon": "https://imgs.search.brave.com/g-LRPAPxrx_Eqo7F4IKC-Guqa4ONApD9n_VKZlqfqWo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE0MWM3N2Ji/ZjQ3ZDhmYzI3NjMz/ODNjYTRiMGI4MjM4/OTExMzRkM2E1ODI4/MjI4YzA0ZWQ0OTRk/YWY5YTQwMy93d3cu/cmV1dGVycy5jb20v",
-      "path": "› world  › middle-east  › netanyahu-israels-arch-survivor-set-face-voter-fury-over-iran-deal-2026-06-17"
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 06  › 17  › 67770.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/jBqWieeI7CHi_UALogvQTPfPiXCfsj5tHSwPzgUQMdA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmV1dGVycy5jb20v/cmVzaXplci92Mi9L/Q0RSVFNENDNGTldM/QjRLSlpIUkxYRUI3/QS5qcGc_YXV0aD1l/YzEyYTg1NjlkZTcy/ZDc0NzJhZTRlN2Yy/YjIyM2FmZWEzMzg2/YTAxMDY5OTQ5NDRh/ODQ2MjNiNThkNzQy/MDNmJmFtcDtoZWln/aHQ9MTAwNSZhbXA7/d2lkdGg9MTkyMCZh/bXA7cXVhbGl0eT04/MCZhbXA7c21hcnQ9/dHJ1ZQ"
+      "src": "https://imgs.search.brave.com/DgI1h41S4fUNkj_bJHvHPULZyygKSNUwVD-f-yru04w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNjE3LzgzYTU4/ZTA2NzI3NzkzOGFk/YzZhY2ExYjQwY2Ji/Y2U4LmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "How Trump sidelined national security experts ahead of his war with Iran | CNN Politics",
-    "url": "https://www.cnn.com/2026/06/17/politics/trump-sidelined-national-security-experts-iran",
-    "description": "While key officials from agencies including the Departments of Energy and Treasury were present for some of the early planning meetings before the US attacked Iran, sources briefed on the meetings said, the agency analyses and forecasts that would have been integral elements of the decision-making ...",
+    "title": "미국은 ?? 조?? 들에게 호르무즈 해협을 통과?? 때 수수료를 받?? \"VIP 통행\"을 ? ?공하?? 있다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/06/17/67756.html",
+    "description": "도널드 트럼프 대통령은 ... 발표했지만, 선주들은 서두르지 않고 있습니다. 미국과 이란 간의 합의가 제대로 작동하는지, 그리고 자신들의 선박이 공격 대상이 되지 않을지 먼저 확인해야 한다고 생각하기 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T09:00:07",
+    "page_age": "2026-06-17T09:05:27",
     "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/06/17/politics/trump-sidelined-national-security-experts-iran"
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/06/17/67756.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 06  › 17  › politics  › trump-sidelined-national-security-experts-iran"
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 06  › 17  › 67756.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/_EPtempKc7nsf2iUsgxRoxSa8nzwA7b1AG1j27r6wnU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2dldHR5aW1hZ2Vz/LTIyNjM1ODQ1NTUu/anBnP2M9MTZ4OSZx/PXdfODAwLGNfZmls/bA"
+      "src": "https://imgs.search.brave.com/mShpcBGHRLHidR0fG1NumM_N2Sr6dhd3TILXODtJMEM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNjE3LzNmNDBi/MDY2ZjNjZDBmN2Yx/MTFhNzJkMjY5MTZk/ODE2LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美 정보당국 “이란에 핵보다 강력한 해협 통제권 준 것”",
+    "url": "https://v.daum.net/v/20260618005317782",
+    "description": "미국 정보 당국이 최근 “이란은 이제 사실상 원할 때마다 호르무즈 해협을 차단할 수 있는 능력을 확보했다”고 평가했다고 CNN이 16일 복수의 소식통을 인용해 보도했다. 보도에 따르면, 미국은 이번 전쟁을 통해 이란이 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-17T09:02:30",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260618005317782"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260618005317782"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3P5lG9DNGAn1K_t21ZzNmLAKvR-4XepotyUx6adQUmc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwNi8x/OC9jaG9zdW4vMjAy/NjA2MTgwMDUzMTk0/Mjh4cGNtLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미 국방부, ‘그록’ 활용해 이란 공습 계획 수립…\"96시간 만에 2000개 표적 타격 지원\" < 산업일반 < AI산업 < 기사본문 - AI타임스",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211834",
+    "description": "미 국방부, ‘그록’ 활용해 이란 공습 계획 수립…\"96시간 만에 2000개 표적 타격 지원\" ... 일론 머스크 CEO의 xAI가 개발한 ‘그록(Grok)’이 올해 초 미국과 이스라엘의 대이란 군사작전에서 실제 폭격 임무 계획 수립에 활용된 것으로 드러났다. 미국 국방부는 그록이 군의 표적 선정과 정보 분석을 지원하며 단기간에 대규모 공격 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-17T08:49:39",
+    "profile": {
+      "name": "AI타임스",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=211834"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aitimes.com",
+      "hostname": "www.aitimes.com",
+      "favicon": "https://imgs.search.brave.com/SFhF08v0Zm3B3DI87sq-15fnv5rFA0-QvpPNFfwtHDk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2FmNzM1ODMw/NWE1Njk5M2RhMTM5/OTNlNjE3MGM1MGNl/ODNiYjYyNGZlMDk4/MjFiMmU3ZjcxYzll/YmZiM2U1MC93d3cu/YWl0aW1lcy5jb20v",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2Uc9T_EfcEFqjW8mcNtUaTqvBpLQmdUZ-xKAtUEqWSY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWl0aW1lcy5jb20v/bmV3cy9waG90by8y/MDI2MDYvMjExODM0/XzIxNDkyMF81ODMx/LmpwZw"
     }
   },
   {
@@ -1277,46 +815,90 @@
   },
   {
     "type": "news_result",
-    "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit - The New York Times",
-    "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
-    "description": "But the agreement, whose terms ... about Iran’s nuclear program — President Trump’s oft-stated priority — into a 60-day negotiation period that could be extended by “mutual consent.” · The details were released as Mr. Trump, speaking on the final day of the Group of 7 summit in France, said at a news conference that the deal could be signed as soon as Thursday or Friday, but asserted the right to attack Iran again ...",
+    "title": "[영상] 기회인가 리스크인가…이란 재건기금 논란 | 연합뉴스",
+    "url": "https://yna.co.kr/amp/view/AKR20260617149200797",
+    "description": "(서울=연합뉴스) 이정진 ... MOU에 이란 재건을 위한 3천억 달러 규모의 민간기금 조성계획이 포함된 것으로 알려졌습니다. 여기에 한국과 일본 기업 등이 이미 참여계획을 밝혔다는 외신 보도가 잇따르고 있는데요, 전쟁 배상금 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T07:59:29",
+    "page_age": "2026-06-17T08:17:32",
     "profile": {
-      "name": "NYTimes",
-      "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france"
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/amp/view/AKR20260617149200797"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "www.nytimes.com",
-      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
-      "path": "› live  › 2026  › 06  › 17  › world  › g7-summit-trump-france"
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› amp  › view  › AKR20260617149200797"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/UuNTNRMBrKvb4mk6J6gXw0990Sv4wDmz9hK6fYQndvE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA2LzE3L211bHRp/bWVkaWEvMTdnNy1w/cm9tby0zNDVFU1Qt/a2JjZi8xN2c3LXBy/b21vLTM0NUVTVC1r/YmNmLWZhY2Vib29r/SnVtYm8uanBn"
+      "src": "https://imgs.search.brave.com/7wfkSk4lc1dNDnnQJ17SUSEBsn8zvO0qpDBEmps10Xs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc1/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNi8xNy9B/S1IyMDI2MDYxNzE0/OTIwMDc5N18wMV9p/X1A0LmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal",
-    "description": "Iran warns of a 'harsh response' as Lebanon attacks test the US deal and strain Trump-Netanyahu ties.",
+    "title": "‘조용한 중재국’ 오만, 미·이란 전쟁의 숨은 수혜자일까 - 경향신문",
+    "url": "https://khan.co.kr/article/202606171646001",
+    "description": "미국과 이란, 이스라엘이 각기 다른 ‘전쟁 성적표’를 받아든 가운데 오만이 의외의 수혜자로 떠오르고 있다. 미국 편에 선 다른 걸프 국가들과 달리 균형을 유지한 덕분에 이란을 중심으로 재편될 중동 질서에서 유리한 ...",
     "age": "1 day ago",
-    "page_age": "2026-06-17T07:24:12",
+    "page_age": "2026-06-17T07:46:00",
     "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal"
+      "name": "Khan",
+      "url": "https://khan.co.kr/article/202606171646001"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 6  › 17  › iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal"
+      "netloc": "khan.co.kr",
+      "hostname": "khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/OL4MKlDMyyR7NFlvOIwOS-w9gThgcnDOHe9c_PvpiLA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3YjAwMDBi/OTc2MWFiNDc4NzQx/NDZjODFhNzQ4Mjc3/MWQ5ZmM5ZGFkNWRm/MTczNDg3YmFiZmNm/Njk3YTU1Ni9raGFu/LmNvLmtyLw",
+      "path": "› article  › 202606171646001"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ACKTk1KARH1ZYdBieWas03I6_NF_5t67sjLaVGV7d0A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi8yMDI2LTA2/LTE1VDA5MDEyMFpf/MTM3MzcxNjkzMl9S/QzI1VUxBUkgxUDhf/UlRSTUFEUF8zX0lS/QU4tQ1JJU0lTLTE3/ODE2NjkxOTguanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
+      "src": "https://imgs.search.brave.com/GFtFgsyqiroNevTCPt-5ueBybdWYedvtq5Ex7GIsgSU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDYv/MTcvbmV3cy1wLnYx/LjIwMjYwNjE3LjQ0/MTAwMzgzOGM0MDQx/ZDU4YmViZDkzNWFj/NDE0YjE0X1AxLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[외신사진 속 이슈人] 월드컵에 등장한 ‘두 개의 이란’, 같은 조국이지만 다른 응원 | 디지털타임스",
+    "url": "https://dt.co.kr/article/12068120",
+    "description": "이란 축구대표팀이 2026 FIFA 북중미 월드컵 첫 경기에 나선 날, 경기장 안팎에서는 이란계 미국인들의 엇갈린 목소리가 터져 나왔습니다. 경기장에서 가장 눈에 띈 것은 선수들이 아니었습니다. 이란 대표팀을 응원하는 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-17T07:16:01",
+    "profile": {
+      "name": "Dt",
+      "url": "https://dt.co.kr/article/12068120"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "dt.co.kr",
+      "hostname": "dt.co.kr",
+      "favicon": "https://imgs.search.brave.com/ohMAjCYLuZOj_g3_jJBUDRwsuiM0X53fuw6xTTZpDds/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjhmYTk0MzA4/ZWVjYWNjNzY1NjQ0/Mjc1NTU3NzgzNjI0/NmFmNGNmZmIzNjg2/YTg2NjRmNzZlOTg5/OTExY2NlYi9kdC5j/by5rci8",
+      "path": "› article  › 12068120"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/1LV6l537bBr2xXb4b5nHGiu1PjiA4RPlxsI7Ac9kX9E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmR0LmNvLmtyL25l/d3MvY21zLzIwMjYv/MDYvMTcvbmV3cy1w/LnYxLjIwMjYwNjE3/LjdiOWQ1YzliYmU0/YTQ3NDA4M2Y1Njk4/MWNlZDA5MWQzX1Iu/anBlZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국과 이란 종전 MOU 둘러싼 '해괴한' 소문들 : 전쟁 당사자인 이스라엘도 못 봤다",
+    "url": "https://www.huffingtonpost.kr/article/258034",
+    "description": "도널드 트럼프 미국 행정부가 이란과 종전 양해각서(MOU)에 전자서명한 것으로 알려진 가운데, 전쟁의 또 다른 핵심 당사국인 이스라엘은 해당 합의문을 열람하지 못한 것으로 드러났다.",
+    "age": "1 day ago",
+    "page_age": "2026-06-17T07:07:54",
+    "profile": {
+      "name": "Huffington Post",
+      "url": "https://www.huffingtonpost.kr/article/258034"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "huffingtonpost.kr",
+      "hostname": "www.huffingtonpost.kr",
+      "favicon": "https://imgs.search.brave.com/zsjr411VwoctFUCuSX3NsqHHbAMgkwLEQDbBGXS4_8k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjYjY3OWY2/NjllYzNjYzZmZTky/MzMyNTJhZGYzMWM0/YTE3Y2Y5MTYwMWM0/YzQ5ZjE5NjJkZjFi/NWJlYTQ4OC93d3cu/aHVmZmluZ3RvbnBv/c3Qua3Iv",
+      "path": "› article  › 258034"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/OvdcjTo8Vw_baUSg8UYXH1L9E_nWshg2swS6bnOMcdI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aHVmZmluZ3RvbnBv/c3Qua3IvbmV3cy9w/aG90by8yMDI2MDYv/MjAyNjA2MTc5ODc1/LmpwZz92PTI1ODAz/NA"
     }
   },
   {
@@ -1346,7 +928,7 @@
     "title": "“이란전쟁 승자는 중국…에너지 질서 재편 수혜” < 국제 < 기사본문 - 시사저널",
     "url": "https://sisajournal.com/news/articleView.html?idxno=376803",
     "description": "NYT는 이번 전쟁이 중동산 화석연료 공급망의 취약성을 드러내는 계기가 됐다고 평가했다. 특히 이란의 호르무즈 해협 봉쇄와 걸프국 에너지 시설 폭격으로 세계 경제가 전례 없는 에너지 공급난과 가격 급등을 겪었다고 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-17T05:59:30",
     "profile": {
       "name": "Sisa Journal",
@@ -1365,90 +947,156 @@
   },
   {
     "type": "news_result",
-    "title": "Live updates: Trump signs hard copy of US-Iran agreement | CNN",
-    "url": "https://www.cnn.com/2026/06/17/world/live-news/iran-war-g7-summit",
-    "description": "It also states Tehran will “not procure or develop nuclear weapons” and commits the US and regional partners to developing a $300 billion reconstruction fund for Iran that will be implemented in the next phase of negotiations. • In Lebanon: The text of the agreement ends the war on all ...",
-    "age": "1 day ago",
-    "page_age": "2026-06-17T04:55:13",
+    "title": "트럼프, 걸프 국가들의 요청으로 이란에 대한 대규모 공격 연기 - 뉴스투데이 / 아이데일리",
+    "url": "https://ntoday.net/%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B1%B8%ED%94%84-%EA%B5%AD%EA%B0%80%EB%93%A4%EC%9D%98-%EC%9A%94%EC%B2%AD%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%9E%80%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8",
+    "description": "무슨 일이 일어났나요? 미국 대통령은 외교에 더 많은 시간을 할애해 달라는 카타르, 사우디아라비아, 아랍에미리트의 요청에 따라 오늘로 예정된 이란에 대한 대규모 공격을 연기했습니다.",
+    "age": "2 days ago",
+    "page_age": "2026-06-17T04:52:33",
     "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/06/17/world/live-news/iran-war-g7-summit"
+      "name": "Ntoday",
+      "url": "https://ntoday.net/%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B1%B8%ED%94%84-%EA%B5%AD%EA%B0%80%EB%93%A4%EC%9D%98-%EC%9A%94%EC%B2%AD%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%9E%80%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 06  › 17  › world  › live-news  › iran-war-g7-summit"
+      "netloc": "ntoday.net",
+      "hostname": "ntoday.net",
+      "favicon": "https://imgs.search.brave.com/8CouwLWN329nCYJj2cV9ejs64xoUWZb-Qa3M37uHurA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjFkNmI0ZDY4/YWJiNjQ0ZGYxNGE0/MTZlYzM2OTYwZjI5/MTgyZWE0ZDRhMDIy/Zjc4MTNhMWRlODVh/ZTljZWQ0Zi9udG9k/YXkubmV0Lw",
+      "path": "› 트럼프-걸프-국가들의-요청으로-이란에-대한-대규모"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ikn2_wZByHqRNJR0FRsX_636rr3uSuPTEwz-JzNjz74/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2dldHR5aW1hZ2Vz/LTIyODE0NDkyNThh/LkpQRz9jPTE2eDkm/cT13XzgwMCxjX2Zp/bGw"
+      "src": "https://imgs.search.brave.com/LVENBWSkTtzNbN6nUINJu1_4X0Sac_mD5RyDYiJNAtk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bnRvZGF5Lm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8w/Ni_tirjrn7ztlIQt/6rG47ZSELeq1reqw/gOuTpOydmC3smpTs/sq3snLzroZwt7J20/656A7JeQLeuMgO2V/nC3rjIDqt5zrqqgt/6rO16rKpLeyXsOq4/sC53ZWJw"
     }
   },
   {
     "type": "news_result",
-    "title": "Analysis: Why Trump’s secret and vague MOU is stirring a political storm | CNN Politics",
-    "url": "https://www.cnn.com/2026/06/17/politics/trump-iran-deal-what-does-the-mou-say",
-    "description": "The text of President Donald Trump’s ... with Iran — when it is finally published — may not dispel his critics’ fears of a bad deal. There are increasing signs that it will confirm them. The failure to make public the terms of the memo to end the war — greeted as an epochal breakthrough by Trump on Sunday — seeded a vacuum quickly filled by confusion, anxiety among Republican hawks and growing attacks by ...",
+    "title": "중동 ‘종전 합의’에 韓 건설주 ‘폭등’…‘450조 재건 특수’ 기지개 켠다 < 경제일반 < ECONOMICS < 기사본문 - 더퍼블릭",
+    "url": "https://www.thepublic.kr/news/articleView.html?idxno=307990",
+    "description": "[더퍼블릭=김미희 기자]지난 2월 28일 미국과 이스라엘의 공격 직후 이란 이슬람혁명수비대(IRGC)이 호르무즈해협을 봉쇄하면서 전 세계를 고유가 위기에 직면하게 한 중동전쟁이 막을 내릴 것으로 보인다.",
     "age": "2 days ago",
-    "page_age": "2026-06-17T04:00:07",
+    "page_age": "2026-06-17T04:24:21",
     "profile": {
-      "name": "CNN",
-      "url": "https://www.cnn.com/2026/06/17/politics/trump-iran-deal-what-does-the-mou-say"
+      "name": "Thepublic",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=307990"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "www.cnn.com",
-      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
-      "path": "› 2026  › 06  › 17  › politics  › trump-iran-deal-what-does-the-mou-say"
+      "netloc": "thepublic.kr",
+      "hostname": "www.thepublic.kr",
+      "favicon": "https://imgs.search.brave.com/PYRB0shlAmAMkmYbRvfqNoywPZcGrL_VIaOCKEFsYBU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2FmZDZkMTEz/ZTdlYTgxYmNjMTJj/MTFhNmQwN2Y5ZTFj/NDg2NDQyYWQzYmMw/OTIzN2I2MzdkOTI0/ZmU5NjE3ZC93d3cu/dGhlcHVibGljLmty/Lw",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/2K1X4uncsx1Kgz6CBnn9mpgW00Bm4le3zUQKSsOe3ws/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2MtZ2V0dHlpbWFn/ZXMtMjI4MTI2OTQ0/OS5qcGc_Yz0xNng5/JnE9d184MDAsY19m/aWxs"
+      "src": "https://imgs.search.brave.com/mgd3uDenmH7_5sZj_yx-OV90rhPI7_SvqthgvlCxlII/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlcHVibGljLmty/L25ld3MvcGhvdG8v/MjAyNjA2LzMwNzk5/MF8zMTA2MzlfNDgy/NS5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "US-Iran deal takes 'immediate effect' after both sides sign, Pakistan premier says",
-    "url": "https://apnews.com/live/g7-summit-updates-06-17-2026",
-    "description": "President Donald Trump says he signed a memorandum of understanding on ending the war in Iran while at Versailles on Wednesday.",
+    "title": "이란 “미·이란 합의, 이스라엘 레바논 철군 포함해야”…서명 앞두고 중동 정세 다시 긴장 - Radio Seoul",
+    "url": "https://www.radioseoul1650.com/archives/142962",
+    "description": "미국과 이란의 전쟁 종식 합의가 공식 서명을 앞두고 또 다른 난관에 부딪혔습니다. 이란은 미국과의 합의가 성립되려면 이스라엘군이 레바논 남부에서 철수해야 하며, 이스라엘의 추가 공습도 중단돼야",
     "age": "2 days ago",
-    "page_age": "2026-06-17T03:36:00",
+    "page_age": "2026-06-17T04:06:32",
     "profile": {
-      "name": "AP News",
-      "url": "https://apnews.com/live/g7-summit-updates-06-17-2026"
+      "name": "Radio Seoul",
+      "url": "https://www.radioseoul1650.com/archives/142962"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "apnews.com",
-      "hostname": "apnews.com",
-      "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
-      "path": "› live  › g7-summit-updates-06-17-2026"
+      "netloc": "radioseoul1650.com",
+      "hostname": "www.radioseoul1650.com",
+      "favicon": "https://imgs.search.brave.com/7P9r4tSYUAWA1qGZh_QZfmy_aVNJ6gLfGvXo8x3_-Ro/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTY4OWQzMmZi/ZWQ1MmZmYmNjZjk4/N2QzMGI0MzVkYTU1/OGYwNDk1NWUwOGRh/YjQ4YTRkNGQ4NGM1/NDUxN2MxOC93d3cu/cmFkaW9zZW91bDE2/NTAuY29tLw",
+      "path": "› archives  › 142962"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/w0oao2pStgEPQrCiRbMbfpJTfAu7dtdm9NTHNCFEtwM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9mNTc5MGU2LzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/Lzc0Mjh4NDk0OSsw/KzEvcmVzaXplLzk4/MHg2NTMhL3F1YWxp/dHkvOTAvP3VybD1o/dHRwcyUzQSUyRiUy/RmFzc2V0cy5hcG5l/d3MuY29tJTJGYzYl/MkYzNyUyRjE3YTY1/YjMzNGMwMDkxZjJh/MmUyNGVhZDMwYzEl/MkZhcDI2MTY4Nzc0/NTM2NzUzLmpwZw"
+      "src": "https://imgs.search.brave.com/UN6iuZhOL6mqfFyN2Ji1lMtjmrK7Ll2ZUhfKZ7cOpdk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA2L2ly/YW4tcGVhY2UuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "Trump says ‘no rush’ on destroying uranium, Vance denies U.S. will send funds to Iran",
-    "url": "https://www.ms.now/liveblog/iran-news-trump-israel-war-june-16-2026",
-    "description": "CIA Director John Ratcliffe and ... that Iran would agree to the nuclear steps Washington sought in the agreement. ... Jun. 16, 2026, 11:21 PM EDT Updated Jun. 17, 2026, 4:10 PM EDT ... Live updates have ended. While attending the G7 summit in France, President Donald Trump today slammed Israel’s handling ...",
+    "title": "\"도저히 납득못해\"…美·이란 종전 합의에 강경 보수 진영도 반발",
+    "url": "https://www.asiae.co.kr/article/2026061711051661185",
+    "description": "이란 전쟁은 트럼프 대통령의 지지율을 끌어내리고, 그의 지지자들 사이에서도 균열을 냈다. 트럼프 대통령의 대표적인 지지자였던 보수 성향 유명 팟캐스터 터커 칼슨과 메긴 켈리는 이란 전쟁을 이스라엘에 휘둘린 미국 ...",
     "age": "2 days ago",
-    "page_age": "2026-06-17T03:21:15",
+    "page_age": "2026-06-17T02:17:55",
     "profile": {
-      "name": "MS NOW",
-      "url": "https://www.ms.now/liveblog/iran-news-trump-israel-war-june-16-2026"
+      "name": "Asiae",
+      "url": "https://www.asiae.co.kr/article/2026061711051661185"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "ms.now",
-      "hostname": "www.ms.now",
-      "favicon": "https://imgs.search.brave.com/Hn2ceNhinPUhKz7CfxmyRxBAOC8n43h2F4o-ysirhl4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmExYzE4ZDZm/NTY4YTc0ZjhmNWI0/ZTMyZTNiM2NmMTll/ZWJjYTNlYWI0MTRi/ZGZmOTFiZDBjNWZk/MmM2NGRkNy93d3cu/bXMubm93Lw",
-      "path": "› liveblog  › iran-news-trump-israel-war-june-16-2026"
+      "netloc": "asiae.co.kr",
+      "hostname": "www.asiae.co.kr",
+      "favicon": "https://imgs.search.brave.com/RDmBfKpAPQmNETa2oahXWq_uYPANhdwj9snoGJ9MA_8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjMzZWMxOGYw/ZWI4YmJmOWY4OTM4/Y2I5YjcwYjU0MzU5/ODdhNzlhODNjMDEz/NDk0OWFhZDgyYjVm/ZTI5NjdkOC93d3cu/YXNpYWUuY28ua3Iv",
+      "path": "› article  › 2026061711051661185"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/p-tzOm1Z2wKlb21DtQ1BhebgvqZk7AFSIZmnVkpbHgs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bXMubm93L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA2LzI2/MDYxNi1wcmVzaWRl/bnQtZG9uYWxkLXRy/dW1wLWc3LWZyYW5j/ZS1lcy53ZWJwP2Ny/b3A9MHB4LDU3cHgs/MTYwMHB4LDg0MHB4/Jnc9MTIwMCZoPTYz/MA"
+      "src": "https://imgs.search.brave.com/zw-mk3H-ISm2utvCJ03cd8e3PSHHyEgwrDzVMf0Xc-s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jcGhv/dG8uYXNpYWUuY28u/a3IvbGlzdGltZ2xp/bmsvMS8yMDI2MDYx/NzExMDMzNDEyNjE0/XzE3ODE2NjE4MTQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[글로벌 마켓 리포트 6월 17일]",
+    "url": "https://www.newspim.com/news/view/20260617000441",
+    "description": "이번 합의안은 지난 4월 발표된 불안정한 휴전을 추가로 60일 연장하고, 미국과 이스라엘의 이란 공격 이후 사실상 봉쇄됐던 호르무즈 해협을 다시 개방하는 내용을 담고 있다.",
+    "age": "2 days ago",
+    "page_age": "2026-06-17T02:10:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260617000441"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260617000441"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/stv-hqyfTmzAE8uCHNumpI96g14rsab_Zb46xZq8fTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA2/LzE3LzI2MDYxNzEx/MDQwMTUyMTBfNjgz/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "핵 포기하면 1000억 달러…美·이란 ‘세기의 빅딜’ 시작됐다",
+    "url": "https://www.sedaily.com/article/20056774",
+    "description": "미국과 이란이 서명한 양해각서(MOU)에는 이란에 대한 광범위한 재정 인센티브가 대거 포함된 것으로 알려졌다. 16일(현지시간) 이스라엘 신문 이스라엘 하욤은 미국이 이란의 석유 수출 제재를 사실상 완화하고 있다고 ...",
+    "age": "2 days ago",
+    "page_age": "2026-06-17T01:56:54",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://www.sedaily.com/article/20056774"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
+      "path": "› article  › 20056774"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ox1360s10nYscd_QHi5RqsORbaL4cg-Lq_73TRJGhsc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMTcvbmV3/cy1wLnYxLjIwMjYw/NjE3LmVkMDgwOTc4/YWFhOTQwYjRhMGEx/ZmUzNjAzMDRiNGIz/X1IuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "‘종전 패싱’ 당한 네타냐후의 폭주… 레바논 공습 강행에 트럼프도 경고 < 정치일반 < 정치(Politics) < 기사본문 - 더쎈뉴스(The CEN News)",
+    "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750567",
+    "description": "(더쎈뉴스 / The CEN News 추재연 기자) 미국과 이란이 106일 만에 전격적으로 종전 양해각서(MOU)에 서명하며 중동의 포성이 잦아들 것으로 기대됐으나, 이스라엘 베냐민 네타냐후 총리의 ‘폭주’가 평화 국면의 걸림돌로 부상했다.",
+    "age": "2 days ago",
+    "page_age": "2026-06-17T01:55:22",
+    "profile": {
+      "name": "Mhns",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=750567"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mhns.co.kr",
+      "hostname": "www.mhns.co.kr",
+      "favicon": "https://imgs.search.brave.com/NovvEkTUppNnzr6d_dhaR6f-TYthCps-zc4xy6jSPZE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk5NmE4NGQy/MjVjM2Y0NjY1Yjkw/MDY0NzQ0MDBiNzRm/ZDMwOTg5MTFhNmRm/ZTI2MzdhZmMyY2Ri/M2M0Njc3OS93d3cu/bWhucy5jby5rci8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/CPLNArDgWPYvKAkzK8iBPg7HcoSTd7tptXKcbjDocTg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWhucy5jby5rci9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDYvNzUw/NTY3Xzg4Mjk4M181/NDE2X3YxNTAuanBn"
     }
   },
   {
@@ -1471,50 +1119,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/YkUf2oJSwOUxc-5gsuFBCHgiJVYxf6ARepEcraxvtXg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMTcv/bmV3cy1wLnYxLjIw/MjYwNjE3LjhkMzM3/ZjgzNWZiNDQ3NWE4/NDA3NmI3NTZjMGY1/ZjZkX1QxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"이란전쟁 승자는 중국…에너지 세계질서 불가역적 재편\" | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260617058700009",
-    "description": "NYT는 미국과 이란의 전쟁으로 촉발된 이 같은 에너지 전환기에서 중국이 가장 큰 수혜자로 떠오르고 있다고 분석했다.",
-    "age": "2 days ago",
-    "page_age": "2026-06-17T01:17:34",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260617058700009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260617058700009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ObUlH_xjBZYAQeBvGi5dT1TJ2D0VqgkP2Pu7Y8oK_a8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDUvMTgv/UFJVMjAyNjA1MTgy/NjkzMDEwMDlfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war updates: Trump, Pezeshkian sign MoU to end conflict | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu",
-    "description": "These were the updates on the US-Israel war on Iran and Israel's attacks on Lebanon from Wednesday, June 17, 2026.",
-    "age": "2 days ago",
-    "page_age": "2026-06-17T00:00:18",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › liveblog  › 2026  › 6  › 17  › iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cvx5_xj_ruSOHV4c2rjUF0w6r5ZrgLYyUhe81A01ByI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNi9nZXR0eV82/YTMyZGQyYjQ1LTE3/ODE3MTgzMTUuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
     }
   }
 ]
