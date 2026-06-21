@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "이스라엘 국방장관 \"레바논 위협 제거에 제한 없어…군대 철수 안 해\"",
+    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008620489",
+    "description": "▲ 이스라엘 카츠 이스라엘 국방부 장관 이란이 레바논 교전 중단을 미국과의 후속 협상 조건으로 내걸었지만, 이스라엘은 헤즈볼라의 위협에 대한 자국군의 대응에 제한이 없으며 레바논 남부에서 군대를 철수할 수도 없다는 ...",
+    "age": "4 hours ago",
+    "page_age": "2026-06-21T12:22:00",
+    "profile": {
+      "name": "SBS",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008620489"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news.sbs.co.kr",
+      "hostname": "news.sbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
+      "path": "› news  › endPage.do"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/FCZtnwQJJy6Mo8UDR64FVhd7wnzTvAu5jLo1Gi8RUFY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYwNjIxLzIwMjE5/NDc3M18xMjgwLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[속보]미·이란, 스위스서 실무 회담 시작···중재국 카타르·파키스탄 배석 - 경향신문",
+    "url": "https://www.khan.co.kr/article/202606212047001",
+    "description": "미국과 이란이 카타르와 파키스탄의 중재 아래 21일(현지시간) 스위스에서 종전 양해각서(MOU) 체결 이후 첫 실무 회담에 돌입했다. AFP통신에 따르면 이란 국영 IRIB는 이날 스위스 시간으로 오후 1시30분쯤 “이란·미·카타르 ...",
+    "age": "5 hours ago",
+    "page_age": "2026-06-21T11:47:00",
+    "profile": {
+      "name": "Khan",
+      "url": "https://www.khan.co.kr/article/202606212047001"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "khan.co.kr",
+      "hostname": "www.khan.co.kr",
+      "favicon": "https://imgs.search.brave.com/CbhALotKV0YRV-w9F2wlDrnkUws22WlI8gS3e5R4Ohs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTQ5M2U0NTI1/ZDBiMTA4NGQ4MDNj/YjlkNTQyMmI0MmM2/YzcxYmQwZmE0ZjBk/ZDM0NGJjYzYwN2M0/OGJkZGFkYi93d3cu/a2hhbi5jby5rci8",
+      "path": "› article  › 202606212047001"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/nSpYp-8D2uGGcgIMDXzzvRLyObkjw1DF6takRky-85g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDYv/MjEvcmN2LllOQS4y/MDI2MDYyMS5QUlUy/MDI2MDYyMTMzMTAw/MTAwOV9QMS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이스라엘, 미·이란 종전 협상에 ‘찬물’…“레바논 작전 제한 없고 철수도 불가” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10783059",
     "description": "[헤럴드경제=신혜원 기자] 이란이 레바논 교전 중단을 미국과의 후속 협상 선결 조건으로 내걸었지만, 이스라엘은 헤즈볼라의 위협에 대한 자국군의 대응에 제한이 없으며",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-06-21T11:35:42",
     "profile": {
       "name": "Herald Corp",
@@ -23,24 +67,46 @@
   },
   {
     "type": "news_result",
-    "title": "중동 이후 준비하는 美… 이란과 협상 이어가며 태평양 주시 [이종윤의 밀리터리 월드] - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606211856080352",
-    "description": "미국 전략예산평가센터... 임시 동결을 대가로 이란이 최종 협정 타결 전까지 핵 고농축 물질을 즉각 폐기하고 호르무즈 해협을 개방하도록 강제하는 담보 체계로 관측했다. 미국 전쟁부 전쟁정보국(DWI)이 주도한 ...",
+    "title": "미-이란 첫 실무협상‥트럼프 \"통행료 미국이 걷을 수도\"",
+    "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6831766_37004.html",
+    "description": "이란 선수들이 미국의 차별 속에 월드컵을 치르는 가운데, 미국과 이란의 첫 추가 협상이 조금 전부터 스위스에서 진행되고 있습니다. 이란 핵 문제와 대이란 제재, 전후 ...",
     "age": "5 hours ago",
-    "page_age": "2026-06-21T09:57:00",
+    "page_age": "2026-06-21T11:32:44",
     "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606211856080352"
+      "name": "IMBC",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6831766_37004.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606211856080352"
+      "netloc": "imnews.imbc.com",
+      "hostname": "imnews.imbc.com",
+      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
+      "path": "› replay  › 2026  › nwdesk  › article  › 6831766_37004.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/pRAkqw0gmaN9uOBW26c_ytPLOlDnrLc5VgaIZEL9Otg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMjEvMjAy/NjA2MjExOTEyNDEy/MDU2X2wuanBn"
+      "src": "https://imgs.search.brave.com/18kbeTOFEiZizTiDvmjUZg372-ym9NILWNDAgoHkbcs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbndkZXNr/L2FydGljbGUvX19p/Y3NGaWxlcy9hZmll/bGRmaWxlLzIwMjYv/MDYvMjEvZGVza18y/MDI2MDYyMV8yMDMx/NTJfMV85X0xhcmdl/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "스위스 미-이란 회담은 4자 대면 형식…파키스탄, 카타르 합석 :: 공감언론 뉴시스 ::",
+    "url": "https://www.newsis.com/view/NISX20260621_0003677330",
+    "description": "美·이란 대표단, 협상차 뷔르겐스토크에 도착 · 인도 최대 통신기업 지오 38억＄IPO 실시…\"최고기록 경신\" 우크라이나, 크름반도 케르치 드론 공격…4명 사망 28명 부상",
+    "age": "6 hours ago",
+    "page_age": "2026-06-21T10:03:14",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://www.newsis.com/view/NISX20260621_0003677330"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "www.newsis.com",
+      "favicon": "https://imgs.search.brave.com/Kzbmq58Rc6fAq-JJj-MVCPvkxE_bblb8HWLggg7maew/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDExN2M0MjFi/Yzc0MzQ2NDUzMWQ2/ZGM5NmEwNGEzZjU5/ZjcyOGE1ZWNhNDc5/Y2Q1NWRiODcxNmQ5/ODg3MjA0OS93d3cu/bmV3c2lzLmNvbS8",
+      "path": "› view  › NISX20260621_0003677330"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Vaa7mRZlHeWIaljgUTnCllBRFiyTwi9eQcvUVK9GSkI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNi8yMS9O/SVNJMjAyNjA2MjFf/MDAwMTM1ODcxOF93/ZWIuanBn"
     }
   },
   {
@@ -48,7 +114,7 @@
     "title": "[AI프리뷰] 2026 월드컵 22일 G조 벨기에-이란전, 악조건 분전하는 이란은 벨기에 잡을까",
     "url": "https://www.newspim.com/news/view/20260621000162",
     "description": "이들은 마지막 월드컵이 ... 공격에 활력을 더해주는 구조다. 다만 이집트와의 1차전에서 선제 실점 후 상대 자책골로 간신히 1-1 무승부를 거두며, 기대 대비 무거운 스타트를 끊었다는 평가를 받는다. -이란 (피파 랭킹 ...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-06-21T09:49:00",
     "profile": {
       "name": "Newspim",
@@ -70,7 +136,7 @@
     "title": "이스라엘인 10명 중 9명 “이란과 전쟁·종전 합의 승자는 이란” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10783032",
     "description": "지난해 12월 29일 도널드 ... 이스라엘 총리를 플로리다 주 팜비치에 있는 마러라고 클럽으로 불러 중동 안보에 관해 논의했다. 당시 기자회견의 모습. [게티이미지] [헤럴드경제=신혜원 기자] 미국과 함께 이란을 상대로 ...",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-06-21T09:40:11",
     "profile": {
       "name": "Herald Corp",
@@ -89,32 +155,10 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘인 10명 9명 “전쟁 승자는 이란”…美 종전 합의 ‘부정적’ - 매일경제",
-    "url": "https://mk.co.kr/news/world/12079477",
-    "description": "48.2%, 트럼프와 충돌 감수 대헤즈볼라 군사작전 지지",
-    "age": "5 hours ago",
-    "page_age": "2026-06-21T09:27:01",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/world/12079477"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › world  › 12079477"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/d8FYjI1CRlUCVGsjj64MZGK8P_0fOOXCdA265Vt5DhM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8yMS9uZXdzLXAu/djEuMjAyNjA0MDgu/NGUzNWMxNzA1YzIw/NDIzYTkyY2FkMTY2/NzJiMDlmZWVfUi5q/cGVn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "불안한 핵협상 속…'레바논 평화' 핵심의제로 - 매일경제",
     "url": "https://mk.co.kr/news/world/12079430",
     "description": "미·이란, 루체른 협상 시작 이스라엘이 레바논 공격하자 이란군 \"호르무즈해협 봉쇄\" 트럼프 이란 압박 수위 높여 \"결렬 시 미국이 통행료 부과\" 미·이란 대표단 협상장 집결 레바논 문제 우선 논의 착수",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-06-21T08:52:02",
     "profile": {
       "name": "MK",
@@ -133,29 +177,10 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘 미국 철수 요구에도 물러나지 않을 것미이란 협상 최대 걸림돌",
-    "url": "https://bbs.ruliweb.com/community/board/300018/read/3764091",
-    "description": "이스라엘 미국 철수 요구에도 물러나지 않을 것 미 이란 협상 최대 걸림돌",
-    "age": "6 hours ago",
-    "page_age": "2026-06-21T08:22:33",
-    "profile": {
-      "name": "Ruliweb",
-      "url": "https://bbs.ruliweb.com/community/board/300018/read/3764091"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bbs.ruliweb.com",
-      "hostname": "bbs.ruliweb.com",
-      "favicon": "https://imgs.search.brave.com/FmRCvZqz6psTktAcFrXNHNttO1mXA3jr3JjWhl_hfzI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTMyNjdiYmMy/NmQzNDY3OWVlM2I3/N2I1YjIyNTRlYzM3/NWMyZWMxZjc3OWQz/OTk4Y2NkMzg4NzE5/NGY2MGNkNC9iYnMu/cnVsaXdlYi5jb20v",
-      "path": "› community  › board  › 300018  › read  › 3764091"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "[속보] 美·이란 대표단, 협상차 뷔르겐스토크에 도착 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260621_0003677300",
     "description": "미국, 전쟁 종식 잠정 합의에도 이란 대표팀 제한 조치 유지[월드컵24시]",
-    "age": "6 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-06-21T08:15:17",
     "profile": {
       "name": "Newsis",
@@ -174,46 +199,24 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘 무차별 공습에 해양 활동가·언론인 등 민간인 사망 속출-국제ㅣ한국일보",
-    "url": "https://hankookilbo.com/news/article/A2026062110250001156",
-    "description": "20일 레바논 남부 항구 도시 티레에서 이스라엘과 레바논 친이란 무장정파 헤즈볼라 간 무력 충돌 중 고향을 떠나 작은 배에서 생활해 온 피난민 알리 바지가 항구에 서서 정박해 있는 어선들을 바라보고 있다. 티레=AP 연합뉴스 · 미국과 이란 ...",
-    "age": "8 hours ago",
-    "page_age": "2026-06-21T06:10:00",
+    "title": "고립된 이스라엘의 탈출구는 인도였다…급부상한 新안보축[디브리핑] - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10782700",
+    "description": "나렌드라 모디 인도 총리(왼쪽)와 베냐민 네타냐후 이스라엘 총리. 양국은 국방·정보·첨단기술 분야 협력을 확대하며 전략적 관계를 강화하고 있다. [게티이미지] [헤럴드경제=서지연 기자] 가자전쟁과 이란 전쟁 이후 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-06-21T07:00:00",
     "profile": {
-      "name": "한국일보",
-      "url": "https://hankookilbo.com/news/article/A2026062110250001156"
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10782700"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hankookilbo.com",
-      "hostname": "hankookilbo.com",
-      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
-      "path": "› news  › article  › A2026062110250001156"
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10782700"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/luzja_eSq1FrIDsr4QX-yVdenFllJg_rusJGPaGeoMk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA2LzIxLzM1NmQw/NWE0LTVmNDYtNDFj/MC1hZjYyLTQxNTZl/Y2YyZjU4Ni5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[한국재난안전뉴스] [월드 이슈] 美·이란 전쟁, 다시 늪으로.. 대체 무슨 문제길래?",
-    "url": "https://www.kdsn.co.kr/news/article.html?no=49188",
-    "description": "도널드 트럼프 미국 대통령은 “이란과의 딜은 끝났다”고 선언했지만, 합의 직후부터 서명 주체와 서명식 일정, 호르무즈 해협 재개방 시점, 제재 완화 여부를 둘러싸고 워싱턴 안팎의 설명이 엇갈렸다. 여기에 이스라엘이 레바논 남부를 다시 공격하자...",
-    "age": "10 hours ago",
-    "page_age": "2026-06-21T04:59:58",
-    "profile": {
-      "name": "Kdsn",
-      "url": "https://www.kdsn.co.kr/news/article.html?no=49188"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kdsn.co.kr",
-      "hostname": "www.kdsn.co.kr",
-      "favicon": "https://imgs.search.brave.com/kaILvjms330m3aGl7m4YnxIuf0wxdBXNXnci7EJIkIc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjUxNWY3Njc0/NjIzMjU4YTY3YmMy/NGYxNWM1M2Y5YjJm/NTlkNmZlYmVlY2E3/MTE5MzcxNmY3YTUy/ODdkZGU0My93d3cu/a2Rzbi5jby5rci8",
-      "path": "› news  › article.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/zs_kY4hwjLS9BvEgVf2n9z7w4JtJDasPZ_S3qHnEX68/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/a2Rzbi5jby5rci9k/YXRhL3Bob3Rvcy8y/MDI2MDYyNS9hcnRf/MTc4MjAzMDU1OTg4/MTJfZTFlMjAzLmpw/Zw"
+      "src": "https://imgs.search.brave.com/Nk5Tv6TsA-6oCkgXcVpoPOYgv5m9S8CSw6x-HK2hh5I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMjEv/bmV3cy1wLnYxLjIw/MjYwNjE5LjhiNDE4/ZTFmZmRjODQwYjc4/NjBlNTkyZWIwZjBl/OGMyX1QxLnBuZw"
     }
   },
   {
@@ -221,7 +224,7 @@
     "title": "이란협상단 구성 뜯어보니…\"제재·동결자산 해제 의도 뚜렷\" - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202606211308581133",
     "description": "이란협상단 구성 ... 경제라인 동행 종전 MOU 들어 이스라엘 레바논 공격 중단도 압박할 듯 (서울=연합뉴스) 오수진 기자 = 미국과의 종전 후속 협상을 위해 스위스에 도착한 이란 협상.....",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-06-21T04:09:31",
     "profile": {
       "name": "First News",
@@ -243,7 +246,7 @@
     "title": "美·이란 60일 협상 출발부터 '삐걱'…호르무즈 재봉쇄·일정 혼선 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606211148225432",
     "description": "가장 큰 변수는 중동 지역의 군사 긴장이다. 지난 20일(이하 현지시간) 이란 군 당국이 이스라엘의 레바논 공격에 대응해 호르무즈 해협 재봉쇄를 선언하면서 상황이 다시 악화됐다. 해당 발표는 제한적으로 해상 통항이 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-06-21T02:48:51",
     "profile": {
       "name": "First News",
@@ -265,7 +268,7 @@
     "title": "'호르무즈 재봉쇄' 카드 꺼낸 이란…종전 MOU 이틀 만에 흔들리는 중동, 향배는",
     "url": "https://pennmike.com/news/articleView.html?idxno=122468",
     "description": "'호르무즈 재봉쇄' 카드 꺼낸 이란…종전 MOU 이틀 만에 흔들리는 중동, 향배는 · 다른 공유 찾기 기사스크랩하기 본문 글씨 줄이기 본문 글씨 키우기 ... 페이스북(으)로 기사보내기 트위터(으)로 기사보내기 카카오톡(으)로 기사보내기 텔레그램(으)로 기사보내기 URL복사(으)로 기사보내기 닫기 ... 중동 전쟁을 ...",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-06-21T02:39:59",
     "profile": {
       "name": "Pennmike",
@@ -286,8 +289,8 @@
     "type": "news_result",
     "title": "헤즈볼라 때릴 수록 이란 영향력↑…중동 평화 깨는 '레바논 딜레마'",
     "url": "https://edaily.co.kr/News/Read?newsId=01420246645484016",
-    "description": "전쟁 목표를 이루지 못한 이스라엘이 친이란 무장단체 헤즈볼라에 대한 공격을 이어갈 가능성이 높은 가운데 헤즈볼라를 공격할 수록 레바논에서 이란의 영향력이 커지는 역설적인 상황이 나타날 수 있다는 분석이 나온다.",
-    "age": "12 hours ago",
+    "description": "[이데일리 김겨레 기자] 미국과 이란의 종전 양해각서(MOU)가 이스라엘의 레바논 공격 문제로 초기부터 차질을 빚고 있다. 전쟁 목표를 이루지 못한 이스라엘이 친이란 무장단체 헤즈볼라에 대한 공격을 이어갈 가능성이 높은 ...",
+    "age": "14 hours ago",
     "page_age": "2026-06-21T02:10:48",
     "profile": {
       "name": "Edaily",
@@ -309,7 +312,7 @@
     "title": "미국-이란, 21일 스위스에서 실무회담... 레바논 문제 핵심 될 듯-국제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026062109240000971",
     "description": "그는 출발 전 워싱턴 인근 ... 휴전 협상을 진전시키는 것\"이라며 \"이란 측도 논의하고 싶은 사안들이 분명히 있을 것이라고 생각한다\"고 말했다. 그는 이스라엘이 휴전 이후로도 계속해서 레바논 공습을 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-21T01:22:00",
     "profile": {
       "name": "한국일보",
@@ -328,10 +331,32 @@
   },
   {
     "type": "news_result",
+    "title": "“도대체 무슨 짓을 하는거냐” 트럼프, 네타냐후에 레바논 휴전 압박 - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10782728",
+    "description": "[헤럴드경제=손인규 기자] 도널드 트럼프 미국 대통령이 베냐민 네타냐후 이스라엘 총리의 정치적 미래가 자기 손에 달렸다는 내용의 기사를 소셜미디어에 직접 공유했다. 미국과 이란 간 종전 양해각서(MOU) 체결을 전후해 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-06-21T00:28:05",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10782728"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10782728"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/L701ElxRpqCRtXrbUV2N0Bs_5NGC2qCeJ90Gd5FqEHQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMjEv/bmV3cy1wLnYxLjIw/MjYwNjA5LmFiYzBk/MDY4ZDUzNTQ3YzZh/N2NkNzBiNmIyYmE5/NmQ5X1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "호르무즈 해협: 이란 '이스라엘의 레바논 공격에 재봉쇄' - BBC News 코리아",
     "url": "https://bbc.com/korean/articles/c932kj8vzd8o",
     "description": "에스마일 바가에이 이란 외무부 대변인은 자국이 \"상대방이 약속한 의무를 이행할 것을 요구할 것\"이라고 밝혔다. 파키스탄 총리 셰바즈 샤리프는 이번 협상 개막에 참석할 예정이라고 총리실이 BBC에 밝혔다. 파키스탄은 전쟁 ...",
-    "age": "14 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-06-21T00:13:03",
     "profile": {
       "name": "BBC",
@@ -350,76 +375,10 @@
   },
   {
     "type": "news_result",
-    "title": "호르무즈 해협: 이란 '이스라엘의 레바논 공격에 재봉쇄' - BBC News 코리아",
-    "url": "https://www.bbc.com/korean/articles/c932kj8vzd8o",
-    "description": "이후 6월 20일 미국의 JD 밴스 ... 미국·이란 간 직접 협상에 참석하기 위해 워싱턴을 출발했다. 밴스 부통령은 기자들에게 \"핵 문제\"와 \"레바논 휴전 문제\"에서 진전을 이루기를 기대한다고 말했다. 이스라엘과 헤즈볼라 ...",
-    "age": "14 hours ago",
-    "page_age": "2026-06-21T00:13:03",
-    "profile": {
-      "name": "BBC",
-      "url": "https://www.bbc.com/korean/articles/c932kj8vzd8o"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "www.bbc.com",
-      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
-      "path": "› korean  › articles  › c932kj8vzd8o"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/c8Z9M-s-CDVWpco_2IljICeuRjVSTuTGq2bWQesZ6_w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX2tvcmVh/bi9iNTIyL2xpdmUv/ZGY5NTkzMjAtNmNi/OC0xMWYxLTlmZWEt/ZTc1MTI2OWFmZGI5/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“국제유가 30% 떨어졌다는데 기름값 왜이래”…체감 인하 ‘깜깜’ - 매일경제",
-    "url": "https://www.mk.co.kr/news/business/12079092",
-    "description": "21일 한국석유공사 유가정보시스템 오피넷에 따르면 우리나라가 주로 수입하는 싱가포르 현물시장 두바이유 가격은 지난달 20일 배럴당 106.60달러에서 이달 19일 73.61달러로 한 달간 30.9% 급락했다. 미국과 이란 전쟁 중",
-    "age": "15 hours ago",
-    "page_age": "2026-06-20T23:56:11",
-    "profile": {
-      "name": "MK",
-      "url": "https://www.mk.co.kr/news/business/12079092"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "www.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
-      "path": "› news  › business  › 12079092"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/T3EgDl017Od71gyPrzCvzehYGj4YodpQJZYQkLyRqr0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8yMS9yY3YuWU5B/LjIwMjYwNjE4LlBZ/SDIwMjYwNjE4MTAw/NzAwMDEzMDJfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프, '집권 연장하기 싫냐' 네타냐후에 레바논 휴전 압박 | 세계일보",
-    "url": "https://segye.com/newsView/20260621502296",
-    "description": "도널드 트럼프 미국 대통령이 베냐민 네타냐후 이스라엘 총리의 정치적 미래가 자기 손에 달렸다는 내용의 기사를 소셜미디어에 직접 공유했다. 미국과 이란 간 종전 양해각서(MOU) 체결을 전후해 이스라엘의 레바논 공습으로 ...",
-    "age": "15 hours ago",
-    "page_age": "2026-06-20T23:53:20",
-    "profile": {
-      "name": "Sekye",
-      "url": "https://segye.com/newsView/20260621502296"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "segye.com",
-      "hostname": "segye.com",
-      "favicon": "https://imgs.search.brave.com/eEnwHCcQbEY0YavA8Mb5k8a17JAOWUC2sWNdsVNGNv0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQyODBjMGIw/Y2VmNTYxNWRiN2U2/YWFlZjY3MGIzNjQw/NTU3Y2QyZDgyZWNh/ZWU0YjczMzE5MDY5/MmUxOTQ1YS9zZWd5/ZS5jb20v",
-      "path": "› newsView  › 20260621502296"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/B1EwHahoe6MtPQB-ARh8ro-LjYRke66s5WqYeCs8orE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VneWUuY29tL2Nv/bnRlbnQvaW1hZ2Uv/MjAyNi8wNi8yMS8y/MDI2MDYyMTUwMjI5/Ny5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "'호르무즈 위기'에도 美-이란, 21일 스위스서 실무회담 개최",
     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872866",
     "description": "이에 따라 레바논 내 친(親)이란 무장정파 헤즈볼라에 대한 공격 지속을 이유로 이란이 전날 호르무즈 해협 재폐쇄 선언으로 미-이란 간의 종전 양해각서(MOU)가 이행 초기부터 시험대에 오른 미ㆍ이란 협상이 재개된 셈이라고 ...",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-20T23:45:42",
     "profile": {
       "name": "Getnews",
@@ -441,7 +400,7 @@
     "title": "이란, 호르무즈 재봉쇄 우려…수출 중소기업 '물류·고환율' 직격탄",
     "url": "https://v.daum.net/v/20260621154140208",
     "description": "(서울=뉴스1) 신민경 기자 = 미국과 이란 간의 종전 합의 소식에 한숨을 돌렸던 중소기업계가 다시 날아든 '호르무즈 해협 봉쇄' 소식에 비상이 걸렸다. 글로벌 공급망 정상화에 대한 기대감은 하루아침에 무너지고, 수출입 ...",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-20T23:35:42",
     "profile": {
       "name": "Daum",
@@ -463,7 +422,7 @@
     "title": "이란, 호르무즈 해협 재폐쇄...\"美·이스라엘 종전 MOU 위반 탓\"",
     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872865",
     "description": "개전(2월 28일) 넉 달째 문턱에서 타결된 미국과 이란 간의 종전 양해각서(MOU)가 발효된 지 이틀 만이 이틀 만인 20일(현지시간) 레바논에 대한 이스라엘의 공격 재개로 파기 위기에 처했기 때문이다.",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-20T23:31:11",
     "profile": {
       "name": "Getnews",
@@ -485,7 +444,7 @@
     "title": "이란전쟁發 고물가 금리인상 주요인…'빚투' 2000조 가계부채 리스크 확대 - 글로벌이코노믹",
     "url": "https://www.g-enews.com/article/Finance/2026/06/202606191706036293cd0bfacc1c_1",
     "description": "이란 전쟁발 유가 상승과 글로벌 인플레이션 재확산 우려가 이어지면서 물가와 금리 상승 압력이 동시에 확대되고 있고 2000조원에 육박한 가계부채가 금융시스템의 주요 리스크로 부각되고 있다.",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-06-20T23:13:53",
     "profile": {
       "name": "G-News",
@@ -507,7 +466,7 @@
     "title": "“이기지도 못한 전쟁에 200조?” … 미국인, 이란 전쟁 비용 203조 원 | 문화일보",
     "url": "https://www.munhwa.com/article/11596979",
     "description": "이란 전쟁으로 미국 납세자들과 소비자들이 떠안은 비용 부담이 최소 1320억 달러(약 202조7000억 원)에 달할 것으로 추정됐다.",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-20T22:04:20",
     "profile": {
       "name": "Munhwa",
@@ -529,7 +488,7 @@
     "title": "'호르무즈 재봉쇄' 카드 꺼낸 이란‥\"대면 협상\"",
     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6831687_37012.html",
     "description": "이란이 종전 양해각서 발효 이틀 만에 호르무즈 해협 재봉쇄를 발표했습니다. 이스라엘의 레바논 공습이 양해각서 위반이라며 강대강 대응에 나선 건데요. 미국과 이란은 이르...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-20T22:03:09",
     "profile": {
       "name": "IMBC",
@@ -551,7 +510,7 @@
     "title": "미래 전장의 비밀병기?…‘상업위성’ 적의 눈이 되다[이현호의 밀리터리!톡] | 서울경제",
     "url": "https://www.sedaily.com/article/20058151",
     "description": "상업위성, 병사 ... 탐지·공격 속도 높아져 우크라, 탐지→타격 시간 최대 90% 줄여 지난 2024년 11월 12일 미국 케이프 커내버럴 우주군 기지에서 ‘한국형 항공위성서비스’(KASS) 2호 위성 발사되고 있다. 사진 제공=국토교통부 이란 전쟁이 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-20T22:00:00",
     "profile": {
       "name": "Sedaily",
@@ -572,8 +531,8 @@
     "type": "news_result",
     "title": "이란, '호르무즈 재봉쇄' 카드 들고 美와 후속 협상(종합) < 아시아,호주 < 한반도W < 기사본문 - SPN 서울평양뉴스",
     "url": "https://www.spnews.co.kr/news/articleView.html?idxno=108286",
-    "description": "AFP·로이터통신과 중동 ���문매체 미들이스트아이(MEE)에 따르면 이란군을 통합 지휘하는 하탐 알안비야 중앙사령부는 이날 이스라엘의 레바논 공격 지속을 이유로 호르무즈 해협을 재봉쇄한다고 발표했다.",
-    "age": "17 hours ago",
+    "description": "AFP·로이터통신과 중동 전문매체 미들이스트아이(MEE)에 따르면 이란군을 통합 지휘하는 하탐 알안비야 중앙사령부는 이날 이스라엘의 레바논 공격 지속을 이��로 호르무즈 해협을 재봉쇄한다고 발표했다.",
+    "age": "18 hours ago",
     "page_age": "2026-06-20T21:59:32",
     "profile": {
       "name": "Spnews",
@@ -595,7 +554,7 @@
     "title": "[국제]미 \"이란, 호르무즈 통제 안해\"...트럼프\"합의 불발시 미국이 통행료 부과\" | YTN",
     "url": "https://www.ytn.co.kr/_ln/0104_202606210555133070",
     "description": "일주일 정도 걸렸는데 말이죠.] 트럼프 대통령은 자신의 대이란 공격으로 이란을 굴복시켰다고 강조하면서 급진 좌파 바보들과 민주당원들이 이제 이란과의 전쟁에서 미국이 얼마나 잘 해냈는지를 깨닫고 있다고 말했습니다.",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-06-20T20:55:00",
     "profile": {
       "name": "YTN",
@@ -617,7 +576,7 @@
     "title": "트럼프 “이란과 합의 불발 시 미국이 호르무즈 통행료 부과할 수도” | 서울신문",
     "url": "https://seoul.co.kr/news/international/2026/06/21/20260621500003",
     "description": "트럼프 대통령이 이란과의 60일 협상에서 최종 합의가 안 되면 미국이 호르무즈 해협 통행료를 부과할 수 있다고 말했다. 이란은 이스라엘의 레바논 공습과 합의 위반을 이유로 해협 폐쇄를 선언했고, 미·이란 핵 협상도 ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-20T20:25:29",
     "profile": {
       "name": "Seoul",
@@ -639,7 +598,7 @@
     "title": "호르무즈 해협 '봉쇄 카드' 꺼낸 이란…미·이란 종전 MOU 이틀 만 제동-경제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026062104420002907",
     "description": "미국과 이란이 체결한 종전 양해각서(MOU)가 발효 이틀 만에 파기될 위기에 몰렸다. 이란이 이스라엘의 레바논 공습이 계속되자 호르무즈 해협 봉쇄를 전격 선언했다가, 같은 날 협상단을 스위스로 급파하며 극적인 긴장 완화를 ...",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-20T20:06:00",
     "profile": {
       "name": "한국일보",
@@ -661,7 +620,7 @@
     "title": "[국제]이란 \"호르무즈 재봉쇄\"...'통제 불능' 레바논 전선 최대 변수 | YTN",
     "url": "https://ytn.co.kr/_ln/0104_202606210353382759",
     "description": "[이란 국영 TV 앵커 : 이란혁명수비대 해군은 선박들이 호르무즈 해협에 접근해서는 안 되며, 접근하면 안전이 위협받을 것이라고 경고했습니다.] 이번 전쟁을 통해 '호르무즈 통제권'이 무엇보다 강력한 무기임을 확인한 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-20T18:53:00",
     "profile": {
       "name": "YTN",
@@ -768,6 +727,28 @@
   },
   {
     "type": "news_result",
+    "title": "[속보] 이란 \"호르무즈 다시 봉쇄…미·이스라엘 때문\" - 이투데이",
+    "url": "https://etoday.co.kr/news/view/2595584",
+    "description": "[속보] 이란 \"호르무즈 다시 봉쇄…미·이스라엘 때문\"",
+    "age": "1 day ago",
+    "page_age": "2026-06-20T13:18:00",
+    "profile": {
+      "name": "Etoday",
+      "url": "https://etoday.co.kr/news/view/2595584"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "etoday.co.kr",
+      "hostname": "etoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/8tYmt61rT0raA4kHfr7ZYeUKu2dRUMue-4o4Oi_bSQ0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MDA2ZDky/MDkxNTA2NmI1NWQw/M2VmZjU0OTZlZDNj/MDc4ZThjYjlmZDVi/MDhhNWRiN2UyZDg4/MGI0MTNjOS9ldG9k/YXkuY28ua3Iv",
+      "path": "› news  › view  › 2595584"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/F922oHnaIP1SiQLqqOmVXrVmFfRuVnfCuqgLyva8R1w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI0/LzAyLzIwMjQwMjIy/MTEwNzEwXzE5OTA0/MTFfNDAwXzI1MC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[속보] 이란군 “호르무즈 다시 봉쇄…미·이스라엘 탓” - 매일경제",
     "url": "https://mk.co.kr/news/world/12079045",
     "description": "💥 이에 대해 도널드 트럼프 ... 조종한다고 보고 미국에게 책임을 묻고 있답니다. 🤔 한편, 과거에도 이란은 이스라엘의 공격에 대응하여 호르무즈 해협 봉쇄를 준비했던 정황이 있었어요....",
@@ -812,28 +793,6 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘-헤즈볼라, 휴전 합의에도 공격 멈추지 않아 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606202051333791",
-    "description": "이스라엘 군 당국도 자국 군인 4명이 교전 중 사망했다고 발표했다. 이번 휴전 선언은 미국과 이란 대통령이 레바논을 포함한 역내 전쟁의 즉각적 종식을 목표로 초안 평화협정에 서명한 지 불과 하루 만에 나왔다.",
-    "age": "1 day ago",
-    "page_age": "2026-06-20T12:07:14",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606202051333791"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606202051333791"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2xXwglPHJ2twQROt_s7VA_-2Jb0Vug5_qUxdw2Bi0-Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDYvMjAvMjAy/NjA2MjAyMDU4MDky/MTk5X2wuSlBH"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이스라엘·헤즈볼라, 휴전 뒤 또 충돌…레바논 남부서 16명 사망(종합) - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202606202057090070",
     "description": "(서울=뉴스1) 김지완 기자 = 이스라엘과 레바논의 친(親)이란 무장정파 헤즈볼라가 휴전 발표 이후 다시 충돌해 레바논 남부에서 16명이 사망했다.로이터·AFP통신에 따르면 이스라엘 군 관계자는 20일(현지시간) 헤즈볼라를 ...",
@@ -874,6 +833,50 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/_QOxO0wGxM9nfTpWNBiJ5bFUDkcL8EuLavzF5OJedaI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3cy5laW5mb21h/eC5jby5rci9uZXdz/L3RodW1ibmFpbC8y/MDI2MDYvNDQyMTAy/MV8zMjM3MTVfNDU0/X3YxNTAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“전쟁은 이란이 이긴 거 맞지?” 외신의 평가 | 문화일보",
+    "url": "https://munhwa.com/article/11596955",
+    "description": "도널드 트럼프 미국 대통령이 ‘휴전 연장 양해각서(MOU)’를 통해 전쟁 107일 만에 호르무즈 해협 재개방과 이란 비핵화의 길을 열었다고 주장하는 가운데 워싱턴 정가에선 비판이 확산하고 있다.",
+    "age": "1 day ago",
+    "page_age": "2026-06-20T11:27:31",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11596955"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11596955"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/GsrCbwCstEqisaV0Z1rMpF5tS9e5m8Ywlxy4_HlXRDo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNi8yMC9uZXdz/LXAudjEuMjAyNjA2/MTkuN2U4MDMxZGZm/ZmI5NDBiMWIxYmI5/OTM0ZGZmZGJjNTNf/Ui5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[기고]트럼프는 이란에 승리할 수 있었는데도 왜 멈췄을까?…김태준의 美·이란戰 중계<46> | 문화일보",
+    "url": "https://munhwa.com/article/11596948",
+    "description": "2026년 2월 28일 시작된 미국과 이란의 중동전은 109일 만인 2026년 6월 17일, 양측이 14개 조항의 종전 양해각서(MOU)에 전자 서명하면서 새로운 국면에 들어갔다. 이후 협정 이행과 후속 조치가 진행되면서 호르무즈 해협 역시 단계적인 정상화 절차에 들어가고 있다. 이번 전쟁은 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-20T09:43:15",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11596948"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11596948"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/dwko3_vflUN7pTcalzCx5YNxjzMIu6KOS7jN4eE-nlM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNi8yMC9uZXdz/LXAudjEuMjAyNjA2/MjAuMWI3NDFiZjIz/NjFjNDM3ODllODE4/ZGY3ZDhmYWIwOWNf/Ui5wbmc"
     }
   },
   {
@@ -940,6 +943,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/GtoLMadu6HSyx1_SOPnUgTlNhLJOtKTA5_d0HulJsPs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMjAvcmN2/LllOQS4yMDI2MDYy/MC5QQUYyMDI2MDYy/MDE5MjcwMTAwOV9S/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美·이란 합의 최대 변수는 이스라엘?…WP “네타냐후 행보에 중동 정세 촉각”",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01794166645483688",
+    "description": "도널드 트럼프 미국 행정부가 이란과의 무력 충돌 종식을 위한 합의에 도달했지만, 이스라엘의 대응이 향후 이행 과정의 최대 변수로 떠오르고 있다는 분석이 제기됐다. 미국 워싱턴포스트(WP)는 19일(현지시간) 전·현직 정부 ...",
+    "age": "1 day ago",
+    "page_age": "2026-06-20T07:06:48",
+    "profile": {
+      "name": "Edaily",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01794166645483688"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "edaily.co.kr",
+      "hostname": "edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
+      "path": "› News  › Read"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/6hAZgqkxlIrqhkZAfqCljzLatGOuFWxcWEg29q_pCvc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNi9Q/UzI2MDYyMDAwMzE0/LmpwZw"
     }
   },
   {
@@ -1012,8 +1037,8 @@
     "type": "news_result",
     "title": "이스라엘-헤즈볼라 전격 휴전 합의했지만... - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CMPT_CD=M0117&CNTN_CD=A0003244840&PAGE_CD=N0002",
-    "description": "이에 대해 아바스 아라그치 이란 외무장관은 역시 사회관계망을 통해 벤그비르 장관의 언급은 \"학살에 미친 사람의 폭언이 아니라 이스라엘 정부 국가안보장관의 말\"이라면서 \"이스라엘은 인류를 위협하고 있으며 유일한 관심은 영원한 전쟁...",
-    "age": "1 day ago",
+    "description": "AD 이전 휴전 합의가 ... 이스라엘과 헤즈볼라 사이에서 이뤄졌다는 점에서 당장은 실효성이 있을 것으로 보인다. 그러나 양측이 원해서가 아니라 양해각서에 서명하고 60일 협상에 들어간 미국과 이란의 압박으로 ...",
+    "age": "2 days ago",
     "page_age": "2026-06-20T03:05:00",
     "profile": {
       "name": "OhmyNews",
@@ -1032,24 +1057,24 @@
   },
   {
     "type": "news_result",
-    "title": "오바마 “미국 상황, 전쟁 전보다 같거나 더 나빠“",
-    "url": "https://www.yonhapnewstv.co.kr/news/AKR20260620103724tnK",
-    "description": "오바마 전 미국 ... 통해 최근 체결된 미-이란 사이 종전 양해각서를 비판했습니다. NBC 뉴스에 따르면 오바마 전 대통령은 이번 양해각서에 대한 견해를 질문받자 \"전쟁으로 미군에 막대한 부담을 안겼고, ...",
+    "title": "이스라엘, 레바논 휴전 '조건부' 수용…\"헤즈볼라 무장 해제가 관건\"-국제ㅣ한국일보",
+    "url": "https://hankookilbo.com/news/article/A2026062010280002666",
+    "description": "이스라엘과 레바논 정부가 ... 이스라엘 측이 '헤즈볼라의 완전한 무장 해제 및 남부 레바논 철수'를 강력한 조건으로 내걸면서 합의 이행의 실효성에 의문이 제기되고 있다. 19일(현지시간) 로이터통신 등에 따르면 도널드 트럼프 미국 대통령이 이란과의 종전 ...",
     "age": "2 days ago",
-    "page_age": "2026-06-20T01:37:26",
+    "page_age": "2026-06-20T01:50:00",
     "profile": {
-      "name": "Yonhapnewstv",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260620103724tnK"
+      "name": "한국일보",
+      "url": "https://hankookilbo.com/news/article/A2026062010280002666"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yonhapnewstv.co.kr",
-      "hostname": "www.yonhapnewstv.co.kr",
-      "favicon": "https://imgs.search.brave.com/pQUclbEtsKfxSCUq2ngVD3tXZk5lcTfBD4VikU-kHEw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDMzYmMxYWMz/ZjkyNjdhZmFmOGU5/OGY2MTJkYmZhMmMy/NGRkM2IzNmEyNDhk/OTFlNDY4ZmQxZjU1/M2MyNDg2Ny93d3cu/eW9uaGFwbmV3c3R2/LmNvLmtyLw",
-      "path": "› news  › AKR20260620103724tnK"
+      "netloc": "hankookilbo.com",
+      "hostname": "hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
+      "path": "› news  › article  › A2026062010280002666"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/PA3n_48QHjDsUhBYaTj0I_B0T8G8GfCYXLDU4ZDYTiM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS55b25oYXBuZXdz/dHYuY28ua3IvYXJ0/aWNsZS9BS1IvMjAy/NjA2MjAvQUtSMjAy/NjA2MjAxMDM3MjR0/bktfMDFfaS5qcGc"
+      "src": "https://imgs.search.brave.com/YRjYfRKygVqAxRsj0J30W3hjMvd7rs18FFmYu3_IgiE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA2LzIwLzc1MzEy/YjBkLTU0NjMtNDg3/ZC1iM2RjLWYwNzVk/NTE3NDMwYi5qcGc"
     }
   },
   {
@@ -1076,7 +1101,7 @@
   },
   {
     "type": "news_result",
-    "title": "레바논 불씨 남긴채 일단 휴전… 미·이란 주말 회동 다��� 분주 - 오마이뉴스",
+    "title": "레바논 불씨 남긴채 일단 휴전… 미·이란 주말 회동 다시 분주 - 오마이뉴스",
     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003244834",
     "description": "(서울=연합뉴스) 김아람 기자 = 그간 협상판 걸림돌이었던 이스라엘과 레바논 무장정파 헤즈볼라 휴전이 일단 성사되면서 잠시 삐걱댔던 미국과 이란의 종전 후속 협상도 다시 시동이 걸리게 됐다.19일(현지시간) 미 일간 ...",
     "age": "2 days ago",
