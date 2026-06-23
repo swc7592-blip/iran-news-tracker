@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "미·이란 합의에 입지 좁아진 레바논…이스라엘과 직접 대화 의지-국제ㅣ한국일보",
+    "url": "https://hankookilbo.com/news/article/A2026062401050002677",
+    "description": "레바논과 이스라엘이 23일(현지시간) 미국 워싱턴에서 5차 평화 협상을 시작했다. 미국과 이란이 종전 협상에서 레바논 내 평화 구축을 논의하고 있지만, 레바논은 이스라엘과 항구적 휴전을 위한 직접 협상을 지속할 계획이다.",
+    "age": "5 hours ago",
+    "page_age": "2026-06-23T16:19:00",
+    "profile": {
+      "name": "한국일보",
+      "url": "https://hankookilbo.com/news/article/A2026062401050002677"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankookilbo.com",
+      "hostname": "hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
+      "path": "› news  › article  › A2026062401050002677"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/05ONWmE7NjJA-JoV9SAnLNPnTTFlPDLvZ4UDvXrCh2g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA2LzI0Lzg2MTBi/N2Y1LTg2Y2UtNDI4/ZC05NDc4LTFiNmRh/ZTBiY2ExNi5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美 6월 제조업 3년 만에 최고인데…일자리는 '6년 만에 최악'",
     "url": "https://www.newspim.com/news/view/20260623001059",
     "description": "JD 밴스 부통령은 22일 스위스에서 열린 이란 측과의 협상이 최종 평화협정을 위한 \"좋은 토대\"를 마련했다고 밝혔다. 다만 호르무즈 해협과 레바논 문제를 둘러싼 긴장이 남아 있어 기업들의 불안은 여전히 해소되지 않은 상태다. S&P글로벌은 \"전쟁에 ...",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-06-23T14:10:00",
     "profile": {
       "name": "Newspim",
@@ -23,32 +45,10 @@
   },
   {
     "type": "news_result",
-    "title": "[인도증시] 차익 실현 매물에 하락...연준 금리 인상 전망에 IT·금속株 ↓",
-    "url": "https://www.newspim.com/news/view/20260623001004",
-    "description": "이날 브렌트유 선물가격은 0.7% 하락한 배럴당 77.4달러를 기록했다. 이란 전쟁 당시 기록했던 최고치 126.4달러에서 약 39% 하락한 것이다.",
-    "age": "8 hours ago",
-    "page_age": "2026-06-23T11:29:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260623001004"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260623001004"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lIefFVYdgnL8WjB2Lo555ZtbBHPpcm-mpIYF1if5i3c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA2/LzIzLzI2MDYyMzIw/MjQ0ODk5ODBfdDEu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미·이란 합의 하루 만에 레바논서 총격…헤즈볼라 휴전 흔들 | 한국경제",
     "url": "https://hankyung.com/article/2026062337807",
     "description": "미·이란 합의 하루 만에 레바논서 총격…헤즈볼라 휴전 '흔들', 이스라엘군 총격에 2명 사망",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-06-23T10:46:50",
     "profile": {
       "name": "Hankyung",
@@ -70,7 +70,7 @@
     "title": "전쟁 상대국 미국 떠나며…이란 대표팀이 남긴 한 장의 메모 “평화·존중·우정” - 스포츠경향",
     "url": "https://sports.khan.co.kr/article/202606231903003/",
     "description": "북중미 월드컵에 출전한 이란 남자축구 대표팀이 전쟁 상대국인 미국 로스앤젤레스에서 조별리그 2경기를 치른 뒤 ‘평화·존중·우정’을 기원하는 자필 메모를 남겼다. 이란축구협회는 23일 홈페이지를 통해 야후 스포츠...",
-    "age": "9 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-06-23T10:03:00",
     "profile": {
       "name": "Khan",
@@ -89,7 +89,7 @@
     "title": "中 의존하던 이란에 ‘80억弗 당근’…美, 에너지·달러 패권 유지 포석 | 서울경제",
     "url": "https://sedaily.com/article/20059213",
     "description": "미국 입장에서는 주요 산유국인 이란 원유를 통제하는 효과를 기대할 수 있다. 트럼프 행정부는 세계 최대 산유국, 액화천연가스(LNG) 수출국 지위를 유지하기 위해 ‘에너지 패권’ 전략을 추구하고 있다. 러시아·우크라이나 전쟁으로 ...",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-06-23T09:09:02",
     "profile": {
       "name": "Sedaily",
@@ -111,7 +111,7 @@
     "title": "‘원조 MAGA’ 터커 칼슨, 트럼프에 등돌려…“공화당 지지 안해”[지금, 이 사람]",
     "url": "https://www.donga.com/news/Inter/article/all/20260623/134165886/1",
     "description": "“11월 미국 중간선거에서 공화당을 지지하지 않겠다.”미국의 대표적인 보수 논객이자 한때 도널드 트럼프 대통령과도 가까웠지만 이란 전쟁 과정에서 대통령과 강하게 대립하고 있는 터커 칼슨 전 폭스뉴스 앵커(57)가 ...",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-06-23T07:37:00",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -133,7 +133,7 @@
     "title": "이란 종전 판 흔드는 이스라엘-헤즈볼라 충돌, 44년전 이 사건 판박이 - 머니투데이",
     "url": "https://www.mt.co.kr/world/2026/06/23/2026062311083315437",
     "description": "갈등과 진정 국면을 반복하고 있는 미국과 이란의 종전 협상 핵심변수로 이스라엘과 레바논 무장세력 헤즈볼라 관계가 주목된다. 11월 중간선거를 앞두고호르무즈 해협 개방과 국제유가 안정을 원하는 도널드 트럼프 미국 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-06-23T06:28:18",
     "profile": {
       "name": "Mt",
@@ -155,7 +155,7 @@
     "title": "'진상' 이스라엘 \"레바논 철수, 절대불가\"... 美ㆍ이란 종전협상에 '최대 걸림돌'",
     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=873061",
     "description": "NYT에 따르면 기드온 사르 ... 공격과 침투 위협에 노출하지 않을 것\"이라고 밝혔다. 이스라엘은 레바논 국경에서 북쪽으로 10km 지점까지를 안보구역으로 설정하고, 전차부대 등을 투입해 헤즈볼라를 상대로 한 작전을 벌였다. 주둔 병력을 철수시키지 않겠다는 원칙을 고수한 사르 장관의 발언은 미국과 이란의 종전 합의 ...",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-23T03:17:05",
     "profile": {
       "name": "Getnews",
@@ -177,7 +177,7 @@
     "title": "\"트럼프·이란 합의, 헤즈볼라 키울라\"…네타냐후, 이스라엘 패싱에 '패닉' - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606231207170119",
     "description": "(서울=뉴스1) 이정환 기자 = 도널드 트럼프 미국 대통령이 체결한 종전 합의가 레바논 내 이란의 영향력을 사실상 정당화할 것이라는 우려가 나오면서 이스라엘 정부에 비상이 걸렸다고 미국 온라인 매체 악시오스가 ...",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-23T03:07:47",
     "profile": {
       "name": "First News",
@@ -199,7 +199,7 @@
     "title": "\"레바논 분쟁 관리서 이스라엘 제외\"… '패닉' 네타냐후, 트럼프에 긴급 SOS < 외교/안보 < POLITICS < 기사본문 - 더퍼블릭",
     "url": "https://www.thepublic.kr/news/articleView.html?idxno=308670",
     "description": "[더퍼블릭=양원모 기자] 스위스에서 열린 미국-이란 고위급 회담이 한때 중단 위기를 맞은 배경에 베냐민 네타냐후 이스라엘 총리가 있다는 보도가 나왔다.이스라엘이 빠진 새로운 레바논 분쟁 관리 체제 출범에 위기감을 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-23T02:51:02",
     "profile": {
       "name": "Thepublic",
@@ -221,7 +221,7 @@
     "title": "[아시아라운드업 20260623] 카타르 'LNG 허브' 라스라판 폭발, 13명 사망 - 아시아엔 THE AsiaN",
     "url": "https://kor.theasian.asia/archives/408118",
     "description": "사드 알 카비 카타르 에너지부 장관은 22일 기자회견을 열어 이번 폭발로 13명이 숨지고 66명이 다쳤다고 밝혔음. – 이번 폭발 사고는 이란의 공격에 운영이 중단된 라스라판 산업단지 설비를 재가동하는 과정에서 발생한 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-06-23T02:44:47",
     "profile": {
       "name": "Theasian",
@@ -240,10 +240,32 @@
   },
   {
     "type": "news_result",
+    "title": "美·이란 합의 둘러싸고 이스라엘 동맹 균열 우려 - 아시아투데이",
+    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260623010007898",
+    "description": "이스라엘이 레바논 주둔을 ... 트럼프 미국 대통령의 측근들이 그를 옹호하고 나섰다.미국과 이스라엘의 관계는 이란 공동 공격 직후 견고했던 신뢰 관계에서.....",
+    "age": "19 hours ago",
+    "page_age": "2026-06-23T01:55:26",
+    "profile": {
+      "name": "Asiatoday",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260623010007898"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "asiatoday.co.kr",
+      "hostname": "www.asiatoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/SAnjwR9TsT46VGfN3HtnhLMVt94rRMgt8cQqOlYB4DI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQzZGU3MGJm/Yzg0ODJkYTRmNjk0/Mjk1MmYxOGNkY2Qz/YjFlZmNjMDk4OTdl/MDc2YmE5OGQ3ZDBh/NTgwNjU5My93d3cu/YXNpYXRvZGF5LmNv/LmtyLw",
+      "path": "› kn  › view.php"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ffdm9aJUHIcHNt4FKbwrdtWVd1s6xlvMlBBLBLnCR_g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/YXNpYXRvZGF5LmNv/LmtyL2ZpbGUvMjAy/NnkvMDZtLzIzZC8y/MDI2MDYyMzAxMDAx/NDQ3MDAwMDc5MjMx/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미-이란 앞다퉈 중동 접촉 '장외전'…합종연횡 분주 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606231040325261",
-    "description": "미-이란 앞다퉈 중동 접촉 '장외전'…합종연횡 분주 美국무, 종전MOU 체결 후 첫 중동 순방…걸프국 연쇄 접촉 이란, 오만·파키스탄 잇달아 방문…이스라엘-레바논도 워싱턴 회담 (서울=연합뉴스) 곽민서 기자 = 미국과 이란이 ...",
-    "age": "18 hours ago",
+    "description": "미-이란 앞다퉈 중동 접촉 '장외전'…합종연횡 분주 美국무, 종전MOU 체결 후 첫 중동 순방…걸프국 연쇄 접촉 이란, 오만·파키스탄 ���달아 방문…이스라엘-레바논도 워싱턴 회담 (서울=연합뉴스) 곽민서 기자 = 미국과 이란이 ...",
+    "age": "19 hours ago",
     "page_age": "2026-06-23T01:40:59",
     "profile": {
       "name": "First News",
@@ -265,7 +287,7 @@
     "title": "이스라엘-헤즈볼라 충돌, 이란 전쟁 종식의 최대 걸림돌로 부상",
     "url": "https://www.theguru.co.kr/news/article.html?no=103407",
     "description": "[더구루=홍성환 기자] 미국 블룸버그 통신이 \"이스라엘과 헤즈볼라의 충돌이 이란 전쟁 해결을 복잡하게 만들고 있다\"고 분석했다. 블룸버그는 23일 \"미국과 이란이 지난 4월 휴전에 합의한 이후 서로 공격을 자제했지만, ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-23T01:26:37",
     "profile": {
       "name": "Theguru",
@@ -287,7 +309,7 @@
     "title": "호르무즈 핫라인·레바논 창구…美-이란 60일간 가드레일 설치 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606231020249000",
     "description": "호르무즈 핫라인·레바논 창구…美-이란 60일간 가드레일 설치 향후 회담 '선로 이탈' 방지하기 위한 안전장치 일단 합의 (서울=연합뉴스) 임화섭 기자 = 미국과 이란이 종전 이행의 첫걸음을 뗀 1차 협상에서는 향후 회담 이탈을 ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-23T01:20:50",
     "profile": {
       "name": "First News",
@@ -309,7 +331,7 @@
     "title": "\"美-이란 레바논 충돌방지체계에 이스라엘 제외…네타냐후 패닉\" - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202606231016040800",
     "description": "(서울=뉴스1) 김경민 기자 = 미국과 이란이 합의한 레바논 충돌 방지 메커니즘에 이란·카타르·파키스탄은 들어가고 이스라엘을 제외할 가능성이 대두되자 베냐민 네타냐후 이스라엘 총리가 당혹감을 감추지 못하고 있다고 ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-06-23T01:16:29",
     "profile": {
       "name": "First News",
@@ -331,7 +353,7 @@
     "title": "미·이란, 동결자산·핵사찰 두고 '동상이몽’",
     "url": "https://kgnews.co.kr/news/article.html?no=901066",
     "description": "미국과 이란이 종전 양해각서(MOU) 이행을 위한 고위급 회담을 마치고 실무 합의 단계에 진입했으나, 핵심 쟁점마다 정반대의 주장을 펼치며 엇갈리고 있다. 22일(현지시간) 이란 타스님 통신과 로이터 등 외신은 일제히 이란 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-23T00:44:19",
     "profile": {
       "name": "Kgnews",
@@ -353,7 +375,7 @@
     "title": "이스라엘 \"레바논 남부 안전지대 군 주둔 유지\"",
     "url": "https://www.newspim.com/news/view/20260623000051",
     "description": "[서울=뉴스핌] 최원진 기자= 미·이란이 레바논을 포함한 모든 전선의 군사작전 종료에 합의했지만 이스라엘은 레바논 남부에서 한 발짝도 물러서지 않겠다는 뜻을 다시 한번 못박았다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-22T23:38:00",
     "profile": {
       "name": "Newspim",
@@ -375,7 +397,7 @@
     "title": "‘악마는 디테일에...’ 美-이란, 첫 합의에도 핵사찰 등 ‘신중론’[이태규의 워싱턴 플레이북] | 서울경제",
     "url": "https://sedaily.com/article/20058824",
     "description": "이란이 국제원자력기구(IAEA)의 입국을 허용하고 미국이 수십 년 만에 이란산 원유의 ‘달러 결제’를 허용하면서 양측이 종전 양해각서(MOU) 체결 후 협상의 첫 단추는 순조롭게 끼운 분위기다. 협상판을 깨지는 않는 큰 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-06-22T23:30:00",
     "profile": {
       "name": "Sedaily",
@@ -416,9 +438,9 @@
   },
   {
     "type": "news_result",
-    "title": "美, 이란 원유 ‘달러 결제’ 수십년 만에 풀었다...노림수는 ‘中 견제’[이태규의 워싱턴 플레이북] | 서울경제",
+    "title": "美, 이란 원유 ���달러 결제’ 수십년 만에 풀었다...노림수는 ‘中 견제’[이태규의 워싱턴 플레이북] | 서울경제",
     "url": "https://sedaily.com/article/20058819",
-    "description": "특히 주목할 점은 이란이 원유 제품을 판매하고 대금을 달러화로 받을 수 있게 한 것이다. 미국과 이란의 전쟁이 한창이던 지난 3월 미국은 국제유가 안정을 위한 고육책으로 이란의 해��� 원유 판매는 허용한 바 있다.",
+    "description": "특히 주목할 점은 이란이 원유 제품을 판매하고 대금을 달러화로 받을 수 있게 한 것이다. 미국과 이란의 전쟁이 한창이던 지난 3월 미국은 국제유가 안정을 위한 고육책으로 이란의 해상 원유 판매는 허용한 바 있다.",
     "age": "1 day ago",
     "page_age": "2026-06-22T21:50:55",
     "profile": {
@@ -500,28 +522,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/3z6pyh9m3cQp__scLJVdq3XHc8FCmFUQ-fnFfIn2Y6w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMjIvbmV3/cy1wLnYxLjIwMjYw/NjIyLjA0YTk2NGEz/ZmNmOTRkZmY4Yjlh/MjZlYjU0NDY1MDY4/X1IuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 “IAEA 사찰 재개는 절차 따라”...美 발표와 온도차 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10784450",
-    "description": "[헤럴드경제=서지연 기자] 미국이 이란의 국제원자력기구(IAEA) 핵 사찰단 복귀 합의를 이번 종전 협상의 주요 성과로 내세운 가운데 이란은 “새로운 의무를 수용한 것은",
-    "age": "1 day ago",
-    "page_age": "2026-06-22T20:53:04",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10784450"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10784450"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/myT79sth9HEyq2LPvQxtpy31NP43AaQMruPIvgTG_Us/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDYvMjMv/bmV3cy1wLnYxLjIw/MjYwNTI1LmNiZDk0/ZTkxZWE3OTRlMTk4/ZjE0NWJlMWU5NWI2/NTExX1QxLmpwZw"
     }
   },
   {
@@ -702,7 +702,7 @@
     "title": "핵 사찰단 이번주 이란으로···“핵무기 영구 종식 위한 첫걸음” | 서울경제",
     "url": "https://www.sedaily.com/article/20058711",
     "description": "미국과 이란이 ‘무박 2일 18시간’ 진행한 첫 고위급 회담에서 호르무즈해협 통항 보장과 이스라엘의 레바논 공격 중단, 그리고 핵심 사안이었던 국제 핵사찰단의 이란 내 활동 재개에 합의했다. 미국과 이란은 21일(현지 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-22T08:52:27",
     "profile": {
       "name": "Sedaily",
@@ -724,7 +724,7 @@
     "title": "밴스 “이란, IAEA 핵사찰단 복귀 동의” | 서울경제",
     "url": "https://www.sedaily.com/article/20058702",
     "description": "EPA연합뉴스 미국과 이란이 종전 양해각서(MOU) 이행을 논의하기 위해 스위스에서 개최한 고위급 1차 회담에서 호르무즈해협 통항 보장과 이스라엘의 레바논 공격 중단 등을 위해 ‘관리 체계’를 세우기로 합의했다.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-22T08:49:37",
     "profile": {
       "name": "Sedaily",
@@ -746,7 +746,7 @@
     "title": "\"네타냐후 도박 실패\"‥미국과 멀어지고 실권 위기까지",
     "url": "https://imnews.imbc.com/news/2026/world/article/6831998_36925.html",
     "description": "미국과 함께 이란 공격을 감행했던 베냐민 네타냐후 이스라엘 총리가 사실상 전쟁 목표를 달성하는 데 실패하면서 안팎으로 위기에 몰렸다는 분석이 나왔습니다. 영국 파이낸셜타임스(FT)...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-22T08:20:32",
     "profile": {
       "name": "MBC 뉴스",
@@ -768,7 +768,7 @@
     "title": "전쟁 끝나자 혼자 남은 네타냐후 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202606221648415809",
     "description": "미국과 함께 이란 공격에 나섰던 베냐민 네타냐후 이스라엘 총리가 전쟁 목표를 달성하지 못한 채 정치적 위기에 직면했다는 분석이 나왔다.이에 따라 네타냐후의 입장에서는 향후 미국과 이란의 협상이 결렬되거나 전쟁이 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-22T07:54:28",
     "profile": {
       "name": "First News",
@@ -790,7 +790,7 @@
     "title": "이란, 6일 만에 석유 2500만배럴 수출...전쟁 전 2주일치 팔아 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202606221538131502",
     "description": "이란이 이달 미국과 종전 양해각서를 체결한 이후 약 6일 동안 미군 봉쇄를 넘어 해외로 수출한 원유가 2500만배럴을 넘어섰다.이란의 최고국가안보회의는 지난 15일 발표에서 아야톨라 세예드 모즈타바 하메네이 이란 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-06-22T07:48:08",
     "profile": {
       "name": "First News",
@@ -853,29 +853,7 @@
   },
   {
     "type": "news_result",
-    "title": "'61조원 태운 이란전쟁' 美 가계 직격탄…기름값·물가 다 뛰었다 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202606221457156620",
-    "description": "이후 공격 빈도와 고가 무기 사용이 줄면서 하루 비용은 점차 낮아진 것으로 집계됐다. 미 국방부는 800억달러(약 123조1920억원) 규모의 추가 예산도 요청한 것으로 알려졌다. 미 정부 소식통 2명은 \"국방부가 이 같은 규모의 추경을 요청했으며, 이 가운데 이란 ...",
-    "age": "2 days ago",
-    "page_age": "2026-06-22T07:06:55",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202606221457156620"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202606221457156620"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ZNiWtXAVbT09yaAMoON0YNVeaxHnmWck1LgVLZDXdEo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjUvMDcvMTAvMjAy/NTA3MTAxNzI3MjQ1/NzEyX2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[월드컵] 이란 경기장서 반복되는 '깃발 숨바꼭질' 신경전 - 파이낸셜뉴스",
+    "title": "[월드컵] 이란 경기장서 반복되는 '깃발 숨바꼭질' 신경전 - 파이낸���뉴스",
     "url": "https://fnnews.com/news/202606221604470074",
     "description": "[월드컵] 이란 경기장서 반복되는 '깃발 숨바꼭질' 신경전 (서울=연합뉴스) 고일환 기자 = 미국에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵의 이란 축구대표팀 경기장에서 '깃발 숨바꼭질'이 반복되고 있다고 21일(현지시간) ...",
     "age": "2 days ago",
@@ -937,6 +915,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/MNeRlcnCazABk4g1OmfUwSmaboZ6HNTM3VVWxIc5VMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL1FU/S2tuaGM0VE9TNkky/TTZBcG55MXMwM2Vk/S3daUjhJbVE3bVZs/WFhoZTRQdG81ZmRx/aE5uYzhuSGIwVExm/cC1PTXNqeUdXRmxE/aUdQSjRQdFZFdTJO/TEExemlCd2doQW1H/WG5lU2NsMWdzUmxB/WWdDN2l2aGM1SjRL/UkpWSjFCWThJMDNq/NWpzaGYyRl82WHdE/REFfZnhfeTVLdlpR/RFhrM3B5TWdMeW5l/RS53ZWJw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "격동하는 2026 ‘이란 전쟁, 북중정상회담 그리고 한반도’ - 매일경제",
+    "url": "https://mk.co.kr/news/politics/12079904",
+    "description": "격동하는 2026 ‘이란 전쟁, 북중정상회담 그리고 한반도’ 정청래 더불어민주당 대표가 22일 서울 여의도 국회에서 열린 더불어민주당 한반도평화신전략위원회 주최 긴급 국제정세 토론회 ‘격동하는 2026 이란 전쟁, ...",
+    "age": "2 days ago",
+    "page_age": "2026-06-22T05:36:23",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/politics/12079904"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › politics  › 12079904"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/VhVVHFHzNWt1GpgJHByuFZ5Zr9L4LO5eB8O_yRfIKF4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/Ni8yMi9uZXdzLXAu/djEuMjAyNjA2MjIu/ODU3NGJhZGUyOTA0/NGFkN2IwMjZjMmUy/MzhjYjU4MjFfUi5q/cGc"
     }
   },
   {
@@ -1025,6 +1025,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/zbaKgI1B1J98nmZ4N79gaTPaLTXHlRIzc3q2QE_t7sc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/d3d3LmNlb21hZ2F6/aW5lLmNvLmtyL3cx/MjAwL3ExMDAvZl9q/cGcvYXJ0aWNsZS1p/bWFnZXMvMjAyNi0w/Ni0yMi9hY2EyZGFi/Ny01ZDFiLTQwZWQt/YjU1Mi1lNTNhZGYw/ZTg0ZDEuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美-이란 ‘기본 틀’은 짰다...“호르무즈·레바논 관리체계 합의”(종합) | 서울경제",
+    "url": "https://sedaily.com/article/20058546",
+    "description": "당장 아라그치 이란 외무 장관은 “레바논 갈등완화기구가 첫 번째 실질적인 시험대”라고 강조했다. 이 기구가 제대로 운영돼 레바논에서의 종전 약속이 지켜져야 후속 협상을 이어가겠다는 의미로 풀이되지만 이스라엘의 ...",
+    "age": "2 days ago",
+    "page_age": "2026-06-22T03:24:54",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://sedaily.com/article/20058546"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "sedaily.com",
+      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
+      "path": "› article  › 20058546"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/gVNLH9TWv9KEQ0VTak40hBcm0FuUBmixj9ioBo0Ud2g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDYvMjIvbmV3/cy1wLnYxLjIwMjYw/NjIyLjExZjc5MDUz/ZGVhNjQ5MTdhN2Q0/MTlhZDI5YWY3YzM4/X1IuanBn"
     }
   },
   {
