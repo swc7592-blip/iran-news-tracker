@@ -1,68 +1,24 @@
 [
   {
     "type": "news_result",
-    "title": "[테마로 보는 미국 ETF] ㉘ 전쟁·물류·UAM 드론 생태계 정조준",
-    "url": "https://www.newspim.com/news/view/20260702000915",
-    "description": "우크라이나 및 이란 전쟁을 계기로 무인기가 현대전의 핵심 전력으로 부상하면서 각국 정부의 드론 관련 예산이 빠르게 늘고 있고, 미국은 자국산 드론 조달을 우선시하는 규정을 시행하며 자국 기업들의 시장 점유율 확대를 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-07-02T06:28:00",
+    "title": "'대면' 없이 끝난 美·이란 협상…\"한 걸음 전진하고 두 걸음 후퇴\"-국제ㅣ한국일보",
+    "url": "https://hankookilbo.com/news/article/A2026070209440003011",
+    "description": "(미국·이란 전쟁) 카타르 도하에서 열린 미국 이란 종전 실무협상이 호르무즈해협 통행료, 이란 동결자산 해제 등 핵심 쟁점에서 진전 없이 간접 협상만 진행됐으며 핵 문제는 논의되지 않았다. |",
+    "age": "7 hours ago",
+    "page_age": "2026-07-02T07:40:00",
     "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260702000915"
+      "name": "한국일보",
+      "url": "https://hankookilbo.com/news/article/A2026070209440003011"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260702000915"
+      "netloc": "hankookilbo.com",
+      "hostname": "hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
+      "path": "› news  › article  › A2026070209440003011"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/cVoHHUIPOgr-IXYb1CL5-SckB6lYXY5qQ6gT617nEx4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzAyLzI2MDcwMjE1/MTUxNzgyOTBfNjc1/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[AI로 읽는 경제] 미·이란 종전 국면…한국 산업 대응 방향은?",
-    "url": "https://newspim.com/news/view/20260702000418",
-    "description": "* [AI로 읽는 경제]는 AI 어시스턴트가 분석한 내용을 바탕으로 기자가 정리한 내용입니다. ChatGPT AI 모델이 적용됐습니다. 상단의 'AI MY 뉴스' 로그인을 통해 뉴스핌의 차세대 AI 콘텐츠 서비스를 활용해 보기 바랍니다.[세종...",
-    "age": "8 hours ago",
-    "page_age": "2026-07-02T04:41:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260702000418"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260702000418"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/d2B7-3ODI5323D_lQRBbZW_02rIt9pplY_tXC83WgHw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzI1LzI2MDMyNTAy/NTMyOTEwOTBfODEy/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미-이란, 카타르 간접회담 종료…MOU위반 신고채널 구축 합의 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10795947",
-    "description": "미국과 이란이 카타르 도하에서 열린 종전 양해각서(MOU) 이행 관련 실무협의를 마무리하고 합의 위반 사항을 관리하기 위한 공식 소통 채널을 구축하기로 했다. 양측은 호",
-    "age": "10 hours ago",
-    "page_age": "2026-07-02T02:37:45",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10795947"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10795947"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/T2-CiV9xZbXyIBsODPCGGN9NSfbBFWtFfM1PLYqBXEA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29t"
+      "src": "https://imgs.search.brave.com/RScKvF3qS-F7lDTGil5dwTIiottDimcLyd_62-HHKXs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA3LzAyLzI2M2Rh/NmFhLTlkMGMtNGM0/MS1hOGY1LTIzMjNh/NGVhMDJhNi5qcGc"
     }
   },
   {
@@ -70,7 +26,7 @@
     "title": "황교안 옆에 선 '올다르크' … 집회 참가자 간 물리 충돌도 | 뉴데일리",
     "url": "https://newdaily.co.kr/site/data/html/2026/07/02/2026070200125.html",
     "description": "선관위 국조특위의 현장 검증을 앞두고 핸드볼경기장 일대에 황교안 자유와혁신 대표와 체육단체의 경기장 진입을 막아선 이른바 '올다르크'가 자리했다. 2일 오전 11시 기준 서울 송파구 올림픽공원 핸드볼경기장 일대는 ...",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-07-02T02:06:44",
     "profile": {
       "name": "Newdaily",
@@ -92,7 +48,7 @@
     "title": "미·이란 호르무즈 개방 합의 '2주째' 원유 수송량 전주 대비 1218%↑ - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607021045079177",
     "description": "미국 정부와 이란 정부는 지난달 19일 스위스에서 호르무즈 해협 전면 재개방을 포함한 합의 내용을 발표했다. 이와 관련해 지난달 말까지 이스라엘의 레바논 공격이 계속됐음에도 불구하고 호르무즈 해협을 통과하는 선박 ...",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-07-02T01:51:31",
     "profile": {
       "name": "First News",
@@ -114,7 +70,7 @@
     "title": "미-이란 종전협상 '숨 고르기'…호르무즈·핵 온도차 여전 - 매일일보",
     "url": "https://m-i.kr/news/articleView.html?idxno=1387483",
     "description": "이란 국영 IRNA 통신에 따르면 이란 측은 중재국들과의 협의에서 레바논 전쟁 종식과 관련된 미국의 MOU 조항 의무 위반, 서아시아 지역에서의 미국 측 군사 병력 증강 움직임, 미국 당국자들의 위협성 발언 등을 지적했다.",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-07-02T01:49:39",
     "profile": {
       "name": "M-i",
@@ -136,7 +92,7 @@
     "title": "\"美-이란, '동결자산 30억$' 입장 달라…호르무즈도 이견 재확인\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607021032199452",
     "description": "[서울=뉴시스] 김승민 기자 = 도널드 트럼프 미국 행정부와 이란 정권이 1일(현지 시간) 카타르에서 간접 협상을 열고 종전 양해각서(MOU) 이행 문제를 논의했으나 유의미한 성과를 내지는 못한 것으로 알려졌다.",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-07-02T01:32:21",
     "profile": {
       "name": "First News",
@@ -155,10 +111,32 @@
   },
   {
     "type": "news_result",
+    "title": "도하 회담 재개한 미국, 호르무즈 해협 통행료 철회 설득 나서",
+    "url": "https://newspim.com/news/view/20260702000181",
+    "description": "[시드니=뉴스핌] 권지언 특파원 = 미국과 이란 협상 대표단이 카타르 도하에서 핵 및 지역 현안을 놓고 협상을 이어가는 가운데, 미국이 이란의 호르무즈 해협 통행료 부과 구상을 철회하도록 설득에 나선 것으로 알려졌다...",
+    "age": "14 hours ago",
+    "page_age": "2026-07-02T00:09:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260702000181"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260702000181"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/rI7JK2O0sIHWfNdAYQKccTq9XZBIX5ulhTMsKbZ4HZE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAz/LzI1LzI2MDMyNTAy/NTMyOTEwOTBfMTU5/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[혐오소비] ② 입장 다르면 반공·혐중몰이…참정권 시위도 덮쳐 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607020900539894",
     "description": "[혐오소비] ② 입장 다르면 반공·혐중몰이…참정권 시위도 덮쳐 \"다중 모이니 혐오조장 세력 등장\"…세대 안 가리고 오프라인 공간 분출 투표용지 부족과 연관성 없는데…중국어만 들려도 \"정말 싫어\" (서울=연합뉴스) 전재훈 ...",
-    "age": "12 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-07-02T00:00:54",
     "profile": {
       "name": "First News",
@@ -180,7 +158,7 @@
     "title": "美·이란 협상단, 도하서 간접 회담…동결자산·호르무즈 논의 - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10795368",
     "description": "[헤럴드경제=김영철 기자] 미국과 이란의 종전 협상 실무대표단이 1일(현지시간) 카타르 도하에서 간접 회담을 했다고 AFP, 로이터 통신 등 외신이 외교 소식통을 인용해",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-07-01T23:47:21",
     "profile": {
       "name": "Herald Corp",
@@ -202,7 +180,7 @@
     "title": "미·이란, 도하서 비공개 간접협상…호르무즈·동결자산 놓고 줄다리기 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607020710144977",
     "description": "미국과 이란이 카타르 도하에서 중재국을 사이에 둔 간접 실무협상을 시작했다.1일 AFP통신 등에 따르면 미국과 이란 실무대표단은 이날 카타르와 파키스탄의 중재 아래 도하에서 간접 회담을 진행했다.한 외교 소식통은 ...",
-    "age": "14 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-07-01T22:11:36",
     "profile": {
       "name": "First News",
@@ -224,7 +202,7 @@
     "title": "국제유가, 美ㆍ이란 회담 낙관론에 하락... 4개월 만에 최저 수준으로",
     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=873883",
     "description": "특히 국제원유 거래의 대표상품격인 브렌트유 선물은 이날 하락으로 미국과 이란의 전쟁(이란전) 발발 하루 전인 지난 2월 26일 이후 4개월 만에 가장 낮은 수준을 기록, 전쟁 이전 가격으로 돌아갔다고 로이터 통신 등 외신과 ...",
-    "age": "14 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-07-01T21:56:02",
     "profile": {
       "name": "Getnews",
@@ -235,7 +213,7 @@
       "netloc": "getnews.co.kr",
       "hostname": "www.getnews.co.kr",
       "favicon": "https://imgs.search.brave.com/vJYfVcKG0m7Dlz9zdeitf0bkRESy7yKLmLewFVAjL_E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQ4M2ZiN2Y3/MjY4MWNmNDBjYWIy/YWUxZjcxMjRmZGE3/MzFhMzc5Y2VkZDJj/YzkyYjgxYWIxYWQ1/MGI5MWY5OS93d3cu/Z2V0bmV3cy5jby5r/ci8",
-      "path": "› news  › articleView.html"
+      "path": "› news  ��� articleView.html"
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/XK-ELMID_CV1KJSIYAhGzq2Ug8XnLDX_i_2YpnFr7vg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z2V0bmV3cy5jby5r/ci9uZXdzL3Bob3Rv/LzIwMjYwNy84NzM4/ODNfNTI4NjI4XzU1/MjkuanBn"
@@ -243,10 +221,32 @@
   },
   {
     "type": "news_result",
+    "title": "美·이란, 도하 회담 종료…호르무즈 통행 놓고 이견 여전",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02256646645510584",
+    "description": "백악관이 ‘고위급 회담’을 ... 않은 것으로 전해졌다. 최초 합의는 이란과 미국이 호르무즈 해협 선박 운항 재개를 허용하는 내용을 담고 있다. 호르무즈 해협은 전쟁 발발 전 전세계 원유·액화천연가스(LNG) ...",
+    "age": "17 hours ago",
+    "page_age": "2026-07-01T21:05:13",
+    "profile": {
+      "name": "Edaily",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02256646645510584"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "edaily.co.kr",
+      "hostname": "edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
+      "path": "› News  › Read"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Rc4lTKYdM4sozwocrdjasBKct9p3ods44RREKbu5sU4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNy9Q/UzI2MDcwMjAwMTg4/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미국과 헤어질 결심?···재편되는 ‘중동 질서’[미·이란 전쟁이 드러낸 3개의 균열]② - 경향신문",
     "url": "https://khan.co.kr/article/202607020600021",
     "description": "미·이란 전쟁 이전에도 조짐은 있었다. 지난해 9월 이스라엘은 하마스 지휘부를 타격하겠다는 구실로 카타르에 폭격을 가했다. 사우디는 이 공격을 계기로 파키스탄과 상호방위조약을 체결했다.",
-    "age": "15 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-01T21:00:00",
     "profile": {
       "name": "Khan",
@@ -265,10 +265,32 @@
   },
   {
     "type": "news_result",
+    "title": "[국제유가] 하락 지속…트럼프 \"이란과 협상 잘 된다\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607020530595162",
+    "description": "국제 유가가 1일 하락세를 이어갔다.도널드 트럼프 미국 대통령이 이란과 협상이 잘 되고 있다고 밝힌 데 따른 것이다.국제 유가 기준물인 브렌트유 9월 인도분은 전장 대비 1.9% 하락한 배럴당 71.57달러로 마감했다.",
+    "age": "18 hours ago",
+    "page_age": "2026-07-01T20:32:38",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607020530595162"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607020530595162"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hoqjhZXU20DoSgExGOqUjfFkQobw-YpGxh0fHEx3yUA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMDEvMjAy/NjA3MDEyMjM1MjY1/MzA2X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 외무차관 \"카타르 회담 종료…MOU 위반 신고 채널 구축 합의\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607020513094373",
     "description": "그는 \"이란·카타르·파키스탄 3국 수석 협상가들이 참석한 (종전) 양해각서(MOU) 이행 감시그룹의 첫 회의도 열렸다\"며 \"이 회의에서는 레바논 전쟁 종식과 관련한 양해각서 제1조에 대한 미국의 의무 위반, 미국의 역내 병력 ...",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-01T20:13:10",
     "profile": {
       "name": "First News",
@@ -290,7 +312,7 @@
     "title": "미·이란 협상 불씨 살렸다…카타르 중재로 간접 대화 시작 - 매일신문",
     "url": "https://imaeil.com/page/view/2026070115411411566",
     "description": "이란 내부 강경론도 변수다. 헌법기구 전문가회의 소속 고위 성직자 88명 중 63명은 전날 성명을 내고 트럼프 대통령과 네타냐후 이스라엘 총리를 겨냥해 \"살해는 종교적 의무\"라고 주장했다. 미국의 공습으로 사망한 아야톨라 ...",
-    "age": "16 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-01T19:57:03",
     "profile": {
       "name": "Imaeil",
@@ -393,28 +415,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/hMIJXyLv584S9Bv9SFhg7hYMMZS-8um5EMxd3P--e_w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/a2hhbi5jby5rci9u/ZXdzLzIwMjYvMDcv/MDEvbF8yMDI2MDcw/MjAxMDAwMDQxMTAw/MDAzNzUxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "독일, 美 첨단무기 자국 내 공동 생산 방안 추진… 나토 정상회의 때 &apos;협정 체결&apos; 모색",
-    "url": "https://www.newspim.com/news/view/20260701001425",
-    "description": "유럽은 우크라이나 전쟁 이후 박차를 가하고 있는 '유럽 재무장'에 속도를 낼 수 있고, 미국도 이란 전쟁으로 무기 재고 부족과 생산 능력 한계 등의 문제를 완화할 수 있다는 것이다.",
-    "age": "1 day ago",
-    "page_age": "2026-07-01T11:00:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260701001425"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260701001425"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ogFl1ZFNij3TPvY4f7rayLH-nzJLOT_A8IL9r6yz2_E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzAxLzI2MDcwMTE5/NTkxOTIwOTBfdDEu/anBn"
     }
   },
   {
@@ -530,28 +530,6 @@
   {
     "type": "news_result",
     "title": "이란 “호르무즈 무료 통과는 오직 60일간…권리 포기 못해” | 문화일보",
-    "url": "https://www.munhwa.com/article/11599628",
-    "description": "그는 “이는 역내 국가 ... 것으로, 주로 전쟁 발발 당시 해협 봉쇄로 인해 해당 지역에 갇혀 있던 선박들을 위한 조치”라고 주장했다. 갈리바프 의장은 “호르무즈 해협에 대한 주권은 이란과 오만에 있으며, ...",
-    "age": "1 day ago",
-    "page_age": "2026-07-01T09:50:26",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://www.munhwa.com/article/11599628"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "www.munhwa.com",
-      "favicon": "https://imgs.search.brave.com/1kuN8S7qafYNC3cyLmYyz-ezvd9p-f8WiLc7ehxSSI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YyOTVmNDAw/NWNmMjNiOTY2ZGMz/NmUyYWIwZDg3ZmM1/NzE4ZTc2ODI3NzRk/MjYzZDI5NjZmOTVl/NjkzMWZjZC93d3cu/bXVuaHdhLmNvbS8",
-      "path": "› article  › 11599628"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7rNwzyMgPKWv0HloIoClw2TOv6kd_mYna2lFoRBnrqE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNy8wMS9uZXdz/LXAudjEuMjAyNjA3/MDEuYzExYjEzOGU2/MzE4NGUzNWI0ODM0/YWY1ZDZiMWIxY2Jf/Ui5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 “호르무즈 무료 통과는 오직 60일간…권리 포기 못해” | 문화일보",
     "url": "https://munhwa.com/article/11599628",
     "description": "이란 측 종전 협상단장인 모하마드 바게르 갈리바프 의회 의장은 통행료를 지급하지 않는 호르무즈 해협 무상 통항은 미국과의 종전 협상이 진행될 단 60일간만 허용할 것이라고 1일 밝혔다. 갈리바프 의장은 이날 대국민 ...",
     "age": "1 day ago",
@@ -613,6 +591,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/yJfp1ijvXYqHK551NuDv6Ekh9qZevHsrwAu1vLAaQo4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwNzAxLzExYjE0/OWQ1OWVkNWY0M2E5/NGVjZWVkOTJlYjFi/ZGIzLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"美·이란 협상단, 카타르 도하서 간접 회담 예정\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607011724512927",
+    "description": "미국과 이란의 종전 협상 실무대표단이 1일 카타르 도하에서 간접 회담을 개최할 예정이라고 AFP 통신이 외교 소식통을 인용해 보도했다.소식통은 \"미국과 이란 당국자들은 스위스 루체른 호수 정상회의에서 이룬 진전을 ...",
+    "age": "1 day ago",
+    "page_age": "2026-07-01T08:28:03",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607011724512927"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607011724512927"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/nNZthK7HGuL7qDBSlyNa4aqgVOctDn09Hku3R_VS3C4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMDEvMjAy/NjA3MDExNDEzMjYw/MDI5X2wuanBn"
     }
   },
   {
@@ -771,7 +771,7 @@
   },
   {
     "type": "news_result",
-    "title": "[국제] 이란 의회 고��급 관계자 \"美, 지역 국가 내정 간섭하는 시대 끝나\" < 국제 < 기사본문 - 동방일보",
+    "title": "[국제] 이란 의회 고위급 관계자 \"美, 지역 국가 내정 간섭하는 시대 끝나\" < 국제 < 기사본문 - 동방일보",
     "url": "https://dongbangilbo.co.kr/news/articleView.html?idxno=95759",
     "description": "6월 30일 이란 관영 메흐르통신(MNA)의 보도에 따르면 아지지 위원장은 호르무즈 해협의 관리권이 이란에 있다고 강조했다. 그러면서 레바논의 주권 보장은 저항 세력의 무장 해제가 아니라 이스라엘의 점령과 침략을 끝내는 ...",
     "age": "1 day ago",
@@ -837,7 +837,7 @@
   },
   {
     "type": "news_result",
-    "title": "‘오월길’ 안내판에 군화 한 짝?…광주시 “5·18 조롱 의도 조사 중”- 매경ECONOMY",
+    "title": "‘오월길’ 안내판에 군화 한 ���?…광주시 “5·18 조롱 의도 조사 중”- 매경ECONOMY",
     "url": "https://mk.co.kr/news/business/12087551",
     "description": "5·18 관련 표지판에 군화 매달려 조롱 의도 드러나면 경찰 수사 의뢰",
     "age": "1 day ago",
@@ -972,7 +972,7 @@
     "title": "'독일 국민차' VW도 10만명 자르나…공장 4곳 폐쇄안에 정치권·노조 제동 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260701_0003691329",
     "description": "[워싱턴=AP/뉴시스] 도널드 트럼프(오른쪽) 미국 대통령이 3일(현지 시간) 백악관 집무실에서 프리드리히 메르츠 독일 총리와 회담 중 얘기를 나누고 있다. 트럼프 대통령은 이란 전쟁 최악의 시나리오가 무엇이냐는 기자 질문에 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T02:31:12",
     "profile": {
       "name": "Newsis",
@@ -994,7 +994,7 @@
     "title": "네타냐후, 레바논 주둔지서 \"헤즈볼라 위협 있는 한 철군 안해\"-국제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026070109370002127",
     "description": "(미국·이란 전쟁) 네타냐후 이스라엘 총리가 남부 레바논 주둔지를 방문해 헤즈볼라 위협이 사라지지 않으면 철수하지 않겠다고 밝혔습니다. 이스라엘군 철수와 이란, 미국, 헤즈볼라 관련 협상이 난항을 겪고 있습니다. |",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T02:30:00",
     "profile": {
       "name": "한국일보",
@@ -1016,7 +1016,7 @@
     "title": "네타냐후 “무장한 헤즈볼라 있는 한 레바논에서 철군 없다” - 경향신문",
     "url": "https://khan.co.kr/article/202607011128001",
     "description": "이스라엘은 이란과의 종전 협상을 진전시키려는 미국의 강요에 못 이겨 기본 협정에 동의했지만, 헤즈볼라의 위협이 계속되면 언제든 다시 본격적인 전쟁을 시작하겠다는 의지를 밝혀 왔다. 인공지능 기술로 자동 요약된 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T02:28:00",
     "profile": {
       "name": "Khan",
@@ -1035,10 +1035,10 @@
   },
   {
     "type": "news_result",
-    "title": "美 반대에도 오만 '호르무즈 서���스료' 추진…이란은 유료 통항 압박 | 아주경제",
+    "title": "美 반대에도 오만 '호르무즈 서비스료' 추진…이란은 유료 통항 압박 | 아주경제",
     "url": "https://ajunews.com/view/20260701101804180",
     "description": "오만이 미국의 공개 반대에도 호르무즈 해협을 지나는 선박에 ‘서비스료’를 부과하는 방안을 추진하고 있다.30일(현지시간) 뉴욕타임스(NYT)...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T01:20:58",
     "profile": {
       "name": "Aju News",
@@ -1060,7 +1060,7 @@
     "title": "베네수 사망자 2천명 육박…미·이란 ’대화 불씨’ 살리나",
     "url": "https://www.yonhapnewstv.co.kr/news/MYH202607010944307xM",
     "description": "이런 가운데 이란 측 협상 대표인 모하마드 바게르 갈리바프 의회의장은 호르무즈 해협 '무상 통항'은 후속 종전 협상이 진행될 60일 동안만 허용하겠다고 말하며, 사실상 '통행료' 부과를 예고했습니다. 한편, 베냐민 네타냐후 이스라엘 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T00:44:32",
     "profile": {
       "name": "Yonhapnewstv",
@@ -1082,7 +1082,7 @@
     "title": "\"호르무즈 통제\"·\"경제난 집중\"…이란 권력투쟁에 후속협상 흔들 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607010926154210",
     "description": "이란은 지난 2월 말 미국·이스라엘의 선제공격으로 전쟁에 돌입한 이래 각국 유조선 등 선박의 호르무즈 해협 통항을 제한해 왔다.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-01T00:26:39",
     "profile": {
       "name": "First News",
