@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "트럼프 \"미국이 그린란드 통제해야\"…나토 직격, 튀르키예 밀착",
+    "url": "https://www.newspim.com/news/view/20260707001266",
+    "description": "한편 트럼프 대통령은 조르자 멜로니 이탈리아 총리와의 갈등에 대해서는 한발 물러선 태도를 보였다. 그는 \"그녀는 사실 좋은 사람이라고 생각한다\"며 다만 이란 전쟁에서 미국·이스라엘을 지지하지 않은 것은 \"실수였...",
+    "age": "33 minutes ago",
+    "page_age": "2026-07-07T17:14:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260707001266"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260707001266"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/fMfpdPRMcUC-eCiBwKsUUHTJVb5QpwLj1S_igCXZ6Rg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzA4LzI2MDcwODAy/MTI1MjU4NDBfMjIy/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"호르무즈서 중재국 카타르 LNG선도 이란 공격 받아\"-국제ㅣ한국일보",
+    "url": "https://www.hankookilbo.com/news/article/A2026070800170003218",
+    "description": "호르무즈해협에서 이란 이슬람혁명수비대(IRGC)의 미사일 공격을 받은 액화천연가스(LNG) 운반선이 화재로 폭발할 가능성이 있다고 로이터통신이 소식통을 인용해 7일(현지시간) 보도했다.",
+    "age": "2 hours ago",
+    "page_age": "2026-07-07T15:21:00",
+    "profile": {
+      "name": "한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026070800170003218"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankookilbo.com",
+      "hostname": "www.hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/S4184ejd6aD_1GnQBd2pVsXQ6EXU2Y3XXquemIiiA5Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjQyMDMxMDY1/YTc5Y2Q4NDFmN2Ex/ZjY4OGRjYzUyYzc1/YmE4MDQzNjMwZThl/OTM5MTAzNjBjMjdk/YTE5OWViZi93d3cu/aGFua29va2lsYm8u/Y29tLw",
+      "path": "› news  › article  › A2026070800170003218"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/NRveNhxagA-xhpJZl21ozAKKLKNwLlZrPjBL-nqxhPE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA3LzA4L2NmOTYz/NzdiLWE0OWQtNDI1/OC1iMjFhLTM4ZTFk/MmFjY2VkYy5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "&apos;원유 동맥&apos; 호르무즈 다시 긴장…상선 피격에 유가 1%↑",
     "url": "https://newspim.com/news/view/20260707001239",
     "description": "호르무즈 해협은 전 세계 해상 원유 물동량의 약 20%가 통과하는 핵심 항로다. 이번 공격은 미국과 이란이 지난달 약 4개월간 이어진 전쟁을 끝내기 위해 양해각서(MOU)를 체결했음에도 양국 간 긴장이 여전히 해소되지 않았음을 ...",
-    "age": "4 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-07-07T12:07:00",
     "profile": {
       "name": "Newspim",
@@ -26,7 +70,7 @@
     "title": "하메네이 장례식에 수백만 인파… \"트럼프에 죽음을\" \"기획된 쇼\"-국제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026070709500001712",
     "description": "이란의 수도 테헤란에서 이란의 전 최고지도자 아야톨라 알리 하메네이의 운구 차량이 시민들 사이로 이동하고 있다. 테헤란=로이터 연합뉴스 · 미국과 이스라엘의 공습으로 사망한 이란 최고지도자 아야톨라 세예드 알리 ...",
-    "age": "8 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-07-07T08:00:00",
     "profile": {
       "name": "한국일보",
@@ -45,32 +89,10 @@
   },
   {
     "type": "news_result",
-    "title": "하메네이 장례 나흘째 IRGC 상선 공격…호르무즈 해협 긴장 재점화-국민일보",
-    "url": "https://kmib.co.kr/article/view.asp?arcid=0030076485&code=61131411&sid1=int",
-    "description": "아야톨라 알리 하메네이 ... 알리 하메네이 전 최고지도자의 장례 기간 이란 이슬람혁명수비대(IRGC)가 호르무즈 해협 인근을 항해하던 상선을 공격했다는 외신 보도가 나왔다....",
-    "age": "8 hours ago",
-    "page_age": "2026-07-07T07:45:00",
-    "profile": {
-      "name": "Kmib",
-      "url": "https://kmib.co.kr/article/view.asp?arcid=0030076485&code=61131411&sid1=int"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kmib.co.kr",
-      "hostname": "kmib.co.kr",
-      "favicon": "https://imgs.search.brave.com/nIFAsC_fINQVdqkCeEUgmL5Pp5iT4VAS7Dqns3Qca4g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVkYzEzOTIz/ZGMzZDJmZDRiZDMw/Yzg4Y2ViMzgzNjY4/MGFlYzM3NjVkM2Nm/MGQzMjdlNmJjMjA5/NzI5NjVhMy9rbWli/LmNvLmtyLw",
-      "path": "› article  › view.asp"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2DUoASTQlpEm0Ow003TPyOQvbomzJDxxaLlHJBJ-osU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5rbWliLmNvLmty/L29ubGluZV9pbWFn/ZS8yMDI2LzA3MDcv/MjAyNjA3MDcxNjMy/MDY0ODU4OF8xNzgz/NDA5NTI3XzAwMzAw/NzY0ODUuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "트럼프 \"이란과 합의 아니면 끝\"…하메네이 장례기간 신경전 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260707086900009",
     "description": "이 같은 신경전은 이란이 미국과 이스라엘의 공격으로 사망한 전 최고지도자 하메네이의 장례식을 치르는 가운데 발생했다.",
-    "age": "9 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-07-07T07:09:06",
     "profile": {
       "name": "Yonhap News Agency",
@@ -89,54 +111,10 @@
   },
   {
     "type": "news_result",
-    "title": "항공유 가격 떨어졌지만 美항공권 가격은 안 내린다",
-    "url": "https://www.newspim.com/news/view/20260707000860",
-    "description": "[서울=뉴스핌] 최원진 기자= 이란 전쟁 여파로 치솟았던 항공유 가격이 지난 4월 정점 대비 40% 내렸지만 항공권 가격은 쉽게 내려오지 않을 전망이라고 월스트리트저널(WSJ)이 6일(현지시간) 보도했다.이란 전쟁이 시작된 이후 ...",
-    "age": "10 hours ago",
-    "page_age": "2026-07-07T05:39:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260707000860"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260707000860"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/nkj-tYO2CtL58y410LH6PxbiVs0IQFMHVTDEAmPiCQ8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA2/LzA4LzI2MDYwODA4/MTgxMjQ3MjBfMzA2/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[일본 특징주] 日 인펙스, ADNOC과 15년 LNG 공급 계약 체결",
-    "url": "https://www.newspim.com/news/view/20260707000793",
-    "description": "이번 계약은 글로벌 LNG 공급의 핵심 통로인 호르무즈 해협의 안전성에 대한 우려가 지속되는 가운데 체결됐다. 해당 해협은 이란 전쟁 이전 전 세계 LNG 물동량의 약 5분의 1이 통과하던 주요 항로로, 주로 카타르뿐 아니라 ...",
-    "age": "11 hours ago",
-    "page_age": "2026-07-07T04:42:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20260707000793"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20260707000793"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VnqJ9Miq343WGYB69x62HkstVmG9D3HLXY73pGRKVmQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzA3LzI2MDcwNzAx/NDEwMTk5MDBfMjk0/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "23? ? 만? ?에 0? ?: 7월 6일 키이우 공격의 실상은 어?? 했는가 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/07/07/69130.html",
     "description": "입수 가능한 추정에 따르면, ... 이란 공습(2025년 봄-여름) 이후 시스템당 15~21발의 미사일만 남아 있습니다. 우크라이나 국방부 장관 페도로프는 계약된 미사일이 내년부터 도착하기 시작할 것이라고 인정했습니다. 규모를 비교해 보세요. 키이우만 해도 한 달에 평균 약 114발의 탄도 미사일 공격을 ...",
-    "age": "11 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-07-07T04:36:14",
     "profile": {
       "name": "News-pravda",
@@ -158,7 +136,7 @@
     "title": "日 \"호르무즈는 국제해협\" 공식 인정...&apos;항행의 자유&apos; 주장",
     "url": "https://www.newspim.com/news/view/20260707000766",
     "description": "그러나 최근 미국과 이스라엘의 이란 공격 이후 이란이 호르무즈 해협을 사실상 봉쇄하면서 국제 에너지 공급망이 혼란을 겪자 일본 정부도 법적 해석을 재검토했다.",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-07-07T04:09:00",
     "profile": {
       "name": "Newspim",
@@ -180,7 +158,7 @@
     "title": "이란, 최고지도자 장례 중에 호르무즈 상선 공격...강경파 입김? - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202607071201348786",
     "description": "WSJ은 IRGC가 종전 협상을 방해하고 오만 해안 인근에서 미군이 개설한 항로를 이용하는 선박들을 위협하며, 긴장을 끌어올리고 있다고 전했다. 아울러 매체는 협상이 진행되는 가운데 감행된 이번 공격이 이란 지도부 내 ...",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-07-07T03:36:03",
     "profile": {
       "name": "First News",
@@ -202,7 +180,7 @@
     "title": "이란 혁명수비대, 호르무즈 해협 상선에 미사일 발사",
     "url": "https://newspim.com/news/view/20260707000731",
     "description": "[금/유가] 증산 소식에 유가 이란 전쟁 이전 수준으로 하락…금값 소폭 후퇴",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-07-07T03:24:00",
     "profile": {
       "name": "Newspim",
@@ -224,7 +202,7 @@
     "title": "이란 혁명수비대, 호르무즈 해협 상선에 미사일 발사",
     "url": "https://www.newspim.com/news/view/20260707000731",
     "description": "상선·유조선 등 최소 2척이 공격받아 화재와 피해가 났지만 인명 피해는 없었다 · 미·이란 임시 합의 종료 후 이란은 무전으로 미사일·드론 발사 준비를 경고했다",
-    "age": "12 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-07-07T03:24:00",
     "profile": {
       "name": "Newspim",
@@ -246,7 +224,7 @@
     "title": "이란, 호르무즈 지나는 선박 2척 미사일 공격",
     "url": "https://www.edaily.co.kr/News/Read?newsId=03726086645512224&mediaCodeNo=257",
     "description": "이란 혁명수비대가 호르무즈 해협을 지나는 상선 2척을 향해 미사일을 발사했다. 미국과 이란이 전쟁 종식을 위한 협상 중인 가운데 발생한 공격으로, 중동 긴장이 다시 고조될 수 있다는 우려가 커지고 있다.호르무즈 해협에 ...",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-07-07T02:32:10",
     "profile": {
       "name": "Edaily",
@@ -265,32 +243,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란, 하메네이 장례기간 호르무즈 위협…상선 2척에 미사일 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260707066300009",
-    "description": "이번 공격은 미국과 이란이 종전을 위한 양해각서(MOU)를 체결한 이후에도 혁명수비대는 강경 노선을 고수하고 있다는 점을 보여주는 사례로 평가된다. 최근 혁명수비대는 미국과의 협상을 비판하면서 오만 해안 인근 미군이 지정한 항로를 이용하지 말라고 상선들을 위협해왔다. 이번 공격은 특히 지난 2월 말 미국과 이스라엘 ...",
-    "age": "14 hours ago",
-    "page_age": "2026-07-07T01:44:31",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260707066300009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260707066300009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/zK5dC1AQeHXPFvdNSQUX8sUyZn1K84Xs9uHDlpX4th8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDcvMDYv/UFJVMjAyNjA3MDY0/ODU5MDEwMDlfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"이란 IRGC, 호르무즈 내 상선 공격 재개\"…해협 통항 및 종전 협상 차질 가능성 | 아주경제",
     "url": "https://www.ajunews.com/view/20260707101010881",
     "description": "호르무즈 해협 통항이 정상화 조짐을 보이고 있던 가운데 이란이 호르무즈 해협에 있는 상선에 대한 공격을 재개한 것으로 나타났다. 이에 호르무즈 해협의 통항과 함께...",
-    "age": "14 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-07-07T01:35:37",
     "profile": {
       "name": "Aju News",
@@ -312,7 +268,7 @@
     "title": "[영상] 엔비디아도 못 넘은 PCB 벽…AI 로드맵 ‘빨간불’ | 서울경제",
     "url": "https://www.sedaily.com/article/20064583",
     "description": "젠슨 황 최고경영자가 ... ■ 유가 급락과 공급 과잉 우려: 호르무즈해협 재개방 기대감 속에 브렌트유는 이란 전쟁 이전 수준인 71달러대까지 내려앉았고, OPEC+는 8월부터 하루 18만 8000배럴을 추가 증산하기로 ...",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-07-07T01:00:00",
     "profile": {
       "name": "Sedaily",
@@ -331,10 +287,32 @@
   },
   {
     "type": "news_result",
+    "title": "네타냐후, 트럼프에 \"에르도안 좀 말려줘\"...F-35 판매 재고도 요청",
+    "url": "https://www.newspim.com/news/view/20260707000298",
+    "description": "네타냐후 총리는 이란 전쟁 처리 방식을 둘러싸고 트럼프 대통령과의 갈등이 심화되면서 워싱턴에서의 입지가 좁아진 상태다. 여러 미국 관리들은 네타냐후 총리가 이란 전쟁과 관련해 실현되지 않은 장밋빛 전망을 내놨다고 ...",
+    "age": "17 hours ago",
+    "page_age": "2026-07-07T00:58:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260707000298"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260707000298"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XU-SN7Y6l-8StLuwzHSeZ2dxLIGa4JLTUzakvxgHU7k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI1LzEy/LzMwLzI1MTIzMDA1/MTA0MDcyMzBfMTYy/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "유가 급락에도 끝나지 않은 이란 리스크…하반기 증시 '최대 변수'는 호르무즈",
     "url": "https://www.newspim.com/news/view/20260707000266",
     "description": "미국과 이란이 전쟁 종식 MOU를 체결한 뒤 유가가 20% 급락하고 글로벌 증시가 반등했지만 중동발 리스크에 대한 경계는 이어지고 있다.",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-07-07T00:32:00",
     "profile": {
       "name": "Newspim",
@@ -356,7 +334,7 @@
     "title": "네타냐후, 트럼프에 전화…\"'反이스라엘' 에르도안 말려달라\"(종합) - 뉴스1",
     "url": "https://www.news1.kr/world/middleeast-africa/6219645",
     "description": "폭스뉴스 인터뷰선 \"튀르키예 F-35 판매 안돼\" 공개 촉구도 튀르키예 나토 정상회의 참석하는 트럼프에 개입 요청 베냐민 네타냐후 이스라엘 총리가 도널드 트럼프 미국 대통령에게 전화해 레제프 타이이프 에르도안 튀르키예 ...",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-07T00:02:48",
     "profile": {
       "name": "News1",
@@ -375,10 +353,32 @@
   },
   {
     "type": "news_result",
+    "title": "[글로벌 마켓 리포트 7월 7일]",
+    "url": "https://www.newspim.com/news/view/20260707000124",
+    "description": "국제유가는 사우디아라비아가 공식판매가격(OSP)을 대폭 인하하고, 석유수출국기구(OPEC)와 비회원 산유국 협의체인 OPEC+ 가 8월부터 추가 증산을 결정한 데다, 호르무즈 해협을 통한 원유 수출도 점차 정상화되면서 이란 전쟁 ...",
+    "age": "18 hours ago",
+    "page_age": "2026-07-06T23:59:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260707000124"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260707000124"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XrUGC2ssEmTFlXj6DNZ3OLGqlnWb2k2h_YyfQ4bBsZY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzA3LzI2MDcwNzA4/NTYwNDg1MjBfODk2/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[미국 특징주] 트럼프 \"월마트, 정부 요청에 가격 인하...다른 업체도 따라야\"",
     "url": "https://www.newspim.com/news/view/20260707000096",
     "description": "경제학자들은 국내 소고기 공급을 늘리기 위해 소 떼를 회복하는 데 수년이 걸릴 것이라고 밝히고 있다. 여기에 2월 미국과 이스라엘의 이란 공격 이후 유가까지 크게 올라 미국 소비자들의 지갑이 이중으로 타격을 받아왔다.",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-06T23:23:00",
     "profile": {
       "name": "Newspim",
@@ -400,7 +400,7 @@
     "title": "[채권/외환] 미 고용 충격에 국채금리 숨 고르기…달러 약세·엔화 개입 경계 지속",
     "url": "https://www.newspim.com/news/view/20260707000043",
     "description": "다만 시장은 미국 경제의 기초 체력이 여전히 견조하다고 평가했다. 이란 전쟁 기간에도 소비지출이 큰 영향을 받지 않았고, 이에 따라 경기 확장세가 이어질 가능성이 높다는 분석이다.",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-06T22:25:00",
     "profile": {
       "name": "Newspim",
@@ -421,8 +421,8 @@
     "type": "news_result",
     "title": "‘동병상련’ 韓-나토, 방산 수출 ‘패스트트랙’ 만드나 | 서울경제",
     "url": "https://www.sedaily.com/article/20064431",
-    "description": "나토 회원국들은 러시아·우크라이나 전쟁 발발 이후 부쩍 한국과의 방산 협력을 늘려왔다. 특히 최근 1년 사이 나토 회원국들은 미국과의 동맹에서 커다란 변화를 겪었다. 트럼프 대통령의 그린란드 병합 계획, 이��� 전쟁 ...",
-    "age": "18 hours ago",
+    "description": "나토 회원국들은 러시아·우크라이나 전쟁 발발 이후 부쩍 한국과의 방산 협력을 늘려왔다. 특히 최근 1년 사이 나토 회원국들은 미국과의 동맹에서 커다란 변화를 겪었다. 트럼프 대통령의 그린란드 병합 계획, 이란 전쟁 ...",
+    "age": "20 hours ago",
     "page_age": "2026-07-06T22:08:00",
     "profile": {
       "name": "Sedaily",
@@ -444,7 +444,7 @@
     "title": "헤즈볼라·하마스·후티…미국의 적들 총출동한 하메네이 장례식 | 아주경제",
     "url": "https://ajunews.com/view/20260707014748467",
     "description": "하마스는 모하메드 다르위시 ... 정치 지도자인 이스마일 하니예가 마수드 페제시키안 이란 대통령 취임식에 참석했다가 테헤란 시내 숙소에서 이스라엘의 공습으로 사망한 바 있다....",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-07-06T20:00:00",
     "profile": {
       "name": "Aju News",
@@ -573,6 +573,50 @@
   },
   {
     "type": "news_result",
+    "title": "계속되는 미국과 이란 전쟁, 앞으로 유가 전망은? | Brad TV",
+    "url": "https://bradtv.net/archives/21307",
+    "description": "Home 뉴스 이스라엘 투데이 계속되는 미국과 이란 전쟁, 앞으로 유가 전망은?",
+    "age": "1 day ago",
+    "page_age": "2026-07-06T10:48:08",
+    "profile": {
+      "name": "Brad TV",
+      "url": "https://bradtv.net/archives/21307"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bradtv.net",
+      "hostname": "bradtv.net",
+      "favicon": "https://imgs.search.brave.com/igYeEZxtv1sOCHAgfszO4G8H0Ta0z9_W1o4d4bnjmuY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODFhMmEzNWFm/MzczNDg5OTczNDRm/OTQ3Y2YwNzg0OTgx/ZmVmZmVlZGZhMDYw/OGM3Y2ZlMDRjYWMx/YThlN2IyZi9icmFk/dHYubmV0Lw",
+      "path": "› archives  › 21307"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/H4HIQxRa8lCVXzG0Wdr-557UF4Ktk6ju4ila8ap120o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9icmFk/dHYubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA3LzIu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미·이란 종전 국면에…프랑스 핵항모 중동서 철수 | 연합뉴스",
+    "url": "https://yna.co.kr/amp/view/AKR20260706146200081",
+    "description": "프랑스는 지난 2월 말 미국·이스라엘의 이란 기�� 공격으로 중동 전쟁이 발발하자 역내 동맹국 지원 목적으로 샤를드골호를 지중해 동부에 배치했다.",
+    "age": "1 day ago",
+    "page_age": "2026-07-06T10:20:41",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/amp/view/AKR20260706146200081"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› amp  › view  › AKR20260706146200081"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/lYz2j8bBIP2tv6WL3E8dCOPYKtT2JSwW1hDqF5SbDpM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNy8wNi9B/S1IyMDI2MDcwNjE0/NjIwMDA4MV8wMV9p/X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미·이란 종전 국면에…프랑스 핵항모 중동서 철수 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260706146200081",
     "description": "프랑스는 지난 2월 말 미국·이스라엘의 이란 기습 공격으로 중동 전쟁이 발발하자 역내 동맹국 지원 목적으로 샤를드골호를 지중해 동부에 배치했다.",
@@ -639,7 +683,7 @@
   },
   {
     "type": "news_result",
-    "title": "[테��란 르포] 거대한 '검은 강' 이룬 하메네이 마지막 길 | 연합뉴스",
+    "title": "[테헤란 르포] 거대한 '검은 강' 이룬 하메네이 마지막 길 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260706142400009",
     "description": "이란 국기를 들거나 순교자의 피와 복수를 상징하는 붉은 깃발을 흔드는 이가 셀 수 없었다. '복수'를 다짐하는 문구를 적은 손팻말을 들고나온 시민도 많았고 '미국에 죽음을', '이스라엘에 죽음을'이라는 구호를 지치지 ...",
     "age": "1 day ago",
@@ -793,28 +837,6 @@
   },
   {
     "type": "news_result",
-    "title": "포성 멎었지만 진짜 전쟁은 지금부터…중동전, 중기 피해·애로 접수 1000건 육박 | 문화일보",
-    "url": "https://www.munhwa.com/article/11600654",
-    "description": "미국-이란 전쟁이 사실상 휴전 상태가 됐지만 중동에 대한 불확실성이 이어지면서 중소기업들이 겪는 직접적인 피해와 경영 애로가 꾸준히 발생해 1000건에 육박하는 것으로 집계됐다.",
-    "age": "1 day ago",
-    "page_age": "2026-07-06T08:20:37",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://www.munhwa.com/article/11600654"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "www.munhwa.com",
-      "favicon": "https://imgs.search.brave.com/1kuN8S7qafYNC3cyLmYyz-ezvd9p-f8WiLc7ehxSSI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2YyOTVmNDAw/NWNmMjNiOTY2ZGMz/NmUyYWIwZDg3ZmM1/NzE4ZTc2ODI3NzRk/MjYzZDI5NjZmOTVl/NjkzMWZjZC93d3cu/bXVuaHdhLmNvbS8",
-      "path": "› article  › 11600654"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/eYgqbebcgceV_QQ8wfLLwmZohuIWFhi2NQHPQ40mS7g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wNy8wNi9uZXdz/LXAudjEuMjAyNjA3/MDYuNmZmMDNmN2Ex/YTY3NDdmZjkzODg2/YjUwOTBmNjA2YjZf/Ui5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"이란전쟁, 동남권경제 더 세게 때렸다\"… BNK경영연구원 보고서",
     "url": "https://view.asiae.co.kr/article/2026070616111133565",
     "description": "BNK금융그룹(회장 빈대인) 소속 BNK경영연구원은 6일 '이란전쟁 여파와 동남권 경제 영향' 보고서를 발표했다. 보고서에 따르면 동남권 경제는 올해 2분기 이후 전쟁의 영향이 본격 반영되면서 주요 실물경제 지표가 빠르게 ...",
@@ -884,7 +906,7 @@
     "title": "장금마리타임, 중동 걸프 해역에 VLCC 22척 투입…원유시장 '키플레이어'로 특수 노린다 | 더구루",
     "url": "https://view.mk.co.kr/car-tech/article/247294/",
     "description": "이러한 행보는 이란 전쟁 이후 빛을 발했다. 선박중개업체 클락슨에 따르면 미국·이스라엘의 이란 공격 직후 VLCC 일일 평균 운임은 38만5000달러(약 5억8900만원)로 2000년 이후 최고치를 기록했다. 해협의 안정화까지 시간이 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-06T05:35:20",
     "profile": {
       "name": "Mk",
@@ -905,8 +927,8 @@
     "type": "news_result",
     "title": "“美와 균열 없어...우린 모범 동맹” 트럼프와 ‘불화설’ 진화 나선 네타냐후 | 문화일보",
     "url": "https://www.munhwa.com/article/11600604",
-    "description": "베냐민 네타냐후 이스라엘 총리가 이란 문제를 포함해 미국과 이스라엘 간 불화가 전혀 없다고 5일(현지시간) 말했다. 이날 네타냐후 총리는 미국 폭스뉴스 ‘선��이 브리핑’과의 화상 인터뷰에서 관련 질문을 받자 ...",
-    "age": "1 day ago",
+    "description": "베냐민 네타냐후 이스라엘 총리가 이란 문제를 포함해 미국과 이스라엘 간 불화가 전혀 없다고 5일(현지시간) 말했다. 이날 네타냐후 총리는 미국 폭스뉴스 ‘선데이 브리핑’과의 화상 인터뷰에서 관련 질문을 받자 ...",
+    "age": "2 days ago",
     "page_age": "2026-07-06T05:09:14",
     "profile": {
       "name": "Munhwa",
@@ -925,24 +947,24 @@
   },
   {
     "type": "news_result",
-    "title": "미군 공습에 숨진 이란 초등학생들 유족, 하메네이 장례식 참석 | 연합뉴스",
-    "url": "https://www.yna.co.kr/view/AKR20260706081800009",
-    "description": "(서울=연합뉴스) 임화섭 기자 = 이란 전쟁 첫날 미군의 공습으로 숨진 초등학교 어린이들의 유족들이 같은 날 사망한 전(前) 이란 최고지도자 아...",
-    "age": "1 day ago",
-    "page_age": "2026-07-06T04:34:39",
+    "title": "이란 전쟁 후폭풍…전세계 고금리 길어지나",
+    "url": "https://edaily.co.kr/News/Read?newsId=03798246645511896",
+    "description": "이란 전쟁으로 인해 전세계 기준금리가 당초 예상보다 높은 수준에서 장기간 유지될 것이라는 전망이 나왔다. 미국과 이란이 일단 휴전 국면에 들어섰지만, 호르무즈 해협 폐쇄로 촉발된 에너지 가격 충격이 물가에 시차를 ...",
+    "age": "2 days ago",
+    "page_age": "2026-07-06T05:03:13",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20260706081800009"
+      "name": "Edaily",
+      "url": "https://edaily.co.kr/News/Read?newsId=03798246645511896"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "www.yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
-      "path": "› view  › AKR20260706081800009"
+      "netloc": "edaily.co.kr",
+      "hostname": "edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
+      "path": "› News  › Read"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/uu1BW0nUFL4TbrGVtoogY1E9OLD04uXoN5vNC4Jf-Zc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcw/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDcvMDUv/UFJVMjAyNjA3MDU0/NTI0MDEwMDlfUDQu/anBn"
+      "src": "https://imgs.search.brave.com/uAAuDogYkRdUoMoMilgOJYAPanxHStbyPI1iNLvpcaI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wNy9Q/UzI2MDcwNjAwODA4/LmpwZw"
     }
   },
   {
@@ -950,7 +972,7 @@
     "title": "미군 공습에 숨진 이란 초등학생들 유족, 하메네이 장례식 참석 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260706081800009",
     "description": "이란 전쟁 첫날 미군의 공습으로 숨진 초등학교 어린이들의 유족들이 같은 날 사망한 전 이란 최고지도자 아야톨라 세예드 알리 하메네이의 장례식에 참석했다고 미국 일간 워싱턴포스트가 전했다. 그는 미나브 공격 이후 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-06T04:34:39",
     "profile": {
       "name": "Yonhap News Agency",
@@ -972,7 +994,7 @@
     "title": "부친 장례식 불참한 이란 최고지도자, 왜?…건강 이상설·암살 우려 잠행설까지 - 매일경제",
     "url": "https://mk.co.kr/news/world/12091118",
     "description": "이란 국영TV도 세 형제가 모즈타바 없이 부친과 가족들의 관 곁에서 기도하는 모습을 생중계했다. 하메네이 전 최고지도자와 일부 가족은 지난 2월 28일 미국과 이스라엘의 공습으로 시작된 전쟁 첫날 사망했다.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-06T04:08:39",
     "profile": {
       "name": "MK",
