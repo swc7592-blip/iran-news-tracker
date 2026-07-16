@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "이란 \"우리 기반시설 공격하면 중동 모든 기반시설에 보복\"-국제ㅣ한국일보",
+    "url": "https://hankookilbo.com/news/article/A2026071622350005382",
+    "description": "IRNA통신 등 현지 언론들에 따르면 이날 새벽 이란 중서부 로레스탄주 호라마바드시, 마르카지주 혼다브시, 북부 셈난주 등 내륙 곳곳에서 강력한 폭발음이 수차례 보고됐다.",
+    "age": "2 hours ago",
+    "page_age": "2026-07-16T13:47:00",
+    "profile": {
+      "name": "한국일보",
+      "url": "https://hankookilbo.com/news/article/A2026071622350005382"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankookilbo.com",
+      "hostname": "hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
+      "path": "› news  › article  › A2026071622350005382"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/YZrlH74lsAdkq_sjxywEzu-ZurwiwCB-oSwf9gIkxLY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA3LzE2LzQ1NDAz/OWEzLTlkMDEtNDZh/Yi1iZjE3LWE4YTQ0/ZmEwZmIxMS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란, 트럼프 향해 “기반시설 공격하면 중동 모든 인프라 타격” - 매일경제",
     "url": "https://mk.co.kr/news/world/12100719",
     "description": "과거 이란은 2025년 6월 22일(현지시간) 미국이 이란 핵시설을 공격했을 때도 중동 내 미군 기지를 타격하는 등 보복을 예고한 바 있으며, 2026년 3월 1일(현지시간)에는 이스라엘과 미국 공습에 맞서 미군 거점을 동시다발로 ...",
-    "age": "2 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-07-16T12:17:41",
     "profile": {
       "name": "MK",
@@ -26,7 +48,7 @@
     "title": "트럼프의 호르무즈 봉쇄 재개, \"지상군 수만 명 없인 완전 개방 불가능\" - Radio Seoul",
     "url": "https://radioseoul1650.com/archives/147423",
     "description": "외교와 군사력을 오가며 해협 개방을 시도해온 트럼프 대통령은 수요일 향후 3일간 이란을 “강하게” 타격하겠다고 밝혔다. 하지만 전문가들은 전쟁 전 수준으로 선박 통행을 완전히 회복시키려면 군함 수십 척과 현재의 ...",
-    "age": "3 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-07-16T11:59:19",
     "profile": {
       "name": "Radio Seoul",
@@ -48,7 +70,7 @@
     "title": "LA 한인타운 인근 4~5명 체포...경찰 수색작전 - Radio Seoul",
     "url": "https://radioseoul1650.com/archives/147419",
     "description": "어제 저녁 11시 29분 로스앤젤레스 엘에이 한인타운 인근 사우스 맨해튼 플레이스 515번지에서 용의자를 포함한 4명에서 5명이 현장에 있는 것이 확인되어 경찰이 출동했습니다. 올림픽 구역 담당",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-07-16T10:44:29",
     "profile": {
       "name": "Radio Seoul",
@@ -70,7 +92,7 @@
     "title": "이란 내륙 곳곳서 폭음…美, 공습 범위 확대한 듯(종합) | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260716081851009",
     "description": "(카이로·서울=연합뉴스) 김상훈 특파원 강훈상 기자 = 미국이 이란 남부 연안을 넘어 수도 테헤란 외곽과 내륙 깊숙한 곳까지 공습 범위를 전격 ...",
-    "age": "4 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-07-16T10:22:43",
     "profile": {
       "name": "Yonhap News Agency",
@@ -89,32 +111,10 @@
   },
   {
     "type": "news_result",
-    "title": "네타냐후 미국 방문, 이달 말로 연기 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716200900079",
-    "description": "네타냐후 총리의 방미는 미국과 이란 간의 무력 공방이 격화하고 미국의 중재하에 이스라엘과 레바논의 평화 협상이 진행 중인 가운데 추진돼 관심을 모았다.",
-    "age": "5 hours ago",
-    "page_age": "2026-07-16T09:56:46",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716200900079"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716200900079"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/bbG07Za48dFGoZlZeqy1iNIbG7vxwxyvUFqAES8_FgA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNy8xNi9B/S1IyMDI2MDcxNjIw/MDkwMDA3OV8wMV9p/X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "코요태 신지, 건강 상태 심각…인바디 측정 불가 수준",
     "url": "https://sports.donga.com/ent/article/all/20260716/134314534/1",
     "description": "[동아닷컴 정희연 기자]그룹 코요태의 멤버 신지가 충격적인 인바디 검사 결과를 받고 본격적인 건강 관리에 돌입했다.지난 15일 신지의 유튜브 채널 ‘어떠신지?!?’에는 ‘인바디 결과보고 충격받은 신지…’라는 제목의 ...",
-    "age": "5 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-07-16T09:29:26",
     "profile": {
       "name": "Donga Sports",
@@ -133,32 +133,10 @@
   },
   {
     "type": "news_result",
-    "title": "이란군 \"이란 기반시설 공격하면 역내 모든 인프라 타격\" | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716197100079",
-    "description": "그는 이어 \"도널드 트럼프 미국 대통령이 이란의 인프라를 공격하겠다는 위협을 실행에 옮길 경우, 이란군은 역내에 남아있는 모든 인프라를 타격할 것\"이라며 \"이전 공격보다 훨씬 더 가혹하고 광범위하며 파괴적인 대응이 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-07-16T09:28:14",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716197100079"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716197100079"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VTyIvGSWbQz61zOO78M9-TC6oPETghKdwBWOKn8HNsQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc3/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wNy8xNS9Q/QUYyMDI2MDcxNTIx/MDUwMTAwOV9QNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"미국 공습으로 이란 남부 어업·생계 파괴... 민간 사상자도\"-국제ㅣ한국일보",
     "url": "https://hankookilbo.com/news/article/A2026071609530001289",
     "description": "(미국·이란 전쟁) 미군이 이란 호르무즈해협 인근과 내륙을 공습해 민간 인프라와 주요 시설이 대거 파괴됐습니다. 이로 인해 이란 남부 어업 생계가 붕괴되고 민간인 피해가 속출했습니다. |",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-07-16T08:35:00",
     "profile": {
       "name": "한국일보",
@@ -177,46 +155,24 @@
   },
   {
     "type": "news_result",
-    "title": "[영상] \"트럼프 책상에 오른 '지상군 투입 작전'\"…이란의 '급소'는 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716173800704",
-    "description": "미국이 5개월째 이어진 이란과의 전쟁을 결정지을 '한 방'의 선택지 가운데 하나로 지상군 투입 가능성을 검토하는 것으로 알려졌습니다.",
-    "age": "7 hours ago",
-    "page_age": "2026-07-16T07:49:05",
+    "title": "'활동 중단' 지나 \"미쳐갔고 생기 잃어…홀로 산산조각 났다\" :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260716_0003712504",
+    "description": "[서울=뉴시스]전재경 기자 = 가수 지나가 힘들었던 시기를 떠올리며 심경을 털어놨다.지나는 16일 자신의 소셜미디어에 영어로 \"사람들은 말해. '너 정말 잘 대처했어'라고. 아니, 난 그러지 못했어\"라는 글을 올렸다.그는 \"난 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-07-16T07:16:34",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716173800704"
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260716_0003712504"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716173800704"
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260716_0003712504"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/prxz7AwuAX1yZN4sooR26_3Hfqsa5wIEgGyEgxpLM0M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc2/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNy8xNi9B/S1IyMDI2MDcxNjE3/MzgwMDcwNF8wMV9p/X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국·이스라엘 국방장관 통화…이란 군사작전 논의 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716169300079",
-    "description": "(카이로=연합뉴스) 김상훈 특파원 = 호르무즈 해협 통제권을 둘러싼 갈등 속에 미국과 이란의 무력 충돌이 격화하는 가운데, 이스라엘과 미국 국방...",
-    "age": "7 hours ago",
-    "page_age": "2026-07-16T07:41:21",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716169300079"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716169300079"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Xqr1dsFXa98Gm7WFJzTSRMX8q9UUUnWwmdVQVWX8D4o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc1/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wNy8xNi9B/S1IyMDI2MDcxNjE2/OTMwMDA3OV8wMV9p/X1A0LmpwZw"
+      "src": "https://imgs.search.brave.com/ShtJPy9ZleA3UFvSHEkXjiiLt7Cg0HXKIe0YtLiSiYg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNy8xNi9O/SVNJMjAyNjA3MTZf/MDAwMjE4ODc2NF93/ZWIuanBn"
     }
   },
   {
@@ -224,7 +180,7 @@
     "title": "이란군 \"트럼프가 우리 인프라 때리면 중동 모든 인프라에 보복할 것\"",
     "url": "https://newspim.com/news/view/20260716000957",
     "description": "[서울=뉴스핌] 오상용 기자 = 이란군의 합동작전사령부는 16일 \"미국 대통령 도널드 트럼프가 이란의 인프라 시설을 공격하겠다는 위협을 실행에 옮길 경우 이란 역시 중동 전역(중동 주변국)의 모든 인프라 시설을 공격 ...",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-07-16T06:40:00",
     "profile": {
       "name": "Newspim",
@@ -246,7 +202,7 @@
     "title": "\"트럼프 특사·사위, 염불보다 잿밥 관심\"… 이란 측, 美 언론에 폭로-국제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026071609400002163",
     "description": "(미국·이란 전쟁) 이란 전쟁 종전 협상에서 윗코프, 쿠슈너가 금전적 이익에 더 관심을 보였다는 이란 고위 관계자 폭로가 나왔으며, 이란 측은 JD 밴스 부통령이 협상에 나서야 한다고 주장했습니다.",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-07-16T06:31:00",
     "profile": {
       "name": "한국일보",
@@ -265,54 +221,10 @@
   },
   {
     "type": "news_result",
-    "title": "[제이누리] 국가 혹은 권력자? 누가 우리 기억을 편집하는가",
-    "url": "https://jnuri.net/news/article.html?no=69170",
-    "description": "먼저 ‘노컴스티프’는 원작 소설 작가이자 이 영화의 ‘내레이터’로 참여한 도널드 레이 폴록(Donal Ray Pollock)의 고향이기도 한 실재하는 지명이다. 반면, 콜 크릭은 고유명사라기보다는 미국에 무수히 산재하는 탄광촌의 ...",
-    "age": "9 hours ago",
-    "page_age": "2026-07-16T05:58:16",
-    "profile": {
-      "name": "Jnuri",
-      "url": "https://jnuri.net/news/article.html?no=69170"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "jnuri.net",
-      "hostname": "jnuri.net",
-      "favicon": "https://imgs.search.brave.com/TyZJlG1r0z_4kG_qpDxwf52UIIjjvZpJKysbsXFV4cQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM1NjM3MWI2/YWY1NGVkMzRhODhh/NjNiYjA4ZTc3NzFl/ZjY3Yjc5MTEzMmU3/MDM0MDljMTBhMzM3/ZTY5NmRkNy9qbnVy/aS5uZXQv",
-      "path": "› news  › article.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/W3G2SzRQ_UxP4O0Xcn5kxuqceaax89kkf_dJrkFSkgc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/am51cmkubmV0L2Rh/dGEvcGhvdG9zLzIw/MjYwNzI5L2FydF8x/Nzg0MTYxNTkzNTEx/MV83YWQ3NmQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "‘호프’ 본 봉준호 후기 “뭘 본 거지? 패기와 광기 폭발”",
-    "url": "https://sports.donga.com/ent/article/all/20260716/134311980/1",
-    "description": "[동아닷컴 이슬비 기자] 봉준호 감독이 나홍진 감독의 신작 ‘호프’를 향해 “패기와 광기가 폭발하는 영화”라고 극찬했다.영화 ‘호프’는 지난 15일 메가박스 코엑스에서 나홍진 감독과 봉준호 감독이 함께하는 ...",
-    "age": "9 hours ago",
-    "page_age": "2026-07-16T05:48:58",
-    "profile": {
-      "name": "Donga Sports",
-      "url": "https://sports.donga.com/ent/article/all/20260716/134311980/1"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sports.donga.com",
-      "hostname": "sports.donga.com",
-      "favicon": "https://imgs.search.brave.com/QIG32-2YmNIJ9lpwzkX9I6NUo_TsMjxBFOhQmPgijds/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDgxZTBlYWNk/MGFlY2E0YWJkMjNk/Zjk2NjMyZmJmZjZj/ODBmNjBmYzk1Nzkz/YmZjMTA5MzgyYTYy/ZjRkNjFkZS9zcG9y/dHMuZG9uZ2EuY29t/Lw",
-      "path": "› ent  › article  › all  › 20260716  › 134311980  › 1"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/POEPRNEZLSGBbD0hspEXc920ci8Js83WXUfEHbjbEnY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvU1BPUlRTL0lN/QUdFLzIwMjYvMDcv/MTYvMTM0MzExOTYy/LjEuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "美 NYT \"이란戰, 영구적인 전쟁으로 변하고 있어\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607161004445105",
-    "description": "이란은 이 수로를 조임으로써 막대한 경제적 비용을 부과할 수 있지만, 미국에 자신의 요구를 강제할 수는 없다. 더 많은 미사일이 발사되고, 선박이 공격 당하고, 기반시설이 파괴되고, 민간인이 살해된 뒤에 양측은 다시 ...",
-    "age": "9 hours ago",
+    "description": "[파이낸셜뉴스] 미·이란이 전쟁 종식을 위해 체결한 양해각서(MOU)가 오히려 전쟁을 재개하는 이유가 되면서 이란전이 끝없는 전쟁이 되고 있다는 진단이 나왔다.",
+    "age": "10 hours ago",
     "page_age": "2026-07-16T05:46:39",
     "profile": {
       "name": "First News",
@@ -334,7 +246,7 @@
     "title": "중동 확전 시험대…호르무즈 충돌 속 테헤란 인근까지 포화 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260716091700009",
     "description": "그러면서 미국이 의무를 다하지 않으면 이란은 어떤 합의도 준수하지 않을 것이라고 강조했다. 미국 언론들은 5개월째 이어진 전쟁을 마무리 짓는 결정적 선택지로 미 행정부 내에서 지상군 투입 가능성이 거론되고 있다고 ...",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-07-16T02:57:41",
     "profile": {
       "name": "Yonhap News Agency",
@@ -353,54 +265,10 @@
   },
   {
     "type": "news_result",
-    "title": "죽은 줄 알았던 ‘현상금 148억원’ 인물, 웃으며 모습 드러냈다…이란 권력 실세 재등장 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10811044",
-    "description": "이란와이어는 “헤자지 ... 넘어 이란의 정보기관을 조율하고 최고위급 결정을 실질 정책으로 전환하는 임무를 맡았다”며 “막대한 영향력에도 일반 대중에게 이름이 거의 알려지지 않아 경호원 없이 거리를 활보할 정도였다”고 했다. 이스라엘은 지난 2월 ...",
-    "age": "12 hours ago",
-    "page_age": "2026-07-16T02:42:25",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10811044"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10811044"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/0kPY4Bdx9xRs8ykBGKUl1Kipdstx-dUPJBNOwBtO__U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDcvMTYv/bmV3cy1wLnYxLjIw/MjYwNzE2LmZhOGMw/ZWE0NTE2ODQ0ZTE5/YmIxN2YwNTBhNTJj/MmRiX1QxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"트럼프 때문에…\" 세계인, 이제 미국보다 중국 더 좋아한다 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716077800009",
-    "description": "비교에 활용된 조사 대상 ... 이스라엘, 네덜란드, 나이지리아, 케냐, 인도네시아다. ... 미국과 중국의 호감도 역전은 트럼프 대통령이 2025년 재집권 이후 일방주의를 강화한 데 따른 결과라는 관측이 일반적이다. 트럼프 2기 행정부는 고율관세, 이란 침공, ...",
-    "age": "13 hours ago",
-    "page_age": "2026-07-16T01:55:43",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716077800009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716077800009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7K7Dj1TamOK8znzNBwpLt-HZoXRB_bM-340YpWJL6DQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc1/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzA1LzE1L1BBUDIw/MjYwNTE1MjAzODAx/MDA5X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이스라엘·레바논, 로마 회담에서 병력 철수 합의 진전 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607161026130543",
     "description": "지난 2월 28일 미국과 이스라엘이 이란에 대한 군사 행동을 개시한 직후, 이란의 지원을 받는 레바논내 무장정파 헤즈볼라가 이스라엘을 향해 로켓을 발사했으며 여기에 이스라엘은 레바논을 침공해 남부 넓은 지역을 점령 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-07-16T01:53:21",
     "profile": {
       "name": "First News",
@@ -419,10 +287,32 @@
   },
   {
     "type": "news_result",
+    "title": "\"트럼프, 대이란 군사옵션 확대 검토…하르그섬 점령·핵시설 공습 논의\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607161046245172",
+    "description": "JD 밴스 부통령도 이날 공개된 ... 이란을 협상 테이블로 복귀시키는 것\"이라고 밝혔다. 군사 전문가들은 특히 픽액스 산 시설이 가장 어려운 공격 목표 중 하나라고 평가한다. 픽액스 시설은 화강암 지반 아래 약 91~145m 깊이에 건설 중인 대규모 지하 터널 단지로, 지난해 미국과 이스라엘의 공격을 ...",
+    "age": "14 hours ago",
+    "page_age": "2026-07-16T01:46:26",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607161046245172"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607161046245172"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/06TMItWUdHI5cfrt3XoB1Nh5PANq4gExWw1zd52lIsM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTYvMjAy/NjA3MTYxMDQ2MTY5/ODc3X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "WSJ \"트럼프, 이란에 지상군 투입 카드도 만지작\"...현실성은 글쎄",
     "url": "https://www.newspim.com/news/view/20260716000301",
     "description": "WSJ에 따르면 트럼프 대통령은 지난 14일 저녁 회의를 열어 미군을 동원한 이란의 호르무즈 해안 주요 요충지와 이란의 에너지 허브이자 전략 요충지인 하르그섬 점령 가능성을 논의했다. 아울러 아직 공격 대상이 된 적 없는 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-07-16T00:48:00",
     "profile": {
       "name": "Newspim",
@@ -441,46 +331,24 @@
   },
   {
     "type": "news_result",
-    "title": "美정부, '친이란 세력과 전쟁' 사우디에 정밀타격무기 판매 승인 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716032800009",
-    "description": "이번 무력 충돌 재발은 미국, 이스라엘과 이란이 전쟁을 하는 상황에서 중동에 새로운 전선이 형성된 국면으로 주목받는다.",
-    "age": "15 hours ago",
-    "page_age": "2026-07-15T23:55:57",
+    "title": "美지상군 투입 선택지까지 ‘저울길’…트럼프, 치명타 예고하며 이란 압박 - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10810419",
+    "description": "[헤럴드경제=김영철 기자] 미국이 5개월째 이어진 이란과의 전쟁을 결정지을 ‘한 방’의 선택지 가운데 하나로 지상군 투입 시나리오가 다시 물망에 오르고 있다.",
+    "age": "17 hours ago",
+    "page_age": "2026-07-15T23:14:36",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716032800009"
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10810419"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716032800009"
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10810419"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/hxzUbKR-87dgMX36MRpnYo6Scl3DlYipiVyRjuMU_R0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMjYvMDcvMTEv/UEVQMjAyNjA3MTEw/NDQ4MDEwMDlfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "김종국, 남성호르몬 굴욕? 이희준 “10.6” 공개에 화들짝",
-    "url": "https://sports.donga.com/ent/article/all/20260716/134309447/1",
-    "description": "[스포츠동아 이정연 기자] 김종국이 배우 이희준의 남성호르몬 수치 공개에 예상 밖의 반응을 보인다.17일 밤 10시 10분 방송되는 KBS2 ‘옥탑방의 문제아들’에는 27년 지기 절친인 배우 진선규와 이희준이 출연해 김종국, ...",
-    "age": "15 hours ago",
-    "page_age": "2026-07-15T23:29:34",
-    "profile": {
-      "name": "Donga Sports",
-      "url": "https://sports.donga.com/ent/article/all/20260716/134309447/1"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sports.donga.com",
-      "hostname": "sports.donga.com",
-      "favicon": "https://imgs.search.brave.com/QIG32-2YmNIJ9lpwzkX9I6NUo_TsMjxBFOhQmPgijds/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDgxZTBlYWNk/MGFlY2E0YWJkMjNk/Zjk2NjMyZmJmZjZj/ODBmNjBmYzk1Nzkz/YmZjMTA5MzgyYTYy/ZjRkNjFkZS9zcG9y/dHMuZG9uZ2EuY29t/Lw",
-      "path": "› ent  › article  › all  › 20260716  › 134309447  › 1"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/QScdhTE0apYi_Sfs6Wo0m3ojcK3Fn6_cVTW06AzkJYI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvU1BPUlRTL0lN/QUdFLzIwMjYvMDcv/MTYvMTM0MzA5NDU2/LjEucG5n"
+      "src": "https://imgs.search.brave.com/vxbUBK5yALx9A4oFFk_SvTmUILFDw8qfkpIQrj6LnGA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDcvMTYv/bmV3cy1wLnYxLjIw/MjYwNzE2LmQzYTdh/MTA2YmFmMTQ0MmVi/NjY4NTliMjI4Mjdl/OGFmX1QxLmpwZw"
     }
   },
   {
@@ -488,7 +356,7 @@
     "title": "이란 \"美가 우리 규정 수용해야 호르무즈 해협 재개방 가능\"",
     "url": "https://www.newspim.com/news/view/20260716000053",
     "description": "IRGC 대변인 모하마디 장군은 엑스(X)를 통해 \"현재 이란의 작전은 역내 미국의 공격용 군사 인프라를 파괴하는 데 초점을 맞추고 있다\"고 밝혔다.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-07-15T22:46:00",
     "profile": {
       "name": "Newspim",
@@ -510,7 +378,7 @@
     "title": "트럼프 \"이란에 시한은 없다\"...합의 불발 땐 민간시설 타격 재경고 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607160740105150",
     "description": "도널드 트럼프 미국 대통령이 이란에 구체적인 협상 시한은 제시하지 않겠다면서도 조속한 합의를 거듭 압박했다.협상이 진전을 보지 못할 경우 군사시설을 넘어 발전소와 교량 등 민간 인프라까지 공격할 수 있다는 기존 ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-07-15T22:42:01",
     "profile": {
       "name": "First News",
@@ -529,32 +397,10 @@
   },
   {
     "type": "news_result",
-    "title": "美지상군 투입 선택지까지…트럼프, 치명타 예고하며 이란 압박 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260716016400071",
-    "description": "이라크·아프가니스탄 전쟁 때처럼 지상군 투입에 대한 미국 내 여론이 더욱 악화할 수 있고, 작전이 실패하거나 작전 과정에서 미군 사상자가 나오는 최악의 상황도 염두에 둬야 한다. 이란과의 전면전은 국제 원유·금융...",
-    "age": "16 hours ago",
-    "page_age": "2026-07-15T22:38:13",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260716016400071"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260716016400071"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UGF5nX9WfgoN7xk-IKQIYE5DK9uGdTvXkslDy16OSgQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc2/LnluYS5jby5rci9w/aG90by9ldGMvZXBh/LzIwMjYvMDMvMTQv/UEVQMjAyNjAzMTQx/OTAwMDEwMDlfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미군, 닷새 연속 이란 공습…주·야간 하루 두 차례 타격 | 한국경제",
     "url": "https://hankyung.com/article/2026071680797",
     "description": "미군, 닷새 연속 이란 공습…주·야간 하루 두 차례 타격, 박수림 기자, 국제",
-    "age": "16 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-15T22:04:48",
     "profile": {
       "name": "Hankyung",
@@ -576,7 +422,7 @@
     "title": "“이란전 ‘수렁’ 빠진 美...전후 ‘동맹 재구축’ 기대 어려워” | 서울경제",
     "url": "https://sedaily.com/article/20068176",
     "description": "노무현 정부에서 외교통상부 장관을 지낸 송민순 전 장관은 15일 서울 종로구 아산정책연구원에서 열린 한반도미래포럼에서 “이란 전쟁은 와인버그·파월 독트린에 하나도 해당되지 않는다”면서 “미국이 빠져서는 안될 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-15T21:49:00",
     "profile": {
       "name": "Sedaily",
@@ -598,7 +444,7 @@
     "title": "미군, 닷새째 이란 공습…호르무즈 봉쇄도 강화 - 매일경제",
     "url": "https://mk.co.kr/news/world/12099889",
     "description": "이란 이슬람혁명수비대(IRGC)가 선박들의 승인되지 않은 항로 통항 시도를 이유로 호르무즈 해협을 전면 봉쇄한다고 발표했어요. ⛔️ 혁명수비대는 '외세의 불법 개입'과 '항로 불법 지정'에 단호히 대응하겠다며, 미국과 이스라엘...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-15T21:44:36",
     "profile": {
       "name": "MK",
@@ -618,9 +464,31 @@
   {
     "type": "news_result",
     "title": "미군, 이란 남부 전선 동시 타격…호르무즈 관문·파키스탄 접경까지 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607160632545351",
+    "description": "호르무즈 해협 통제권을 둘러싼 미국과 이란의 무력 충돌이 닷새째 이어지는 가운데 미군이 이란 남부와 남서부의 주요 거점을 동시에 공습했다.미국이 이 지역까지 공격 범위를 넓힌 것은 호르무즈 해협 주변뿐 아니라 ...",
+    "age": "18 hours ago",
+    "page_age": "2026-07-15T21:34:45",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607160632545351"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607160632545351"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/_GWjNRSqdELv7qeYfNmntz4o3phG_bdNabKa47xau_Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTYvMjAy/NjA3MTYwNTA0NTc1/OTg4X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미군, 이란 남부 전선 동시 타격…호르무즈 관문·파키스탄 접경까지 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202607160632545351",
     "description": "호르무즈 해협 통제권을 둘러싼 미국과 이란의 무력 충돌이 닷새째 이어지는 가운데 미군이 이란 남부와 남서부의 주요 거점을 동시에 공습했다.미국이 이 지역까지 공격 범위를 넓힌 것은 호르무즈 해협 주변뿐 아니라 이란 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-15T21:34:45",
     "profile": {
       "name": "First News",
@@ -642,7 +510,7 @@
     "title": "US Launches More Strikes as Iran Says No Plan for Talks - Bloomberg",
     "url": "https://bloomberg.com/news/newsletters/2026-07-15/us-launches-more-strikes-as-iran-says-no-plan-for-talks",
     "description": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world · Americas+1 212 318 2000",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-07-15T21:32:03",
     "profile": {
       "name": "Bloomberg",
@@ -664,7 +532,7 @@
     "title": "미군, 이란 상대로 새로운 공습 단행",
     "url": "https://voakorea.com/a/us-iran-07152026/8172200.html",
     "description": "도널드 트럼프 미국 대통령은 ... 대해, 이란이 협상 테이블로 나와 미국과 합의에 나서지 않을 경우 미국의 공습 대상이 발전소와 에너지 시설로까지 확대될 것이라고 경고한 바 있습니다. 미군 중부사령부(CENTCOM)는 이번 공습이 최근 24시간 동안 세 번째로 실시된 공격이며, 테헤란 ...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-15T21:28:27",
     "profile": {
       "name": "Voice of America",
@@ -686,7 +554,7 @@
     "title": "이란 협상대표 \"美와 실존적 전쟁\"…\"호르무즈 질서 지킬 것\" | 아주경제",
     "url": "https://www.ajunews.com/view/20260716061910088",
     "description": "미국과 이란의 무력 충돌이 격화하는 가운데 이란 측 종전 협상대표인 모하마드 바게르 갈리바프 의회 의장이 호르무즈 해협 통제권을 포기하지 않겠다고 밝혔다. 미국이...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-15T21:20:37",
     "profile": {
       "name": "Aju News",
@@ -705,10 +573,32 @@
   },
   {
     "type": "news_result",
+    "title": "이란 협상대표 \"美와 실존적 전쟁\"…\"호르무즈 질서 지킬 것\" | 아주경제",
+    "url": "https://ajunews.com/view/20260716061910088",
+    "description": "미국과 이란의 무력 충돌이 격화하는 가운데 이란 측 종전 협상대표인 모하마드 바게르 갈리바프 의회 의장이 호르무즈 해협 통제권을 포기하지 않겠다고 밝혔다. 미국이...",
+    "age": "19 hours ago",
+    "page_age": "2026-07-15T21:20:37",
+    "profile": {
+      "name": "Aju News",
+      "url": "https://ajunews.com/view/20260716061910088"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ajunews.com",
+      "hostname": "ajunews.com",
+      "favicon": "https://imgs.search.brave.com/U2cz6RHK97gSg0D8ag9ciwl_Pk_5f4KLUmPvy_Eb8GA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhMmJjMmVh/ZGJiOGVmNWE5YTVm/YjVjNmVmMzVlMzM1/YzExZmQ1ZDNjMDlh/MjFhN2U2MWM4NzE1/NzJjYTBlZC9hanVu/ZXdzLmNvbS8",
+      "path": "› view  › 20260716061910088"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/DXXD_l0d2DypLz7-OfCM3Oh7czVnNrZXd28Qvun5jCU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDcv/MTYvMjAyNjA3MTYw/NjE5Mjk3OTMwMjAu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "前 이란대사 “이란戰, ‘스몰딜’ 통한 협상 이어질 것” | 서울경제",
     "url": "https://sedaily.com/article/20068192",
     "description": "그는 “포괄적 타결, 장기적 소모전, 스몰딜을 통해 협상이 지속되는 불완전한 상태 중에서 세 번째가 가장 유력하다”고 지적했다. 오는 11월 중간선거를 앞둔 미국, 경제위기에 처한 이란, 총선을 앞둔 이스라엘 등 3자가 ...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-15T21:15:00",
     "profile": {
       "name": "Sedaily",
@@ -730,7 +620,7 @@
     "title": "中 내수 부진 ‘빨간불’...트럼프는 “이란, 합의 안되면 발전소 공격” [글로벌 모닝 브리핑] | 서울경제",
     "url": "https://www.sedaily.com/article/20068291",
     "description": "‘20% 통행료’ 하루만에 없던 일로…대규모 공격 논의 도널드 트럼프 미국 대통령이 호르무즈해협 ‘20% 통행료’ 구상을 하루 만에 없던 일로 만들었습니다. 다만 이란을 향한 대규모 공격을 논의한 것으로 알려집니다.",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-07-15T21:00:03",
     "profile": {
       "name": "Sedaily",
@@ -749,10 +639,76 @@
   },
   {
     "type": "news_result",
+    "title": "[금/유가] 이란 긴장·美 PPI 소화하며 금값 하락…유가 소폭 상승",
+    "url": "https://www.newspim.com/news/view/20260716000023",
+    "description": "반면 미국의 전체 원유 수출은 늘었지만 전쟁 이전 하루 약 400만 배럴 수준이었던 최근 평균에는 여전히 못 미쳤다. 미국과 이란 간 공습이 이어지면서 중동발 공급 차질을 미국산 원유가 얼마나 대체할 수 있을지가 중요해진 ...",
+    "age": "19 hours ago",
+    "page_age": "2026-07-15T20:48:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260716000023"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260716000023"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/s48e1f4gpzXbBhzPOmeKa9-Vib-Y5z215tW6gNRYLWs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDIxLzAz/LzE5LzIxMDMxOTA1/MTYyOTIwMDBfODQ0/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[금/유가] 이란 긴장·美 PPI 소화하며 금값 하락…유가 소폭 상승",
+    "url": "https://newspim.com/news/view/20260716000023",
+    "description": "앞서 미국은 이란에 대한 추가 공습을 단행했는데, 미군은 \"이번 공습으로 이란이 호르무즈 해협에서 상업용 선박을 공격할 수 있는 능력을 더욱 약화시켰다\"고 밝혔다.",
+    "age": "19 hours ago",
+    "page_age": "2026-07-15T20:48:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260716000023"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260716000023"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/s48e1f4gpzXbBhzPOmeKa9-Vib-Y5z215tW6gNRYLWs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDIxLzAz/LzE5LzIxMDMxOTA1/MTYyOTIwMDBfODQ0/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 \"이란, 제대로 행동해야\"…이란 \"호르무즈 사수\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607160446093465",
+    "description": "미군이 15일 닷새째 이란을 공습하고, 이란도 걸프지역 미군 기지를 타격하는 가운데 도널드 트럼프 미국 대통령이 이란에 \"제대로 행동해야 할 것\"이라고 경고했다.갈리바프는 종전 MOU 유지에 대해 \"양해각서는 조항이 ...",
+    "age": "20 hours ago",
+    "page_age": "2026-07-15T20:27:41",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607160446093465"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607160446093465"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/PTMrRGvauJE7wO7cX7-93sNSsGMKPtaG8rhh201zOh0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTYvMjAy/NjA3MTYwNDQ2NTg5/MjgwX2wuSlBH"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프 이란에 \"마감시한 없다, 제대로 행동해야\"…군사·제재 전방위 압박",
     "url": "https://www.newspim.com/news/view/20260716000021",
     "description": "앞서 트럼프 대통령은 전날 ... 이뤄지지 않으면 이란의 발전소와 교량 등 민간 기반시설을 표적으로 삼을 수 있다고 밝혔다. 하지만 민간 기반시설 파괴는 국제법상 잠재적인 전쟁 범죄에 해당할 수도 있다는 ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-07-15T20:23:00",
     "profile": {
       "name": "Newspim",
@@ -774,7 +730,7 @@
     "title": "트럼프 이란에 \"마감시한 없다, 제대로 행동해야\"…군사·제재 전방위 압박",
     "url": "https://newspim.com/news/view/20260716000021",
     "description": "트럼프 대통령은 이날 펜실베이니아주 카라일에서 열린 국방 관련 행사 참석에 앞서 취재진이 이란의 교량을 공격하기 전에 이란에 주어진 마감시한(데드라인)이 있냐고 묻자 \"나는 마감시한을 주는 것을 좋아하지 ...",
-    "age": "18 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-07-15T20:23:00",
     "profile": {
       "name": "Newspim",
@@ -796,7 +752,7 @@
     "title": "이란 협상대표 \"미국과 전쟁 준비와 외교 협상 병행해야\" - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202607160340238797",
     "description": "(서울=뉴스1) 이창규 기자 = 이란의 대미 협상 대표인 모하마드 바게르 갈리바프 의회 의장이 15일(현지시간) 미국의 공습을 방어하면서 외교적 대화에도 열려 있어야 한다고 밝혔다. CNN에 따르면, 갈리바프는 이날 텔레그램을 통해 \"우리는 전쟁을 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-07-15T18:40:24",
     "profile": {
       "name": "First News",
@@ -817,8 +773,8 @@
     "type": "news_result",
     "title": "이란 협상단장 \"종전합의 지킬 이유 없어\"…호르무즈 사수 천명 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202607160338128486",
-    "description": "(카이로=연합뉴스) 김상훈 ... 갈리바프 이란 의회 의장이 결사 항전과 강력한 보복 의지를 천명했다. 갈리바프 의장은 15일(현지시간) 대국민 성명을 통해 \"우리는 미국과 근본적이고 실존적인 전쟁을 치르고 있으며, ...",
-    "age": "20 hours ago",
+    "description": "마지막으로 갈리바프 의장은 \"우리는 순교한 동료의 피에 대한 복수를 반드시 이룰 것이며, 범죄자 적들에게 단호하고 결정적인 대응을 할 것\"이라며 미국과 이스라엘에 대한 보복을 예고했다. 또 \"적들은 이란 내부의 절망과 ...",
+    "age": "1 day ago",
     "page_age": "2026-07-15T18:38:13",
     "profile": {
       "name": "First News",
@@ -877,6 +833,50 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/gTlXVzjV4CslVCa78SFrIxsdp6WnoIQtM-zWiebD8Wc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzE1LzI2MDcxNTIz/MDIxMjk2MTBfODEy/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미·이란 닷새째 '보복의 악순환'…부셰르 원전 인근 또 공습 | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260715175000079",
+    "description": "(카이로=연합뉴스) 김상훈 특파원 = 종전 양해각서(MOU)를 사실상 폐기하고 호르무즈 해협과 항구 봉쇄를 재개한 미국과 이란 간의 무력 충돌이...",
+    "age": "1 day ago",
+    "page_age": "2026-07-15T11:27:21",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260715175000079"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260715175000079"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/zvfDP0slVhHdstB92P4muxEOIYOxdnfjdrRsrmd2-Co/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LnluYS5jby5rci9w/aG90by9ldGMvYWYv/MjAyNi8wNy8xNS9Q/QUYyMDI2MDcxNTIx/MzYwMTAwOV9QNC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란, \"걸프 수출 루트 모두 막아버릴 것\"…후티 장악의 홍해 해협 암시 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202607151906418797",
+    "description": "[서울=뉴시스] 김재영 기자 = 이란의 이란혁명수비대(IRGC)는 15일 미국의 이란 해상봉쇄 재개 10시간 뒤 걸프(페르시아만) 수출 루트를 호르무즈해협뿐 아니라 다른 여러 곳도 막아버릴 것이라고 말했다.",
+    "age": "1 day ago",
+    "page_age": "2026-07-15T10:07:28",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202607151906418797"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202607151906418797"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/uDMsE0ovkfsvi3v_UJWEK3U88IlTBSnBFoT5GtleRAM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTUvMjAy/NjA3MTUxOTQ2MTIw/NDEyX2wuanBn"
     }
   },
   {
@@ -1060,7 +1060,7 @@
     "title": "US carries out out new wave of strikes on Iran | AP News",
     "url": "https://apnews.com/video/us-carries-out-out-new-wave-of-strikes-on-iran-3f758da6a15147c28d667e9f73d971ff",
     "description": "The U.S. carried out another wave of strikes on Iran as it reimposed a blockade, striking dozens of targets over seven hours, the U.S. military's Central Command said Wednesday.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-07-15T03:14:34",
     "profile": {
       "name": "AP News",
@@ -1075,6 +1075,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/tDInd1Si_K2AnTwlx1yLxa2n_3RG3v8fBKfMKnw3pQs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC9jYWY1ZjBjLzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/LzEwODF4NzIwKzEw/MCswL3Jlc2l6ZS85/ODB4NjUzIS9xdWFs/aXR5LzkwLz91cmw9/aHR0cHMlM0ElMkYl/MkZhc3NldHMuYXBu/ZXdzLmNvbSUyRmQz/JTJGMzglMkY3NWRh/OTM0NzQ3ODJhMzA4/OTg2NDAzYWZmMTYw/JTJGZHItY292ZXIt/cGhvdG9zLTIwMjYt/MDctMTV0MDg1MzA1/LTc3MC5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프의 이란전쟁, 위태로운 새 국면…중동 사막 더 깊숙이 빠져들 위험",
+    "url": "https://www.newspim.com/news/view/20260715000574",
+    "description": "양측 모두 상대를 알 수 ... 전쟁은 끝없이 이어질 수 있다\"고 말했다. 지난 8일(현지시간) 오만 해안에서 바라본 호르무즈 해협 위 선박들. [사진=로이터 뉴스핌] 존스홉킨스대 발리 나스르 교수도 \"이것은 레버리지 싸움이지 정권에 대한 싸움이 아니다\"라며 \"이란이 호르무즈 ...",
+    "age": "2 days ago",
+    "page_age": "2026-07-15T02:13:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20260715000574"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20260715000574"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/kSER0Jhs0FbqI1zsPYpY-lflItycVYHsW6wYXki0GZw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzE1LzI2MDcxNTEx/MDc1MjM4NjBfNjc3/X3RjLmpwZw"
     }
   },
   {
@@ -1207,28 +1229,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/i1N0dXlv903ASd7yCaSGqV99T1EIpiVCDtjMB97u8Ew/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTUvMjAy/NjA3MTUwOTI0MjE1/NTI1X2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 \"이란 발전소·교량 공격할 것\"…EU, 중동 전운에 걸프 영공 운항 자제령 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202607150842314523",
-    "description": "도널드 트럼프 미국 대통령은 \"이란이 다음 주까지 합의하지 않는다면 이란의 교량과 발전소를 공격할 것\"이라고 경고했다.트럼프 대통령은 14일 폭스뉴스 인터뷰에서 \"우리는 내일 밤 매우 강하게 공격할 것이다.",
-    "age": "2 days ago",
-    "page_age": "2026-07-15T00:23:17",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202607150842314523"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202607150842314523"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/aKoaMBXCu3V1E944_FludsvdT8kVZ8rdprB5ZrKB9rQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMTUvMjAy/NjA3MTUwNjE5MzI0/MjA1X2wuanBn"
     }
   },
   {
