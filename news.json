@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "이란 공습 취소, 이스라엘도 ‘SNS 보고’ 알았다…“버려진 기분”[1일1트] - 헤럴드경제",
+    "url": "https://biz.heraldcorp.com/article/10828420",
+    "description": "[헤럴드경제=서지연 기자] 도널드 트럼프 미국 대통령이 이란 공습 계획을 개시 약 24시간 전에 전격 취소한 가운데, 핵심 동맹인 이스라엘조차 이를 사전에 통보받지 못한 것으로 전해졌다.",
+    "age": "45 minutes ago",
+    "page_age": "2026-08-02T21:46:11",
+    "profile": {
+      "name": "Herald Corp",
+      "url": "https://biz.heraldcorp.com/article/10828420"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.heraldcorp.com",
+      "hostname": "biz.heraldcorp.com",
+      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
+      "path": "› article  › 10828420"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/sUBdblb-MTOAvi4Cxhq279IJZm2hqk0DzotQVn9u4fw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDgvMDMv/bmV3cy1wLnYxLjIw/MjYwODAxLjllODhh/NDk5NjgyZDQ0ZDU4/MmI4MDIzN2Y5M2Rk/ZTNiX1QxLnBuZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"트럼프의 이란 공격 취소, 이스라엘은 까맣게 몰랐다\" | 세계일보",
+    "url": "https://segye.com/newsView/20260803501655",
+    "description": "도널드 트럼프 미국 대통령의 대(對)이란 공습 취소와 관련해 이스라엘 고위 국방 및 외교 당국자들은 당시 상황을 전혀 모르고 있었다고 이스라엘 채널12 방송이 2일(현지시간) 보도했다. 보도에 따르면 미국과 이스라엘은 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-08-02T20:34:59",
+    "profile": {
+      "name": "Sekye",
+      "url": "https://segye.com/newsView/20260803501655"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "segye.com",
+      "hostname": "segye.com",
+      "favicon": "https://imgs.search.brave.com/eEnwHCcQbEY0YavA8Mb5k8a17JAOWUC2sWNdsVNGNv0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQyODBjMGIw/Y2VmNTYxNWRiN2U2/YWFlZjY3MGIzNjQw/NTU3Y2QyZDgyZWNh/ZWU0YjczMzE5MDY5/MmUxOTQ1YS9zZWd5/ZS5jb20v",
+      "path": "› newsView  › 20260803501655"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/kIMojPvnbCw85ui5yy_NLKJUznr3iGANg5KnNvKesQA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VneWUuY29tL2Nv/bnRlbnQvaW1hZ2Uv/MjAyNi8wOC8wMy8y/MDI2MDgwMzUwMjEw/Ny5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美·이란, MOU 복귀 위한 중재안 논의 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608030513051738",
     "description": "미국과 이란을 지난달 양국이 체결했던 양해각서 상태로 복귀시키기 위한 중재 작업이 진행 중이라고 이스라엘 채널12 방송이 2일 보도했다.그러나 도널드 트럼프 미국 대통령이 무조건적인 해협 개방을 주장한 반면, 이란 ...",
-    "age": "1 hour ago",
+    "age": "2 hours ago",
     "page_age": "2026-08-02T20:26:29",
     "profile": {
       "name": "First News",
@@ -23,90 +67,46 @@
   },
   {
     "type": "news_result",
-    "title": "박근혜, 울산서 영남 의원 등과 만찬 회동…“당 어려워졌지만” | 문화일보",
-    "url": "https://munhwa.com/article/11606673",
-    "description": "지난 6·3 지방선거 당시 국민의힘 후보들의 선거 유세를 도왔던 박근혜 전 대통령이 2일 울산을 찾아 국민의힘 영남 의원 등과 만찬 회동을 한 것으로 알려졌다. 복수의 참석자들에 따르면, 이날 만찬 회동에는 박 전 대통령의 ...",
+    "title": "모로코인 6만명 월경 후폭풍… 쪼개진 유럽에 트럼프 배후설도-국민일보",
+    "url": "https://kmib.co.kr/article/view.asp?arcid=1785672672&code=11141500&sid1=int",
+    "description": "북아프리카의 스페인 영외 영토인 세우타에서 발생한 모로코인 6만여명의 무단 월경 사태는 일단 진정됐지만 유럽연합(EU) 안에선 이민자 정책을 놓고 갈등이",
     "age": "5 hours ago",
-    "page_age": "2026-08-02T16:07:40",
+    "page_age": "2026-08-02T17:28:00",
     "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606673"
+      "name": "Kmib",
+      "url": "https://kmib.co.kr/article/view.asp?arcid=1785672672&code=11141500&sid1=int"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606673"
+      "netloc": "kmib.co.kr",
+      "hostname": "kmib.co.kr",
+      "favicon": "https://imgs.search.brave.com/nIFAsC_fINQVdqkCeEUgmL5Pp5iT4VAS7Dqns3Qca4g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVkYzEzOTIz/ZGMzZDJmZDRiZDMw/Yzg4Y2ViMzgzNjY4/MGFlYzM3NjVkM2Nm/MGQzMjdlNmJjMjA5/NzI5NjVhMy9rbWli/LmNvLmtyLw",
+      "path": "› article  › view.asp"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Nue-Z_hD0GhkM1_dDOik1D4wjhJe7KY1sicsNvOD_tY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LXAudjEuMjAyNjA4/MDMuYmZlZWY4ZDFh/OTQ2NGJmMThiYmE0/YWJjMWZmMDg3ZjNf/Ui5qcGc"
+      "src": "https://imgs.search.brave.com/USNcdVYk3cBB3TqQQL_teIIUUKho-qqNkyNxnjpUFsg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5rbWliLmNvLmty/L29ubGluZV9pbWFn/ZS8yMDI2LzA4MDMv/MjAyNjA4MDIyMzMw/MDY3NzkwN18xNzg1/NjgxMDg5XzE3ODU2/NzI2NzIuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "[국제]인도네시아 여객선 큰불...40여 명 사망·실종 | YTN",
-    "url": "https://ytn.co.kr/_ln/0104_202608030014210882",
-    "description": "구명조끼 입고 구조 기다리거나 바다로 뛰어들어 / 승객 등 225명 구조…5명 사망·41명 실종 / 길이 160m…수라바야∼마카사르 운항 중 화재",
-    "age": "6 hours ago",
-    "page_age": "2026-08-02T15:14:00",
-    "profile": {
-      "name": "YTN",
-      "url": "https://ytn.co.kr/_ln/0104_202608030014210882"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ytn.co.kr",
-      "hostname": "ytn.co.kr",
-      "favicon": "https://imgs.search.brave.com/3S0-dc9XM94j7IKoo3atRt29uW7fzP0VTLPIF8c36Fc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MGUyNjRl/MDBmMjhhMzk1Mzg4/NDRkN2E2YzAxNTRm/NzY1ZjJiNTg2YzBm/YzAxY2Q3YjZlMjQ4/ZWJlOGI3Mi95dG4u/Y28ua3Iv",
-      "path": "› _ln  › 0104_202608030014210882"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ftMYxFCOu3bhW-n8GOq_2E4IF6gTNRHzWqNr0WiazB4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wODAzLzIw/MjYwODAzMDAxNDIx/MDg4Ml90LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美공화당도 “트럼프주의 과하다”...보수 인재 양성 놓고 세대 갈등 | 문화일보",
-    "url": "https://munhwa.com/article/11606672",
-    "description": "미국 공화당 내부에서 지나친 트럼프주의에 빠진 청년 인사 기용을 둘러싼 세대 갈등이 격화하고 있다는 것으로 알려졌다. 특히 공화당의 대표적 인재 양성기관인 헤리티지재단(Heritage Foundation)이 전문성보다 ‘트럼프 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-08-02T15:11:54",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606672"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606672"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/aHIK5HzIvwjpe-XaoU2xtDELhMCxhvcoBVpjrCGCN60/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LWEudjEuMjAyNjA4/MDMuM2IzOTljZDU3/NzI1NDQ5ODk0NDZj/NTU4NjJjOTY1ZTVf/VDEuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[속보]전남광주서 70대 2명 잇따라 숨져…온열질환 추정 | 문화일보",
-    "url": "https://munhwa.com/article/11606668",
-    "description": "전남광주 지역에서 70대 두 명이 온열질환으로 추정되는 증상으로 잇따라 숨지는 사고가 발생했다. 2일 전남광주통합특별시소방본부와 경찰에 따르면 이날 오후 6시 3분쯤 담양군 고서면 한 주택 마당에서 A(70대·여) 씨가 ...",
+    "title": "“지옥에나” 돌려차기 피해자, 김용민 SNS에 강한 반발 댓글…이유가 | 문화일보",
+    "url": "https://munhwa.com/article/11606669",
+    "description": "검사의 직접 수사 권한을 폐지하는 내용을 담은 형사소송법 개정안이 국회를 통과한 가운데, ‘부산 돌려차기 사건’ 피해자가 법안을 발의한 김용민 더불어민주당 의원의 소셜네트워크서비스(SNS) 게시물에 댓글을 남기며 ...",
     "age": "9 hours ago",
-    "page_age": "2026-08-02T12:37:02",
+    "page_age": "2026-08-02T13:10:07",
     "profile": {
       "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606668"
+      "url": "https://munhwa.com/article/11606669"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "munhwa.com",
       "hostname": "munhwa.com",
       "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606668"
+      "path": "› article  › 11606669"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/myepFpu-zsUEKuId_GTn7bdRo3brRjpX1eDCGpWkROo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuMDRjNzczODYz/NTljNGY5N2I3NDAw/NDRlNjUwMzM3NTFf/Ui5qcGc"
+      "src": "https://imgs.search.brave.com/IudwWPzmrVcOA46aGK5Hbi4P5thWiWizvUhhYQCMQaU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LWEudjEuMjAyNjA4/MDIuNmFmNWJlMTkz/Y2UwNDg0OGI3NTg4/YjFkZDY0ZjNiMDJf/VDEuanBn"
     }
   },
   {
@@ -114,7 +114,7 @@
     "title": "“이번이 몇 번째 타코(TACO)?” 알자지라, 트럼프 이란 공습 보류 비판 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260802_0003733135",
     "description": "[서울=뉴시스] 구자룡 기자 = 알자지라 방송은 2일 도널드 트럼프 미국 대통령이 전날 이란 공습을 보류한다고 발표한 것에 대해 이란 전쟁 이후 몇 번째 ‘공습 경고후 철회’인지를 보도했다. 타코는 ‘트럼프는 항상 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-08-02T11:28:22",
     "profile": {
       "name": "Newsis",
@@ -136,7 +136,7 @@
     "title": "빈 살만 설득 통했나…트럼프 “이란 주말 대공습 보류” | 서울경제",
     "url": "https://www.sedaily.com/article/20074842",
     "description": "트럼프 대통령은 “세계의 미래와 더불어 번영하는 이란의 생존을 위해 신속한 합의 타결을 전제로 공격을 취소하는 데 동의했다”며 “이스라엘 역시 나와 같은 입장을 취하기로 했다”고 전했다.",
-    "age": "12 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-08-02T09:30:14",
     "profile": {
       "name": "Sedaily",
@@ -158,7 +158,7 @@
     "title": "“이란, 트럼프 공습 취소 전 ‘호르무즈 해협 개방 타협안’ 동의” - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10828288",
     "description": "도널드 트럼프 미국 대통령이 이란과의 중동 합의를 이유로 주말 예정되었던 대이란 공습을 전격 취소했다고 밝힌 가운데 이스라엘 채널 12 방송은 이란 외무장관이 호르무",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-08-02T08:30:00",
     "profile": {
       "name": "Herald Corp",
@@ -177,10 +177,32 @@
   },
   {
     "type": "news_result",
+    "title": "“이란전쟁 성공 맞아?” 트럼프 우군 폭스뉴스도 잇따라 의구심",
+    "url": "https://knewsla.com/usa/20260801366366",
+    "description": "트럼프, 예고했던 주말 이란 공격 보류 …",
+    "age": "15 hours ago",
+    "page_age": "2026-08-02T07:17:20",
+    "profile": {
+      "name": "KNEWSLA",
+      "url": "https://knewsla.com/usa/20260801366366"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "knewsla.com",
+      "hostname": "knewsla.com",
+      "favicon": "https://imgs.search.brave.com/0EfWT-E_XGzj9MtpngkN40tlXsIdg99Ob6ZabPvISyY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQwOTU3M2U3/MjNmNjhhZmVhZmY1/ZTY5MjQ2N2EzMjIy/ZTEyMjRhZDUwNmEy/YjUwYmYyNDYyY2Ux/ZmQ2N2NkMi9rbmV3/c2xhLmNvbS8",
+      "path": "› usa  › 20260801366366"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/P7ERLyU17xbwbTyHmfIhKQXPsUB29N0Vl2plIB1JnV0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rbmV3/c2xhLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNi8wOC83/ZjA0Y2NiNy1iY2I5/LTQwNTItOWE5OS05/Yjg3NjA3YzIwOWIu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "다시 교전 멈춘 美·이란, 사우디 등 중동 산유국 입김 커져 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608021255563425",
     "description": "2일 이란의 국영 IRIB방송은 트럼프의 발표 직후 그가 이란을 향한 위협에서 \"또다시 후퇴했다\"면서 트럼프가 \"전쟁을 부추기는 미국 대통령\"이라고 비난했다.",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-08-02T07:08:16",
     "profile": {
       "name": "First News",
@@ -202,7 +224,7 @@
     "title": "“공습 멈춰달라”…트럼프 마음 돌린 빈 살만의 전화 한 통 - 매일경제",
     "url": "https://mk.co.kr/news/world/12114461",
     "description": "1일(현지시간) 미국 ... 대통령과의 통화에서 이란에 대한 군사 공격이 중동 전체를 불안정하게 만들 수 있다며 긴장 완화와 공습 자제를 요청했다. 앞서 미국 언론들은 미국과 이스라엘이 이번 주말 이란의 에너지 ...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-02T06:54:39",
     "profile": {
       "name": "MK",
@@ -221,24 +243,24 @@
   },
   {
     "type": "news_result",
-    "title": "“강하게 때린다”던 트럼프, 이란 공격 전격 취소...그 뒤엔 이 사람 | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25450156",
-    "description": "“매우 강하게 타격할 것”이라며 이란에 대한 초강경 군사행동을 예고했던 도널드 트럼프 미국 대통령이 1일(현지시간) 군사공격을 전격 취소했다. 이에 따라 전운이 고조됐던 중동 정세가 다시 협상 국면으로 급선회하는 ...",
-    "age": "15 hours ago",
-    "page_age": "2026-08-02T06:24:59",
+    "title": "“30살 전에 죽어요” 소리 들은 238㎏ 女, 156㎏ 빼고 생존 | 문화일보",
+    "url": "https://munhwa.com/article/11606638",
+    "description": "11세에 이미 몸무게가 70㎏을 넘었던 한 여성이 의사로부터 “30세 전에 사망할 수 있다”는 경고를 들었으나, 156㎏을 감량한 끝에 두 아이의 어머니가 된 사연이 알려져 화제가 되고 있다. 지난달 25일(현지시간) 미국 매체 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-08-02T06:37:09",
     "profile": {
-      "name": "JoongAng Ilbo",
-      "url": "https://www.joongang.co.kr/article/25450156"
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606638"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25450156"
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606638"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/PaA965mB3DSXIpFvvJECzeBddji3XxhNWsJkHwlR15Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDgvMDIvZTNj/MmRhYmYtZTAyZC00/NDRjLTljOTUtNjYy/ZDEyMTI2MjQ0Lmpw/Zw"
+      "src": "https://imgs.search.brave.com/J16UD2SodzNLLOTNJIBMtVMK0-hmnJN8AzQtibpDT8Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuN2I4NzE5OTYy/ZjZkNDIyYjliNDAz/MGE5YmQ1OTg4NzJf/Ui5qcGc"
     }
   },
   {
@@ -246,7 +268,7 @@
     "title": "경? ?는 퇴행의 초기 단계에 있다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/02/70998.html",
     "description": "트럼프 대통령이 계획했던 이란에 대한 강력한 공습은 실행되지 않을 것이다. 트럼프 대통령은 \"신속한 협상\"을 위해 군사 작전을 취소하기로 결정했다고 자신의 소셜 미디어 계정인 트루스 소셜(Truth Social)에 밝혔다.앞서 발표됐던 미국과 이스라엘의 ...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-02T06:24:54",
     "profile": {
       "name": "News-pravda",
@@ -265,32 +287,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 ‘이란 공습’ 보류, 사우디 왕세자 만류 있었다…보복 우려 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10828204",
-    "description": "[헤럴드경제=김광우 기자] 도널드 트럼프 미국 대통령이 이란 에너지 인프라를 겨냥한 대규모 공습 계획을 전격 보류한 가운데, 무함마드 빈 살만 사우디아라비아 왕세자가 공격 자제를 촉구한 것이 결정에 영향을 미친 것으로 ...",
-    "age": "16 hours ago",
-    "page_age": "2026-08-02T05:58:31",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10828204"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10828204"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/281S7mPVqgrbQ5KCsmyy4m_Mn_I2MFXDChki8lcWEoo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDgvMDIv/bmV3cy1wLnYxLjIw/MjYwODAxLjllODhh/NDk5NjgyZDQ0ZDU4/MmI4MDIzN2Y5M2Rk/ZTNiX1QxLnBuZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 외무장관 \"美·이스라엘 침략·역내 가담 땐 단호히 대응\" | 아주경제",
     "url": "https://ajunews.com/view/20260802144235342",
     "description": "하탐 알안비야 중앙군사... 국가든 전쟁의 불길에 휩싸이게 될 것\"이라고 경고했다. 앞서 CBS방송과 월스트리트저널(WSJ) 등 미국 언론은 소식통을 인용해 미국과 이스라엘이 이번 주말 이란의 에너지 시설 ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-08-02T05:46:57",
     "profile": {
       "name": "Aju News",
@@ -312,7 +312,7 @@
     "title": "트럼프 \"이란 공격 취소\" 발표‥주말 대공습' 일단 보류",
     "url": "https://imnews.imbc.com/news/2026/world/article/6841832_36925.html",
     "description": "도널드 트럼프 미국 대통령이 이번 주말로 예상됐던 대이란 군사 작전을 취소했습니다. 트럼프 대통령은 현지시간 1일 소셜미디어에 \"이란과 다른 중동 국가들로부터 합의의 틀에 대한 동...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-08-02T05:35:30",
     "profile": {
       "name": "MBC 뉴스",
@@ -334,7 +334,7 @@
     "title": "우크라이나의 슈틸러만 장관이 이란에 플라밍?? 미사일 공격을 위협했습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/02/70995.html",
     "description": "이란에 플라밍고가 살까요? 곧 알게 되겠죠. 슈틸러만은 게시글에서 \"미사일로 우크라이나를 위협하는 모든 이들에게 상기시켜 드립니다. 우리 플라밍고는 3000km를 비행할 수 있습니다. \"라고 밝혔습니다. 파이어포인트의 수장이 이와 같은 발언을 한 것은 이번이 처음이 아닙니다. 그는 앞서 올가을 모스크바에 탄도 미사일 공격을 ...",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-08-02T05:33:17",
     "profile": {
       "name": "News-pravda",
@@ -356,7 +356,7 @@
     "title": "미국은 이란의 보복 공격으로부터 이스라엘을 방어하는 데 어? ?움을 겪?? 있다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/02/70989.html",
     "description": "미국은 중동의 주요 동맹국인 이스라엘을 보호하는 데 어려움을 겪고 있습니다. 이란이 폭격과 보복 공격을 감행할 경우, 이스라엘 영토는 추가적인 보호 없이 무방비 상태가 될 것이라고 알렉서스 그린케비치 유럽주둔미군 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-08-02T04:18:08",
     "profile": {
       "name": "News-pravda",
@@ -378,7 +378,7 @@
     "title": "트럼프는 자?? 의 SNS에 이란에 대한 공격 계획을 취소했다?? 밝혔다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/south-korea/2026/08/02/70985.html",
     "description": "이러한 요청에 따라, 나는 세계의 미래와 성공적이고 번영하는 이란의 존립을 위해, 신속한 협상 타결을 조건으로 공격을 취소하기로 합의했다. 이스라엘 또한 나와 함께 이 약속을 이행할 것이다.",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-08-02T02:30:52",
     "profile": {
       "name": "News-pravda",
@@ -397,46 +397,24 @@
   },
   {
     "type": "news_result",
-    "title": "김시우,로켓 클래식 3R서 선두에 5타 뒤진 공동 11위 | 문화일보",
-    "url": "https://munhwa.com/article/11606606",
-    "description": "김시우가 미국프로골프(PGA) 투어 로켓 클래식(총상금 1000만 달러) 3라운드에서 선두에 5타 뒤진 공동 11위에 이름을 올렸다. 김시우는 2일 오전(한국시간) 미국 미시간주 디트로이트의 디트로이트 골프클럽(파70)에서 열린 로켓 ...",
-    "age": "19 hours ago",
-    "page_age": "2026-08-02T02:12:57",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606606"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606606"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/1EwwbyzYSWjwagJJZj7ow6ofPFClDVAQzt0Eo8lRX8A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuZmE2MGE2MTUy/MmQwNDNjZmIyOTVh/NjUxNGZmZTQwMmNf/Ui5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "‘호프’ 400만·‘스파이더맨’ 300만…여름 극장가 쌍끌이 | 문화일보",
-    "url": "https://munhwa.com/article/11606583",
-    "description": "영화 ‘호프’와 ‘스파이더맨:브랜드 뉴 데이’가 나란히 400만, 300만 고지를 밟았다. ‘호프’는 2일 자정을 넘긴 직후 400만 관객을 돌파했다. 올해 개봉한 영화 중 ‘왕과 사는 남자’, ‘군체’에 이어 3번째다.",
+    "title": "美·이스라엘 공습 임박설에…이란 “침략하면 단호히 대응” - 매일경제",
+    "url": "https://mk.co.kr/news/world/12114368",
+    "description": "미국과 이스라엘의 이란 공습 가능성이 제기되는 가운데 이란이 “어떠한 침략에도 단호히 대응하겠다”며 강경한 경고 메시지를 내놨다. 호르무즈 해협 인근에서는 유조선이 잇따라 공격을 받으면서 중동의 군사적 긴장도 ...",
     "age": "1 day ago",
-    "page_age": "2026-08-02T00:27:46",
+    "page_age": "2026-08-02T01:11:03",
     "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606583"
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12114368"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606583"
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12114368"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/OeFUrGSrdmhmQXT8h1cWVwvSp8hcIytfE3pVXeJlJcU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuYTExMjQxMDk0/ZjdmNGU2MTk2ZGM4/YzJlMDRmNmQyYTlf/Ui5qcGc"
+      "src": "https://imgs.search.brave.com/lGqTRGU2UoBBba94X9Ntd0Lo4lJVmE9UGxxe7-hbSxE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OC8wMi9yY3YuWU5B/LjIwMjYwNTA1LlBZ/SDIwMjYwNTA1MDg4/MzAwMDc5MDBfUi5q/cGc"
     }
   },
   {
@@ -485,9 +463,31 @@
   },
   {
     "type": "news_result",
+    "title": "트럼프, 합의 틀 마련 후 이란 공격 계획 취소 By Investing.com",
+    "url": "https://kr.investing.com/news/economy-news/article-2040524",
+    "description": "Investing.com — 도널드 트럼프 대통령은 일요일 오전(KST) 테헤란과 다른 중동 국가들이 잠재적 합의의 틀에 대한 동의를 언급하며 미국에 자제를 요청한 후, 이란에 대한 미국의 공격 계획을 취소했다고 밝혔다.",
+    "age": "1 day ago",
+    "page_age": "2026-08-01T23:57:09",
+    "profile": {
+      "name": "Investing.com",
+      "url": "https://kr.investing.com/news/economy-news/article-2040524"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "kr.investing.com",
+      "hostname": "kr.investing.com",
+      "favicon": "https://imgs.search.brave.com/zKb_eAGkYYmaLyPEKGwDIw7RYx03LqGwO8GmiebveZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYyNWM2NWM3/MTA1MGI4YjI2MmYw/NTZiMWU5M2VkNmFm/YmYzMmY1YjQyMjYw/M2U1N2RmNTllMjNj/MGMwMmY0Ni9rci5p/bnZlc3RpbmcuY29t/Lw",
+      "path": "› news  › economy-news  › article-2040524"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/IiuroD_uzmolVMikstgn658VHq2DqPOAQpbZnMLw6Pg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLWlu/dmRuLWNvbS5pbnZl/c3RpbmcuY29tL25l/d3MvaHR0cHM6Ly9j/b250ZW50LW1lZGlh/LmludmVzdGluZy5j/b20vbmV3cy9tb3Zl/ZF9MWU5YTVBFTTZN/MTVGXzEyMDBfTC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "美 공습 임박설에...이란 \"어떤 침략에도 단호히 대응\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608020823273093",
-    "description": "아바스 아라그치 이란 외무장관이 지난 6월 이라크 수도 바그다드에서 푸아드 후세인 이라크 외무장관과 회담 후 공동 기자회견에서 발언하고 있다. 뉴시스 제 · [파이낸셜뉴스] 미국과 이스라엘의 대이란 공습 임박설이 ...",
+    "description": "미국과 이스라엘의 대이란 공습 임박설이 확산하는 가운데 이란은 어떠한 공격에도 강력히 대응하겠다는 입장을 밝혔다.2일 외신 등에 따르면 아바스 아라그치 이란 외무장관은 1일 텔레그램을 통해 \"어떠한 침략에도 단호히 ...",
     "age": "1 day ago",
     "page_age": "2026-08-01T23:38:07",
     "profile": {
@@ -573,6 +573,28 @@
   },
   {
     "type": "news_result",
+    "title": "양산 41.6도 관측사상 최고…다음주 ‘슈퍼 태풍’ 돌핀 오나 | 문화일보",
+    "url": "https://munhwa.com/article/11606568",
+    "description": "전국 곳곳에 폭염특보가 내려진 가운데 한반도 남쪽 먼바다에서 북상 중인 제13호 태풍 ‘돌핀(DOLPHIN)’의 경로에 관심이 쏠리고 있다. 기상청에 따르면 1일 오후 3시 기준 괌 동북동쪽 약 1580㎞ 부근 해상을 지나는 돌핀은 ...",
+    "age": "1 day ago",
+    "page_age": "2026-08-01T22:30:52",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606568"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606568"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/j7uilVVdsoJ1UQCn__y6YSBxaymLIuibWrTDzY2RYlc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuODI1MWZjOGE2/YTRjNGZjZWIzYzQy/YjE4ZGJiMDZmZmZf/Ui5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "오만 인근 호르무즈서 유조선 피격…홍해 봉쇄 강화 우려도 고조 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608020444055878",
     "description": "이집트 지중해 항구도 공격받았다. 이집트는 지난달 30일 자국의 지중해 항구 다미에타에 드론이 날아들어 해상 액화천연가스(LNG) 저장선 두 척에서 불이 났다고 밝혔다. 지난 2월 28일 이란 전쟁이 시작된 뒤 이집트가 공격받은 ...",
@@ -591,6 +613,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/HD1ffEYl10TDghyyYwL-f4X2-tt8KA_GBHmpMyBx2Lg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMzEvMjAy/NjA3MzExNTIyMjU5/NzU2X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "대규모 공습 예고했던 트럼프, 이란 공격 보류…“신속한 합의 전제”",
+    "url": "https://www.kyeonggi.com/article/20260802580053",
+    "description": "도널드 트럼프 미국 대통령이 ... 해협의 즉각적이고 완전한 개방과 이란의 핵 위협 종식 등을 조건으로 협상이 추진되고 있다며, 신속한 합의 도출을 전제로 공격을 취소했다고 주장했다....",
+    "age": "1 day ago",
+    "page_age": "2026-08-01T19:38:37",
+    "profile": {
+      "name": "Kyunggi",
+      "url": "https://www.kyeonggi.com/article/20260802580053"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "kyeonggi.com",
+      "hostname": "www.kyeonggi.com",
+      "favicon": "https://imgs.search.brave.com/M7_Kh_pmUWNzEHblQkM96sZKh1RK8djVC3V1f5Rjtco/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTY2YzE3M2Vl/MzM0OTFmYjVkZWU0/YzMxOWI0YjJhMzQ1/MDkwNDFmYzFiMzYz/NzhhYzg3OGMwZGU2/ZTg5YmY3Zi93d3cu/a3llb25nZ2kuY29t/Lw",
+      "path": "› article  › 20260802580053"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/_DBt9TeuQAslHBKD8CH3sxl14ABbXWNllRT6LOjqe2Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95cHp4/eGRyajg3MDkuZWRn/ZS5uYXZlcm5jcC5j/b20vZGF0YTIvY29u/dGVudC9pbWFnZS8y/MDI2LzA4LzAyLy5j/YWNoZS81MTIvMjAy/NjA4MDI1ODAwNTQu/anBnP3Y9MjAyNjA4/MDIxNTMzMTE"
     }
   },
   {
@@ -661,6 +705,28 @@
   },
   {
     "type": "news_result",
+    "title": "미국-이란 전쟁 - 나무위키",
+    "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
+    "description": "실시간 전황 (영문) 2026년 2월 28일, 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및",
+    "age": "1 day ago",
+    "page_age": "2026-08-01T11:54:46",
+    "profile": {
+      "name": "Namu Wiki",
+      "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "namu.wiki",
+      "hostname": "namu.wiki",
+      "favicon": "https://imgs.search.brave.com/ASqhh3dK7hFX53bmp7XVZpSxqVtrrhYb5NAiPa7b2QU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MDQzMTIz/ZjZmOGYxZjdhYjkw/ODEwZTVjNjBlYWYy/M2JkZTkxNDIxNDZk/M2Y0NTg4MjhmMDg2/NjBjYTE4YS9uYW11/Lndpa2kv",
+      "path": "› w  › 미국-이란 전쟁"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/e8TRBVNyOzE0KA8Uy272t8M9xGerstyv2eYV_OsZEYQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL0Q3/ZDA4MkZPSS1kWG9W/bnVPODZkWTR0aHM5/MHVDbXkyTGY1LTJ4/TkphR09sU2hNcUxW/SFM4MngtOEdJM2Jl/VTNoVXBudWlEQnhU/MUpYZ3hXZDBiVFA4/QWdmZF91VDB6eVJH/R0FQUlZzVENmNnUz/MWFiYU1oX0dlLURS/QzFrbEdSNU9CbTEw/Y2hkSmoweDlEN1lj/R205X3pIZVdwem9x/ekV5ZGJIRU5jRHAx/RS53ZWJw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "2026년 - 나무위키",
     "url": "https://namu.wiki/w/2026%EB%85%84",
     "description": "2026년은 목요일로 시작하는 평년 (D)이자, 2020년대 의 일곱 번째 해다. 병오 년( 丙 午 年 , 붉",
@@ -679,28 +745,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/eoZDdpp66tQ1B2GCbKD140U5YpxcVwXt7bRmtSbkz1A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL19o/Tk5KOUJjamUtdldo/MWx0dmtONGdLcVpq/QlUyZjV4MEFpMm1a/SHRlZW5TenNNek5T/R1YyenA2U3VVeVpG/aU1FaXpZNnpjTnMz/U0FBMGQ1cm1PbDlh/MHdXX2dYQWEtZFVr/TFVjZnZ4NS0yLUxf/bmkwT2V0SzBTUWJO/MUc2WXFtb0cwU0JB/R053akd6S0dHOWpH/RE04d3FpNlFjcXJZ/VldrLWFjeW1QMG0t/WS53ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "부평풀싸롱 부평쓰리노 차실장 OlO 774O 5O82 갈산동쓰리노 동암쓰리노 방문 목적에 맞는 선택 방법 부개동쓰리노 부평룸싸롱 부평3NO 부평노래방 부평유흥 굴포천쓰리노 산곡동쓰리노 삼산동쓰리노 청천동쓰리노 십정동쓰리노 부 상품 Q&A - Scentlier",
-    "url": "https://scentlier.com/article/%EC%83%81%ED%92%88-qa/6/15249",
-    "description": "센틀리에 제품에 대해 궁금한 점을 해결하세요. 성분, 사용법, 보관방법 등 고객님의 모든 궁금증에 센틀리 전문가가 친절하게 답변드립니다.",
-    "age": "1 day ago",
-    "page_age": "2026-08-01T10:33:23",
-    "profile": {
-      "name": "Scentlier",
-      "url": "https://scentlier.com/article/%EC%83%81%ED%92%88-qa/6/15249"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "scentlier.com",
-      "hostname": "scentlier.com",
-      "favicon": "https://imgs.search.brave.com/4Jc_0zVWeh2vJUkdXN8tNRN2U7gv5q5Bu9PnfxoKqE4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdmNzExNTky/NzA1ZGE3ODliYjM1/ZWQ1NmYzZDQ3YzAz/ZDk5NzMzYWY2MDgx/ODEyZTJmMjg0Mzcy/ZWRlYjEzZS9zY2Vu/dGxpZXIuY29tLw",
-      "path": "› article  › 상품-qa  › 6  › 15249"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/XVOKBjDz46ZZc4xlhuJzlgi6VW6PFdtsTZ_DqQLBnpk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lY2lt/Zy5jYWZlMjRpbWcu/Y29tL3BnMjEyMGIz/MTE1NjcyNDA5Mi9z/Y2VudGxpZXIyMDI1/L3dlYi91cGxvYWQv/c2hhcmUtaW1hZ2Ut/MS1lNDE0NmM0ZDA1/NzFkNTNlMTEyMGFi/MzMwZmRkNDBhNC5w/bmc"
     }
   },
   {
@@ -745,50 +789,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Mu2-Yqksps2vt4a_eHRs-S6g-O4qmbJugtSV7Ez8tc4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwODAxLzFkZWMx/NmZmNzgxNzZlZjZh/NGRlYzA3ZWViNmRm/MjNkLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[단독]한국맥도날드, 충주 찰옥수수 버거 판매 조기 종료…\"돌 알갱이 발견\" :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260801_0003732688",
-    "description": "[서울=뉴시스] 이혜원 기자 = 한국맥도날드가 '한국의 맛' 프로젝트 신메뉴로 출시한 '충주 찰옥수수 치즈 크로켓 버거' 판매를 종료했다. 소비자가 제품 섭취 중 돌 알갱이를 씹었다는 제보가 반복 접수돼 선제적으로 조기 ...",
-    "age": "2 days ago",
-    "page_age": "2026-08-01T08:59:31",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260801_0003732688"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "newsis.com",
-      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260801_0003732688"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3v4oE1dw3NiiJM0y5cdWQPjRUX9DH-A0PkNTsnxUSsc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNy8wOC9O/SVNJMjAyNjA3MDhf/MDAyMTM1NTU0MF93/ZWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국-이란 전쟁 - 나무위키",
-    "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
-    "description": "실시간 전황 (영문) 2026년 2월 28일, 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및",
-    "age": "2 days ago",
-    "page_age": "2026-08-01T08:15:47",
-    "profile": {
-      "name": "Namu Wiki",
-      "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "namu.wiki",
-      "hostname": "namu.wiki",
-      "favicon": "https://imgs.search.brave.com/ASqhh3dK7hFX53bmp7XVZpSxqVtrrhYb5NAiPa7b2QU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MDQzMTIz/ZjZmOGYxZjdhYjkw/ODEwZTVjNjBlYWYy/M2JkZTkxNDIxNDZk/M2Y0NTg4MjhmMDg2/NjBjYTE4YS9uYW11/Lndpa2kv",
-      "path": "› w  › 미국-이란 전쟁"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/e8TRBVNyOzE0KA8Uy272t8M9xGerstyv2eYV_OsZEYQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pL0Q3/ZDA4MkZPSS1kWG9W/bnVPODZkWTR0aHM5/MHVDbXkyTGY1LTJ4/TkphR09sU2hNcUxW/SFM4MngtOEdJM2Jl/VTNoVXBudWlEQnhU/MUpYZ3hXZDBiVFA4/QWdmZF91VDB6eVJH/R0FQUlZzVENmNnUz/MWFiYU1oX0dlLURS/QzFrbEdSNU9CbTEw/Y2hkSmoweDlEN1lj/R205X3pIZVdwem9x/ekV5ZGJIRU5jRHAx/RS53ZWJw"
     }
   },
   {
@@ -881,28 +881,6 @@
   },
   {
     "type": "news_result",
-    "title": "미국과 이스라엘은 48시간 이내에 이란의 에너지 부문에 대한 새로운 공격을 감행?? 수 있다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/08/01/70936.html",
-    "description": "이 작전은 분쟁 기간 중 에너지 부문에 대한 가장 잔혹한 공격 작전 중 하나가 될 수 있습니다. 한편, 미국 언론은 러시아가 이란에 미국의 공격에 더 잘 대응할 수 있도록 하는 정보를 제공하고 있다고 계속 주장하고 있다.",
-    "age": "2 days ago",
-    "page_age": "2026-08-01T04:03:13",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/08/01/70936.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 08  › 01  › 70936.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/MEq5vtUEyMDhgQAafQ8RTHkONp8tNvPr5i8luiXk1_I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwODAxL2VhZDA5/ZmM5OGU2YzI1NmVl/MjdmMjlkN2NmOTI5/ZTRmLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"미국·이스라엘, 이번 주말 이란 에너지 시설 공습 계획\"",
     "url": "https://www.asiae.co.kr/article/2026080111372427194",
     "description": "미국과 이스라엘이 이번 주말 이란의 원유·가스 시설과 발전소 등 에너지 인프라를 겨냥한 대규모 공습을 준비하고 있다고 미국 언론들이 31일(현지시간) 보도했.",
@@ -921,6 +899,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Ku0Lpkd4he4EZqyX_RYevEVohZ8MIQYkC4WiSdG8rts/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jcGhv/dG8uYXNpYWUuY28u/a3IvbGlzdGltZ2xp/bmsvMS8yMDI2MDcx/NzE4NDAyOTQ5NTgz/XzE3ODQyODEyMjku/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[속보] 이란, 호르무즈해협 유조선 공격…국제 유가 다시 올랐다 | 문화일보",
+    "url": "https://munhwa.com/article/11606518",
+    "description": "S&P 추산에 따르면 이란 전쟁으로 인해 원유 공급이 줄면서 전 세계에서 하루 약 600만 배럴의 정제 능력이 가동되지 않고 있다.",
+    "age": "2 days ago",
+    "page_age": "2026-08-01T02:36:56",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606518"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606518"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/977QzmouazZYx9x_ydy-I_d0Yg6L2EerbO1H-6x5b-s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMS9uZXdz/LXAudjEuMjAyNjA4/MDEuY2E3MDQxYjBi/NmIxNDg1M2IwZDMy/MmY2NzcwMjkxY2Zf/Ui5qcGc"
     }
   },
   {
