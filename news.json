@@ -1,10 +1,54 @@
 [
   {
     "type": "news_result",
+    "title": "\"美 대화 없다\"는 이란에… 트럼프 \"믿을 수 없을 만큼 이중적\"-국제ㅣ한국일보",
+    "url": "https://hankookilbo.com/news/article/A2026080401050003917",
+    "description": "(미국·이란 전쟁) 도널드 트럼프 미국 대통령이 이란 지도부를 이중적이라 비판하며 이란 비핵화 논의 및 호르무즈해협 통제, 미국과 이란 대화 가능성 등 미중동 외교 이슈가 부각되고 있다. |",
+    "age": "2 hours ago",
+    "page_age": "2026-08-03T16:18:00",
+    "profile": {
+      "name": "한국일보",
+      "url": "https://hankookilbo.com/news/article/A2026080401050003917"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankookilbo.com",
+      "hostname": "hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
+      "path": "› news  › article  › A2026080401050003917"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/gkHdxbP13aHLuJYinsj3UI3nMQqCKz3fZPeE5nUMB5g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA4LzA0LzNkNzI4/ODFmLTY4ZDgtNDMy/Yi04ODFhLTQxOGIz/NTFkZDgwYy5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump calls Iranian leadership ‘extremely duplicitous’ after Tehran denies new talks will start Monday",
+    "url": "https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535",
+    "description": "Iran did not immediately respond to his comments. Trump said earlier that he agreed to call off the attacks amid what he said were the “perimeters of a deal” that would include resuming shipping through the key global trade route.",
+    "age": "2 hours ago",
+    "page_age": "2026-08-03T15:51:45",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› world  › iran  › trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XnxQYfKdLhsjpCsXRZzyrgRcbbkKj1f4T2eGqchzLj4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDgvMjYw/ODAzLXRydW1wLXJz/LTU5YjI1OS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 전쟁發 재고 부족에… 美국방부 '패트리엇 3배·사드 4배 증산' 계약-국제ㅣ한국일보",
     "url": "https://hankookilbo.com/news/article/A2026080323280001734",
     "description": "미국 국방부(전쟁부)가 요격미사일 증산을 위한 계약을 체결했다. 이란 전쟁 등 여파로 미군이 보유한 요격미사일 재고가 부족해진 데 따른 조치로 풀이된다.",
-    "age": "2 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-08-03T14:35:00",
     "profile": {
       "name": "한국일보",
@@ -26,7 +70,7 @@
     "title": "현대전 새 표적된 AI 데이터센터…美·이란 전쟁서 5곳 피격 | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260803163200071",
     "description": "이번 전쟁이 벌어진 페르시아만 주변의 AI 데이터센터가 이 지역의 정유·관광시설과 함께 미사일·드론의 집중 공격을 받았기 때문이다. 이란 이슬람혁명수비대는 공격 목표물인 역내 기술시설 29곳의 목록을 공개한 바 ...",
-    "age": "2 hours ago",
+    "age": "4 hours ago",
     "page_age": "2026-08-03T14:34:51",
     "profile": {
       "name": "Yonhap News Agency",
@@ -45,10 +89,32 @@
   },
   {
     "type": "news_result",
+    "title": "바닥난 미사일 재고…美 국방부, 패트리엇 3배·사드 4배 증산 추진",
+    "url": "https://newspim.com/news/view/20260803001401",
+    "description": "NYT \"트럼프, 패트리엇 미사일 고갈 우려에 대규모 이란 공격 보류\"",
+    "age": "4 hours ago",
+    "page_age": "2026-08-03T14:11:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260803001401"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260803001401"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/QtQs3vUMsKidpgmk4kXVbTVefm5Gig0yJ_veb93YjJI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA3/LzIwLzI2MDcyMDEy/MTUzNjAwNjBfMTAw/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "게임하듯 SNS로 10대 킬러 모집…유럽 번지는 '살인 외주' | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260803161500081",
     "description": "유럽 수사당국은 폭스트롯이 이란 반체제 인사나 언론인, 이스라엘 관련 목표물을 공격하는 데 동원된 것뿐 아니라 마약 시장 다툼에도 관여하고 있는 것으로 보고 있다.",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-08-03T13:35:46",
     "profile": {
       "name": "Yonhap News Agency",
@@ -67,92 +133,10 @@
   },
   {
     "type": "news_result",
-    "title": "Stabbing at Sylmar Metrolink Station Raises Safety Concerns for LA Riders - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150018",
-    "description": "A man was fatally stabbed at the Sylmar/San Fernando Metrolink station, renewing concerns about safety on LA transit.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:32:35",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150018"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150018"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "또 메트로링크 역에서 흉기 살인 사건… 말뿐인 메트로 안전 대책에 통근객 불안 증폭 - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150016",
-    "description": "LA 북부 샌퍼낸도 밸리의 메트로링크 역에서 흉기 살인 사건이 발생했습니다. LA경찰국에 따르면 사건은 지난달 삼십일 오후 두 시 무렵 샌퍼낸도 실마 메트로링크 역에서 일어났습니다. 신고를",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:32:18",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150016"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150016"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/tBa-uOwgg5i5RJUf_J42c-9b5IrnAcifLaHoUht1eK4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA4L1Nj/cmVlbnNob3QtMjAy/NS0wOC0yOS0xNDE2/MTUucG5n"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "NYT: U.S. Water System Hacks in 7 States May Be Linked to Iran - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150015",
-    "description": "U.S. officials are investigating cyberattacks on water systems in at least seven states, with growing suspicion of Iranian involvement.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:29:17",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150015"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150015"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국 최소 7개 주 상수도망 연쇄 해킹… NYT \"이란 개입 가능성\" - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150013",
-    "description": "미국 내 상수도 시스템을 노린 사이버 공격이 잇따르고 있는 가운데, 이란이 배후일 가능성에 대해 미국 당국도 점차 무게를 두고 있다고 미국 일간 뉴욕타임스(NYT)가 1일 보도했다.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:29:10",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150013"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150013"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/uksI6tf-xSB96ahOkbPkB1EjLrB9rzrRT6wTprsH0Cg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA3L3dl/aG8tZHdwLndlYnA"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "흉기 들고 배회 20대 외국인, 잡고보니 전 여친 대상 범죄 정황 | 문화일보",
     "url": "https://munhwa.com/article/11606951",
     "description": "경기 고양시에서 흉기를 들고 헤어진 여자친구를 상대로 범죄를 저지르려 한 20대 외국인이 구속됐다. 고양경찰서는 공공장소 흉기소지와 협박, 살인예비 혐의로 20대 베트남인 A 씨를 구속했다고 3일 밝혔다.",
-    "age": "3 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-08-03T13:27:29",
     "profile": {
       "name": "Munhwa",
@@ -171,144 +155,24 @@
   },
   {
     "type": "news_result",
-    "title": "Federal Authorities Seek Korean Nurse in $5.1 Million Medicare Fraud Case - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150012",
-    "description": "Federal prosecutors and health investigators have put fugitive nurse Ji Hae Kim on a most-wanted list over a $5.1 million Medicare fraud case.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:25:17",
+    "title": "예탁금 상향 효과?…삼전닉스 레버리지 거래대금 12조→1조원대 ‘뚝’ | 문화일보",
+    "url": "https://munhwa.com/article/11606948",
+    "description": "기본예탁금을 1000만 원에서 3000만 원으로 상향한 단일종목 레버리지·인버스 대책 시행 2거래일째인 3일 관련 거래대금이 상향 이전의 10분의 1 수준으로 대폭 줄었다. 한국거래소에 따르면 이날 삼성전자와 SK하이닉스를 ...",
+    "age": "5 hours ago",
+    "page_age": "2026-08-03T12:50:40",
     "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150012"
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606948"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150012"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "510만 불 메디케어 사기 후 도주… 연방 당국, 한인 간호사 김지혜 공개 수배 - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150009",
-    "description": "연방 검찰과 연방 보건부 수사국이 메디케어 사기 혐의로 유죄를 인정한 뒤 잠적한 간호사 김지혜 씨를 최우선 지명수배자 명단에 올리고 공개 수배에 나섰습니다. 김씨는 지난 이천십일",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:24:59",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150009"
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606948"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/xLzTJdCU0YrRb5Cwo6KoFhnso4wIU7zgjbi515ovHb4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA4L-yC/rOq4sC53ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Young Kim Leads Bipartisan Bill to Block North Korean IT Worker Fronts - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150008",
-    "description": "Rep. Young Kim and Rep. Ami Bera introduced bipartisan legislation to stop North Korean IT workers from using fake identities to earn money for the regime.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:20:11",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150008"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150008"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Trump Says He Struck Hormuz Deal With Iran, But the Terms Still Don’t Match - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150005",
-    "description": "Trump says he reached a deal with Iran on the Strait of Hormuz, but the two sides still appear to envision different futures for the waterway.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:17:28",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150005"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150005"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "'호르무즈 타결' 선언한 트럼프… 정작 미·이란 동상이몽은 여전 - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150002",
-    "description": "트럼프 대통령이 호르무즈 해협 개방 문제와 관련해 이란과 합의에 도달했다고 밝히며 새로운 협상 개시를 선언했습니다. 호르무즈 해협은 전 세계 원유 물동량의 약 이십 퍼센트가 지나는",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:17:17",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150002"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150002"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3lx7j7f_nAR6V5Wk20uLXFkghONtAzcY8b9aFUz5B7I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA4L-2Y/uOultOustOymiC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "U.S. Role? Spain Border Crisis Sparks Morocco, Trump Rumors - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/150001",
-    "description": "A mass migration surge into Spain’s North African enclave has fueled unrest, EU tensions and unverified claims of U.S. involvement.",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:14:19",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/150001"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 150001"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "'네타냐후 선거 불복' 막는다… 이스라엘 야권, '부정선거 감시 워룸' 가동 - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/149995",
-    "description": "“미국, 이스라엘과 이란 에너지 시설 공습 검토…주말 공습 가능성” 7월 31일",
-    "age": "3 hours ago",
-    "page_age": "2026-08-03T13:10:36",
-    "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/149995"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 149995"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6M1Anu3sddlFrxQ7C0I8lMrSQ6uAp3Tc7ZS5QQgVzaQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzEwL-uE/pO2DhC5qcGc"
+      "src": "https://imgs.search.brave.com/Dy9mnw-LPuaKSWcNYrzeyeuX5dL_s4Ft8-68g1xgMtc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LXAudjEuMjAyNjA4/MDMuYjEyZjU2NjQ3/OGVhNDM2ODk5N2I4/MjliNzI2NmZkZjdf/Ui5qcGc"
     }
   },
   {
@@ -316,7 +180,7 @@
     "title": "‘술먹이고 외설’ 등 취준생 32%가 성희롱 피해…기업 방지책 의무화하는 日 | 문화일보",
     "url": "https://munhwa.com/article/11606946",
     "description": "취업준비생에 대한 성희롱이 사회문제가 된 일본에서 기업에 방지책을 마련할 의무를 부여하는 제도가 시행된다. 3일 도쿄신문, 니혼게이자이신문 등에 따르면 사원이 대상이었던 기업의 괴롭힘 방지 의무를 취준생과 ...",
-    "age": "4 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-08-03T12:27:27",
     "profile": {
       "name": "Munhwa",
@@ -335,46 +199,24 @@
   },
   {
     "type": "news_result",
-    "title": "‘강남사는데, 세금 할부 되나요’…집값 상승에 재산세 분납 신청 2배↑ | 문화일보",
-    "url": "https://munhwa.com/article/11606945",
-    "description": "정부가 초고가 주택에 대한 증세를 추진 중인 가운데, 서울 강남구에서 재산세 분납을 신청하는 이들이 전년대비 2배 이상 증가한 것으로 집계됐다. 3일 강남구(구청장 김현기)는 올해 재산세 분할 납부 신청이 지난달 기준 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-08-03T12:04:13",
+    "title": "Opinion | Why Iran's surprise missile attack should not have been a surprise - The Washington Post",
+    "url": "https://www.washingtonpost.com/opinions/2026/08/03/why-iran-surprise-missile-attack-should-not-have-been-surprise/",
+    "description": "Years of muted U.S. responses taught Tehran what it could get away with.",
+    "age": "8 hours ago",
+    "page_age": "2026-08-03T10:00:01",
     "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606945"
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/opinions/2026/08/03/why-iran-surprise-missile-attack-should-not-have-been-surprise/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606945"
+      "netloc": "washingtonpost.com",
+      "hostname": "www.washingtonpost.com",
+      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
+      "path": "› opinions  › 2026  › 08  › 03  › why-iran-surprise-missile-attack-should-not-have-been-surprise"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/F-5Z5nxlYjFicu8cgFClGFb3w57FMutOF8JFOkBIx2E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LXAudjEuMjAyNjA3/MjcuZmYzODc1MWQ5/YzEzNGE1YWE1ZDYz/NTQyNDFmZDgxNjhf/Ui5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "반도체·AI로봇 국내생산에 稅혜택… ‘한국판 IRA’ 신설 | 문화일보",
-    "url": "https://munhwa.com/article/11606943",
-    "description": "정부가 반도체와 인공지능(AI) 로봇 부품 등 6대 성장동력 품목을 국내에서 만들면 생산량에 비례해 소득·법인세를 깎아주는 ‘국내생산세액공제’를 새로 만든다. 미국 인플레이션감축법(IRA)처럼 세제를 지렛대 삼아 국내 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-08-03T11:36:44",
-    "profile": {
-      "name": "Munhwa",
-      "url": "https://munhwa.com/article/11606943"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "munhwa.com",
-      "hostname": "munhwa.com",
-      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11606943"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/odXoRV6beXoASq1RE1T67H4b8lUVneWjlOmh_mcq8sA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9yY3Yu/TkVXU0lTLk5FV1NJ/Uy4yMDI2MDgwMy5O/SVNJMjAyNjA3MzBf/MDAyMTM4MzI4OF9S/LmpwZw"
+      "src": "https://imgs.search.brave.com/2SGp_GMedJpr7-J58drEZrGi26uly5Cdaq_P4k4fmic/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbG91/ZGZyb250LXVzLWVh/c3QtMS5pbWFnZXMu/YXJjcHVibGlzaGlu/Zy5jb20vd2Fwby9N/VTcyTEcyU01JRExK/NFNZRExCTVFOVlRW/SS5KUEc"
     }
   },
   {
@@ -382,7 +224,7 @@
     "title": "[테헤란로] 코소보에서 싹튼 이란전쟁 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202608031854514801",
     "description": "북대서양조약기구(NATO·... 코소보 전쟁에서 지상군 없이 폭격만 반복해 정치적 목표를 달성했다. 현지 정가에서는 이런 방식이 다른 곳에서도 통한다는 믿음이 싹텄다. 그렇게 지난 2월에 이란을 때렸...",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-08-03T09:54:53",
     "profile": {
       "name": "First News",
@@ -401,24 +243,46 @@
   },
   {
     "type": "news_result",
-    "title": "[테헤란로] 코소보에서 싹튼 이란전쟁 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202608031854514801",
-    "description": "1999년 6월 11일. 북대서양조약기구(NATO·나토)의 공습을 78일 동안 얻어맞았던 유고슬라비아는 마침내 코소보에서 물러나며 전쟁을 끝냈다. 미국은 코소보 전쟁에서 지상군 없이 폭격만 반복해 정치적 목표를 달성했다.",
-    "age": "7 hours ago",
-    "page_age": "2026-08-03T09:54:53",
+    "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand - The New York Times",
+    "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+    "description": "Mr. al-Mousawi described an exchange of messages between U.S. and Iranian officials sent over the weekend through Pakistani and Qatari officials, in which he said Mr. Trump vowed a severe attack on civilian infrastructure like power plants if the Iranians did not restart negotiations.",
+    "age": "9 hours ago",
+    "page_age": "2026-08-03T08:50:11",
     "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202608031854514801"
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202608031854514801"
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 08  › 03  › world  › middleeast  › iran-trump-escalation.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/kD8Ev4vHW04nGubbLfOkXLCICuy4OdZSUEC0rdzsRP4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDgvMDMvMjAy/NjA4MDMxODU0NTE0/NTI3X2wuanBn"
+      "src": "https://imgs.search.brave.com/Jp6Yju8pSYzE5ZW-bjWNXEehcjQrHpxcRY-5zjQqUUg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA4LzAzL211bHRp/bWVkaWEvMDNpbnQt/aXJhbi1hc3Nlc3Mt/cGN3ei8wM2ludC1p/cmFuLWFzc2Vzcy1w/Y3d6LWZhY2Vib29r/SnVtYm8uanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 \"오만과 호르무즈 양자 협상…美 문제는 추후 논의\"(종합) | 연합뉴스",
+    "url": "https://yna.co.kr/amp/view/AKR20260803133451079",
+    "description": "그는 \"호르무즈 해협은 이란과 오만 간의 이견 때문에 폐쇄된 것이 아니며, 지난해부터 미국과 시온주의자 정권(이스라엘)의 군사적 침략으로 인해 문제에 직면한 것\"이라고 지적했다.",
+    "age": "9 hours ago",
+    "page_age": "2026-08-03T08:48:56",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/amp/view/AKR20260803133451079"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› amp  › view  › AKR20260803133451079"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/HttGUxJ6HhbqNviYualjtAwSID7_IPVtcmEkTT0Cg1w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wOC8wMy9B/S1IyMDI2MDgwMzEz/MzQ1MTA3OV8wNV9p/X1A0LmpwZw"
     }
   },
   {
@@ -426,7 +290,7 @@
     "title": "트럼프는 합의 가까워졌다는데...‘호르무즈 통제권’ 놓지 않는 이란-국제ㅣ한국일보",
     "url": "https://hankookilbo.com/news/article/A2026080309590003318",
     "description": "(미국·이란 전쟁) 트럼프 미국 대통령이 이란과 호르무즈해협 문제 협상을 추진하지만, 이란은 해협 통제권과 통행료 징수권을 고수해 협상 난항이 예상된다. 오만 중재로 임시 개방 논의가 있지만 이란의 주권 요구로 단기 ...",
-    "age": "8 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-08-03T08:13:00",
     "profile": {
       "name": "한국일보",
@@ -448,7 +312,7 @@
     "title": "확전 외치던 트럼프, 두 번 멈췄다···전쟁 양상 확 뒤집힌 ‘7월’ - 경향신문",
     "url": "https://khan.co.kr/article/202608031655021",
     "description": "7월은 지난 2월부터 이어져 온 미·이란 전쟁의 주요한 변곡점으로 평가될 가능성이 크다. 트럼프 대통령의 \"공격 계획 전격 취소\" 발표를 두고 외신들은 일제히 '전쟁의 양상이 바뀌었다'고 평가했다.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-08-03T07:55:00",
     "profile": {
       "name": "Khan",
@@ -467,32 +331,10 @@
   },
   {
     "type": "news_result",
-    "title": "美 대신 걸프국 때리는 이란 전략에… 트럼프, 이스라엘 '패싱'-국제ㅣ한국일보",
-    "url": "https://www.hankookilbo.com/news/article/A2026080315450000863",
-    "description": "도널드 트럼프 미국 대통령의 대(對)이란 의사 결정 과정에서 미국의 전쟁 파트너인 이스라엘이 배제되고 있다. 역내 안정을 바라는 중동 걸프(페르시아만) 산유국들의 반전론에 밀려서다.",
-    "age": "9 hours ago",
-    "page_age": "2026-08-03T07:15:00",
-    "profile": {
-      "name": "한국일보",
-      "url": "https://www.hankookilbo.com/news/article/A2026080315450000863"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hankookilbo.com",
-      "hostname": "www.hankookilbo.com",
-      "favicon": "https://imgs.search.brave.com/S4184ejd6aD_1GnQBd2pVsXQ6EXU2Y3XXquemIiiA5Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjQyMDMxMDY1/YTc5Y2Q4NDFmN2Ex/ZjY4OGRjYzUyYzc1/YmE4MDQzNjMwZThl/OTM5MTAzNjBjMjdk/YTE5OWViZi93d3cu/aGFua29va2lsYm8u/Y29tLw",
-      "path": "› news  › article  › A2026080315450000863"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/vSmTGMBvNtiqAybilqOr_gYf04c0KZLxYGipn9E-oL8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA4LzAzLzlkYjg0/ZDY4LTFlNTYtNDhh/Yi04M2VhLTk5MjNm/OGFiZjhlZi5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "한계 절감? 미군 \"이란 응징 아이디어 구합니다\" 이메일 발송 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202608031601263164",
     "description": "미군 \"이란 응징 아이디어 구합니다\" 이메일 발송 공습 계속했으나 이란이 합의 응할 조짐 없고 대안 마땅치 않아 (서울=연합뉴스) 임화섭 기자 = 이란과 전쟁 중인 미국 중부사령부(USCENTCOM)가 이란을 응징할 아이디어를 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-08-03T07:01:28",
     "profile": {
       "name": "First News",
@@ -514,7 +356,7 @@
     "title": "외교로 다시 '타코' 트럼프…\"어떤 길이든 승리 쉽지 않아\" | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260803113400009",
     "description": "지난 2월 이란 전쟁 발발 이후 수개월간 합의의 토대를 마련하기 위해 노력해왔지만 모두 수포로 돌아갔고, 트럼프 대통령은 협상이 난항을 겪으면 또다시 군사 카드를 꺼내 드는 악순환의 고리에 빠져있다는 것이다.",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-08-03T06:50:19",
     "profile": {
       "name": "Yonhap News Agency",
@@ -533,32 +375,10 @@
   },
   {
     "type": "news_result",
-    "title": "'시간을 달리는 소녀', 20주년 ��아 4K 리마스터·4DX 재개봉",
-    "url": "https://newspim.com/news/view/20260803001126",
-    "description": "[서울=뉴스핌] 정태이 기자 = 애니메이션 영화 '시간을 달리는 소녀'가 영화 개봉 20주년을 맞아 4K 리마스터와 4DX 버전으로 재개봉한다고 3일 밝혔다.[서울=뉴스핌] 정태이 기자 = 영화 '시간을 달리는 소녀', 20주년 기념 ...",
-    "age": "10 hours ago",
-    "page_age": "2026-08-03T06:49:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260803001126"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260803001126"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wHC9zGrp2IMRd_-5_W8EKG9m067EGjbC0NO7W3GvWUM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA4/LzAzLzI2MDgwMzE1/MjY1MDk3ODBfNDE4/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "‘양치기’ 트럼프, 이란 공습 또 취소…5개월 간 8번째 | 세계일보",
     "url": "https://segye.com/newsView/20260803515410",
     "description": "도널드 트럼프 미국 대통령이 대이란 군사 작전을 전격 취소한 가운데, 대규모 공습을 예고했다가 취소하거나 보류한 것이 이란 전쟁 개시 후 8번에 달하는 것으로 나타났다. 2일(현지시간) AP통신은 “이는 트럼프 대통령이 ...",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-03T06:33:22",
     "profile": {
       "name": "Sekye",
@@ -577,24 +397,46 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프, 이란전쟁 외교전으로 선회⋯호르무즈 협상 성사여부에 관심 - 이투데이",
-    "url": "https://www.etoday.co.kr/news/view/2610396",
-    "description": "대규모 공격을 앞세워 이란을 위협했던 도널드 트럼프 미국 대통령이 하루 만에 이를 외교전으로 선회했다. 트럼프 행정부가 외교전을 통해 이란의 비핵화 등 전쟁 목표를 달성할지 관심이 쏠린다.",
-    "age": "12 hours ago",
-    "page_age": "2026-08-03T04:42:00",
+    "title": "성시경표 소주…‘경소주 51도’ 9월 출시 | 문화일보",
+    "url": "https://munhwa.com/article/11606876",
+    "description": "가수 성시경이 이끄는 주류 브랜드 ‘경(璄)’이 신제품을 내놓는다. 성시경이 직접 테이스팅한 끝에 출시를 결정한 ‘경소주 51도’는 9월1일부터 정식 판매된다. 성시경 측은 “국내산 쌀 100%를 원료로 두 차례 증류하고 냉각 ...",
+    "age": "15 hours ago",
+    "page_age": "2026-08-03T03:34:04",
     "profile": {
-      "name": "Etoday",
-      "url": "https://www.etoday.co.kr/news/view/2610396"
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606876"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "etoday.co.kr",
-      "hostname": "www.etoday.co.kr",
-      "favicon": "https://imgs.search.brave.com/IFJ3NbcbAZ_siboNBcSNBtBH6JmpwR7fbgHi51Avx7c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGM1NGYyYjZl/YmI0MjFkNzQ2NGU4/MTZjNGViNWNkODE0/MDVjOGE1MGNmZWU5/YzEzNzE4Zjc1MWQ2/Y2RiMjY5Mi93d3cu/ZXRvZGF5LmNvLmty/Lw",
-      "path": "› news  › view  › 2610396"
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606876"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/AcCuufK4iKOVnE8RPXJRvRhNVzlpzt7Sfe39dVfb91g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA4LzIwMjYwODAz/MDgwMTA5XzIzNjc2/NDdfMTIwMF84MDAu/anBn"
+      "src": "https://imgs.search.brave.com/CGGsK-Lj4ePOysiJ9BKYMYT6oLtH9tdcrngXbiBOgN0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LXAudjEuMjAyNjA4/MDMuNWRlYzJkMWFh/YjhjNGRjOWE1NDRh/Nzg3MmQyMTEwZWVf/Ui5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "김재중, 신보 ‘THE WAVE’ 20일 발매 | 문화일보",
+    "url": "https://munhwa.com/article/11606875",
+    "description": "가수 겸 배우 김재중이 새 앨범을 내놓는다. 김재중은 3일 0시 공식 SNS를 통해 새 싱글 앨범 ‘THE WAVE(더 웨이브)’의 티징 영상을 깜짝 공개했다. 지난해 5월 발매됐던 미니앨범 ‘Beauty in Chaos’(뷰티 인 카오스) 이후 약 1년 ...",
+    "age": "15 hours ago",
+    "page_age": "2026-08-03T03:33:30",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606875"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606875"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/tTYXkDHiM5onXMkFo1G0s4EjnJwd8eq2NK3-VgoP6VE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9uZXdz/LXAudjEuMjAyNjA4/MDMuYTQ0ODI1NWJi/ZWExNDgzM2FkZTUz/OWQzYjg2NjdiMzBf/Ui5qcGc"
     }
   },
   {
@@ -602,7 +444,7 @@
     "title": "트럼프의 발언은 그가 이란에 대한 핵 공격을 계획하?? 있음을 분명히 했다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/south-korea/2026/08/03/71034.html",
     "description": "이스라엘 총리가 도널드 트럼프 미국 대통령의 일관성 없는 태도에 불만을 표명했다는 보도가 나온 후, 트럼프 대통령은 이란에 대한 추가 공습을 명령하지 않은 이유를 설명하려 했습니다.",
-    "age": "13 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-08-03T03:24:19",
     "profile": {
       "name": "News-pravda",
@@ -621,10 +463,32 @@
   },
   {
     "type": "news_result",
+    "title": "세계가 ‘그래미 보이콧’ BTS 지지… ‘차별 비판’ 에일리언스 78개국서 1위 | 문화일보",
+    "url": "https://munhwa.com/article/11606817",
+    "description": "‘그래미 보이콧’을 선언한 그룹 방탄소년단(BTS)이 북미 투어를 재개한 가운데 공식 팬덤 아미는 인종 차별을 간접적으로 비판한 곡인 ‘에일리언스’(Aliens)를 전 세계 78개국 아이튠즈 ‘톱 송’ 차트 1위에 올리며 BTS의 ...",
+    "age": "15 hours ago",
+    "page_age": "2026-08-03T02:52:03",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11606817"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11606817"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Ksbaj0YpQl6lQjYaIxttQSOxt2271IrBLo0cptEj9zw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMy9yY3Yu/WU5BLjIwMjYwODAz/LlBZSDIwMjYwODAz/MDAxNTAwMDcyMDBf/Ui5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes | AP News",
     "url": "https://apnews.com/video/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes-4504eb08741c437d9e20bc2530cee082",
     "description": "U.S. President Donald Trump said Sunday he decided to hold off on ordering American forces to carry out new strikes against Iran at the urging of Gulf allies Qatar, Saudi Arabia and United Arab Emirates.",
-    "age": "14 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-03T02:04:36",
     "profile": {
       "name": "AP News",
@@ -643,10 +507,29 @@
   },
   {
     "type": "news_result",
+    "title": "오늘의 호주 뉴스 — 2026년 8월 3일 (월)",
+    "url": "https://hojuboodongsan.com/post/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%98%B8%EC%A3%BC-%EB%89%B4%EC%8A%A4-2026%EB%85%84-8%EC%9B%94-3%EC%9D%BC-%EC%9B%94",
+    "description": "• [속보] 트럼프, 이란 공습 보류 선언 (8/2) — \"신속한 합의\" 조건, 호르무즈 해협 \"즉각·완전·전면\" 재개방 협상 진행 주장·미 증시 선물 상승 · • 우크라이나, 러시아 대형 정유시설·비행장 타격 (8/2) — 러시아 측 8명 사망 발표, 러시아군은 흑해 항만·선박 야간 보복 공격 · • 하마스 무장해제 합의 후에도 이스라엘 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-08-03T01:57:12",
+    "profile": {
+      "name": "Hojuboodongsan",
+      "url": "https://hojuboodongsan.com/post/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%98%B8%EC%A3%BC-%EB%89%B4%EC%8A%A4-2026%EB%85%84-8%EC%9B%94-3%EC%9D%BC-%EC%9B%94"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hojuboodongsan.com",
+      "hostname": "hojuboodongsan.com",
+      "favicon": "https://imgs.search.brave.com/K1kpIuHed9gSmKdmudLzacpS3mRyreiHJe7vkJEDNHI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjU1NDI4Njg0/ZWU0YzU1ZThmZGVk/NjRjNTVlYTUzOWRk/ZDBlODNjYzVlNTNi/ZTgyMjI5ZTNlN2E5/ZmI3MzJhZS9ob2p1/Ym9vZG9uZ3Nhbi5j/b20v",
+      "path": "› post  › 오늘의-호주-뉴스-2026년-8월-3일-월"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[기고]“강하게 타격” 트럼프는 왜 대규모 공격을 보류했는가…김태준의 美·이란戰 중계<74> | 문화일보",
     "url": "https://www.munhwa.com/article/11606762",
     "description": "Ⅰ. 반복된 공격은 왜 이란의 선택을 바꾸지 못했는가",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-03T01:52:53",
     "profile": {
       "name": "Munhwa",
@@ -665,10 +548,10 @@
   },
   {
     "type": "news_result",
-    "title": "트럼프 \"이란과 내일 대화... 호르무즈·핵 합의 있을 것\" - 오마이뉴스",
+    "title": "트럼프 \"이란과 내�� 대화... 호르무즈·핵 합의 있을 것\" - 오마이뉴스",
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256058&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147",
     "description": "에스마일 바가이 이란 외무부 ... 관리는 오만과 협의 등을 통해 이란이 수행해야 한다\"라며 이같이 밝혔다. 그는 \"어떤 경우에도 호르무즈 해협이 2월 28일(미국·이스라엘과의 전쟁 발발) 이전의 상태로 되돌아가는 일은 ...",
-    "age": "15 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-08-03T01:22:00",
     "profile": {
       "name": "OhmyNews",
@@ -687,10 +570,32 @@
   },
   {
     "type": "news_result",
-    "title": "Iran war live: Trump says Iran’s choices limited to deal or total surrender | US-Israel war on Iran News | Al Jazeera",
+    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "url": "https://www.bbc.com/news/articles/c23579jzv08o",
+    "description": "At the weekend, Trump had said the \"perimeters\" of a deal had been agreed - and would include reopening Hormuz, the vital waterway whose closure by Iran has sent oil prices soaring. Tehran has repeatedly closed off the strait since the US and Israel started attacks on the country in February.",
+    "age": "18 hours ago",
+    "page_age": "2026-08-03T00:11:18",
+    "profile": {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news/articles/c23579jzv08o"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbc.com",
+      "hostname": "www.bbc.com",
+      "favicon": "https://imgs.search.brave.com/-9uoAONEhH31ac708C2NinDM9OjKbNcruJo3O1baQTM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTljMGQ4ZTFj/YzcwNTIyYTU4ZDk4/ZTg5NTQ0NGQyYjQy/NzU3NTMxNDRjZGFi/NjFkMmRiNGE1MGE5/ZDhhOWMyZS93d3cu/YmJjLmNvbS8",
+      "path": "› news  › articles  › c23579jzv08o"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/RSDAmZUcPuEMSIXIyYVlzG1b1_LmrDEYj5Z3F8xKHXQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTAyNC9i/cmFuZGVkX25ld3Mv/NWU4Yy9saXZlL2Ey/Y2Q0NDAwLThmNDYt/MTFmMS1iZWE1LTUx/NjM2NGU1NjkwZS5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran war live: Trump claims talks ongoing, says ‘last chance’ for good deal | US-Israel war on Iran News | Al Jazeera",
     "url": "https://aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou",
     "description": "Remarks come despite Trump saying an agreement with Iran is imminent with negotiations set to begin on Monday.",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-08-03T00:00:15",
     "profile": {
       "name": "Al Jazeera",
@@ -709,10 +614,32 @@
   },
   {
     "type": "news_result",
+    "title": "Iran war live: Trump says Iran’s choices limited to deal or total surrender | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://aljazeera.com/amp/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou",
+    "description": "Remarks come despite Trump saying an agreement with Iran is imminent with negotiations set to begin on Monday.",
+    "age": "18 hours ago",
+    "page_age": "2026-08-03T00:00:15",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/amp/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
+      "path": "› amp  › news  › liveblog  › 2026  › 8  › 3  › iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/0Qpo643QsK_408Hukb18P_3mcBVJnMEn3efMElPSQ7w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOC9BUDI2MTY3/NDk1NDI2MDgwLTEt/MTc4NTc2OTcwNC5q/cGc_cmVzaXplPTE5/MjAlMkMxNDQw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 대통령 \"종전 MOU가 중심축…적국의 준수 강제하도록 최선\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608030853478819",
     "description": "전날 대규모 군사 공격을 취소한 도널드 트럼프 미국 대통령은 이날 이란과의 협상을 3일 오후 재개한다고 말했다. 이스라엘 매체 '채널12'도 60일간의 호르무즈 해협 개방과 MOU 복원을 위한 중재 작업이 진행되고 있다고 이날 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-08-02T23:53:48",
     "profile": {
       "name": "First News",
@@ -734,8 +661,8 @@
     "title": "코스피/역사/2026년 - 나무위키",
     "url": "https://namu.wiki/w/%EC%BD%94%EC%8A%A4%ED%94%BC/%EC%97%AD%EC%82%AC/2026%EB%85%84",
     "description": "7월 8일 7,246.79(-409.52), -5.35% 이란이 호르무즈 해협 상선을 공격하고, 이에 따라 미국이 다시 이란을 공습한다는 뉴스로 미국 증시 전반이 하락했고, 반도체가 특히 -5% 수준으로 하락하면서 코스피도 하락 출발이 예상되었다.",
-    "age": "17 hours ago",
-    "page_age": "2026-08-02T23:48:00",
+    "age": "18 hours ago",
+    "page_age": "2026-08-02T23:52:59",
     "profile": {
       "name": "Namu Wiki",
       "url": "https://namu.wiki/w/%EC%BD%94%EC%8A%A4%ED%94%BC/%EC%97%AD%EC%82%AC/2026%EB%85%84"
@@ -753,10 +680,76 @@
   },
   {
     "type": "news_result",
+    "title": "트럼프, 내일 이란 회담 예고…일본 이온몰 수색 종료 | 연합뉴스",
+    "url": "https://yna.co.kr/amp/view/MYH20260803006300038",
+    "description": "[앵커]트럼프 대통령이 우리 시간으로 내일 이란과의 회담을 예고했습니다.호르무즈 해협 문제뿐만 아니라 이란 비핵화 문제 합의도 이뤄질 것이라고 ...",
+    "age": "18 hours ago",
+    "page_age": "2026-08-02T23:51:12",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/amp/view/MYH20260803006300038"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› amp  › view  › MYH20260803006300038"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hlgIn67Cwr8OyJ2HXw_NvBzvALG0afpu10wLhjo6Oag/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LnluYS5jby5rci9t/cGljL1lILzIwMjYv/MDgvMDMvTVlIMjAy/NjA4MDMwMDYzMDAw/MzhfUDEuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Nukes? Trump Says Iran Attack Would Have Been the “Biggest Attack Since World War II” – Iran “Knew the Extent” and Agreed to Negotiate (VIDEO) * The Gateway Pundit * by Jordan Conradson",
+    "url": "https://www.thegatewaypundit.com/2026/08/nukes-trump-says-iran-attack-would-have-been/",
+    "description": "President Trump on Sunday told reporters on Air Force One that he had planned \"the biggest attack since World War II\" against Iran this week. Without using…",
+    "age": "19 hours ago",
+    "page_age": "2026-08-02T23:40:54",
+    "profile": {
+      "name": "The Gateway Pundit",
+      "url": "https://www.thegatewaypundit.com/2026/08/nukes-trump-says-iran-attack-would-have-been/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "thegatewaypundit.com",
+      "hostname": "www.thegatewaypundit.com",
+      "favicon": "https://imgs.search.brave.com/E7JkSUauI9dUmYi7PZXaLPXj6HKWCicNDKAFCBPJinM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTNhNTY0NDVm/YjU2ZTlkNjk1ZDdl/MGYxOWQxYjI5MjY1/NTM0ZTg5NzQ5NjRl/Yjc2YWFiMDFhMjNj/NjZjNmEyMy93d3cu/dGhlZ2F0ZXdheXB1/bmRpdC5jb20v",
+      "path": "› 2026  › 08  › nukes-trump-says-iran-attack-would-have-been"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/f8jnsyC-cAGsf98LGOvSztAUxJ3niK1BF-z5bkjrtcQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlZ2F0ZXdheXB1/bmRpdC5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjYvMDgv/aW1nXzUwNTUtMTIw/MHg2MzAuanBlZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Oil prices tumble after Trump calls off attack on Iran",
+    "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+    "description": "Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.",
+    "age": "19 hours ago",
+    "page_age": "2026-08-02T23:33:07",
+    "profile": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnbc.com",
+      "hostname": "www.cnbc.com",
+      "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+      "path": "› 2026  › 08  › 03  › oil-prices-today-wti-brent-hormuz-trump-iran.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/O4SJQxxZwwhqehCzImYmJw5WgvXSJbPmPU_JHifyk3k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgzMzYwMDMt/MTc4NDIxMTc0NjQ0/My1nZXR0eWltYWdl/cy0yMjM2OTk1MTEx/LU9JTF9XRUxMX1BM/VUdHSU5HLmpwZWc_/dj0xNzg0MjExNzc2/JmFtcDt3PTE5MjAm/YW1wO2g9MTA4MA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "호르무즈 다시 열릴까…이란 \"오만과 해협 관리협의 막바지\"(종합) | 연합뉴스",
     "url": "https://yna.co.kr/view/AKR20260803001351079",
     "description": "미국의 위협과 회유에도 이란은 호르무즈 해협의 통제권에 대한 기존 태도를 전혀 굽히지 않고 있다. 바가이 대변인은 \"협정 이행이 시작된 이후 22~23일 동안 해협 북측 항로는 완전히 안전하게 유지되었고 선박들도 정상적으로 통과하고 있었다\"고 주장했다. 그는 \"해상 교통이 전쟁 ...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-08-02T23:31:01",
     "profile": {
       "name": "Yonhap News Agency",
@@ -778,7 +771,7 @@
     "title": "한서희, '외국인 모델과 열애' 거짓이었다 :: 공감언론 뉴시스 ::",
     "url": "https://newsis.com/view/NISX20260803_0003733372",
     "description": "[속보] 뉴욕 증시, 美 공격 취소에 상승 출발···다우 1.16%↑ 나스닥 0.33%↑ · [속보]'300억대 사기 혐의' 차가원 구속…法 \"증거인멸 염려\" \"고가 주택 세금 인상 폭 예상보다 커…매물 출회 압력\" [속보]이란, 호르무즈 해협 ...",
-    "age": "17 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-08-02T23:11:37",
     "profile": {
       "name": "Newsis",
@@ -797,10 +790,76 @@
   },
   {
     "type": "news_result",
+    "title": "이란 전쟁 석유 특수…정유사·원유ETF 동반 급등 - 글로벌이코노믹",
+    "url": "https://g-enews.com/article/Global-Biz/2026/08/2026080307363362579a1f309431_1",
+    "description": "이란 전쟁으로 국제유가와 휘발유·경유 가격이 오르면서 미국 석유기업과 원유 관련 상장지수펀드(ETF)가 큰 폭의 실적 개선과 가격 상승을 기록했다.엑손모빌의 분기 순이익은 1년 전의 두 배로 늘었고 셰브런과 정유업체 ...",
+    "age": "20 hours ago",
+    "page_age": "2026-08-02T22:46:29",
+    "profile": {
+      "name": "G-News",
+      "url": "https://g-enews.com/article/Global-Biz/2026/08/2026080307363362579a1f309431_1"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "g-enews.com",
+      "hostname": "g-enews.com",
+      "favicon": "https://imgs.search.brave.com/PpvmB9dgb08pnBmkYl6fXGBgCo-loLe1aAJgTY1T5rI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjYzZTNiYjM0/MzE4NzA2NWQ2ZmUx/ZDlmYTBiN2VmM2I4/NTI4NTI1MGIyYmMy/Yjc2N2QxZjU1MzNk/ZjNkZmMzZi9nLWVu/ZXdzLmNvbS8",
+      "path": "› article  › Global-Biz  › 2026  › 08  › 2026080307363362579a1f309431_1"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/D2k9gUzcY2LD_JjUOcOAHbFLZ9Wdg_ysdpECeDSTYL8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uaW1h/Z2UuZy1lbmV3cy5j/b20vcGhwd2FzL3Jl/c3RtYl9hbGxpZHht/YWtlLnBocD9pZHg9/NSZhbXA7c2ltZz0y/MDI2MDgwMzA3NDQw/OTA4NTY0OWExZjMw/OTQzMTE3NTExNjE2/MDc0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Oil Slumps as Trump Holds Off Iran Attack as Talks to Resume",
+    "url": "https://finance.yahoo.com/energy/articles/oil-slumps-trump-holds-off-221601524.html",
+    "description": "(Bloomberg) -- Oil fell after US President Donald Trump said new talks with Iran would begin on Monday after he called off a planned attack on the Islamic Republic.Most Read from BloombergTrump Says US to Hold Off Iran Attack If Deal AgreedSaudi Prince Concerned Over Trump’s Iran Strike Plan: ...",
+    "age": "20 hours ago",
+    "page_age": "2026-08-02T22:16:01",
+    "profile": {
+      "name": "Yahoo! Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-slumps-trump-holds-off-221601524.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "finance.yahoo.com",
+      "hostname": "finance.yahoo.com",
+      "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+      "path": "› energy  › articles  › oil-slumps-trump-holds-off-221601524.html"
+    },
+    "thumbnail": {
+      "src": ""
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump pauses Iran attacks and wildfires rage in U.S. and Europe: Weekend Rundown",
+    "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-2-rcna590313",
+    "description": "President Donald Trump agreed to pause attacks on Iran on Saturday, citing “perimeters of a deal” that would end Tehran’s “nuclear threat” and reopen the Strait of Hormuz.",
+    "age": "20 hours ago",
+    "page_age": "2026-08-02T22:14:37",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-2-rcna590313"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› news  › us-news  › weekend-rundown-august-2-rcna590313"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ByZxOwaLi2GLTbIxQyoOpLUpormo55HOhHdu7JyZB1E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDgvMjYw/ODAzLXNwb2thbmUt/d2FzaGluZ3Rvbi13/aWxkZmlyZS12bC05/MjFhLTUyN2MzZC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란 \"오만과 호르무즈 새 항로 협상 막바지\"…전면 개방은 거부 | 아주경제",
     "url": "https://www.ajunews.com/view/20260803062614847",
     "description": "[사진=로이터연합뉴스] 이란이 오만과 호르무즈 해협의 새로운 선박 통항로를 마련하기 위한 협상이 막바지 단계에 들어섰다고 밝혔다. 다만 해협을 전쟁 이전처럼 전면 개방하는 방안은 받아들이지 않겠다는 입장을 분명히 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T21:28:52",
     "profile": {
       "name": "Aju News",
@@ -822,7 +881,7 @@
     "title": "트럼프, 이란 공습 막판 철회…네타냐후 '사전 통보' 못 받았다 | 아주경제",
     "url": "https://www.ajunews.com/view/20260803061810840",
     "description": "베냐민 네타냐후(왼쪽) 이스라엘 총리와 도널드 트럼프 미국 대통령[사진=이스라엘 총리실] 도널드 트럼프 미국 대통령이 이란에 대한 대규모 공습을 실행 하루 전 전격 취소하면서 이스라엘 지도부에 이를 사전에 알리지 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T21:20:13",
     "profile": {
       "name": "Aju News",
@@ -844,7 +903,7 @@
     "title": "“60일간 호르무즈 무료 개방·휴전 연장 논의 중”[이태규의 워싱턴 플레이북] | 서울경제",
     "url": "https://www.sedaily.com/article/20074887",
     "description": "타임스오브이스라엘은 ... 논의되고 있다”고 전했다. 앞서 트럼프 대통령은 1일 “이란과 중동 국가들이 협상의 기본 골자가 합의됐다며 공격을 보류해달라고 요청해왔다”며 대규모 군사 작전을 취소한다고 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T20:45:18",
     "profile": {
       "name": "Sedaily",
@@ -866,7 +925,7 @@
     "title": "“트럼프 이란 공습 취소, 네타냐후조차 몰랐다”",
     "url": "https://www.chosun.com/international/international_general/2026/08/03/MSECXJTGTZBE3OCKQ22XQPVM2U/",
     "description": "트럼프 대통령의 이란 공습 전격 취소 과정에서 이스라엘 지도부가 사전 통보 없이 소셜미디어로 사실을 파악하며 겪은 혼란과 좌절, 그리고 이후 이스라엘이 취하고 있는 최고 수준의 경계 태세를 다루고 있다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T20:41:30",
     "profile": {
       "name": "Chosun Daily",
@@ -888,7 +947,7 @@
     "title": "겨우 살아난 투심 흔드는 ‘할까 말까’ 대공습 [트럼프 스톡커] | 서울경제",
     "url": "https://www.sedaily.com/article/20074767",
     "description": "CBS 보도에 따르면 트럼프 ... 양측은 공격을 위한 협의를 진행했다. 이스라엘은 6월 미국과 이란의 종전 MOU 체결 이후 공식적으로 이 전쟁에 참여하지 않고 있다....",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T20:30:00",
     "profile": {
       "name": "Sedaily",
@@ -910,7 +969,7 @@
     "title": "美·이란, MOU 복귀 위한 중재안 논의 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202608030513051738",
     "description": "미국과 이란을 지난달 양국이 체결했던 양해각서 상태로 복귀시키기 위한 중재 작업이 진행 중이라고 이스라엘 채널12 방송이 2일 보도했다.그러나 도널드 트럼프 미국 대통령이 무조건적인 해협 개방을 주장한 반면, 이란 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T20:26:29",
     "profile": {
       "name": "First News",
@@ -932,7 +991,7 @@
     "title": "美·이란, MOU 복귀 위한 중재안 논의 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608030513051738",
     "description": "채널12는 보도에서 당초 ... 이번 이란 에너지 기반시설 타격 계획은 작전 개시를 불과 24시간 앞두고 철회됐으며 문제는 이스라엘 당국과 미국 중부사령부 모두 트럼프 대통령이 소셜미디어에 게시글을 올려 세상에 알린 후에야 공격 취소 사실을 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-02T20:26:29",
     "profile": {
       "name": "First News",
@@ -947,28 +1006,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/-L4EkJtKsbkwHDz7UTXYpvO2QclHVLpw4TXyIiw7S4Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDgvMDMvMjAy/NjA4MDMwMTUzMzMw/NTExX2wuSlBH"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"트럼프의 이란 공격 취소, 이스라엘은 까맣게 몰랐다\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202608030439502432",
-    "description": "\"트럼프의 이란 공격 취소, 이스라엘은 까맣게 몰랐다\" \"이스라엘, 트럼프 소셜미디어 본 뒤에야 상황 파악\" (카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령의 대(對)이란 공습 취소와 관련해 이스라엘 고위 ...",
-    "age": "1 day ago",
-    "page_age": "2026-08-02T19:39:51",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202608030439502432"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202608030439502432"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/iIEjvmbBRCus1aKxC4Qfp9LfE3zRDcFJplDbA_GD5uw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDgvMDMvMjAy/NjA4MDMwNzEyMzI3/NTczX2wuanBn"
     }
   },
   {
@@ -1017,6 +1054,50 @@
   },
   {
     "type": "news_result",
+    "title": "\"이란 외무, 호르무즈 개방 타협안 동의\" vs 혁수대 \"개방 동의 안해\" :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260802_0003733249",
+    "description": "[서울=뉴시스]고재은 기자 ... 관한 합의는 없었다고 부인했다.2일(현지 시간) 이스라엘 방송 채널12은 복수의 외교 소식통을 인용해 아바스 아라그치 이란 외무장.....",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T14:40:24",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260802_0003733249"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260802_0003733249"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/UxbMsLaWpPEqWWnItr28XoM1FAQ8Q4aX3eLXfOt1yJo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNi8yOC9O/SVNJMjAyNjA2Mjhf/MDAwMTM4MjQzM193/ZWIuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran rejects Trump’s claim that talks will restart, adding to weekend of whiplash - The Washington Post",
+    "url": "https://www.washingtonpost.com/world/2026/08/02/trump-cancels-iran-attack-citing-progress-deal-tehran-israel-alert/",
+    "description": "The U.S. president said late Sunday that he had called off “the biggest attack since WWII” so that talks could resume. Iran said Monday that no talks were planned.",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T12:49:04",
+    "profile": {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/02/trump-cancels-iran-attack-citing-progress-deal-tehran-israel-alert/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "washingtonpost.com",
+      "hostname": "www.washingtonpost.com",
+      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
+      "path": "› world  › 2026  › 08  › 02  › trump-cancels-iran-attack-citing-progress-deal-tehran-israel-alert"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/auFRI-1I58_1amVQQxj7VEDdcwlGyxlfP-9TpEBum6c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbG91/ZGZyb250LXVzLWVh/c3QtMS5pbWFnZXMu/YXJjcHVibGlzaGlu/Zy5jb20vd2Fwby82/TEg2VTZJM09PMlMy/Nk9DVDU3SUVDQU1H/VS5KUEc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war | AP News",
     "url": "https://apnews.com/video/trump-says-he-will-order-halt-to-iran-strikes-after-parameters-reached-for-deal-to-end-war-d3c923bcf8124024869625bc01bf171b",
     "description": "U.S. President Donald Trump says he will order American forces to hold off on strikes he had threatened against Iran, claiming Mideast allies had reached the parameters of a deal to end the war.",
@@ -1061,6 +1142,72 @@
   },
   {
     "type": "news_result",
+    "title": "Trump says Iran deal 'imminent'; planned strike would've been largest since World War II | Live Updates from Fox News Digital",
+    "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-hormuz-august-2",
+    "description": "Iranian President Masoud Pezeshkian urged the United States to uphold the memorandum of understanding signed between the two countries, calling it the foundation of Tehran's future foreign policy · President Donald Trump said that a planned attack on Iran was called off after officials from ...",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T10:40:04",
+    "profile": {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-hormuz-august-2"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "foxnews.com",
+      "hostname": "www.foxnews.com",
+      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
+      "path": "› live-news  › trump-iran-war-israel-hormuz-august-2"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3CCjd5FR2bKHNEQPuVFWOncMkxdGHF0M1towzKe5O_c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZm94bmV3cy5j/b20vbGl2ZWJsb2cv/Zm4vcHJvZC9pbWFn/ZXMvMjAyNi8wOC8w/OTVhNmJlMmYzMzM1/ZDk0NzRiMjc3OThm/MjY3MWY2OS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Progress Toward Deal Led Trump to Call Off Strikes, He Says - The New York Times",
+    "url": "https://www.nytimes.com/live/2026/08/02/us/trump-news",
+    "description": "Middle East: President Trump said ... on Iran on Saturday because of unspecified progress on a deal that would include the immediate reopening of the Strait of Hormuz. Mr. Trump offered no specifics on any such diplomatic breakthrough, a claim he has made before to justify backing off threatened attacks...",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T10:21:41",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/live/2026/08/02/us/trump-news"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› live  › 2026  › 08  › 02  › us  › trump-news"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3UsPEBSh2Y0Cmhra5QpHuBBJkWQi8KOusmuGAQZI2ZI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA4LzAyL211bHRp/bWVkaWEvMDJ0cnVt/cC1uZXdzLTMzMC16/bHRxLzAydHJ1bXAt/bmV3cy0zMzAtemx0/cS1mYWNlYm9va0p1/bWJvLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at? | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
+    "description": "Trump says 'perimeters of a deal has been agreed to' as he pauses attacks. But is there any substance to his claim?",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T09:43:10",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › 2026  › 8  › 2  › why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/MSyDC7kFBRmu2OaNpx3X2j7FP79LqeBvS_zKVyLzEbc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOC9BRlBfXzIw/MjYwNzMxX19DM1FE/MkRGX192MV9fTWlk/UmVzX19Vc1BvbGl0/aWNzVHJ1bXAtMTc4/NTY1NTQyNy5qcGc_/cmVzaXplPTEyMDAl/MkM2MzA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이번 주 세계 미리보기…이란전 확전 여부, 구마모토 후속 피해, 美 고용지표 주목[월드콕!] | 문화일보",
     "url": "https://www.munhwa.com/article/11606653",
     "description": "이번 주 세계는 도널드 트럼프 미국 대통령의 이란 공격 보류 결정, 일본 구마모토 강진의 후속 피해, 미국의 7월 고용지표에 시선이 쏠릴 전망이다. 중동의 군사 긴장 완화 가능성과 일본 재난 대응, 미국 노동시장 흐름이 ...",
@@ -1079,6 +1226,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/yjvb2LN11dckuoqnzU99ZWsZqAU3yjLYSukMiJ1mWSo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wMi9uZXdz/LXAudjEuMjAyNjA4/MDIuOWJmZTgwMzk0/NjQwNDczOTgwMmY3/MjMyZGZmYTEwMTNf/Ui5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+    "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+    "description": "The U.S. president said Iran and its regional neighbors asked the U.S. to hold off on attacks after 'the perimeters of a deal has been agreed to.'",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T07:47:37",
+    "profile": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnbc.com",
+      "hostname": "www.cnbc.com",
+      "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+      "path": "› 2026  › 08  › 02  › trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/dQDRf65DlivBLBcPDwnklTzaHN28NFlJ0whYR_FLDFM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgzNDM1MjQt/MTc4NTY1NTIyNjg2/OS1nZXR0eWltYWdl/cy0yMjg3NzY2NDkx/LVVTQS1UUlVNUC5q/cGVnP3Y9MTc4NTY1/NTI3OSZhbXA7dz0x/OTIwJmFtcDtoPTEw/ODA"
     }
   },
   {
@@ -1105,6 +1274,28 @@
   },
   {
     "type": "news_result",
+    "title": "“공습 멈춰달라”…트럼프 마음 돌린 빈 살만의 전화 한 통 - 매일경제",
+    "url": "https://mk.co.kr/news/world/12114461",
+    "description": "1일(현지시간) 미국 ... 대통령과의 통화에서 이란에 대한 군사 공격이 중동 전체를 불안정하게 만들 수 있다며 긴장 완화와 공습 자제를 요청했다. 앞서 미국 언론들은 미국과 이스라엘이 이번 주말 이란의 에너지 ...",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T06:54:39",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12114461"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12114461"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/gmpsqGiMLbfwQzjPNVzTCdPAHOyBC88pyl4Q_0cR6Z0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OC8wMi9uZXdzLXAu/djEuMjAyMzA5MDEu/MTEyMzhiNmJhOTI3/NGM2M2I2OWE2NTk0/ODk4ZTY3OTBfUi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "“이란 전쟁 성공 맞아?” 트럼프의 우군 폭스 뉴스도 잇따라 의구심 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202608021545236395",
     "description": "[서울=뉴시스] 구자룡 기자 = 도널드 트럼프 미국 대통령이 가장 선호하는 폭스 뉴스의 유명 진행자들이 지지부진한 이란 전쟁에 대해 우려, 당혹감, 그리고 좌절감을 나타내고 있다고 가디언이 1일 전했다.",
@@ -1127,10 +1318,54 @@
   },
   {
     "type": "news_result",
+    "title": "경? ?는 퇴행의 초기 단계에 있다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/08/02/70998.html",
+    "description": "트럼프 대통령이 계획했던 이란에 대한 강력한 공습은 실행되지 않을 것이다. 트럼프 대통령은 \"신속한 협상\"을 위해 군사 작전을 취소하기로 결정했다고 자신의 소셜 미디어 계정인 트루스 소셜(Truth Social)에 밝혔다.앞서 발표됐던 미국과 이스라엘의 ...",
+    "age": "1 day ago",
+    "page_age": "2026-08-02T06:24:54",
+    "profile": {
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/08/02/70998.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 08  › 02  › 70998.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/O__3XbEwqdQKa_Yxs6sA5GDqkjA28id2aQ8fIsBpZtQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwODAyL2UzM2Rh/NTFiMzJkZGUxOWU5/NTZkNTcwZWNjMDVk/ODRlLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 외무장관 \"美·이스라엘 침략·역내 가담 땐 단호히 대응\" | 아주경제",
+    "url": "https://www.ajunews.com/view/20260802144235342",
+    "description": "아바스 아라그치 이란 외무장관이 미국과 이스라엘의 공격 가능성을 경고하며 어떠한 침략에도 단호히 대응하겠다는 강경한 입장을 재확인했다.1일(현지시간) 로이터통신에...",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T05:46:57",
+    "profile": {
+      "name": "Aju News",
+      "url": "https://www.ajunews.com/view/20260802144235342"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ajunews.com",
+      "hostname": "www.ajunews.com",
+      "favicon": "https://imgs.search.brave.com/_AUj3DETaA8fJjC5U_ria7_IDrO4M6EUDxUwgMb-QgY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWYxYjExMzVm/Y2RiMmFiZDY0ODVh/ZDY0YTgyMWRjNjNk/YjY5ZTg5YWNiODVk/YzJhZjMxYzhiNjFj/ZjNkODQ1OC93d3cu/YWp1bmV3cy5jb20v",
+      "path": "› view  › 20260802144235342"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/YZsopEU0I9OiJcGJAMYcrnAn-RX_LtxRX_D1WDXr8AE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDgv/MDIvMjAyNjA4MDIx/NDQ1NTU4NTA0NjQu/cG5n"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "우크라이나의 슈틸러만 장관이 이란에 플라밍?? 미사일 공격을 위협했습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/02/70995.html",
     "description": "우크라이나 기업 파이어 포인트의 대표 데니스 슈틸러만은 이란에 대한 직접적인 위협이 담긴 게시물을 올렸습니다. 이 회사는 파이어 포인트 제품을 생산하는 것으로 알려져 있습니다. 로켓 플라밍고와 드럼 드론 FP ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-08-02T05:33:17",
     "profile": {
       "name": "News-pravda",
@@ -1149,10 +1384,54 @@
   },
   {
     "type": "news_result",
+    "title": "Live updates: US-Iran war news; Iran discusses Strait of Hormuz deal with Oman but denies talks planned with US | CNN",
+    "url": "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump",
+    "description": "Strikes called off: Trump said he called off the planned strikes on Iran after he was asked to do so by Saudi Arabia, the United Arab Emirates, Qatar and Iran. “It would have been a massive attack,” he said.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T05:11:04",
+    "profile": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/08/02/world/live-news/iran-war-trump"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnn.com",
+      "hostname": "www.cnn.com",
+      "favicon": "https://imgs.search.brave.com/tV1joo3SHuITYemc5OsCps2_N9Toz6zArm5dNdbSoMs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWE3MWZjOTZk/NGRhM2RmZDQzMjZh/NjE3OGQ3NzQ3MDI5/NDJiOGI2ZDdkZDFj/ODI3N2MzYWU3OGU4/YzQ3YTNkNC93d3cu/Y25uLmNvbS8",
+      "path": "› 2026  › 08  › 02  › world  › live-news  › iran-war-trump"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3Z8HHEnmzC6ugxY7xSZmDEi0JXPykcWfbXpb2WU9Qi4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/LzIwMjYtMDgtMDN0/MDYzNDIwei05ODc2/ODk2MzktcmMycnFt/YWc1YjhpLXJ0cm1h/ZHAtMy1pcmFuLWNy/aXNpcy1vbWFuLWhv/cm11ei5KUEc_Yz0x/Nng5JnE9d184MDAs/Y19maWxs"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Opinion | This Is What My Father’s Assassination Taught Me About the War in Iran - The New York Times",
+    "url": "https://nytimes.com/2026/08/02/opinion/iran-revolution-father-murder-boroujerdi-grimm.html",
+    "description": "On Dec. 23, 1978, weeks before revolutionaries toppled the Iranian monarchy, armed assailants carried out two coordinated attacks in Ahvaz, the operational hub of Iran’s petroleum industry, killing an Iranian oil official and an American oil executive in separate ambushes.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T05:00:05",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://nytimes.com/2026/08/02/opinion/iran-revolution-father-murder-boroujerdi-grimm.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "nytimes.com",
+      "favicon": "https://imgs.search.brave.com/RN_hisZu4P-ruAdWPR9uvaiS7YyW2d23CPtP4_gduCA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTRlZDNhZjVm/ZDNmYzA0NDdjYjYx/NjY5YWQ5ZDFiYmE1/ZTE5NjE5ZjBiYmRl/NTdkZGFiZDQ0M2Y5/NGNkZjA3Yi9ueXRp/bWVzLmNvbS8",
+      "path": "› 2026  › 08  › 02  › opinion  › iran-revolution-father-murder-boroujerdi-grimm.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3JipelG3XWzsFQoCv0g3MbsE_2s3-D4qS94a9QG73P4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA4LzAyL29waW5p/b24vMDJib3JvdWpl/cmRpLzAyYm9yb3Vq/ZXJkaS1mYWNlYm9v/a0p1bWJvLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "War With Iran: Trending News, Latest Updates, Analysis",
     "url": "https://bloomberg.com/latest/war-with-iran",
     "description": "See the latest on War With Iran. From breaking news to in-depth reporting, Bloomberg tracks the full story in real time.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-08-02T04:31:44",
     "profile": {
       "name": "Bloomberg",
@@ -1167,6 +1446,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/Y3k-DaxRJLMVTM8jllBQBkZ0bTzjtI8uWXnCEjwt1YU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYndieC5pby9p/bWFnZXMvdXNlcnMv/aXFqV0hCRmRmeElV/L2k1UEdzQTdHME5S/QS92MC8xMjAweDYz/MC5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal - The New York Times",
+    "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+    "description": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Trump not to renew attacks.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T04:30:22",
+    "profile": {
+      "name": "NYTimes",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nytimes.com",
+      "hostname": "www.nytimes.com",
+      "favicon": "https://imgs.search.brave.com/lWA-zkTMlWM2cUvrcYa1Fls86e-Vl-rkSBOjichQqVs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGFlZWRkYmVh/YWFhZmFjYjM4MWYy/NTQzZmExMTIwN2Nm/NGJmZjgwYTRhYjI5/OTliM2JkYmI2MWY0/M2RlOGFlMi93d3cu/bnl0aW1lcy5jb20v",
+      "path": "› 2026  › 08  › 02  › world  › middleeast  › trump-iran-cancels-attack-deal.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/oqITjKNDtCSWAU-XWLlyhieIXuF9HOKeo6Ij3GCEL9Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA4LzAyL211bHRp/bWVkaWEvMDJkYy10/cnVtcC1hdHRhY2st/aHFnbC8wMmRjLXRy/dW1wLWF0dGFjay1o/cWdsLWZhY2Vib29r/SnVtYm8uanBn"
     }
   },
   {
@@ -1193,6 +1494,50 @@
   },
   {
     "type": "news_result",
+    "title": "Trump cancels Iran attack, citing progress in negotiations",
+    "url": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled",
+    "description": "The president cited progress towards a deal that would open the Strait of Hormuz.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T03:40:30",
+    "profile": {
+      "name": "Axios",
+      "url": "https://www.axios.com/2026/08/02/trump-iran-attack-cancelled"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "axios.com",
+      "hostname": "www.axios.com",
+      "favicon": "https://imgs.search.brave.com/36Qcnqeww33w_XW2TE8H562NGeN_xx12UkMckmcwb90/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRhMTdhMDcy/YWUwZGExMjA2ZGVi/NTVmYTQ3YmNhN2E1/NDdiODg2ZDBiYzNk/Y2RkYzFkNWQ4MmI4/OWY4MDIxMi93d3cu/YXhpb3MuY29tLw",
+      "path": "› 2026  › 08  › 02  › trump-iran-attack-cancelled"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/XMUV2N_ua1DQAat_lTCd1I3UM9mEZAJmemDxnGByYXY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXhpb3MuY29t/LzljTjNST3NrSmJ3/WXRfX1V4QWJiMzNL/MWtYMD0vMHgwOjIx/Mzl4MTIwMy8xMzY2/eDc2OC8yMDI2LzA4/LzAyLzE3ODU2NDA1/Mzk2OTQuanBlZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump Halts Massive Attack on Iran With Deal Nearly Clinched",
+    "url": "https://www.mediaite.com/politics/trump-halts-strike-on-iran-after-perimeters-of-a-deal-agreed-to-but-warns-us-is-locked-and-loaded-if-talks-crumble-yet-again/",
+    "description": "The president on Saturday night announced he canceled a WW II-level pummeling of Iran after the country lobbied the U.S. to pause the anticipated barrage",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T03:24:53",
+    "profile": {
+      "name": "Mediaite",
+      "url": "https://www.mediaite.com/politics/trump-halts-strike-on-iran-after-perimeters-of-a-deal-agreed-to-but-warns-us-is-locked-and-loaded-if-talks-crumble-yet-again/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mediaite.com",
+      "hostname": "www.mediaite.com",
+      "favicon": "https://imgs.search.brave.com/RAc7SPSXrkW3v-R_bCzn51z6VzmmUSIthWwv4VO3fE0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWZiOGYzZjc0/NDk2ZjI3ZTk2NTVh/NzkzODBmNTg1NTNi/NWUxNDlkYWFkNGM2/OWUyZTRkY2RmMTky/ZDE3YThhYi93d3cu/bWVkaWFpdGUuY29t/Lw",
+      "path": "› politics  › trump-halts-strike-on-iran-after-perimeters-of-a-deal-agreed-to-but-warns-us-is-locked-and-loaded-if-talks-crumble-yet-again"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/RjobOLNE30bzyGNNgq4cBUnbsxBRMCIImbywudyMdvA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWVkaWFpdGUuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzA3L0FQMjYxNjAy/MjAwMjg5OTMtc2Nh/bGVkLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "'주말 대공습' 예고 트럼프 \"이란 공격 취소\"",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6841800_36967.html",
     "description": "도널드 트럼프 미국 대통령은 이번 주말로 예상됐던 대규모 이란 공격을 취소했다고 오늘 밝혔습니다. 트럼프 대통령은 조금 전 소셜미디어 트루스소셜 계정에 올린 글에서 \"이란과 다른 ...",
@@ -1215,6 +1560,50 @@
   },
   {
     "type": "news_result",
+    "title": "Trump signals deal to end Iran war may be imminent, agrees to \"cancel the attack\" - CBS News",
+    "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/",
+    "description": "On Tuesday, the U.S. and Saudi Arabia said they had struck Iran-backed militants in Iraq in a joint operation. U.S. Central Command said that strike was in response to more than 30 drone attacks from those militants over the previous 72-hour period that targeted \"U.S.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T02:44:00",
+    "profile": {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cbsnews.com",
+      "hostname": "www.cbsnews.com",
+      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
+      "path": "› news  › trump-iran-attack-framework-deal-war"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/h5nHCnRRuWoCWyWefuwo5Lk9GxagcFZabqhK6mW0rl8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMzLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/OC8wMi85MmNmOWZl/Zi0xMDBhLTQ1ODAt/ODNkNi1lZWNhOWI5/NTczMDcvdGh1bWJu/YWlsLzEyMDB4NjMw/LzFiMWNlZjQwNDNm/NzU0MGQzYmQ1NGU5/OThkYjI4MTIwL2Fw/MjYyMTI3NTIzNjUy/MTMuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프는 자?? 의 SNS에 이란에 대한 공격 계획을 취소했다?? 밝혔다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/south-korea/2026/08/02/70985.html",
+    "description": "이러한 요청에 따라, 나는 세계의 미래와 성공적이고 번영하는 이란의 존립을 위해, 신속한 협상 타결을 조건으로 공격을 취소하기로 합의했다. 이스라엘 또한 나와 함께 이 약속을 이행할 것이다.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T02:30:52",
+    "profile": {
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/south-korea/2026/08/02/70985.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› south-korea  › 2026  › 08  › 02  › 70985.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/B-JbbEBdURYduB-jBuqq-YYUQFwTE7sHeGfgP1rsbLc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwODAyLzVhMTIy/NGEzNDY0ODExMDEy/ZmU1ZmExNTY5MDQ0/ODI1LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프 “이란과 중동 국가 요청으로 공격 취소하기로”",
     "url": "https://www.chosun.com/international/us/2026/08/02/MWOPKO5A2FH55AJXG4RIKL6WUA/",
     "description": "트럼프 대통령이 이란과 중동 국가들의 요청을 수용하여 이란 대상 군사 작전을 취소함. 호르무즈 해협 개방 및 핵 위협 종식을 골자로 한 협상 전제조건을 제시함. 사우디아라비아 등 인접국의 확전 자제 촉구가 작용한 ...",
@@ -1233,6 +1622,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/BU4-kk_uA6ve4JufVtNckGTrd0PubgQwFdH7A-wRDdk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0JR/TFNVT0ZNWlpMTUJP/VFFDVlNYSFVSQUhV/LmpwZz9hdXRoPTNh/MzRhOTViMGI2ZmE2/MjZmMTNjZDEwMWRk/OWE5MDdmM2U1YjE1/NTU1ZDIyZmI2ZDlh/YjI4YWJmMjM1NDY3/ZDUmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O2ZvY2FsPTEwNjEs/NTE1"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump Cancels Iran Attack, Calls for Immediate Peace Deal After Allies Make Unusual Request – RedState",
+    "url": "https://redstate.com/kyle-becker/2026/08/02/trump-cancels-iran-attack-calls-for-immediate-peace-deal-after-allies-make-unusual-request-n2205072",
+    "description": "Trump cancels Iran attack, calls for immediate peace deal amid allies' unusual requests.",
+    "age": "2 days ago",
+    "page_age": "2026-08-02T00:43:00",
+    "profile": {
+      "name": "RedState",
+      "url": "https://redstate.com/kyle-becker/2026/08/02/trump-cancels-iran-attack-calls-for-immediate-peace-deal-after-allies-make-unusual-request-n2205072"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "redstate.com",
+      "hostname": "redstate.com",
+      "favicon": "https://imgs.search.brave.com/NRdHicDemFURuwwW8dhgNZyJYiwtt2XRcXheQPeqTO0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTg0OTE2ZmQ3/OGFjZWM0NGJhZTQw/N2U1ZWFhNDFkZDI4/N2EzODAwMmMzYTgw/MDUzM2Q3YjJkMGEz/OWMxOThhZC9yZWRz/dGF0ZS5jb20v",
+      "path": "› kyle-becker  › 2026  › 08  › 02  › trump-cancels-iran-attack-calls-for-immediate-peace-deal-after-allies-make-unusual-request-n2205072"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/-pJikcakAo0rcJzRNP1bPLA_0VbQw_JTolnjigzDLHY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS50b3duaGFsbC5j/b20vY2RuL2hvZGwv/MjAyNi84My9lYmY0/NjM4NS0yMjg0LTQx/MzctOGIwYS0zZTU5/OWQ1ZmQ1OGIuanBn"
     }
   },
   {
