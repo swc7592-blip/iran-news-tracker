@@ -1,10 +1,32 @@
 [
   {
     "type": "news_result",
+    "title": "진격의 '오디세이', 개봉 나흘 만에 100만 돌파…스파이더맨4도 500만 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202608081449437535",
+    "description": "무더위가 이어지면서 극장을 찾는 피서객들이 늘고 있는 가운데 크리스토퍼 놀런 감독의 신작 '오디세이'와 '스파이더맨: 브랜드 뉴 데이'이 극장가에 모처럼 활기를 불어넣고 있다.오디세이는 개봉 나흘 만에 100만 관객을 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-08-08T06:04:37",
+    "profile": {
+      "name": "First News",
+      "url": "https://fnnews.com/news/202608081449437535"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202608081449437535"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/eQGI4aKKp0ui5LYIVqv6q-HdZH5ZHpSnzRIYnYeo79A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDgvMDgvMjAy/NjA4MDgxMDMwMTgz/MjgwX2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "Travelling through Iran reveals no single narrative about the US-Israel war | World news | The Guardian",
     "url": "https://theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
     "description": "Some believe conflict strengthened national unity, others say it deepened repression, but all mourn the dead",
-    "age": "1 hour ago",
+    "age": "2 hours ago",
     "page_age": "2026-08-08T05:00:39",
     "profile": {
       "name": "The Guardian",
@@ -23,112 +45,68 @@
   },
   {
     "type": "news_result",
-    "title": "김민석 \"당원정보 유출 1년이나 돼 문제…관리 무능 바로 잡아야\" :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260808_0003741283",
-    "description": "미 합참의장 이란 전쟁 출구 전략 필요성 강조",
-    "age": "5 hours ago",
-    "page_age": "2026-08-08T01:17:38",
+    "title": "월가 'ATM' 된 삼전닉스?…반도체 저승사자도 \"이젠 살 때\" [빈난새의 빈틈없이마켓]",
+    "url": "https://hankyung.com/article/202608071501i",
+    "description": "사진=연합뉴스 지난 3월 이란 전쟁 발발 직후, '전통 안전자산' 금(金)은 오히려 일주일 만에 9.6% 급락했습니다. 갑자기 금의 투자 매력이 사라진 건 아니었습니다.",
+    "age": "4 hours ago",
+    "page_age": "2026-08-08T03:01:49",
     "profile": {
-      "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260808_0003741283"
+      "name": "Hankyung",
+      "url": "https://hankyung.com/article/202608071501i"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "newsis.com",
-      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260808_0003741283"
+      "netloc": "hankyung.com",
+      "hostname": "hankyung.com",
+      "favicon": "https://imgs.search.brave.com/QYXHOeosX1HK-oSxvD1Z5IhfE9iEA1C4Ci6uKqRgErc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2VjNDI2/NzZlMjE0Y2U1MjM3/MDg0MDQ4NDQzZjE0/ZmE3MTllZGMwYjA0/Njg4OTg1MDJlYjBm/NmRkZTVmMS9oYW5r/eXVuZy5jb20v",
+      "path": "› article  › 202608071501i"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Mp5NMP31B4XLDjlxTVeqXRu8PW6pyj9-c8ixJLjPesg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOC8wNi9O/SVNJMjAyNjA4MDZf/MDAyMTM5MDYxMV93/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/N1PmRgZubOeOTauayFMkE8kUtyx0SAnfU_Lmk5PqjwU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGFua3l1bmcuY29t/L3Bob3RvLzIwMjYw/OC8wMS40NTIyNzIy/NS4xLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "[속보]'압수수색·성접대 논란' 축구협회 \"실망과 걱정 안겨드려 죄송\" :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260808_0003741279",
-    "description": "美, 이란 자금 옥죄기 박차…가상자산 거래소·환전소 제재 · 美증시, '고용쇼크'에 금리동결 기대…S&P 0.6% 나스닥 1.3%↑ · 국제유가 상승 마감, 주간으로는 7% 하락 · 오픈AI, \"사이버 공격 역량\" 이유 차세대 AI 개발 보류",
+    "title": "사우디·튀르키예·파키스탄 손잡았다…“역내 새로운 안보 구조 창출 기여할 수도” | 문화일보",
+    "url": "https://munhwa.com/article/11608120",
+    "description": "그러나 이 조약은 이란 전쟁을 치르면서 극명하게 드러난 이란 중심의 이슬람 시아파 벨트와 갈수록 영향력을 키우는 이스라엘에 대한 견제 성격을 동시에 띠고 있는 것으로 보인다.",
     "age": "5 hours ago",
-    "page_age": "2026-08-08T01:09:14",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260808_0003741279"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "newsis.com",
-      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260808_0003741279"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UM79fxXYuuvpVQdpYUAV3RjaEscEtxniUiYbSSevWD4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyMC8xMi8xMS9O/SVNJMjAyMDEyMTFf/MDAwMDY1NDIzOV93/ZWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "종부세 고지서는 위로 가지만, 그 비용은 아래로 온다 [하헌기의 콘텍스트] < 하헌기의 콘텍스트 < 연재 < 기사본문 - 시사저널",
-    "url": "https://sisajournal.com/news/articleView.html?idxno=382584",
-    "description": "상경 후 첫 집은 조그만 월세 원룸이었다. 소득이 오르며 방을 조금씩 넓혔다. 월세는 전세로 바꿨다. 저금리 전세자금대출 덕이었다. 제도가 없었다면 벌이가 나아졌",
-    "age": "5 hours ago",
-    "page_age": "2026-08-08T01:00:00",
-    "profile": {
-      "name": "Sisa Journal",
-      "url": "https://sisajournal.com/news/articleView.html?idxno=382584"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sisajournal.com",
-      "hostname": "sisajournal.com",
-      "favicon": "https://imgs.search.brave.com/5klGrzR_Pt70nNz-xSHe-LHgT8s1teb5iCA6ea-8cFQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGYxZTc4ZWQw/MDVlODkzMTkxMTc2/NWE3YWIxYzY2NGYw/N2MwNTFmMzY2MDc0/YzU4MjA5Y2JkMWJk/ZTc1YTdmMS9zaXNh/am91cm5hbC5jb20v",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/E_41CFTPZlvkUi3Hz_-soZOtK81ocSe0btagwPBqJfk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2lzYWpvdXJuYWwu/Y29tL25ld3MvdGh1/bWJuYWlsLzIwMjYw/OC8zODI1ODRfMzkw/NDE3XzUzMTBfdjE1/MC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“누나 가정 파탄 책임질래?” 시누이 불륜 못 본 척 하라는 남편 | 문화일보",
-    "url": "https://munhwa.com/article/11608118",
-    "description": "유부녀인 시누이가 낯선 남성과 호텔에서 다정한 모습을 보게 된 여성이 이를 남편에게 알렸지만, 오히려 “모른 척하라”는 반응을 들었다는 사연이 온라인에서 화제를 모으고 있다. 7일 한 온라인 커뮤니티에는 ‘호텔에 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-08-08T00:58:56",
+    "page_age": "2026-08-08T01:41:54",
     "profile": {
       "name": "Munhwa",
-      "url": "https://munhwa.com/article/11608118"
+      "url": "https://munhwa.com/article/11608120"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "munhwa.com",
       "hostname": "munhwa.com",
       "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
-      "path": "› article  › 11608118"
+      "path": "› article  › 11608120"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/5wubgn0412Bh76pp5-mef4j0uGcUgyC9Xxih_RxCgPM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wOC9uZXdz/LXAudjEuMjAyNjA4/MDcuZThkYWU2MWU3/YWUzNDQ3MjkwODc1/MjcyNjg3ZmE1MTBf/Ui5qcGc"
+      "src": "https://imgs.search.brave.com/TXje1UBL27eoTYxOHkT6DWcXZmrgBnoF08A-avKrEYA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8wOC9uZXdz/LWEudjEuMjAyNjA4/MDguYTRmYzZhZjYx/OTgxNDAzMDg3ZWMx/YzFlZGE0OGNlODJf/VDEucG5n"
     }
   },
   {
     "type": "news_result",
-    "title": "안병훈, LIV 골프 뉴욕 대회 2R 공동 13위…시즌 2번째 톱10 도전 :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260808_0003741235",
-    "description": "美, 이란 자금 옥죄기 박차…가상자산 거래소·환전소 제재 · 美증시, '고용쇼크'에 금리동결 기대…S&P 0.6% 나스닥 1.3%↑ · 국제유가 상승 마감, 주간으로는 7% 하락 · 오픈AI, \"사이버 공격 역량\" 이유 차세대 AI 개발 보류",
+    "title": "부모 잠든 사이 차 몰고 나온 7살·4살 美 형제…보행자 덮쳐 중태 :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260807_0003740820",
+    "description": "미 합참의장 이란 전쟁 출구 전략 필요성 강조",
     "age": "6 hours ago",
-    "page_age": "2026-08-08T00:33:51",
+    "page_age": "2026-08-08T01:02:08",
     "profile": {
       "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260808_0003741235"
+      "url": "https://newsis.com/view/NISX20260807_0003740820"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "newsis.com",
       "hostname": "newsis.com",
       "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260808_0003741235"
+      "path": "› view  › NISX20260807_0003740820"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/7ft1uDyJuKoA4oO2RoiaEbpdbvcyPfBBGXwMMp9JQN4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNS8yNi9O/SVNJMjAyNjA1MjZf/MDAwMjE0NTI4N193/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/QSKeJzp7y3xl2IRjmcS4ANiBx4PHE_dHdIZS8ka3XF0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOC8wNy9O/SVNJMjAyNjA4MDdf/MDAwMjIwNzE2N193/ZWIuanBn"
     }
   },
   {
@@ -136,7 +114,7 @@
     "title": "美재무부 &quot;&#039;이란 자금세탁&#039; 가상화폐 거래소 제재&quot;&hellip; 올해만 8번째",
     "url": "https://www.ikbc.co.kr/article/view/kbc202608080003",
     "description": "미국 재무부는 7일(현지시간) 이란 정권을 위해 수십억달러의 자금 세탁이 이뤄진 가상화폐 거래소 두 곳과 페이퍼컴퍼니 등을 제재 대상으로 지정했",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-08-08T00:12:34",
     "profile": {
       "name": "Ikbc",
@@ -158,7 +136,7 @@
     "title": "트럼프 이란 공격 멈춘 美 미사일 재고…얼마나 많이 썼을까[시사쇼]",
     "url": "https://www.asiae.co.kr/article/2026080807473650367",
     "description": "이 수치가 주는 충격은 전쟁 이전의 재고 규모와 비교하면 더욱 분명해진다. 이란 전쟁 이전 미국이 보유했던 패트리엇 미사일은 약 2200기, 사드 미사일은 약 460기 수준이었다. 그 막대한 물량을 짧은 기간에 거의 다 ...",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-08-07T23:30:00",
     "profile": {
       "name": "Asiae",
@@ -180,7 +158,7 @@
     "title": "미 합참의장 이란 전쟁 출구 전략 필요성 강조 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260808_0003741218",
     "description": "[서울=뉴시스] 강영진 기자 = 댄 케인 미 합참의장이 최근 몇 주 동안 도널드 트럼프 미 대통령의 핵심 참모들에게 이란 전쟁 출구전략을 찾아야 한다는 점을 비공개로 밝혀왔다고 미 CNN이 7일(현지시각) 보도했다.",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-08-07T23:14:23",
     "profile": {
       "name": "Newsis",
@@ -199,10 +177,54 @@
   },
   {
     "type": "news_result",
+    "title": "\"창 3개 띄워도 답답함 없네\"…'폴드8 울트라', 일주일 써보니 :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260807_0003740891",
+    "description": "미 합참의장 이란 전쟁 출구 전략 필요성 강조",
+    "age": "8 hours ago",
+    "page_age": "2026-08-07T23:08:05",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260807_0003740891"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260807_0003740891"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/g7jo7Bx7nrbEJQhPz9fqt9kiL3Vm6oxv819uegvl1EU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOC8wNy9O/SVNJMjAyNjA4MDdf/MDAwMjIwNzE2NV93/ZWIuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 “美 유권자들 공화당에 분노…나에게 화난 건 아니다” - 헤럴드경제 미주판",
+    "url": "https://heraldk.com/article/2026080722404445507",
+    "description": "최근 여러 여론조사에서 트럼프 대통령의 지지율이 저조하게 나타나면서 공화당이 중간선거에서 고전할 거란 전망이 나오고 있다. 이란 전쟁 장기화로 민심 이탈이 우려되는 가운데 트럼프 대통령이 책임을 공화당에 돌리는 ...",
+    "age": "8 hours ago",
+    "page_age": "2026-08-07T22:40:31",
+    "profile": {
+      "name": "Heraldk",
+      "url": "https://heraldk.com/article/2026080722404445507"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "heraldk.com",
+      "hostname": "heraldk.com",
+      "favicon": "https://imgs.search.brave.com/5xTe32KewdXU6utNwtPhOXisgSxwAyX562u-bC2_zA4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNDU5ZjBl/YjUwYjI4M2EwOGUz/NmZkMDQ0ZWVmMDM3/OTQxMGM0ZDY0ZGMy/NDM5NzlmMzhlODU0/OGI2NjQxOC9oZXJh/bGRrLmNvbS8",
+      "path": "› article  › 2026080722404445507"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/JYmI1Vl0e5aBOkbUnZ9bxS4I460hY4QuV31bbXECzLs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDgvMDgv/cmN2LllOQS4yMDI2/MDcwOC5QWUgyMDI2/MDcwODIwMjEwMDAx/MzAwX1AxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "페제시키안 이란 대통령 \"미국과 대화 지속\" :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260808_0003741215",
     "description": "[테헤란=신화/뉴시스] 강영진 기자 = 마수드 페제시키안 이란 대통령은 7일(현지시각) 이란의 권리를 지키기 위한 대화를 계속 추진하겠다는 의지를 재확인하는 한편, 이란은 결코 항복을 강요당하지 않을 것이라고 ...",
-    "age": "7 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-08-07T22:36:03",
     "profile": {
       "name": "Newsis",
@@ -221,24 +243,24 @@
   },
   {
     "type": "news_result",
-    "title": "[아세안익스프레스] [서정인의 아세안 ABC 37] 심장부와 주변부의 귀환...한국은?",
-    "url": "https://aseanexpress.co.kr/mobile/article.html?no=12961",
-    "description": "오늘날의 심장부는 중국, 러시아, 이란, 북한으로 구성된 느슨한 수정주의 연대다. 이들은 체제와 이념은 다르지만 미국 중심 국제질서를 약화시키려는 이해관계를 공유한다. 러시아의 우크라이나 전쟁에서 이란은 드론을, ...",
-    "age": "8 hours ago",
-    "page_age": "2026-08-07T22:15:02",
+    "title": "충북, 한낮 31~35도…오후들어 소나기 5~40㎜ :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260808_0003741204",
+    "description": "美, 이란 자금 옥죄기 박차…가상자산 거래소·환전소 제재 · 美증시, '고용쇼크'에 금리동결 기대…S&P 0.6% 나스닥 1.3%↑ · 국제유가 상승 마감, 주간으로는 7% 하락 · 오픈AI, \"사이버 공격 역량\" 이유 차세대 AI 개발 보류",
+    "age": "9 hours ago",
+    "page_age": "2026-08-07T21:40:24",
     "profile": {
-      "name": "Aseanexpress",
-      "url": "https://aseanexpress.co.kr/mobile/article.html?no=12961"
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260808_0003741204"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "aseanexpress.co.kr",
-      "hostname": "aseanexpress.co.kr",
-      "favicon": "https://imgs.search.brave.com/ChQwiOijmj2Eqe8crzvkaW1nCtMYvNlIh5jcjGQT2Wg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzRlOWE0NDI0/MTU5MzNjZjAzOTY0/Mjk4YTdmMGFlYzRj/ODNhOTgwMzZjOGU4/YmJjYWQwZjFjZWU2/YjlkNTQ0My9hc2Vh/bmV4cHJlc3MuY28u/a3Iv",
-      "path": "› mobile  › article.html"
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260808_0003741204"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/fSd_FeENYsu333TIdlJVkyGy5AKaVWYQCyz7zkff-5I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YXNlYW5leHByZXNz/LmNvLmtyL2RhdGEv/cGhvdG9zLzIwMjYw/ODMyL2FydF8xNzg1/OTg5NjAzOTE1NV83/NDJmYTguanBn"
+      "src": "https://imgs.search.brave.com/JDlR1KcAwvUhJm9aGR6ekqWkRR3K6IzH6kDOxV7wzd4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNS8wNS8xNi9O/SVNJMjAyNTA1MTZf/MDAyMDgxMTc1NF93/ZWIuanBn"
     }
   },
   {
@@ -246,7 +268,7 @@
     "title": "[서울폭염] ⑨ \"에어컨도 불앞에선 무용지물\"…고군분투 주방 노동자들 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608080630374741",
     "description": "[서울폭염] ⑨ \"에어컨도 불앞에선 무용지물\"…고군분투 주방 노동자들 고기 굽고 사골 육수내고 땀 쏟으며 일해…\"올여름은 정말 지친다\" (서울=연합뉴스) 정윤주 기자 = \"그래도 지금은 익숙해졌어요.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-08-07T21:30:55",
     "profile": {
       "name": "First News",
@@ -268,7 +290,7 @@
     "title": "중동 고립 탈출 노리는 이란, '이슬람 단결' 카드로 판세 뒤집나 - 위키리크스한국",
     "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=190714",
     "description": "이 가운데 사우디와 튀르키예는 미국·이스라엘과 이란의 전쟁 기간 이란의 공격을 받은 바 있다.",
-    "age": "9 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-08-07T21:05:00",
     "profile": {
       "name": "Wikileaks-kr",
@@ -287,32 +309,10 @@
   },
   {
     "type": "news_result",
-    "title": "泰 명문사립학교 10대 집·학교 총기 난사…교사·학생 등 9명 사망(종합 2보) :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260808_0003741189",
-    "description": "美, 이란 자금 옥죄기 박차…가상자산 거래소·환전소 제재 · 美증시, '고용쇼크'에 금리동결 기대…S&P 0.6% 나스닥 1.3%↑ · 국제유가 상승 마감, 주간으로는 7% 하락 · 오픈AI, \"사이버 공격 역량\" 이유 차세대 AI 개발 보류",
-    "age": "10 hours ago",
-    "page_age": "2026-08-07T20:00:24",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260808_0003741189"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "newsis.com",
-      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260808_0003741189"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/GPFZh736c4V6Ug5JGvWQNgExm3TTN0G42V0D5LiV7uM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOC8wNy9O/SVNJMjAyNjA4MDdf/MDAwMTQ4NDM3Nl93/ZWIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"이란전쟁으로 美 가구당 140만원 추가 부담\" WP...장기 비용 1조달러 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608080417212826",
     "description": "그는 전쟁 비용이 누적되면서 도널드 트럼프 대통령의 감세 정책도 이미 상쇄됐다고 지적했다. 트럼프 대통령 본인이 시작한 이란 전쟁이 자신의 최대 성과인 감세 효과를 이미 잠식했다는 것이다.",
-    "age": "10 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-07T19:38:26",
     "profile": {
       "name": "First News",
@@ -334,7 +334,7 @@
     "title": "21세기판 오디세이 트럼프… 이란전쟁에서 길을 잃다 < 국제 < 기사본문 - 주간조선",
     "url": "https://weekly.chosun.com/news/articleView.html?idxno=54096",
     "description": "지난 2월 28일 개전 이후 미국이 내세운 전쟁 목표는 도무지 종잡을 수 없을 정도로 ‘널뛰기’를 거듭했다. 처음에는 이란의 ‘임박한 위협’을 제거하여 미 본토와 국민, 역내 미군과 이스라엘·걸프 동맹국을 방어한다는 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-07T19:00:00",
     "profile": {
       "name": "Chosun",
@@ -353,10 +353,32 @@
   },
   {
     "type": "news_result",
+    "title": "“인간 개입 없이 공격 가능한 수준”…오픈AI, 보안 우려에 차세대AI 출시연기 - 헤럴드경제 미주판",
+    "url": "https://heraldk.com/article/2026080716382448016",
+    "description": "오픈AI. [게티이미지] [헤럴드경제=박세정 기자] 전 세계적으로 인공지능(AI)발 보안 위협에 대한 우려가 커지면서 오픈AI가 차세대 AI모델 ‘아스트라’의 출시를 연기하기로...",
+    "age": "15 hours ago",
+    "page_age": "2026-08-07T16:38:19",
+    "profile": {
+      "name": "Heraldk",
+      "url": "https://heraldk.com/article/2026080716382448016"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "heraldk.com",
+      "hostname": "heraldk.com",
+      "favicon": "https://imgs.search.brave.com/5xTe32KewdXU6utNwtPhOXisgSxwAyX562u-bC2_zA4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjUwNDU5ZjBl/YjUwYjI4M2EwOGUz/NmZkMDQ0ZWVmMDM3/OTQxMGM0ZDY0ZGMy/NDM5NzlmMzhlODU0/OGI2NjQxOC9oZXJh/bGRrLmNvbS8",
+      "path": "› article  › 2026080716382448016"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/sac2krm8PTRgkQHAmhukhlmlsCyjtslVzzcq5WqsmPQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDgvMDgv/bmV3cy1wLnYxLjIw/MjYwNzAxLmYwMDRm/MTcyMmRkNDRiNzQ4/NWFkOGQ3MzJhNThm/NGFkX1AxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[종합] 이슬람 수니파 3국, &apos;공동방위협정&apos; 체결… 이스라엘·이란 위협에 맞설 자체 억지력 강화",
     "url": "https://www.newspim.com/news/view/20260808000001",
     "description": "하지만 지난 2023년 10월 팔레스타인 가자지구 무장단체인 하마스의 기습 공격으로 가자 전쟁이 시작된 이후 최근 이란 전쟁에 이르기까지 사우디가 이란과 그 대리세력으로부터 공격을 받았지만 파키스탄은 군사적 행동에 ...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-07T15:20:00",
     "profile": {
       "name": "Newspim",
@@ -378,7 +400,7 @@
     "title": "이란 핵심 원유 수출항 '하르그섬', 최근 1주일 이상 '올스톱'… 美 해상봉쇄 영향",
     "url": "https://www.newspim.com/news/view/20260807001157",
     "description": "이 같은 장기 선적 중단은 이례적인 것으로 해석되고 있다. FT는 \"이란은 6개월간 이어진 미국·이스라엘과의 전쟁 기간에도 하르그섬에서 원유 선적을 계속해 왔다\"고 했다.",
-    "age": "16 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-08-07T14:18:00",
     "profile": {
       "name": "Newspim",
@@ -400,7 +422,7 @@
     "title": "美재무부, 이란 자금 세탁 '가상자산 거래소' 제재",
     "url": "https://v.daum.net/v/20260808053329279",
     "description": "(서울=뉴스1) 이창규 기자 = 미국 재무부가 7일(현지시간) 이란 이슬람혁명수비대(IRGC) 및 이란 정부 관련 단체들과 거래한 가상자산 거래소들을 제재했다. 미 재무부 해외자산통제국(OFAC)은 이날 홈페이지를 통해 두바이에 ...",
-    "age": "17 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-08-07T13:16:38",
     "profile": {
       "name": "Daum",
@@ -419,32 +441,10 @@
   },
   {
     "type": "news_result",
-    "title": "“모즈타바 순교 소식 놀랍지 않을 것…이란 수뇌부에 소문 파다” - 매일경제",
-    "url": "https://mk.co.kr/news/world/12121401",
-    "description": "이 매체는 마수드 페제시키안 ... 수 있다는 관측이 이란 정권 최고위층에서 확산하고 있다고 보도했다. 보도에 따르면 모즈타바 하메네이는 지난 2월 28일 미국의 최고지도자 관저 공격 이후 정부 고위 인사들과 ...",
-    "age": "17 hours ago",
-    "page_age": "2026-08-07T12:55:35",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/world/12121401"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › world  › 12121401"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7N-XK3kW32HUAstfJeVmX3APyHt0yNKO5imIIPzXMQg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OC8wNy9uZXdzLXAu/djEuMjAyNjA3MDYu/N2JlNjFlNzMzMmE4/NGNmY2I0ZjFkODI0/MmVhMmNmOGNfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 최고지도자 ‘위독설’…“언제 사망해도 놀랍지 않아” | 서울경제",
     "url": "https://sedaily.com/article/20077131",
     "description": "소식통들은 모즈타바 ... 이란 정권 수뇌부 내에 파다하게 퍼져 있다고 주장했다. 한 소식통은 “조만간 그의 순교 소식이 들려오더라도 전혀 놀랍지 않을 상황”이라고 말했다. 모즈타바 하메네이는 부친이자 전 최고지도자인 아야톨라 알리 하메네이를 사망케 한 지난 2월 말 미국과 이스라엘의 공습 때 ...",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-08-07T11:20:16",
     "profile": {
       "name": "Sedaily",
@@ -466,7 +466,7 @@
     "title": "3주간 만나는 사람마다 때렸다...광진구 휩쓴 '상습폭행'의 전말 [사건실화] - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608071310594365",
     "description": "한 남성이 상의를 벗은 채 노래를 부르다 호텔 직원의 제지를 받자 뺨을 때렸다.그는 며칠 뒤 여자친구를 때렸고 길에서는 택시기사를 머리로 들이받았다.신호를 기다리던 오토바이 운전자에게 침을 뱉는가 하면 식당 ...",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-07T10:41:00",
     "profile": {
       "name": "First News",
@@ -488,7 +488,7 @@
     "title": "트럼프, 국방부 경고 후이란에 대한 확대 중단 : 대공 무기고는 최소 수준입니다 - 뉴스투데이 / 아이데일리",
     "url": "https://www.ntoday.net/%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B5%AD%EB%B0%A9%EB%B6%80-%EA%B2%BD%EA%B3%A0-%ED%9B%84%EC%9D%B4%EB%9E%80%EC%97%90-%EB%8C%80%ED%95%9C-%ED%99%95%EB%8C%80-%EC%A4%91%EB%8B%A8-%EB%8C%80%EA%B3%B5-%EB%AC%B4/",
     "description": "이란 의 강력한 경고 이후 오각형: 요격 미사일 무기고가 위험할 정도로 고갈되었습니다. 13일 연속 공격을 중단한 이번 결정은 이란에 대한 해군 봉쇄가 그대로 유지되는 가운데 외교 협상의 기회를 열었습니다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-07T10:03:56",
     "profile": {
       "name": "Ntoday",
@@ -509,7 +509,7 @@
     "type": "news_result",
     "title": "후티 반군, 예멘 정부군과 사우디 동시 공격… 위기 고조되는 또 다른 중동 화약고",
     "url": "https://www.newspim.com/news/view/20260807001130",
-    "description": "[런던=뉴스핌] 장일현 특파원 = 예멘의 친이란 시아파 반군 후티가 국제사회가 인정하는 예멘 정부군과 사우디아라비아를 동시에 공격하면서 중동 지역 정세를 더욱 악화시키고 있다. 이란과 오만이 호르무즈 해협 재개방과 ...",
+    "description": "[런던=뉴스핌] 장일현 특파원 = 예멘의 친이란 시아파 반군 후티가 국제사회가 인정하는 예멘 정부군과 사우디아라비���를 동시에 공격하면서 중동 지역 정세를 더욱 악화시키고 있다. 이란과 오만이 호르무즈 해협 재개방과 ...",
     "age": "1 day ago",
     "page_age": "2026-08-07T09:32:00",
     "profile": {
@@ -547,6 +547,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/EjburZkdr8ony0QkhFQTN2RSwvjw70UrLi7EZKhXA90/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDcvMDkvMjAy/NjA3MDkxODUwMDU0/MzM4X2wuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "SK하이닉스, 보통주 375원 현금배당 < 기업일반 < 모바일·반도체 < 전자ICT < 기사본문 - 이비엔(EBN)뉴스센터",
+    "url": "https://ebn.co.kr/news/articleView.html?idxno=1719627",
+    "description": "SK하이닉스는 분기 배당으로 보통주 1주당 375원의 현금배당을 실시한다고 7일 공시했다.시가배당률은 보통주 0.02%로, 배당금 총액은 2733억2480만175",
+    "age": "1 day ago",
+    "page_age": "2026-08-07T09:14:29",
+    "profile": {
+      "name": "Ebn",
+      "url": "https://ebn.co.kr/news/articleView.html?idxno=1719627"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ebn.co.kr",
+      "hostname": "ebn.co.kr",
+      "favicon": "https://imgs.search.brave.com/oTY4L4003BqWewgPJATiLAoicQzJvh5B4nRSJv4x5gs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjNlODU1ZGNj/N2RlZjJmZGNhMzY3/MGE4ZTNlZWZiM2Y3/ZTUwYzI1NGQ0OGZk/YmYzNGJhYWQwNGRi/MGFiMmY0OS9lYm4u/Y28ua3Iv",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/NpkAJiYj4M3EAESiJ4ZjjMNoBkLTMPZ8pBs0DG-yzUY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZWJuLmNvLmtyL25l/d3MvdGh1bWJuYWls/LzIwMjYwOC8xNzE5/NjI3Xzc1MDU2MF8x/NDEzX3YxNTAuanBn"
     }
   },
   {
@@ -619,7 +641,7 @@
     "type": "news_result",
     "title": "이란 최고지도자 모즈타바 하메네이 ‘위독설’ 확산…반체제 매체 “내각과도 연락 끊겨” - 경북매일",
     "url": "https://www.kbmaeil.com/article/20260807500206",
-    "description": "취임 이후 단 한 차례도 공개석상에 모습을 드러내지 않은 이란 최고지도자 아야톨라 세예드 모���타바 하메네이의 건강 이상설이 다시 확산되고 있다. 이번에는 ‘위독설’까지 제기되면서 이란 권력 내부의 이상 기류에 ...",
+    "description": "취임 이후 단 한 차례도 공개석상에 모습을 드러내지 않은 이란 최고지도자 아야톨라 세예드 모즈타바 하메네이의 건강 이상설이 다시 확산되고 있다. 이번에는 ‘위독설’까지 제기되면서 이란 권력 내부의 이상 기류에 ...",
     "age": "1 day ago",
     "page_age": "2026-08-07T07:16:38",
     "profile": {
@@ -855,28 +877,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/HQAM63SS9xD9Na6NvzAjgxzhTzxkBRhKz5IKvvKOuY4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA4/LzA1LzI2MDgwNTA1/MzUwMjMwNTBfMzA2/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[자막뉴스]김정은도 혈안된 '게임체인저'...한반도에 본격 적용 시작? | YTN",
-    "url": "https://ytn.co.kr/_ln/0134_202608070937175185",
-    "description": "러시아-우크라이나 전쟁에서 소형 자폭드론이 전차와 장갑차를 공격하는 수준을 넘어 탄약고와 공군기지, 지휘시설까지 타격하는 사례가 반복적으로 등장했고요, 미-이란 전쟁에서도 값싼 드론이 고가의 적 방공망을 ...",
-    "age": "1 day ago",
-    "page_age": "2026-08-07T00:37:00",
-    "profile": {
-      "name": "YTN",
-      "url": "https://ytn.co.kr/_ln/0134_202608070937175185"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ytn.co.kr",
-      "hostname": "ytn.co.kr",
-      "favicon": "https://imgs.search.brave.com/3S0-dc9XM94j7IKoo3atRt29uW7fzP0VTLPIF8c36Fc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MGUyNjRl/MDBmMjhhMzk1Mzg4/NDRkN2E2YzAxNTRm/NzY1ZjJiNTg2YzBm/YzAxY2Q3YjZlMjQ4/ZWJlOGI3Mi95dG4u/Y28ua3Iv",
-      "path": "› _ln  › 0134_202608070937175185"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/fa4IUFtEu_MWXXmLVu_o36in6UMsyKLYM3n6u1UK1Ps/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wODA3LzIw/MjYwODA3MDkzNzE3/NTE4NV90LmpwZw"
     }
   }
 ]
