@@ -1,6 +1,28 @@
 [
   {
     "type": "news_result",
+    "title": "후티 반군 \"예멘 모카항의 사우디군 집결지 타격\"",
+    "url": "https://view.asiae.co.kr/article/2026080920501368409",
+    "description": "이란의 지원을 받는 후티는 최근 사우디를 상대로 해상 봉쇄를 선언하고 홍해를 오가는 사우디 유조선을 공격해왔다. 이에 사우디 역시 후티가 통제하는 예멘 내 지역을 대상으로 군사 공격을 이어가면서 양측의 충돌이 ...",
+    "age": "29 minutes ago",
+    "page_age": "2026-08-09T11:50:14",
+    "profile": {
+      "name": "Asiae",
+      "url": "https://view.asiae.co.kr/article/2026080920501368409"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "view.asiae.co.kr",
+      "hostname": "view.asiae.co.kr",
+      "favicon": "https://imgs.search.brave.com/TG_kszJV7lJ3N9ct7i7q5eiL0MyTt_kXzvImOEzQnDk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjZiY2YzYzk2/ZTFhM2MwYzhiNDg0/NjgwZTIyNTRkNmNj/NzZjZTQxYjFkMmFk/NTNmNzQ4M2M3YmRi/YzE4OGQwOS92aWV3/LmFzaWFlLmNvLmty/Lw",
+      "path": "› article  › 2026080920501368409"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/j3wJtnPYnR3sCtlrkx_UhCJUWO3iXqaGf53XYZUt8lA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jcGhv/dG8uYXNpYWUuY28u/a3IvbGlzdGltZ2xp/bmsvMS8yMDI0MDEx/NTExMjQ1MjI5NjUx/XzE3MDUyODU0OTIu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란전 수렁에 美 패트리엇 미사일 급감… “주한미군 등 전력 취약해질 것” 경고음 | 세계일보",
     "url": "https://segye.com/newsView/20260809512128",
     "description": "이란 전쟁 장기화로 핵심 방공 체계인 패트리엇 미사일 등 미군의 무기 부족이 심화하면서 주한미군의 전력 약화까지 우려되고 있다. 무기 재고 급감에 미국 국방부는 방산업체에 신속히 무기를 생산하도록 압박하는 한편, ...",
@@ -23,28 +45,6 @@
   },
   {
     "type": "news_result",
-    "title": "[fn광장] TSMC 멈추면 한국경제도 멈춘다 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202608091857451387",
-    "description": "우크라이나전쟁으로 러북동맹이 부활하여 북한군이 참전하였고, 러시아군 공백이 중동에서 이란과 이스라엘·중동국가 사이의 군사적 충돌로 이어지며 미국까지 참전한 전쟁으로 비화되고 있다.",
-    "age": "2 hours ago",
-    "page_age": "2026-08-09T09:57:50",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202608091857451387"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202608091857451387"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/NYNEREKduxAeeYZfm09B5hBNEl3pFyqKh96G4hC1uo0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDgvMDkvMjAy/NjA4MDkxODU3NDU3/MzIxX2wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란전에 무기소진한 美… 한국 배치 패트리엇까지 빼갔다 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608091811097807",
     "description": "【파이낸셜뉴스 서울·뉴욕=김경민 기자 이병철 특파원】미국이 이란 전쟁에서 패트리엇을 비롯한 핵심 미사일을 대거 소진하면서 무기 재고가 우려스러운 수준까지 떨어졌다. 미국은 한국 등 아시아에 배치한 방공 ...",
@@ -63,6 +63,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美 \"핵심광물 30억弗 투자 … 中의존 탈피\" - 매일경제",
+    "url": "https://mk.co.kr/news/world/12122281",
+    "description": "트럼프 '광물 프로젝트' 발표이란전쟁탓 美무기재고 급감中, 광물을 외교 카드로 활용美전쟁부, 광물산업 직접투자\"미국내 채굴·정제·제조해야\"테네시 투자한 고려아연 언급",
+    "age": "3 hours ago",
+    "page_age": "2026-08-09T08:51:58",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12122281"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12122281"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/xsWvpaEQEQG8v4PSADVfpMb-1izPBrmXl6-ayO9R4OM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OC8xMC8yMDI2MDgx/MF8wMTE2MDEwODAw/MDAwMV9MMDAuanBn"
     }
   },
   {
@@ -268,7 +290,7 @@
     "title": "이란, 美에 철군·피해 배상 요구…\"행동 바로잡을 때까지 호르무즈 폐쇄\" | 아주경제",
     "url": "https://www.ajunews.com/view/20260809153849847",
     "description": "이란 시민들이 1일(현지시간) 테헤란 발리아스르 광장에 설치된 대형 정치 선전판 앞을 지나가고 있다. [사진=EPA·연합뉴스] 이란이 호르무즈 해협 재개방의 조건으로 미국의 해상 봉쇄 해제와 미군 철수, 종전뿐 아니라 전쟁 ...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-08-09T06:43:03",
     "profile": {
       "name": "Aju News",
@@ -287,76 +309,32 @@
   },
   {
     "type": "news_result",
-    "title": "“미군 나가라, 돈 내라”…이란, 호르무즈 ‘6대 조건’",
-    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02430486645545680",
-    "description": "모하마드 바케르 졸가르드 이란 최고국가안보회의 의장은 이날 호르무즈 해협 재개방을 위해선 △미군 철수 △이란과 이란의 동맹국인 레바논, 팔레스타인, 예멘, 이라크에 대한 공격 중단 △이란 해상 봉쇄 해제 △대이란 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-08-09T06:29:42",
+    "title": "이란, 미국에 호르무즈 합의 조건 제시…美 “경기 아직 안 끝나” [종합] - 이투데이",
+    "url": "https://etoday.co.kr/news/view/2612467",
+    "description": "미군 철수·전쟁 배상 등 재개방 5대 조건 요구“오만과 합의 별개로 미국이 충족해야”조건 제시 전 UAE 선박 공격하기도▲아바스 아라그치(가운데) 이란",
+    "age": "7 hours ago",
+    "page_age": "2026-08-09T05:38:00",
     "profile": {
-      "name": "Edaily",
-      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02430486645545680"
+      "name": "Etoday",
+      "url": "https://etoday.co.kr/news/view/2612467"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "edaily.co.kr",
-      "hostname": "edaily.co.kr",
-      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
-      "path": "› News  › Read"
+      "netloc": "etoday.co.kr",
+      "hostname": "etoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/8tYmt61rT0raA4kHfr7ZYeUKu2dRUMue-4o4Oi_bSQ0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MDA2ZDky/MDkxNTA2NmI1NWQw/M2VmZjU0OTZlZDNj/MDc4ZThjYjlmZDVi/MDhhNWRiN2UyZDg4/MGI0MTNjOS9ldG9k/YXkuY28ua3Iv",
+      "path": "› news  › view  › 2612467"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/NkzW32e-ZoSFbBDjBssHB4jjJnkBtQd1VwGSy6d9ggY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wOC9Q/UzI2MDgwOTAwNTYz/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[종합] 美, 이란전에 무기 재고 급감…대중·대러 억제력 약화 우려 | 아주경제",
-    "url": "https://ajunews.com/view/20260809150331791",
-    "description": "미국이 이란 전쟁으로 무기 재고가 급감하자 방산업계에 신속한 증산을 압박하고 있다. 그 여파로 아시아·유럽 배치 전력까지 중동으로 이동하면서 중국과 ...",
-    "age": "6 hours ago",
-    "page_age": "2026-08-09T06:07:17",
-    "profile": {
-      "name": "Aju News",
-      "url": "https://ajunews.com/view/20260809150331791"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "ajunews.com",
-      "favicon": "https://imgs.search.brave.com/U2cz6RHK97gSg0D8ag9ciwl_Pk_5f4KLUmPvy_Eb8GA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhMmJjMmVh/ZGJiOGVmNWE5YTVm/YjVjNmVmMzVlMzM1/YzExZmQ1ZDNjMDlh/MjFhN2U2MWM4NzE1/NzJjYTBlZC9hanVu/ZXdzLmNvbS8",
-      "path": "› view  › 20260809150331791"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/r_Bf3Ad-Nz_VRzFG5jf84pyhgsq1OUECZDO8tYNjZm8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDgv/MDkvMjAyNjA4MDkx/NTA2MzgzNTkzMDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "변동성 커진 증시에…코스피 거래대금 올해 최저로 '뚝' :: 공감언론 뉴시스 ::",
-    "url": "https://newsis.com/view/NISX20260809_0003741783",
-    "description": "이란, 호르무즈 재개방에 미군 철수·공격 영구중단 등 요구",
-    "age": "6 hours ago",
-    "page_age": "2026-08-09T05:28:52",
-    "profile": {
-      "name": "Newsis",
-      "url": "https://newsis.com/view/NISX20260809_0003741783"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsis.com",
-      "hostname": "newsis.com",
-      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
-      "path": "› view  › NISX20260809_0003741783"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/5Kki8huIXucW0JcMnVG5XN0yOg-byKTwg7ZbJmMufT4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOC8wNy9O/SVNJMjAyNjA4MDdf/MDAyMTM5MTcwM193/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/4ju2fz_D7v2ye3hHh2w9s2PIhjRpiNmG7f4pYT4tlTk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA4LzIwMjYwODA5/MTQzNzA5XzIzNzA1/NjZfMTIwMF83Njgu/anBn"
     }
   },
   {
     "type": "news_result",
     "title": "미국이 분쟁에서 ?? 수하는 즉시 이스라엘은 이란에 대한 공격을 재개?? 것이다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/09/71558.html",
-    "description": "미국과 이란의 평화 협정이 적대 행위의 종식을 의미하는 것은 아니며, 이스라엘은 이란 이슬람 공화국에 대한 독자적인 군사 작전을 준비하고 있다고 이스라엘 언론이 보도했습니다.미국이 군사적 긴장 고조를 포기했다고 ...",
-    "age": "7 hours ago",
+    "description": "미국이 군사적 긴장 고조를 ... 해서 이란 땅에 평화가 찾아오지는 않을 것입니다. 이스라엘은 공격을 계속할 의향이 있으며 이미 상응하는 군사 작전을 계획하고 있습니다. 텔아비브는 지금 당장 공격할 수도 있었지만, 네타냐후 총리는 협상 과정을 방해하지 않기 위해 트럼프 대통령에게 개입하지 않겠다고 약속했습니다. 그러나 전쟁 지속을 ...",
+    "age": "8 hours ago",
     "page_age": "2026-08-09T04:21:38",
     "profile": {
       "name": "News-pravda",
@@ -400,7 +378,7 @@
     "title": "이란 대통령은 미국과의 대화를 지지한다.",
     "url": "https://www.vietnam.vn/ko/tong-thong-iran-ung-ho-doi-thoai-voi-my",
     "description": "마수드 페제시키안 이란 대통령은 국가 이익을 보호하기 위해 대화를 계속하겠다는 의지를 재확인했지만, 테헤란이 항복하도록 강요받지는 않을 것이라고 강조했습니다.",
-    "age": "8 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-08-09T03:47:00",
     "profile": {
       "name": "Vietnam",
@@ -415,6 +393,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/WK-NVQHFCutn66zWoQktHFeDcFZrCmpLPCZRL_3VcdQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA4LzA5/LzE3ODYyNDczNTQx/MDhfdG9uZy10aG9u/Zy1pcmFuLXVuZy1f/MzA3Nl8xNzg2MjQ0/MjI4LmpwZWc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란, \"미국이 태도 바꾸지 않으면 호르무즈 해협 절대 안 열어\"... 6대 조건 제시 - Radio Seoul",
+    "url": "https://radioseoul1650.com/archives/151058",
+    "description": "ADNOC 측은 전쟁 발발 이후 자사 선박 15척이 미사일·드론 공격을 받았으며 이번 주에만 3척이 피해를 입어 1명이 사망하고 20명이 부상했다고 밝혔다(CNBC). 이란 혁명수비대(IRGC) 대변인 사르다르 모헤비는 “호르무즈 해협 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-08-09T03:27:42",
+    "profile": {
+      "name": "Radio Seoul",
+      "url": "https://radioseoul1650.com/archives/151058"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "radioseoul1650.com",
+      "hostname": "radioseoul1650.com",
+      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
+      "path": "› archives  › 151058"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/nH3lTwGJ2KWxoLUfeEsKIc9oC-dX8dbDcUbZ-DwohCk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA4L-yd/tOuegC0yLmpwZw"
     }
   },
   {
@@ -463,10 +463,32 @@
   },
   {
     "type": "news_result",
+    "title": "이란, 호르무즈 재개방 조건 '미군 철수·배상금 지급' 요구-국제ㅣ한국일보",
+    "url": "https://www.hankookilbo.com/news/article/A2026080910280005530",
+    "description": "(미국·이란 전쟁) 이란이 호르무즈해협 재개방 조건으로 미군 철수, 전쟁 배상금 등 6가지 요구를 제시했습니다. 이는 미국에 대한 강경 의지를 보여주는 것으로, 현실적 협상보다는 미국 압박에 초점이 맞춰졌습니다. |",
+    "age": "10 hours ago",
+    "page_age": "2026-08-09T01:55:00",
+    "profile": {
+      "name": "한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026080910280005530"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankookilbo.com",
+      "hostname": "www.hankookilbo.com",
+      "favicon": "https://imgs.search.brave.com/S4184ejd6aD_1GnQBd2pVsXQ6EXU2Y3XXquemIiiA5Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjQyMDMxMDY1/YTc5Y2Q4NDFmN2Ex/ZjY4OGRjYzUyYzc1/YmE4MDQzNjMwZThl/OTM5MTAzNjBjMjdk/YTE5OWViZi93d3cu/aGFua29va2lsYm8u/Y29tLw",
+      "path": "› news  › article  › A2026080910280005530"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yL92JE1gVnl1gRDX23a1go5v7-VKuf3BlrUr1H4N4cM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA4LzA5LzVjYTMy/MTMwLTBhZGUtNDU1/ZC05ZWJkLWNkMzM2/YzFmOTQ5Yi5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란, 호르무즈 재개방에 미군 철수·공격 영구중단 등 요구 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202608091043200049",
     "description": "[워싱턴=AP/뉴시스] 이재준 기자 = 이란이 호르무즈 해협 재개방을 위한 전제 조건으로 미군 철수와 공격 영구 중단, 해상봉쇄 해제 등 6가지를 새로 미국에 요구했다. 이란 최고국가안보위원회는 8일(현지시간) 호르무즈 해협을 ...",
-    "age": "10 hours ago",
+    "age": "11 hours ago",
     "page_age": "2026-08-09T01:43:21",
     "profile": {
       "name": "First News",
@@ -485,32 +507,10 @@
   },
   {
     "type": "news_result",
-    "title": "美, 이란전 장기화에 무기 재고 급감&hellip;&quot;대만&middot;한반도 방어 공백 우려&quot;",
-    "url": "https://www.ikbc.co.kr/article/view/kbc202608090010",
-    "description": "▲ 스티븐 파인버그 미 국방부 부장관 [연합뉴스] 미국이 이란과의 전쟁을 치르면서 고가 정밀무기와 방공미사일 재고를 대량 소진해 아시아와 유럽의 안보 공백 우려가 커지고 있다는 분석이 나왔습니다.",
-    "age": "11 hours ago",
-    "page_age": "2026-08-09T00:58:29",
-    "profile": {
-      "name": "Ikbc",
-      "url": "https://www.ikbc.co.kr/article/view/kbc202608090010"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ikbc.co.kr",
-      "hostname": "www.ikbc.co.kr",
-      "favicon": "https://imgs.search.brave.com/2qjLUlOwnQb8kc-8R4SVyWGBVH_-IeMQtAlE1QzM7bU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjdmZjc2ODlk/ZjA5NjE3MDUxNGMw/ZDU4MWI0OGMxYjU1/ZmNlN2ZhNzkzZWMz/MWRiNWNjZDJlM2Vh/NmIzMTRkYS93d3cu/aWtiYy5jby5rci8",
-      "path": "› article  › view  › kbc202608090010"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/tKM8b8lGK2VVPAYhOd26cidem32zrCTCXoaOmIzRtME/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aWtiYy5jby5rci9k/YXRhL2tiYy9pbWFn/ZS8yMDI2LzA4LzA5/L2tiYzIwMjYwODA5/MDAxMC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란 정부에 반발한 女 축구선수… 2명만 호주 시민권 취득 - 전자신문",
     "url": "https://etnews.com/20260807000202",
     "description": "두 선수는 지난 3월 여자 아시안컵 참가를 위해 호주 방문 당시 인도적 지원 비자를 받은 이란 대표팀 선수 7명 중 일부다. 당시 미국·이스라엘과 이란 간 전쟁이 시작된 직후 열린 첫 경기에서 이들 선수가 이란 국가 제창을 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-09T00:45:00",
     "profile": {
       "name": "ET News",
@@ -532,7 +532,7 @@
     "title": "UAE, 이란의 ADNOC 유조선 미사일 공격 공식 규탄…아랍권도 일제히 비난 - 해사신문",
     "url": "http://www.haesanews.com/news/articleView.html?idxno=150065",
     "description": "\"호르무즈 항행 자유 침해·해적 행위\"…이집트·아랍연맹도 이란 책임론 제기 아랍에미리트(UAE) 정부가 호르무즈 해협을 통항하던 자국 국영석유회사 ADNOC 소속 선박이 이란의 미사일 공격을 받았다고 공식 발표하며 이란을 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-09T00:32:12",
     "profile": {
       "name": "Haesanews",
@@ -547,6 +547,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/85bEXfI4dBKsH2Z6ySzCQiGD8ehvoiFUXbgB8nckTz8/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5o/YWVzYW5ld3MuY29t/L25ld3MvdGh1bWJu/YWlsLzIwMjYwOC8x/NTAwNjVfODE0NTZf/MzIxX3YxNTAuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란, 미국에 병력철수·배상금 요구…\"충족시까지 호르무즈 폐쇄\"",
+    "url": "https://v.daum.net/v/20260809155100215",
+    "description": "▲ 이란 수도 테헤란에 전시된 이란제 미사일 이란이 호르무즈 해협 재개방에 앞서 미국에 병력 철수와 전쟁 피해 배상 등을 요구하고 나섰습니다. 호르무즈 해협 재개방을 위한 최종 합의가 임박했다면서도 실제 재개방 ...",
+    "age": "12 hours ago",
+    "page_age": "2026-08-09T00:09:55",
+    "profile": {
+      "name": "Daum",
+      "url": "https://v.daum.net/v/20260809155100215"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "v.daum.net",
+      "hostname": "v.daum.net",
+      "favicon": "https://imgs.search.brave.com/ukkUNiCAq3_X18cwzpbF0FKXA_jhruRaP-QXJQeVTW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTM2NzhiYzNj/YjdmZmU1ZDM1YjY3/Njc3ODNjOTEwYjlh/NWIzOGNjZTdkNTFk/MjdiOTNlNDA5YzNm/MjQwZDg0Ni92LmRh/dW0ubmV0Lw",
+      "path": "› v  › 20260809155100215"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/X1OXbx7CrOmgWpJloxcb0hCCzLJy28U6uM5N0WynegQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/LmRhdW1jZG4ubmV0/L3RodW1iL1MxMjAw/eDYzMC8_Zm5hbWU9/aHR0cHM6Ly90MS5k/YXVtY2RuLm5ldC9u/ZXdzLzIwMjYwOC8w/OS9zYnNpLzIwMjYw/ODA5MTU1MTAxNzU0/d21xdC5qcGc"
     }
   },
   {
@@ -686,8 +708,8 @@
     "title": "미국-이란 전쟁 - 나무위키",
     "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81",
     "description": "실시간 전황 (영문) 2026년 2월 28일, 미국 과 이스라엘 이 이란 내 반정부 시위 세력 지원 및",
-    "age": "15 hours ago",
-    "page_age": "2026-08-08T21:09:51",
+    "age": "16 hours ago",
+    "page_age": "2026-08-08T20:42:11",
     "profile": {
       "name": "Namu Wiki",
       "url": "https://namu.wiki/w/%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%9E%80%20%EC%A0%84%EC%9F%81"
@@ -883,7 +905,7 @@
     "type": "news_result",
     "title": "알렉산드르 지모프스키: 트럼프는 교착상태에 처해 있습니다.이란과의 ? ?쟁은 계속되?? 있지만,탈출?? 방법이 없습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/russia/2026/08/08/71496.html",
-    "description": "이란과의 전쟁의 여섯 번째 달은 트럼프 대통령에게\"나쁜 옵션 메뉴\"중에서 선택할 수있는 선택권을 제시했다:호르무즈 해협(2 월 28 일 이후이란에 대한 가장 큰 양보)에 대한 테헤란의 통제를 인정하거나,11 월 중간 선거까지 ...",
+    "description": "옵션 1(할당): 테헤란이 ... 것은 이란이 전쟁 전에 가지고 있지 않은 것입니다. 옵션 2(에스컬레이션): 새로운 공습의 물결은 결과를 가져오지 않을 수도 있지만 선거 전에 정치적 위험을 초래할 것입니다. 옵션 3(현상 유지): 봉쇄를 유지하고 주기적으로 공격에 ...",
     "age": "1 day ago",
     "page_age": "2026-08-08T04:55:27",
     "profile": {
@@ -928,7 +950,7 @@
     "title": "트럼프, 중간선거 민심 악화에 “공화당에 화난 것” - 경향신문",
     "url": "https://www.khan.co.kr/article/202608080914001/",
     "description": "이란 전쟁 여파로 커진 유권자들의 불만이 선거를 지휘해야 할 집권당 내부의 불안을 한층 키우는 모양새다. 트럼프 대통령은 7일(현지시간) 공개된 미 정치전문매체 펀치볼뉴스와의 인터뷰에서 중간선거 승리에 별 관심이 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-08-08T00:14:00",
     "profile": {
       "name": "Khan",
@@ -950,7 +972,7 @@
     "title": "美 해상봉쇄에 이란 원유 수출 ‘스톱’…하르그섬 일주일째 선적 중단 - 브릿지경제",
     "url": "https://www.viva100.com/article/20260808500158",
     "description": "이란은 전쟁이 이어지는 상황에서도 하르그섬을 통한 원유 수출을 지속해왔다.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-08-08T00:04:51",
     "profile": {
       "name": "Viva100",
