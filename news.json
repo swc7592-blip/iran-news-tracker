@@ -1,6 +1,50 @@
 [
   {
     "type": "news_result",
+    "title": "도파민중독? 이번엔‘롤러코스닥’…7일 32%급등 | 문화일보",
+    "url": "https://munhwa.com/article/11608567",
+    "description": "코스닥 지수가 7 거래일 만에 30% 넘게 오르며 변동성이 급격히 확대되고 있다. 단일종목 레버리지의 기본 예탁금을 늘려 투자 허들을 높인 규제 이후 코스피 등락 폭은 작아졌지만, 단기 차익을 기대하는 개인투자자들이 대거 ...",
+    "age": "30 minutes ago",
+    "page_age": "2026-08-10T21:39:47",
+    "profile": {
+      "name": "Munhwa",
+      "url": "https://munhwa.com/article/11608567"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "munhwa.com",
+      "hostname": "munhwa.com",
+      "favicon": "https://imgs.search.brave.com/w17u7P_sQeDj98du4nCfagINZhBApnFmm63t_l2BlJI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmQ2MDQ2ZDc2/NDE5NDhmMDUxNGNm/ZmU2Mjg1YzQ0NDJj/MGU3MDI0MTBlZWEz/N2Q0ZThmOWYyNTlh/OThlMDM1Ni9tdW5o/d2EuY29tLw",
+      "path": "› article  › 11608567"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/WQQPbBisCkV55203C388nShOnwGpMFgBOXtBCzlsK4Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/Lm11bmh3YS5jb20v/bmV3cy9jbXMvMjAy/Ni8wOC8xMS9uZXdz/LXAudjEuMjAyNjA4/MTEuZDRlNWJkY2Ew/MmZlNGYyMDkyOWNl/ZGVmNmQ2ZTRkOTFf/Ui5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[금/유가] 이란·美 '배상' 충돌에 유가 5% 급등…금도 상승",
+    "url": "https://newspim.com/news/view/20260811000030",
+    "description": "데니스 키슬러 BOK파이낸셜 선임 부사장은 \"미·이란 평화 합의가 지연될 것으로 보이는 가운데 우크라이나의 추가 공격으로 러시아 정유시설과 흑해의 유조선들이 타격을 받으면서 원유 선물이 상승하고 있다\"고 말했다.",
+    "age": "1 hour ago",
+    "page_age": "2026-08-10T20:50:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260811000030"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260811000030"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/sx27zY0TTsmhIxy2gzRRNcRbaak9Vc4jxlomCDjrfDA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDIxLzAz/LzE5LzIxMDMxOTA1/MTYyOTIwMDBfNjEx/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "국제유가, 호르무즈 협상 교착에 5%↑…WTI 다시 80달러대 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608110446024606",
     "description": "이에 도널드 트럼프 미국 대통령은 이란이야말로 과거 저지른 테러와 자국 내 시위대 살해 등에 대해 배상해야 한다고 맞불을 놓고 있다. 중동 지역의 추가적인 공급 차질 우려도 유가 상승 압력을 키웠다. 친이란 성향의 예멘 후티 반군은 전날 사우디아라비아 지잔 지역에 위치한 사우디 국영 석유기업 아람코의 정유공장을 공격했다고 ...",
@@ -26,7 +70,7 @@
     "title": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\" 맞불 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608110229508022",
     "description": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\" 맞불 이란의 배상금 요구에 \"나도 요구…향후 협상서 이 문제 제기\" (워싱턴=연합뉴스) 홍정규 특파원 = 도널드 트럼프 미국 대통령은 10일(현지시간) 이란이 전쟁 피해 ...",
-    "age": "4 hours ago",
+    "age": "5 hours ago",
     "page_age": "2026-08-10T17:29:51",
     "profile": {
       "name": "First News",
@@ -48,7 +92,7 @@
     "title": "트럼프, 이란 배상 요구에 맞불…\"우리도 청구하겠다\"",
     "url": "https://www.newspim.com/news/view/20260811000009",
     "description": "[뉴욕=뉴스핌] 김민정 특파원 = 도널드 트럼프 미국 대통령이 이란의 전쟁 피해 배상 요구에 맞배상 요구로 응수했다.트럼프 대통령은 10일(현지시간) 자신의 소셜미디어 트루스 소셜에 올린 글에서 이란 측 대표들이 지난 ...",
-    "age": "5 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-08-10T16:38:00",
     "profile": {
       "name": "Newspim",
@@ -70,7 +114,7 @@
     "title": "이란 \"사우디·튀르키예·파키스탄 3국 안보협정, 더 이상 美에 의존 못한다는 각성\"",
     "url": "https://newspim.com/news/view/20260811000004",
     "description": "협정은 세 국가 중 어느 한 국가에 대한 무력 공격은 세 국가 모두에 대한 공격으로 간주한다는 내용을 담고 있다. 이란의 반관영통신 타스팀에 따르면 에스마일 바가이 이란 외무부 대변인은 이날 언론 브리핑에서 \"메카 ...",
-    "age": "6 hours ago",
+    "age": "7 hours ago",
     "page_age": "2026-08-10T15:18:00",
     "profile": {
       "name": "Newspim",
@@ -89,32 +133,10 @@
   },
   {
     "type": "news_result",
-    "title": "나이지리아 '납치와의 전쟁'…33명 추가 구출 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260810154700099",
-    "description": "(요하네스버그=연합뉴스) 나확진 특파원 = 나이지리아 치안 당국이 최근 군과 경찰을 동원해 납치 범죄에 강력히 대응하면서 잇따라 피해자들을 구출...",
-    "age": "7 hours ago",
-    "page_age": "2026-08-10T14:19:07",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260810154700099"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260810154700099"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/jObNMw3S_0LevAkefCDerygdRBn_2njboCDcQtuVJqQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc1/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDgvMDUv/UFJVMjAyNjA4MDUw/NTA1MDEwMDlfUDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "뉴욕증시, 지지부진한 미-이란 합의 속 혼조 출발 | KB의 생각",
     "url": "https://kbthink.com/news-list/view.html?newsId=20260810231350035",
     "description": "도널드 트럼프 미국 대통령은 전일 악시오스와의 인터뷰에서 \"우리는 이란과의 관계에 대해 조용히 진행하고 있다\"고 언급하며 새로운 군사 공격을 명령하기보다 경제적 압박을 강화할 준비가 되어 있음을 시사했다.",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-08-10T14:13:47",
     "profile": {
       "name": "KB",
@@ -136,7 +158,7 @@
     "title": "War on Iran: Phase II: Day 30 | Newsfeed | Al Jazeera",
     "url": "https://aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30",
     "description": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
-    "age": "7 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-08-10T14:07:04",
     "profile": {
       "name": "Al Jazeera",
@@ -180,7 +202,7 @@
     "title": "트럼프 “이란, 군인에 줄 돈도 부족”…공습 대신 ‘경제 고사’ 선회",
     "url": "https://www.donga.com/news/Inter/article/all/20260810/134448951/1",
     "description": "이란은 같은 날 혁명수비대 사령관 출신의 강경파 인사인 모센 레자이를 핵·국방·외교안보 정책을 총괄하는 최고국가안보회의(SNSC)의 새 사무총장으로 발탁했다. 이란 의회 또한 9일 미국과 이스라엘의 민간 선박에 대해 ...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-10T10:36:00",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -202,7 +224,7 @@
     "title": "트럼프, 무기 바닥나자 ‘이란 고사작전’ 선회? | 채널A 뉴스",
     "url": "https://ichannela.com/news/detail/000000544398.do",
     "description": "[앵커] 트럼프 미 대통령이 이란 고사작전으로 선회했다는 평가가 나옵니다. 그동안엔 합의 안 하면 군사 폭격 하겠다고 하더니, ’로키(low key)’, 저강도로 대응하겠다고 밝혔습니다. 외신들은 미사일이 부족해지는 등...",
-    "age": "11 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-08-10T10:28:00",
     "profile": {
       "name": "iChannelA",
@@ -246,7 +268,7 @@
     "title": "[포토] 이란전쟁에 바닥 보인 美 미사일…한국 안보 빨간불",
     "url": "https://www.incheonilbo.com/news/galleryView.html?idxno=1329255",
     "description": "이란 전쟁 장기화로 미국의 패트리엇 미사일 등 방공 무기 재고가 급감하면서 아시아에서 중동으로 무기가 이동해 한반도의 안보 공백 우려가 커지고 있다. 10일 오전 평택시 캠프 험프리스 주한 미군기지에 배치된 지대공 ...",
-    "age": "13 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-08-10T08:05:00",
     "profile": {
       "name": "Incheonilbo",
@@ -265,10 +287,32 @@
   },
   {
     "type": "news_result",
+    "title": "[국제]방공망 붕괴 우크라이나, 한국에도 'SOS' | YTN",
+    "url": "https://ytn.co.kr/_ln/0104_202608101653077700",
+    "description": "이란 전쟁 여파로 미군의 무기가 바닥나자 불똥이 우크라이나로 튀고 있습니다.미국의 지원을 받지 못한 우크라이나는 연일 러시아의 미사일 공격에 방공망이 뚫리면서, ...",
+    "age": "14 hours ago",
+    "page_age": "2026-08-10T07:53:00",
+    "profile": {
+      "name": "YTN",
+      "url": "https://ytn.co.kr/_ln/0104_202608101653077700"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ytn.co.kr",
+      "hostname": "ytn.co.kr",
+      "favicon": "https://imgs.search.brave.com/3S0-dc9XM94j7IKoo3atRt29uW7fzP0VTLPIF8c36Fc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MGUyNjRl/MDBmMjhhMzk1Mzg4/NDRkN2E2YzAxNTRm/NzY1ZjJiNTg2YzBm/YzAxY2Q3YjZlMjQ4/ZWJlOGI3Mi95dG4u/Y28ua3Iv",
+      "path": "› _ln  › 0104_202608101653077700"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/G8_ZpukxF9btiCMNFA5TnvWuM3F-hr9v-CPU40OoRVQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS55dG4uY28ua3Iv/Z2VuZXJhbC9qcGcv/MjAyNi8wODEwLzIw/MjYwODEwMTY1MzA3/NzcwMF90LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "[허프 사람&말] 이란이 최고지도자 모즈타바 동영상 공개했다 : 위독설 잠재우지 못할 것 같은 이유",
     "url": "https://www.huffingtonpost.kr/article/259427",
     "description": "이란 반관영 매체 메흐르 통신이 공개한 모즈타바 하메네이 이란 최고지도자 모습. ⓒ 메흐르통신=JTBC 갈무리 · 미국과 이스라엘 정보기관조차 5개월 넘게 모즈타바 하메네이 최고지도자의 행방을 확인하지 못하고 있다는 ...",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-08-10T07:21:43",
     "profile": {
       "name": "Huffington Post",
@@ -290,7 +334,7 @@
     "title": "석유기업 이란 전쟁 특수…횡재세 압박도 | 한국경제",
     "url": "https://www.hankyung.com/article/2026081035471",
     "description": "석유기업 이란 전쟁 특수…횡재세 압박도, 호르무즈 봉쇄로 국제 유가 급등 엑슨모빌 4년만에 최대 정제이익 홍해 리스크에 지속될진 불투명",
-    "age": "14 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-08-10T07:11:48",
     "profile": {
       "name": "Hankyung",
@@ -312,7 +356,7 @@
     "title": "이란 의회 상임위, 美·이스라엘 선박 호르무즈 통항금지 법안 승인 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20260810_0003743010",
     "description": "[서울=뉴시스] 신효령 기자 = 이란 의회가 미국·이스라엘 관련 선박의 호르무즈 해협 통항 금지를 법제화하는 작업에 나섰다.9일(현지시간) 이란 반관영 파르스통신 등에 따르면 이란 의회 국가안보·외교정책위원회는 이날 ...",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-10T06:39:04",
     "profile": {
       "name": "Newsis",
@@ -333,8 +377,8 @@
     "type": "news_result",
     "title": "이란 신임 최고안보수장에 ‘군부 베테랑’ 레자이···강경파 입지 더 세지나 - 경향신문",
     "url": "https://www.khan.co.kr/article/202608101530011/",
-    "description": "재임 중 약 8년간 이라크와의 전쟁을 지휘했다. 1987년 이란에서 발생한 미국 석유회사 경영진 암살사건을 주도했다는 ��혹을 받았고, 1994년 85명이 숨진 아르헨티나 유대인센터 폭탄 테러 배후로 지목돼 인터폴 적색수배에 ...",
-    "age": "15 hours ago",
+    "description": "재임 중 약 8년간 이라크와의 전쟁을 지휘했다. 1987년 이란에서 발생한 미국 석유회사 경영진 암살사건을 주도했다는 의혹을 받았고, 1994년 85명이 숨진 아르헨티나 유대인센터 폭탄 테러 배후로 지목돼 인터폴 적색수배에 ...",
+    "age": "16 hours ago",
     "page_age": "2026-08-10T06:30:00",
     "profile": {
       "name": "Khan",
@@ -356,7 +400,7 @@
     "title": "이란 “美 조건 이행 전 호르무즈 안 연다”…오만과는 새 항로 ‘막판 조율’",
     "url": "https://v.daum.net/v/20260810224955063",
     "description": "이란은 또 레바논·팔레스타인·예멘·이라크 등 역내 우호 세력에 대한 공격을 중단하고 이란을 겨냥한 위협과 모욕 역시 멈출 것을 미국에 요구했다.",
-    "age": "15 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-08-10T06:20:08",
     "profile": {
       "name": "Daum",
@@ -375,10 +419,54 @@
   },
   {
     "type": "news_result",
+    "title": "이란 강경 요구에도 담담한 트럼프…핵합의 없이 전쟁서 발빼나 | 세계일보",
+    "url": "https://segye.com/newsView/20260810514692",
+    "description": "이란이 한층 더 강경해진 호르무즈 재개방 선결 조건을 내놨음에도 도널드 트럼프 미국 대통령이 군사 옵션을 언급하지 않아 전쟁 출구 전략을 모색하는 것 아니냐는 관측이 나온다.",
+    "age": "16 hours ago",
+    "page_age": "2026-08-10T06:12:40",
+    "profile": {
+      "name": "Sekye",
+      "url": "https://segye.com/newsView/20260810514692"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "segye.com",
+      "hostname": "segye.com",
+      "favicon": "https://imgs.search.brave.com/eEnwHCcQbEY0YavA8Mb5k8a17JAOWUC2sWNdsVNGNv0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQyODBjMGIw/Y2VmNTYxNWRiN2U2/YWFlZjY3MGIzNjQw/NTU3Y2QyZDgyZWNh/ZWU0YjczMzE5MDY5/MmUxOTQ1YS9zZWd5/ZS5jb20v",
+      "path": "› newsView  › 20260810514692"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8Mzu8MZg_-hhPTrJzy8di6TYI9V0_x7DKuHudP9pIxQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VneWUuY29tL2Nv/bnRlbnQvaW1hZ2Uv/MjAyNi8wOC8xMC8y/MDI2MDgxMDUxNDk1/OC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[단독] 한국 드론기술, 우크라 전장서 시험 중…“스타트업 여러 곳 참여” - 이투데이",
+    "url": "https://etoday.co.kr/news/view/2612806",
+    "description": "우크라 방산 전문가 크리자니우스카 본지 서면 인터뷰소프트웨어·드론 부품 분야 스타트업 참여“아직 조달·공동개발 단계는 아냐”▲올레나 크리자니우",
+    "age": "17 hours ago",
+    "page_age": "2026-08-10T05:33:00",
+    "profile": {
+      "name": "Etoday",
+      "url": "https://etoday.co.kr/news/view/2612806"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "etoday.co.kr",
+      "hostname": "etoday.co.kr",
+      "favicon": "https://imgs.search.brave.com/8tYmt61rT0raA4kHfr7ZYeUKu2dRUMue-4o4Oi_bSQ0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MDA2ZDky/MDkxNTA2NmI1NWQw/M2VmZjU0OTZlZDNj/MDc4ZThjYjlmZDVi/MDhhNWRiN2UyZDg4/MGI0MTNjOS9ldG9k/YXkuY28ua3Iv",
+      "path": "› news  › view  › 2612806"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/B3TRSiCFhBlEe4UdxukimGP_8czSuoQIBKCgPaqASUM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA4LzIwMjYwODEw/MTQyODE3XzIzNzEw/NTRfMTE3OV8xMTc5/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "트럼프는 폭격 연기를 통해 이란의 경? ?를 붕괴시키? ? 한다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/south-korea/2026/08/10/71606.html",
     "description": "미국 대통령은 인터뷰에서 이란에 대한 어떠한 위협도, 특히 공격 계획을 언급하지 않아 언론을 놀라게 했다. 불과 일주일 전만 해도 제2차 세계대전 이후 \"가장 강력한\" 공격으로 이란을 완전히 파괴하겠다고 위협했던 것과는 ...",
-    "age": "18 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-08-10T03:36:32",
     "profile": {
       "name": "News-pravda",
@@ -422,7 +510,7 @@
     "title": "이란, 호르무즈 재개방에 고강도 조건…트럼프 '승리 선언' 난항 - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202608101106325902",
     "description": "이란은 미사일과 드론을 이용한 간헐적인 공격만으로도 해협의 상선 운항을 크게 위축시키며 국제유가에 영향을 미쳤다.",
-    "age": "19 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-08-10T02:07:01",
     "profile": {
       "name": "First News",
@@ -444,7 +532,7 @@
     "title": "이란, 강경모드에서 초강경모드로? 혁수대 OB의 전면 등판",
     "url": "https://www.newspim.com/news/view/20260810000274",
     "description": "신임 레자이 총장은 1980년대 ... '올드보이(OB)'다. 당초 최고안보회의 수장이었던 알리 라리자니가 올해 초 미·이스라엘의 이란 공격 과정에서 사망한 뒤 졸가드르가 자리를 이어받았으나, 불과 수개월 만에 다시 수장이 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-10T01:33:00",
     "profile": {
       "name": "Newspim",
@@ -466,7 +554,7 @@
     "title": "[세계는 지금] 전쟁 장기화에 당사국들 무기 확보 전쟁 < 유영혁의 세계는 지금 < 세계 일반 < 세계 < 기사본문 - 여성신문",
     "url": "https://womennews.co.kr/news/articleView.html?idxno=280824",
     "description": "이러한 공격이 이란 정권을 ... 이란 국민을 더욱 등 돌리게 만들 가능성이 높다고 지적했다. 전쟁이 시작되기 전 케인 의장과 다른 군 지도부 역시 장기화되는 군사 작전이 미군의 무기 재고, 특히 이스라엘과 우크라이나를 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-08-10T01:11:32",
     "profile": {
       "name": "Womennews",
@@ -477,28 +565,6 @@
       "netloc": "womennews.co.kr",
       "hostname": "womennews.co.kr",
       "favicon": "https://imgs.search.brave.com/5CcgGvMTdng0Fr1_uh3tjsREq4DbzgB-D5RjBLFVRrE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzgyNDc1ZDAz/ZmFhZjNmMGIzMjEw/YzA1YzFlZjY3YmRk/ZTI2OGNjMmExYmNm/YWMwZmExYTVkODAz/MzkzY2ZmMC93b21l/bm5ld3MuY28ua3Iv",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Dx_Fj3QQxx5XNzMyN8SqGCR-t9D3F5aEIjmdcjFRZvA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/d29tZW5uZXdzLmNv/LmtyL25ld3MvdGh1/bWJuYWlsLzIwMjYw/OC8yODA4MjRfNDUy/Mzg0XzMxNF92MTUw/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[세계는 지금] 전쟁 장기화에 당사국들 무기 확보 전쟁 < 유영혁의 세계는 지금 < 세계 일반 < 세계 < 기사본문 - 여성신문",
-    "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280824",
-    "description": "흑해 연안 우크라이나 남부에 있는 항구 도시 오데사는 러시아가 점령 중인 크름반도와 가까워 러시아군의 잦은 공격 표적이 되어 왔다. 4년 넘게 전쟁을 벌이고 있는 우크라이나와 러시아 뿐만 아니라 5개월이 넘게 이란과 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-08-10T01:11:32",
-    "profile": {
-      "name": "Womennews",
-      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=280824"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "womennews.co.kr",
-      "hostname": "www.womennews.co.kr",
-      "favicon": "https://imgs.search.brave.com/r_OPN7PYOxj5CtQ9EgTWZzGbuSrFIdpvLJlE-6eBrys/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2Q3MzVlMWRk/Y2RjM2Y5ZmM5NWU1/YjY4MzUyNTFlMTg3/MjUwMzUzMmI2YjU2/ZDA2MTE3OWViYzRm/YTYyYzBlMC93d3cu/d29tZW5uZXdzLmNv/LmtyLw",
       "path": "› news  › articleView.html"
     },
     "thumbnail": {
@@ -575,7 +641,7 @@
     "type": "news_result",
     "title": "트럼프의 &apos;로우 키&apos;…이란전 진퇴양난 속 &apos;선거관리&apos; 국면으로 선회하나",
     "url": "https://www.newspim.com/news/view/20260810000130",
-    "description": "[시드니=뉴스핌] 권지언 ... 이란과의 대치 국면에서 추가 군사행동 대신 경제적 압박에 무게를 싣는 이른바 '로우 키(low-key)' 대응으로 방향을 선회한 모습이다. 호르무즈 해협 전면 개방을 발판으로 '승전'을 선언하며 전쟁에서 빠져나오려던 ...",
+    "description": "트럼프 대통령으로서는 이란의 핵무기 개발을 저지하면서도 호르무즈 해협을 통한 에너지 공급을 정상화하고, 유가 상승에 따른 인플레이션 부담을 낮추는 것이 정치적으로도 중요한 과제가 된 셈이다. 트럼프 대통령은 최근 \"제2차 세계대전 이후 최대 규모의 군사 공격...",
     "age": "1 day ago",
     "page_age": "2026-08-09T23:53:00",
     "profile": {
@@ -635,28 +701,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/PvSiuDP5p57hd3bCm61VtbDgwHlI63rthj6dBddvRpE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA4LzEwL2UwNjQ5/NjhkLWFmZTMtNDc5/ZC1hNWQ1LTU0NmNh/YmRlNGY4MC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“트럼프, 핵 없이 호르무즈만 열어도 철수 언급” 이란은 “누구 맘대로”[이태규의 워싱턴 플레이북] | 서울경제",
-    "url": "https://www.sedaily.com/article/20077455",
-    "description": "그동안 “이란은 절대 ... 것으로 알려졌다. 이란전에서 발을 뺄 뾰족한 수가 안 보이자 전쟁 목표를 스스로 축소하는 것이지만, 이란...",
-    "age": "1 day ago",
-    "page_age": "2026-08-09T22:01:14",
-    "profile": {
-      "name": "Sedaily",
-      "url": "https://www.sedaily.com/article/20077455"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "www.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
-      "path": "› article  › 20077455"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/JwIhfY3Ao2aMedNGdKKgftXuTVxojVnAu7OEpIZ1cdU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDgvMTAvbmV3/cy1wLnYxLjIwMjYw/ODEwLjllOTcwYTk0/Y2NkZjQ5YmE4ZGVj/MDIzOWI0YTY0NmY3/X1IuanBn"
     }
   },
   {
@@ -950,7 +994,7 @@
     "title": "이란, 美에 병력철수·배상금 요구…\"충족시까지 호르무즈 폐쇄\"(종합) | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20260809031351009",
     "description": "이란은 우선 미국이 이란에 대한 해상 봉쇄와 제재를 해제하고, 이란 주변 지역에서 해군·공군 등 병력을 철수해야 한다고 요구했다. 아울러 미국이 두 차례의 '침략 전쟁'에 따른 피해를 배상하고, 대이란 제재를 해제하며, ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-08-09T09:53:37",
     "profile": {
       "name": "Yonhap News Agency",
@@ -1167,28 +1211,6 @@
   },
   {
     "type": "news_result",
-    "title": "[종합] 美, 이란전에 무기 재고 급감…대중·대러 억제력 약화 우려 | 아주경제",
-    "url": "https://ajunews.com/view/20260809150331791",
-    "description": "미국이 이란 전쟁으로 무기 재고가 급감하자 방산업계에 신속한 증산을 압박하고 있다. 그 여파로 아시아·유럽 배치 전력까지 중동으로 이동하면서 중국과 ...",
-    "age": "2 days ago",
-    "page_age": "2026-08-09T06:07:17",
-    "profile": {
-      "name": "Aju News",
-      "url": "https://ajunews.com/view/20260809150331791"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ajunews.com",
-      "hostname": "ajunews.com",
-      "favicon": "https://imgs.search.brave.com/U2cz6RHK97gSg0D8ag9ciwl_Pk_5f4KLUmPvy_Eb8GA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhMmJjMmVh/ZGJiOGVmNWE5YTVm/YjVjNmVmMzVlMzM1/YzExZmQ1ZDNjMDlh/MjFhN2U2MWM4NzE1/NzJjYTBlZC9hanVu/ZXdzLmNvbS8",
-      "path": "› view  › 20260809150331791"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/r_Bf3Ad-Nz_VRzFG5jf84pyhgsq1OUECZDO8tYNjZm8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMDgv/MDkvMjAyNjA4MDkx/NTA2MzgzNTkzMDQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "미국이 분쟁에서 ?? 수하는 즉시 이스라엘은 이란에 대한 공격을 재개?? 것이다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/08/09/71558.html",
     "description": "미국과 이란의 평화 협정이 적대 행위의 종식을 의미하는 것은 아니며, 이스라엘은 이란 이슬람 공화국에 대한 독자적인 군사 작전을 준비하고 있다고 이스라엘 언론이 보도했습니다.미국이 군사적 긴장 고조를 포기했다고 ...",
@@ -1235,7 +1257,7 @@
     "type": "news_result",
     "title": "이란 대통령은 미국과의 대화를 지지한다.",
     "url": "https://www.vietnam.vn/ko/tong-thong-iran-ung-ho-doi-thoai-voi-my",
-    "description": "마수드 페제시키안 이란 대통령은 국가 이익을 보호하기 위해 대화를 계속하겠다는 의지를 재확인했지만, 테헤란이 항복하도록 강요받지는 않을 것이라고 강조��습니다.",
+    "description": "마수드 페제시키안 이란 대통령은 국가 이익을 보호하기 위해 대화를 계속하겠다는 의지를 재확인했지만, 테헤란이 항복하도록 강요받지는 않을 것이라고 강조했습니다.",
     "age": "2 days ago",
     "page_age": "2026-08-09T03:47:00",
     "profile": {
@@ -1343,28 +1365,6 @@
   },
   {
     "type": "news_result",
-    "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?update=4840806",
-    "description": "IRGC sets conditions to reopen the Strait of Hormuz as the US seeks commitments to end attacks on ships in the waterway.",
-    "age": "2 days ago",
-    "page_age": "2026-08-09T00:00:00",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?update=4840806"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
-      "path": "› news  › liveblog  › 2026  › 8  › 9  › iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/mT5UNkIzwLHrHj0KG5zizxDzJrN4_DtLokWkavn2SF8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOC9BRlBfXzIw/MjYwODA4X19DNDlC/OFoyX192MV9fTWlk/UmVzX19JcmFuVXNJ/c3JhZWxXYXItMTc4/NjI2OTk0Mi5qcGc_/cmVzaXplPTEyMDAl/MkM2MzA"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks | US-Israel war on Iran News | Al Jazeera",
     "url": "https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?update=4839311",
     "description": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
@@ -1383,6 +1383,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/7OUKNSWUYueagsBLbCxoSn6AR8QNcB54sX_XVZZw4AI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOC9BRlBfXzIw/MjYwODA4X19DNDhY/NldGX192NF9fSGln/aFJlc19fVG9wc2hv/dElyYW5Vc0lzcmFl/bFdhci0xNzg2MjMz/MTI2LmpwZz9yZXNp/emU9MTkyMCUyQzE0/NDA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Iran war live: Tehran seeks ‘to create grounds’ for talks with US | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?update=4840806",
+    "description": "IRGC sets conditions to reopen the Strait of Hormuz as the US seeks commitments to end attacks on ships in the waterway.",
+    "age": "2 days ago",
+    "page_age": "2026-08-09T00:00:00",
+    "profile": {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?update=4840806"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "aljazeera.com",
+      "hostname": "aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
+      "path": "› news  › liveblog  › 2026  › 8  › 9  › iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/mT5UNkIzwLHrHj0KG5zizxDzJrN4_DtLokWkavn2SF8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOC9BRlBfXzIw/MjYwODA4X19DNDlC/OFoyX192MV9fTWlk/UmVzX19JcmFuVXNJ/c3JhZWxXYXItMTc4/NjI2OTk0Mi5qcGc_/cmVzaXplPTEyMDAl/MkM2MzA"
     }
   }
 ]
