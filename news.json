@@ -1,200 +1,156 @@
 [
   {
     "type": "news_result",
-    "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
-    "url": "https://hani.co.kr/arti/culture/book/1278045.html",
-    "description": "출판계 불황 속에서 국내 주요 출판사들이 문학 진영으로 사업을 빠르게 넓혀가고 있다. 특히 교양 논픽션 시장은 위축되고 그나마 문학 작품이 팔리는 상황 가운데 벌어지는 일이다. 2024년 상반기 ‘베스트 셀러 10’에 1종만 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-16T02:22:00",
-    "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/culture/book/1278045.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › culture  › book  › 1278045.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/jSth_4eVx2s_QuQ3SHhS4z2_bIu4pUKo50zJeGGCCW8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC82OTcvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTE2LzIw/MjYwOTE2NTAxMzcz/LndlYnA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "아이돌 공연 암표상 24억 벌어 집 샀다…BTS 표 30배 뻥튀기",
-    "url": "https://hani.co.kr/arti/area/capital/1278044.html",
-    "description": "인기 공연과 스포츠 경기 표를 매크로 프로그램으로 사들여 웃돈을 받고 되판 30대 남성이 검찰에 넘겨졌다. 이 남성은 11만원짜리 방탄소년단(BTS) 콘서트 표를 300만원에 파는 등 7년 넘게 24억여원어치의 암표를 판매한 혐의를 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-16T02:20:00",
-    "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/area/capital/1278044.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › area  › capital  › 1278044.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3z2l82JbVKO1LnDUL2_fs1y4xjG3iQUy6Z07qJ6vcT0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/ODAwLzYwMC9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTYvMjAy/NjA5MTY1MDEzNTcu/d2VicA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "윤석열, ‘한덕수 내란 재판 위증’ 항소심서도 무죄",
-    "url": "https://hani.co.kr/arti/society/society_general/1278043.html",
-    "description": "구멍난 ‘안보우산’ 믿어도 되나…아랍7개국, 미국·이스라엘 비공개로 만나 · 내일 NSC 앞두고…제주서도 “침략전쟁 파병 반대” · 트럼프, 이란전 하루 전비만 3355억 썼다…미사일 보충 5년 걸려",
+    "title": "메카도 드론 피격…美정부, 사우디 여행 재고 권고 - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202609161627530229",
+    "description": "사우디 민방위국은 15일 메카를 비롯해 제다, 타이프 지역에 공습 가능성을 알리는 경보를 발령했다. 이슬람 성지 메카에 경보가 발령된 것은 이란 전쟁 발발 이후 처음이다.",
     "age": "5 hours ago",
-    "page_age": "2026-09-16T02:15:00",
+    "page_age": "2026-09-16T07:30:23",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/society/society_general/1278043.html"
+      "name": "First News",
+      "url": "https://fnnews.com/news/202609161627530229"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › society  › society_general  › 1278043.html"
+      "netloc": "fnnews.com",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202609161627530229"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/SHNyOaf1PTle9X2hp5BsPv24yKCu1WhdGoxWf0ibl84/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC84MDAvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTE2LzIw/MjYwOTE2NTAxMzM2/LndlYnA"
+      "src": "https://imgs.search.brave.com/1aeEQI2VNMvEv9z8MkUSdfZ0Qfal_edx2WoLNbISRk4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMTYvMjAy/NjA5MTYxNTI3MTY1/MzY2X2UuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "서울 시내버스 파업 막았지만…소정근로시간·추가지급액 산정 ‘산 넘어 산’",
-    "url": "https://hani.co.kr/arti/area/capital/1278042.html",
-    "description": "구멍난 ‘안보우산’ 믿어도 되나…아랍7개국, 미국·이스라엘 비공개로 만나 · 내일 NSC 앞두고…제주서도 “침략전쟁 파병 반대” · 트럼프, 이란전 하루 전비만 3355억 썼다…미사일 보충 5년 걸려",
+    "title": "이란 전쟁 5개월 만에 52조원 쓴 美…내년 물가도 올린다 | 서울경제",
+    "url": "https://sedaily.com/article/20091705",
+    "description": "미국이 이란과의 전쟁 발발 후 5개월여 동안 약 380억 달러(약 52조 원)를 지출했다는 분석 결과가 나왔다. 미국의 총 국가부채가 40조 달러를 돌파하며 재정 압박이 가중되는 가운데 군사적 긴장이 격화할 경우 전쟁 비용이 ...",
     "age": "5 hours ago",
-    "page_age": "2026-09-16T02:11:00",
+    "page_age": "2026-09-16T07:20:33",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/area/capital/1278042.html"
+      "name": "Sedaily",
+      "url": "https://sedaily.com/article/20091705"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › area  › capital  › 1278042.html"
+      "netloc": "sedaily.com",
+      "hostname": "sedaily.com",
+      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
+      "path": "› article  › 20091705"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/8zUfxD87qORPMf1zcxGLyRMHfVYC0cOxG-oEiWQbTVA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC84MDAvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTE2LzIw/MjYwOTE2NTAxMzEw/LndlYnA"
+      "src": "https://imgs.search.brave.com/lms-D3gd_nO2Cct5yu88JihAZO-MkC9Ic7UNQK0UVy8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMTYvbmV3/cy1wLnYxLjIwMjYw/OTE2LjQ0NzMyZjcz/MjUwNjRlMjZhN2Rj/ZWMxNDQ3OWI5Nzk2/X1oxLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "대구 군부대 5곳, 군위로 통합 이전 행정절차 시작…2031년 완료 목표",
-    "url": "https://hani.co.kr/arti/area/yeongnam/1278041.html",
-    "description": "구멍난 ‘안보우산’ 믿어도 되나…아랍7개국, 미국·이스라엘 비공개로 만나 · 내일 NSC 앞두고…제주서도 “침략전쟁 파병 반대” · 트럼프, 이란전 하루 전비만 3355억 썼다…미사일 보충 5년 걸려",
+    "title": "\"뚫리면 소비자 직격탄\"…금융당국, PG업계 보안 리스크 집중 점검 < 경제/금융 일반 < 경제 < 기사본문 - 와이드경제",
+    "url": "https://widedaily.com/news/articleView.html?idxno=301166",
+    "description": "최근 전자지급결제대행(PG) 업계에서 개인정보 유출 사고가 잇따르자 금융당국이 선제적인 보안 점검에 나섰다. 금융위원회는 16일 유영준 디지털금융정책관 주재로 '프런티어 AI 상황대응반' 제6차 회의를 열고 PG업권의 보안 ...",
     "age": "5 hours ago",
-    "page_age": "2026-09-16T02:05:00",
+    "page_age": "2026-09-16T07:07:59",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/area/yeongnam/1278041.html"
+      "name": "Widedaily",
+      "url": "https://widedaily.com/news/articleView.html?idxno=301166"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › area  › yeongnam  › 1278041.html"
+      "netloc": "widedaily.com",
+      "hostname": "widedaily.com",
+      "favicon": "https://imgs.search.brave.com/-m_-zy0R9VlwMElmFYno6BbUEJ_hGdMcDG6vZYpcE6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWEwODM3MDQ0/MDJkZTMxZGUwZDhl/ZDY1YmJlMTExNGY5/NDA3YzJlYjUwYmFk/MzViZTBlNzA3MTE2/NmQzMTBjOC93aWRl/ZGFpbHkuY29tLw",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/B2hBc-XF-Bxi3B6MxhkgX2gMRxyk8wAYihkX1vTbYwo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/NjI4LzcyMy9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTYvMjAy/NjA5MTY1MDEyNjMu/d2VicA"
+      "src": "https://imgs.search.brave.com/laBWoi9lmoFexwMzeoN_wUvYKCe_L_8Jpo4IqwzwZr0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/d2lkZWRhaWx5LmNv/bS9uZXdzL3RodW1i/bmFpbC8yMDI2MDkv/MzAxMTY2XzMwODY4/OF83NTFfdjE1MC5q/cGc"
     }
   },
   {
     "type": "news_result",
-    "title": "임신중지약, 헌법불합치 7년 만에 도입…첫 2년 ‘의료기관 내’ 처방·조제",
-    "url": "https://hani.co.kr/arti/society/women/1278040.html",
-    "description": "구멍난 ‘안보우산’ 믿어도 되나…아랍7개국, 미국·이스라엘 비공개로 만나 · 내일 NSC 앞두고…제주서도 “침략전쟁 파병 반대” · 트럼프, 이란전 하루 전비만 3355억 썼다…미사일 보충 5년 걸려",
-    "age": "5 hours ago",
-    "page_age": "2026-09-16T02:02:00",
+    "title": "“이란 어선, 미군 수상정 나포하려다 공격받아“",
+    "url": "https://yonhapnewstv.co.kr/news/MYH20260916054826riL",
+    "description": "호르무즈 해협에서 드론 공격을 당한 것으로 알려진 이란 어선 2척이 미군의 무인 수상정 나포를 시도하다가 미군의 공격을 받았다는 보도가 나왔습니다. 미 매체 악시오스는 현지시간 15일 “이슬람혁명수비대가 호르무즈 ...",
+    "age": "15 hours ago",
+    "page_age": "2026-09-15T20:48:26",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/society/women/1278040.html"
+      "name": "Yonhapnewstv",
+      "url": "https://yonhapnewstv.co.kr/news/MYH20260916054826riL"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › society  › women  › 1278040.html"
+      "netloc": "yonhapnewstv.co.kr",
+      "hostname": "yonhapnewstv.co.kr",
+      "favicon": "https://imgs.search.brave.com/QdyriCtXlNF0k9wxHIxU6MKhjvZ0M4Lrs3pnIw9tHPA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTFhZTljYjc1/ZDA0MjMyMGEwOGQ5/YTM1YWFiNDcwNjYz/ZjVlMjNlMWQ5MDY5/YmVmYjNmMTQ3MTc5/ZDMzOTJhNi95b25o/YXBuZXdzdHYuY28u/a3Iv",
+      "path": "› news  › MYH20260916054826riL"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/C76CPkTGL6Qd0AIWM-SpAU6QtpYHYwx4NFplzmxwSbE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC84NzgvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTE2LzMy/MTc4OTUyNzI5MjY1/MzIud2VicA"
+      "src": "https://imgs.search.brave.com/x0wKvuZkQsKbdy5Z4KnMKi9S1DGMzNiLxM-4ezn7AWc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS55b25oYXBuZXdz/dHYuY28ua3IvYXJ0/aWNsZS9NWUgvMjAy/NjA5MTUvTVlIMjAy/NjA5MTYwNTQ4MjZy/aUwuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "‘교사 5명 딥페이크 불법 합성물’ 제작·유포 10대 법정구속",
-    "url": "https://hani.co.kr/arti/area/capital/1278039.html",
-    "description": "구멍난 ‘안보우산’ 믿어도 되나…아랍7개국, 미국·이스라엘 비공개로 만나 · 내일 NSC 앞두고…제주서도 “침략전쟁 파병 반대” · 트럼프, 이란전 하루 전비만 3355억 썼다…미사일 보충 5년 걸려",
-    "age": "5 hours ago",
-    "page_age": "2026-09-16T02:00:00",
+    "title": "밴스 \"이란 전쟁, 중간선거 이후 종료…전혀 다른 국면 진입\"",
+    "url": "https://bloomingbit.io/feed/news/120424",
+    "description": "JD 밴스 미국 부통령이 이란 전쟁이 중간선거 이후 종료될 것이라는 전망에 동의하며 향후 전쟁이 \"전혀 다른 국면\"에 진입할 것이라고 밝혔다. 15일(현지시간) 월터 블룸버그에 따르면 밴스 부통령은 이란 전쟁이 중간선거 ...",
+    "age": "16 hours ago",
+    "page_age": "2026-09-15T19:56:01",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/area/capital/1278039.html"
+      "name": "Bloomingbit",
+      "url": "https://bloomingbit.io/feed/news/120424"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › area  › capital  › 1278039.html"
+      "netloc": "bloomingbit.io",
+      "hostname": "bloomingbit.io",
+      "favicon": "https://imgs.search.brave.com/jkr1yAIidQIQqDjGQA8ITBUdjK6X9V7a-k3P_fmPPTs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODc0MDhlOGE3/NzNjN2E1ZTQxY2Vi/YTc5NGI2NTJkMGYx/ODZhMTBmOGI0NzY4/YjMxNjQ4NDc3OGFi/M2M2MTA0ZS9ibG9v/bWluZ2JpdC5pby8",
+      "path": "› feed  › news  › 120424"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/B1_Bm8FZHSTKE8iBWgnKXfmGjVWXGrH8tAFsPu2XPyo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/NzcyLzM2Ni9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTYvMjAy/NjA5MTY1MDEyMTAu/d2VicA"
+      "src": "https://imgs.search.brave.com/3MNhCqWUUkKPkhGcjrmNHS89GAnGzqo5l0L1lQw7b-Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ibG9vbWluZ2Jp/dC5pby9uZXdzLzVh/YjhhZDQ5LTA5OTQt/NGEyMi1iMThlLTE4/Mjc0MTRjMmNhZS53/ZWJw"
     }
   },
   {
     "type": "news_result",
-    "title": "호르무즈 파병, 명분도 실리도 없다 [박노자의 한국, 안과 밖]",
-    "url": "https://hani.co.kr/arti/opinion/column/1277999.html",
-    "description": "그런 이재명 정권이 윤석열의 ... 미국·이스라엘 극우 정권의 불법 침략 전쟁에 한국을 연루시키고 다수의 시민들이 원하지 않는 백해무익한 파병을 감행한다면 이는 최악의 자기 배신이자 궁극적으로는 정치적 자살행위가 될 것이다. ... ‘좋은 침략’이란 존재하지 ...",
-    "age": "11 hours ago",
-    "page_age": "2026-09-15T20:00:00",
+    "title": "소유진, 으리으리한 주방 공개…고급 인테리어 눈길 :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260915_0003790298",
+    "description": "\"러 공격에 집 파괴…수건 한장만 남아\" 우크라 테니스 스타의 분노 · '중동 강호' 요르단 잡은 남자 농구, 이란과 준결승전(종합)",
+    "age": "1 day ago",
+    "page_age": "2026-09-15T15:00:00",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/opinion/column/1277999.html"
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260915_0003790298"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › opinion  › column  › 1277999.html"
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260915_0003790298"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/tGdiOlRg3lW5Chp_BBUsVswSgrYEs5KsxJ1g4Xiy-kg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MjI4LzY0MC9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTYvMjAy/NjA5MTY1MDAwNjgu/d2VicA"
+      "src": "https://imgs.search.brave.com/oWr7H6QWwvspCys5Chu74xTGaJJ-MZy1eCsqmGiSlIU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOS8xNS9O/SVNJMjAyNjA5MTVf/MDAwMjIzOTgxMV93/ZWIuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "\"협상 불가\": 이란은 미국이 ? ?시한 조건이 충족?? 때까지 대화에 나서지 않?? 다?? 밝혔다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/09/15/74759.html",
-    "description": "이란 당국은 미국이 협상 ... 요구 사항에는 이란에 대한 봉쇄 및 경제 압박 해제, 이란 자산 동결 해제, 그리고 이스라엘의 레바논 및 가자지구 공격 중단 등이 포함됩니다....",
-    "age": "17 hours ago",
-    "page_age": "2026-09-15T13:18:25",
+    "title": "ইরানি হামলায় মার্কিন ঘাঁটিতে ধ্বংস শত শত ভবন ও ড্রোন",
+    "url": "https://onenewsbd.com/2026/09/15/543185",
+    "description": "ইরানের সঙ্গে সংঘাতে যুক্তরাষ্ট্রের সামরিক বাহিনী ঠিক কতখানি ক্ষয়ক্ষতির মুখে পড়েছে, পেন্টাগনের এক গোপন প্রতি...",
+    "age": "1 day ago",
+    "page_age": "2026-09-15T13:48:59",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/09/15/74759.html"
+      "name": "One News BD",
+      "url": "https://onenewsbd.com/2026/09/15/543185"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 09  › 15  › 74759.html"
+      "netloc": "onenewsbd.com",
+      "hostname": "onenewsbd.com",
+      "favicon": "https://imgs.search.brave.com/h0gHMVzBTXza4PMe7vUgCu1X_9VLEb6wgZHZpo003hs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGUxMTExNWYx/ZjhiYmRkYTAzNDU2/ODljYTNmNDFlMTE2/NDYxODdhMDcxNzg5/NGE0ODkxYzYzYjIx/MWVmYTEyMC9vbmVu/ZXdzYmQuY29tLw",
+      "path": "› 2026  › 09  › 15  › 543185"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/7xkkb21o_X30_jN5kNyplySbdn5jTbIzRVk1Wk9Q_gQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTE1Lzk0NGZi/MzBjODYwNTFhNWQ0/MjRhMDYyMTU5NmQw/ZDcxLmpwZw"
+      "src": "https://imgs.search.brave.com/nrzxDFrcMjctOabW6AeWzrNSz56eIMDv969CqwZ1rHg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/b25lbmV3c2JkLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOS9TY3JlZW5z/aG90LTIwMjYtMDkt/MTUtMTk0NzMzLnBu/Zw"
     }
   },
   {
@@ -202,7 +158,7 @@
     "title": "지금 이란 전쟁 전황이 존나 심각한 이유",
     "url": "https://bbs.ruliweb.com/community/board/300143/read/76686758",
     "description": "럼프가 지난달까지는 이란 전쟁을 한달에 평균 10번 이상 승리 선언 했는데 9월이 이미 절반이나 지났음에도 불구하고 이번달에는 겨우 한 번 밖에 승리하지 못했음",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-15T11:50:48",
     "profile": {
       "name": "Ruliweb",
@@ -221,68 +177,24 @@
   },
   {
     "type": "news_result",
-    "title": "美전쟁부, 첫 이란전쟁 피해 보고서…\"탄약 재고 부족\" 인정 - 머니투데이",
-    "url": "https://www.mt.co.kr/world/2026/09/15/2026091517230236879",
-    "description": "미 전쟁(국방)부가 이란 전쟁으로 탄약을 비롯한 군수품 부족 사태가 발생했다는 사실을 처음으로 인정했다. 14일(현지시간) CNN·NBC 등에 따르면 전쟁부 감찰관은 이란 전쟁 발발 후 넉 달간 소모된 비용이 약 334억달러(약 ...",
+    "title": "Wasiirka Arrimaha Dibadda Iran oo sheegay in isku-duwidda gobolka ay muhiim u tahay ka hortagga “gardarrada Israa’iil” - Star FM",
+    "url": "https://starfm.co.ke/wasiirka-arrimaha-dibadda-iran-oo-sheegay-in-isku-duwidda-gobolka-ay-muhiim-u-tahay-ka-hortagga-gardarrada-israaiil",
+    "description": "Telefishinka Press TV ee Iran ayaa sheegay in Wasiirka Arrimaha Dibadda Iran, Abbas Araghchi, uu khadka taleefanka kula xiriiray Guddoomiyaha Baarlamaanka",
     "age": "1 day ago",
-    "page_age": "2026-09-15T09:07:13",
+    "page_age": "2026-09-15T08:25:28",
     "profile": {
-      "name": "Mt",
-      "url": "https://www.mt.co.kr/world/2026/09/15/2026091517230236879"
+      "name": "Star FM",
+      "url": "https://starfm.co.ke/wasiirka-arrimaha-dibadda-iran-oo-sheegay-in-isku-duwidda-gobolka-ay-muhiim-u-tahay-ka-hortagga-gardarrada-israaiil"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "mt.co.kr",
-      "hostname": "www.mt.co.kr",
-      "favicon": "https://imgs.search.brave.com/i0ZvllZujUwXm7Ix4-_1ToHeW7Eq3L6F7Ei6VLmsewY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI3ODA0YWNk/M2JkYTk5YjM5MDJm/NTZkZGE2ZWYxMjk5/OTM0OWVjMTg3MTUz/ZDE0YTA4YTRmNTcy/ZjVjMDUxYy93d3cu/bXQuY28ua3Iv",
-      "path": "› world  › 2026  › 09  › 15  › 2026091517230236879"
+      "netloc": "starfm.co.ke",
+      "hostname": "starfm.co.ke",
+      "favicon": "https://imgs.search.brave.com/YJOWJnRwzOznyN4upYq3fDAAwdq7XcmRx2XKKMpedGA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGViNGI3ZGIx/ZDBiMTMzNWViNTc1/MmE0YjhjYzkyNDU2/ZGI4ZmY4MzgxNjFl/Y2ExNzkzNDlhNGY2/Njg4ZDg1MC9zdGFy/Zm0uY28ua2Uv",
+      "path": "› wasiirka-arrimaha-dibadda-iran-oo-sheegay-in-isku-duwidda-gobolka-ay-muhiim-u-tahay-ka-hortagga-gardarrada-israaiil"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/NUfy0OWpN27U9phQiDVAMuDlSMfWfRFTH3eCFNHH_6E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi5tdC5jby5rci9j/ZG4tY2dpL2ltYWdl/L2Y9YXZpZi8yMS8y/MDI2LzA5LzIwMjYw/OTE1MTcyMzAyMzY4/NzlfMS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美, 이란전 피해 첫 공식 집계…\"중동 기지 시설 수백 곳 피해\"",
-    "url": "https://newspim.com/news/view/20260915001172",
-    "description": "[서울=뉴스핌] 최원진 기자= 미 국방부 감찰관실이 이란 전쟁 개전 이후 처음으로 미국 측의 군사 장비 및 시설 피해 규모를 담은 첫 공식 보고서를 발표했다.이란의 공습으로 쿠웨이트, 바레인, 사우디아라비아 등 중동 내 ...",
-    "age": "1 day ago",
-    "page_age": "2026-09-15T07:32:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260915001172"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260915001172"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_aBKf-iJI_Cpa8bnQF6713S8Sob1f71TIagF5IZKWnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDIzLzEw/LzE4LzIzMTAxODE1/MDUyNjczMTBfNjA3/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 “무제한”이라더니…美국방 “이란전으로 탄약 부족” 시인 | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25462043",
-    "description": "F-15E 4대, KC-135 공중급유기 7대, AH-6 헬리콥터 4대, MQ-9 리퍼 드론 최소 30대를 포함해 50대 이상의 미군 항공기도 손상을 입거나 파괴됐다. 보고서는 2월28일부터 6월29일까지 이란 전쟁 비용을 334억 달러(약 45조원)로 추산했으나 ...",
-    "age": "1 day ago",
-    "page_age": "2026-09-15T07:22:09",
-    "profile": {
-      "name": "JoongAng Ilbo",
-      "url": "https://www.joongang.co.kr/article/25462043"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25462043"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/HrfI5kd9SU4EQKs0c2mfNNverSdnOzTIv0Cc_U9Usdc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDkvMTUvMTU0/ZTgzMDQtNDI2OC00/NDEyLTk4YzctYTY5/MGJlMzhlMzMwLmpw/Zw"
+      "src": "https://imgs.search.brave.com/FuQoqmpRLx1ZutJ4XhWDgzLFkscEmFHGuNJMIsI85aE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFy/Zm0uY28ua2Uvd3At/Y29udGVudC91cGxv/YWRzLzIwMjYvMDkv/VW50aXRsZWQtMTIw/LmpwZw"
     }
   },
   {
@@ -353,42 +265,20 @@
   },
   {
     "type": "news_result",
-    "title": "이란 드론에 흔들린 ‘AI 허브’ 야심…걸프 데이터센터 6개월째 마비 - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10874218",
-    "description": "애런 바트닉 전 백악관 기술담당관은 “풍부한 자본과 저렴한 에너지, 신속한 건설을 제시한 걸프국의 경제적 계산이 이란 전쟁으로 180도 뒤집어졌다”고 말했다.",
-    "age": "1 day ago",
-    "page_age": "2026-09-15T05:48:55",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10874218"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10874218"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/kBG98hAf0OazHQiczrN2IGAQjio5vmJqgO1eYKhg4Rc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDkvMTUv/bmV3cy1wLnYxLjIw/MjYwNjEyLmQwYmNk/MDBlMzlkZjQxNWRi/ZTMwNjI4NzhhZjk5/ZjhlX1AxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란전쟁 美 피해 들여다 보니…미군기지 수백곳 파괴·18명 사망",
-    "url": "https://dailian.co.kr/news/view/1690625/%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%E7%BE%8E-%ED%94%BC%ED%95%B4-%EC%B2%98%EC%9D%8C-%EA%B9%8C%EB%B3%B4%EB%8B%88%EB%AF%B8%EA%B5%B0%EA%B8%B0%EC%A7%80-2026",
+    "url": "https://www.dailian.co.kr/news/view/1690625/%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%E7%BE%8E-%ED%94%BC%ED%95%B4-%EC%B2%98%EC%9D%8C-%EA%B9%8C%EB%B3%B4%EB%8B%88%EB%AF%B8%EA%B5%B0%EA%B8%B0%EC%A7%80-2026",
     "description": "이후 발생한 피해까지 포함하면 이란전쟁 발발 이후 미군 누적 사망자는 18명이다. 미국 외교시설도 상당한 피해를 입었다. 중동 지역 미 대사관 등 외교시설 피해액은 약 1억 8400만 달러(약 2500억원)로 집계됐다. 미국인 대피와 긴급 대응에는 약 1억 1300만 달러가 투입됐고 약 9000명이 현지에서 대피했다. 전쟁 ...",
     "age": "1 day ago",
     "page_age": "2026-09-15T05:35:00",
     "profile": {
       "name": "Dailian",
-      "url": "https://dailian.co.kr/news/view/1690625/%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%E7%BE%8E-%ED%94%BC%ED%95%B4-%EC%B2%98%EC%9D%8C-%EA%B9%8C%EB%B3%B4%EB%8B%88%EB%AF%B8%EA%B5%B0%EA%B8%B0%EC%A7%80-2026"
+      "url": "https://www.dailian.co.kr/news/view/1690625/%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%E7%BE%8E-%ED%94%BC%ED%95%B4-%EC%B2%98%EC%9D%8C-%EA%B9%8C%EB%B3%B4%EB%8B%88%EB%AF%B8%EA%B5%B0%EA%B8%B0%EC%A7%80-2026"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "dailian.co.kr",
-      "hostname": "dailian.co.kr",
-      "favicon": "https://imgs.search.brave.com/FVyyCLw47fsA-NFm7obdceQBaxi6rB81ReTy07-oUhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZhNDllMTEw/N2QwM2M5ZmQwNWM0/OGI4YWNkMDZjYmE0/MTU2NmFhYzMwYTVm/MDAzN2ZlMDViMDMx/ODVhNzhhOC9kYWls/aWFuLmNvLmtyLw",
+      "hostname": "www.dailian.co.kr",
+      "favicon": "https://imgs.search.brave.com/NSTlDPTkdbyU1BvZx9ubITf6GIVeFL4jHpe8rZua090/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxZTkyYmIz/OWUwYzk0NjRiNTdi/NzNlMDc4YjFhMDJi/ZGE3MDAxYWNmYWJi/Y2MxYzBiNjU0Mjg1/NWEwMThlYy93d3cu/ZGFpbGlhbi5jby5r/ci8",
       "path": "› news  › view  › 1690625  › 이란전쟁-美-피해-처음-까보니미군기지-2026"
     },
     "thumbnail": {
@@ -397,24 +287,24 @@
   },
   {
     "type": "news_result",
-    "title": "이란 남해안서 어선 2척 무인기 피격...어부 다수 실종 < 중동·아프리카 < 세계 < 기사본문 - 여성신문",
-    "url": "https://womennews.co.kr/news/articleView.html?idxno=282200",
+    "title": "이란 남해안서 어선 2척 무인기 피격...어부 다수 실종 < 아시아,호주 < 한반도W < 기사본문 - SPN 서울평양뉴스",
+    "url": "https://spnews.co.kr/news/articleView.html?idxno=110774",
     "description": "이란 남부 해안 지대의 해상에서 14일 밤(현지시각) 어선 2척이 무인기 폭격을 당했으며, 수 많은 어부들이 실종 상태라고 이란 반관영 메흐르 통신이 보도했다. 어선들이 공격을 당한 곳은 남부 항구도시 카르간 근처의 바다와 ...",
     "age": "1 day ago",
-    "page_age": "2026-09-15T01:48:54",
+    "page_age": "2026-09-15T01:42:58",
     "profile": {
-      "name": "Womennews",
-      "url": "https://womennews.co.kr/news/articleView.html?idxno=282200"
+      "name": "Spnews",
+      "url": "https://spnews.co.kr/news/articleView.html?idxno=110774"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "womennews.co.kr",
-      "hostname": "womennews.co.kr",
-      "favicon": "https://imgs.search.brave.com/5CcgGvMTdng0Fr1_uh3tjsREq4DbzgB-D5RjBLFVRrE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzgyNDc1ZDAz/ZmFhZjNmMGIzMjEw/YzA1YzFlZjY3YmRk/ZTI2OGNjMmExYmNm/YWMwZmExYTVkODAz/MzkzY2ZmMC93b21l/bm5ld3MuY28ua3Iv",
+      "netloc": "spnews.co.kr",
+      "hostname": "spnews.co.kr",
+      "favicon": "https://imgs.search.brave.com/rHcAlyo0PeHCqlf6BshM6CGj58J7PoGv8pQoD7NBBYQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Q2NDNiNTNj/NmJmZjdlYTI4NGQ5/M2QzYTJlNGJhOTE3/M2ZmODA3NmM1OWE1/MjEwMmYxMDlhN2Q1/ZjE2NzU0Yi9zcG5l/d3MuY28ua3Iv",
       "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/mwYTgiaKcMSSiiT4MHlJTtVRbX1GZATdhzXlQzJQ5_E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/d29tZW5uZXdzLmNv/LmtyL25ld3MvdGh1/bWJuYWlsLzIwMjYw/OS8yODIyMDBfNDU0/NDcyXzMyNDJfdjE1/MC5qcGc"
+      "src": "https://imgs.search.brave.com/zysr1aW73QnqpmZZ6cPdPL0nlo7vx22eMR1yuOV7XiY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BuZXdzLmNvLmty/L25ld3MvcGhvdG8v/MjAyNjA5LzExMDc3/NF8xMTMwOTJfNDMy/Ny5wbmc"
     }
   },
   {
@@ -422,7 +312,7 @@
     "title": "Iran war updates: US says Saudi pipeline to resume as Yemen fighting rages | US-Israel war on Iran News | Al Jazeera",
     "url": "https://aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines",
     "description": "These were the updates on the US-Israel war on Iran from Tuesday, September 15, 2026.",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-09-15T00:00:00",
     "profile": {
       "name": "Al Jazeera",
