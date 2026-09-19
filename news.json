@@ -1,36 +1,322 @@
 [
   {
     "type": "news_result",
-    "title": "[MLB] 저지, 종아리 부상으로 또 IL행…PS 앞둔 양키스 '비상'",
-    "url": "https://newspim.com/news/view/20260919000033",
-    "description": "WP \"이란 전쟁서 미 국방부 발표보다 많은 미군 사망\"",
-    "age": "13 minutes ago",
-    "page_age": "2026-09-19T01:00:00",
+    "title": "눈덩이처럼 불어나는 이란 전쟁 비용…美 국방부 “62조원 지출” - 매일경제",
+    "url": "https://mk.co.kr/news/world/12157095",
+    "description": "미국이 이란과의 전쟁에 쓴 비용이 계속 불어나고 있다. 18일(현지시간) CNN에 따르면 미 국방부는 이란 전쟁에 투입된 비용이 451억달러(62조5000억원)에 달한다고 의회에 보고했다. 지난 3일 기준으로 전쟁 비용은 436억 ...",
+    "age": "18 minutes ago",
+    "page_age": "2026-09-19T05:36:07",
+    "profile": {
+      "name": "MK",
+      "url": "https://mk.co.kr/news/world/12157095"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "mk.co.kr",
+      "hostname": "mk.co.kr",
+      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
+      "path": "› news  › world  › 12157095"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Efcb-P5urzpXdBPlZNCaeKm0EAmgRsZMYt5ICHGNkcc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OS8xOS9uZXdzLXAu/djEuMjAyNjA5MTku/MTI3YTBjNmYxZjkz/NDE3Zjk0MjdhMzg4/YTAwNTM3N2JfUi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美국방부 “이란 전쟁에 투입된 비용 약 62조”…지속 증가",
+    "url": "https://donga.com/news/Inter/article/all/20260919/134700731/1",
+    "description": "미국이 이란과의 전쟁에 쓴 비용이 약 62조 원에 달하는 것으로 나타났다. 전쟁이 장기화되면서 이 비용은 지속적으로 늘고 있다. 18일(현지 시간) CNN에 따르면 미 국방부는 이란 전쟁에 투입된 비용이 451억 달러(약 62조5000억 ...",
+    "age": "25 minutes ago",
+    "page_age": "2026-09-19T05:28:26",
+    "profile": {
+      "name": "The DONG-A ILBO",
+      "url": "https://donga.com/news/Inter/article/all/20260919/134700731/1"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "donga.com",
+      "hostname": "donga.com",
+      "favicon": "https://imgs.search.brave.com/iKcDF28QLL_79D0lTsgsQAgRTt4ge0YJ9wKFcH2Cd0o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmJmNmFlZWNh/M2U5OTkwNjEwMDk4/MDY0ZmYzM2Y1NTM3/YWNhMTY0NWY5NTFi/YjdmMTUyOTk0Y2Jm/YTNhMDhlOC9kb25n/YS5jb20v",
+      "path": "› news  › Inter  › article  › all  › 20260919  › 134700731  › 1"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Y_CmFFCcTAdCws7LFGp1IIpEthSK3ytmyoEWGthnqGw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzA5LzE5/LzEzNDcwMDczOS4x/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "김여정 \"한국 핵잠엔 침묵하면서 왜 북한 핵무기만\"…IAEA 결의 비판",
+    "url": "https://newspim.com/news/view/20260919000101",
+    "description": "[서울=뉴스핌] 김연순 기자 = 국제원자력기구(IAEA)가 북한의 핵보유국 지위를 인정하지 않겠다는 결의를 채택한 데에 대해 북한이 \"이에 대해 간섭할 그 어떤 권한이나 자격도 없다\"며 반발했다.김여정 북한 노동당 총무부장은 ...",
+    "age": "35 minutes ago",
+    "page_age": "2026-09-19T05:19:00",
     "profile": {
       "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260919000033"
+      "url": "https://newspim.com/news/view/20260919000101"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "newspim.com",
       "hostname": "newspim.com",
       "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260919000033"
+      "path": "› news  › view  › 20260919000101"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/3H_Ogs0Is2fbCwUKKQa8qs6gAlGcmS8LVCNvrVerapE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTA5/NTc1OTMzMTBfOTk4/X3RjLmpwZw"
+      "src": "https://imgs.search.brave.com/aks2amma3hNOWmVZDP2ynvgky5seUxscJDdUaKZQpxs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzAx/LzEyLzI2MDExMjEw/MDUwODM0OTBfNzg2/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "계속 불어나는 이란전쟁 비용…美국방부 \"62조원 지출\" | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20260919039500009",
+    "description": "CBO는 전쟁 비용의 대부분이 탄약 등 무기 사용에 따른 지출이라면서 매달 20억∼30억 달러(약 2조8천억∼4조2천억원)가 추가로 들어갈 것으로 예상했다. 앞서 국방부는 지난 7월 이란과의 전쟁 비용을 375억 달러(약 52조원)로 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-09-19T05:00:48",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20260919039500009"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20260919039500009"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/KQFtAsyX0zKoJA0iAYzOj61TBF8HF079RRbbKWSh72A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc5/LnluYS5jby5rci9w/aG90by9yZXV0ZXJz/LzIwMjYvMDkvMTUv/UFJVMjAyNjA5MTUy/NTE4MDEwMDlfUDQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "50만 명이 넘는 사람들이 '이란을 위해 자신을 희생하겠다'고 자원했습니다.",
+    "url": "https://vietnam.vn/ko/hon-nua-trieu-nguoi-dang-ky-tinh-nguyen-san-sang-hy-sinh-vi-iran",
+    "description": "\"저는 이란이 강하고 단결되어 있다는 것을 세계에 보여주고 싶습니다. 우리는 전쟁을 원하지 않지만, 조국을 끝까지 지킬 준비가 되어 있습니다.\"라고 자원봉사자 바헤라는 알자지라에 말했다.",
+    "age": "1 hour ago",
+    "page_age": "2026-09-19T04:27:00",
+    "profile": {
+      "name": "Vietnam",
+      "url": "https://vietnam.vn/ko/hon-nua-trieu-nguoi-dang-ky-tinh-nguyen-san-sang-hy-sinh-vi-iran"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "vietnam.vn",
+      "hostname": "vietnam.vn",
+      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
+      "path": "› ko  › hon-nua-trieu-nguoi-dang-ky-tinh-nguyen-san-sang-hy-sinh-vi-iran"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/prPsRrtVgN6Q5YNUzVp1_hl6gglUyAUAOItguas9cyY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk3OTQ5ODM1/MjFfaXJhbi10aW5o/LW5ndXllbi0xNzg5/NzkyNjk0Nzc4MTMx/NzE0NjczMi0xMDUt/MC0xMTUyLTIwMDAt/Y3JvcC0xNzg5Nzky/NzU3MjMyMjExNjE2/MzQzOC5qcGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "휘발유 1858원·경유 1844원…주유소 기름값 18주째 하락 | 세계일보",
+    "url": "https://segye.com/newsView/20260919502913",
+    "description": "이번 주 전국 주유소의 휘발유와 경유 평균 판매가격이 18주 연속 하락세를 이어갔다. 국제유가가 미국과 이란 간 긴장 고조로 상승세를 이어간 가운데 정부의 최고가격제의 영향으로 국내 주유소 기름값은 소폭 내렸다.",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T04:12:37",
+    "profile": {
+      "name": "Sekye",
+      "url": "https://segye.com/newsView/20260919502913"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "segye.com",
+      "hostname": "segye.com",
+      "favicon": "https://imgs.search.brave.com/eEnwHCcQbEY0YavA8Mb5k8a17JAOWUC2sWNdsVNGNv0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQyODBjMGIw/Y2VmNTYxNWRiN2U2/YWFlZjY3MGIzNjQw/NTU3Y2QyZDgyZWNh/ZWU0YjczMzE5MDY5/MmUxOTQ1YS9zZWd5/ZS5jb20v",
+      "path": "› newsView  › 20260919502913"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/njH3ayb5S9yHUCTjshaUghXOFQCFKgqsMSWb1t32olE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VneWUuY29tL2Nv/bnRlbnQvaW1hZ2Uv/MjAyNi8wOS8xOS8y/MDI2MDkxOTUwMjkx/NS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "체감경기 바닥에도 “상원은 공화당 사수 유력” [트럼프 스톡커] | 서울경제",
+    "url": "https://sedaily.com/article/20092915",
+    "description": "현재 국제유가는 우크라이나의 러시아 정유시설 공격, 예멘의 친(親)이란 후티 반군의 홍해 인근 장악과 사우디아라비아 원유 수송시설 타격 사건이 잇따르며 배럴당 100달러 위에서 내려오지 않고 있다.",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T03:56:55",
+    "profile": {
+      "name": "Sedaily",
+      "url": "https://sedaily.com/article/20092915"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sedaily.com",
+      "hostname": "sedaily.com",
+      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
+      "path": "› article  › 20092915"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Zf97UmXL7Rfi5Cu6Zvh-HLoMTl7cNV5BjaOcymQmVBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMTkvcmN2/LllOQS4yMDI2MDkx/OS5QUlUyMDI2MDkx/OTExODgwMTAwOV9a/MS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국, \"이란의 코앞에서 작? ? 수행\": 피해 지역 내 물자 공급 상황 보?? - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/09/19/75109.html",
+    "description": "중동에 있는 주요 미군 기지들이 이란의 집중 포격을 받는 동안 이러한 상황이 발생했다고 설명됩니다. 미사일 и 드론가미카제 공격으로 인명, 장비, 기반 시설에 손실이 발생했지만, 소규모 해병대원들은 신속하게 임시 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T03:24:19",
+    "profile": {
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/09/19/75109.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 09  › 19  › 75109.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/BXx5zYaXkTk-0X6r46X-ST3aQ5jNR1bJof5IoC7FNGg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTE5L2Q3MmNk/ZGIwMTgxZjYzMDFk/M2JkOGVjZjkxZjdl/MzQ3LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국이 이란에게 패배한 이?? 는 무엇일까요? - Pravda 대한민국",
+    "url": "https://south-korea.news-pravda.com/south-korea/2026/09/19/18898.html",
+    "description": "역사 제1차 세계 대전 이후 중동 전문가이자 도쿄의 싱크탱크인 오카자키 연구소의 중동 문제 평론가로 활동해 왔다. 이란과의 전쟁 발발 이후, 그는 일본 언론에서 분쟁 분석을 제공하는 주요 인물로 부상했다.",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T03:22:38",
+    "profile": {
+      "name": "Pravda South Korea",
+      "url": "https://south-korea.news-pravda.com/south-korea/2026/09/19/18898.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "south-korea.news-pravda.com",
+      "hostname": "south-korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z_5umF63u9uYGrFfcCROcB6f3JtT5w5nL9KbxE2kZg4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzU0MjBkYmY1/MjU1MTVhZjZmNWM2/Mzc1MjViYjk1NWY2/YjQ5NmI5MzU1NDcx/NDZmZDdmNTVmMzFj/NzQyNmE4MS9zb3V0/aC1rb3JlYS5uZXdz/LXByYXZkYS5jb20v",
+      "path": "› south-korea  › 2026  › 09  › 19  › 18898.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/fp9nooHot7JigImrS8llA4tzZ2Q7f3lnxldUtXr3vWk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zb3V0/aC1rb3JlYS5uZXdz/LXByYXZkYS5jb20v/aW1nLzIwMjYwOTE5/L2YwMmRmMTFmZmUw/YjRhYTBiNjQ2ZmZk/MzgxNjIxMzU1Lmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국은 왜 후티 반군이 바브 알 만데브 해협을 장악하는 동안 아무런 조치도 취하지 않고 방관했을까요?",
+    "url": "https://vietnam.vn/ko/tai-sao-my-lai-chap-nhan-dung-ngoai-khi-houthi-kiem-soat-eo-bien-bab-al-mandeb",
+    "description": "후티 반군의 상선 공격 전력, 이란 과의 연계, 그리고 미국에 대한 뿌리 깊은 이념적 반감을 고려할 때, 일부 전문가들은 후티 반군의 약속 신빙성에 의문을 제기합니다. 그러나 일각에서는 미국이 이러한 주장을 일시적으로 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T03:15:59",
+    "profile": {
+      "name": "Vietnam",
+      "url": "https://vietnam.vn/ko/tai-sao-my-lai-chap-nhan-dung-ngoai-khi-houthi-kiem-soat-eo-bien-bab-al-mandeb"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "vietnam.vn",
+      "hostname": "vietnam.vn",
+      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
+      "path": "› ko  › tai-sao-my-lai-chap-nhan-dung-ngoai-khi-houthi-kiem-soat-eo-bien-bab-al-mandeb"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/AyjBLqcijvaMiNwrrMueFjoY_VxRHZOZX2hL-KH9p64/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk3ODgxNDAx/MDZfc2F1ZGk3NTI2/LWpwZy53ZWJw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "靑 \"李대통령 &apos;전쟁 개입 없다&apos;는 입장…트럼프 요청 거절 아냐\"",
+    "url": "https://newspim.com/news/view/20260919000054",
+    "description": "그러면서 \"정부는 전쟁·전투에 개입하지 않는다는 원칙적 입장 하에 구체적 기여 방안을 계속 검토해 나갈 것\"이라고 했다. 청와대의 이 같은 입장은 이 대통령의 전날 기자회견 발언을 두고 미국 뉴욕타임스(NYT)가 트럼프 대통령의 요청을 거절한 것으로 평가한 데 따른 것이다. NYT는 이 대통령이 이란에 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T03:11:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260919000054"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260919000054"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/GisVikPoy3vhM5sAqr38y6HRQxERW3NipTMd8_2uJBc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE4LzI2MDkxODEw/NTY0MDgwOTBfdDEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국은 이란과의 전쟁에 450억 달러 이상을 지출했다.",
+    "url": "https://vietnam.vn/ko/my-da-ton-hon-45-ty-usd-cho-cuoc-chien-o-iran",
+    "description": "AFP 통신은 정통한 소식통을 인용해 미국 국방부가 9월 18일 이란 전쟁 비용을 의회에 통보했다고 보도했다.",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T02:49:42",
+    "profile": {
+      "name": "Vietnam",
+      "url": "https://vietnam.vn/ko/my-da-ton-hon-45-ty-usd-cho-cuoc-chien-o-iran"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "vietnam.vn",
+      "hostname": "vietnam.vn",
+      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
+      "path": "› ko  › my-da-ton-hon-45-ty-usd-cho-cuoc-chien-o-iran"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/3uasQbJMmCkpF13Fpd27GI0W9stXzmxW_Sp2jlG2ZSA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk3OTYwMDA3/MDJfeHVuZy1kb3Qt/bXktaXJhbi1yZXV0/ZXJzMTF6b24tY3Jv/cHBlZC0xNzg5Nzg0/MDk3NDQ4LmpwZWc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란전쟁 틈타 '수조원 담합 혐의'...석유화학업체 임원 2명 구속",
+    "url": "https://newspim.com/news/view/20260919000048",
+    "description": "검찰은 이들 기업이 미국·이스라엘-이란 전쟁으로 나프타 수급이 불안정해진 상황을 이용해 가격을 담합하고 수조원 규모의 부당이익을 챙긴 것으로 보고, 지난달 5일 이들 사무실 등을 동시다발로 압수수색했다.",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T02:42:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260919000048"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260919000048"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/zz1h1eeX-oGtXKLXoNLLlH2XIbj8kkHQ7WDN5EOrCzQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE4LzI2MDkxODA5/Mzk0MzMxN184MjRf/dGMuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "李 대통령, “전쟁 파병 없다”…청해부대 역할 확대 검토 < 정치일반 < 정치 < 기사본문 - 스페셜경제",
+    "url": "https://www.speconomy.com/news/articleView.html?idxno=418083",
+    "description": "정부는 전쟁에 직접 개입하지 않는다는 원칙 아래 우리 선박과 에너지 수송로를 보호할 방안을 구체화할 것으로 보인다. 향후 국제 해양연합 구성과 미국을 비롯한 우방국의 요청 수위에 따라 청해부대 임무 확대나 비전투 분야 지원 여부가 결정될 전망이다. 정미송 기자 speconomy@naver.com 다른기사 보기 · 키워드 #이재명 #호르무즈해협 #이란전쟁 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T02:32:08",
+    "profile": {
+      "name": "Speconomy",
+      "url": "https://www.speconomy.com/news/articleView.html?idxno=418083"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "speconomy.com",
+      "hostname": "www.speconomy.com",
+      "favicon": "https://imgs.search.brave.com/YAsSi20uu-qYohlfLxY64lYV5IiGs4XQda9tHt7OYqw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY0ODQ2MGM2/NTdlYjYzZDI2Yjgx/N2E0NmMxZDVjNDFj/OTk5YTE2MDljMDdk/YWFhOTA1YmFhODU2/MzI2MDYzZC93d3cu/c3BlY29ub215LmNv/bS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/7SSu4ss1S7OX4jPxhzmbguOr-ZybFikq5VALA7uM63U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BlY29ub215LmNv/bS9uZXdzL3Bob3Rv/LzIwMjYwOS80MTgw/ODNfNDE0NDg2XzQ0/NDEucG5n"
     }
   },
   {
     "type": "news_result",
     "title": "이 대통령 \"전쟁 파병 없다\" 앞다퉈 주목한 외신의 분석 - 오마이뉴스",
-    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268693",
+    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268693&PAGE_CD=N0002&CMPT_CD=M0112",
     "description": "이재명 대통령이 이란 전쟁 파병은 없을 것이라고 선언하면서 외신도 주목하고 나섰다.이 대통령이 18일 청와대 기자회견에서 호르무즈 해협 파병 문제와 관련해 \"전쟁에 관여하거나 개입하는 파병은 없다\"라며 \"그런 형태의 ...",
-    "age": "20 minutes ago",
+    "age": "5 hours ago",
     "page_age": "2026-09-19T00:53:00",
     "profile": {
       "name": "OhmyNews",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268693"
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268693&PAGE_CD=N0002&CMPT_CD=M0112"
     },
     "meta_url": {
       "scheme": "https",
@@ -45,42 +331,42 @@
   },
   {
     "type": "news_result",
-    "title": "[PBA] 하나카드, 하림에 4-2 팀리그 3R 정상…김가영 MVP",
-    "url": "https://newspim.com/news/view/20260919000032",
-    "description": "WP \"이란 전쟁서 미 국방부 발표보다 많은 미군 사망\"",
-    "age": "21 minutes ago",
-    "page_age": "2026-09-19T00:52:00",
+    "title": "미국 언론 보도에 따르면 이란 전쟁에서 사망한 미군 병사의 수가 밝혀졌습니다.",
+    "url": "https://vietnam.vn/ko/bao-my-tiet-lo-so-quan-nhan-my-thiet-mang-trong-cuoc-chien-iran",
+    "description": "미 국방부 보고서에 따르면, 이란의 공격으로 3월 1일 쿠웨이트 슈아이바 항구에서 최소 6명, 같은 날 사우디아라비아에서 1명, 7월 17일 요르단 무와파크 알살티 공군기지(알아즈라크 기지)에서 3명, 7월 19일 이라크 에르빌 ...",
+    "age": "5 hours ago",
+    "page_age": "2026-09-19T00:52:07",
     "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260919000032"
+      "name": "Vietnam",
+      "url": "https://vietnam.vn/ko/bao-my-tiet-lo-so-quan-nhan-my-thiet-mang-trong-cuoc-chien-iran"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260919000032"
+      "netloc": "vietnam.vn",
+      "hostname": "vietnam.vn",
+      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
+      "path": "› ko  › bao-my-tiet-lo-so-quan-nhan-my-thiet-mang-trong-cuoc-chien-iran"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/64PRQAn-QJRgOwPKWX19AK72GX9nYqQfQPDArOLkmrg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTA5/NTEyMDcyMzBfMTcw/X3RjLmpwZw"
+      "src": "https://imgs.search.brave.com/yBvyb1nzQaTTyiEk0b5GnVaiLjGYDXosxsRJTojf8RQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk3OTYwNTA4/ODNfYmFvLW15LXRp/ZXQtbG8tc28tcXVh/bi1uaGFuLW15LXRo/aWV0LW1hbmctdHJv/bmctY3VvYy1jaGll/bi1pcmFuLWNyb3Bw/ZWQtMTc4OTc3NTc1/MzY1NS5qcGVn"
     }
   },
   {
     "type": "news_result",
     "title": "미군,이란전쟁 사망 ‘축소 집계’…최소 22명 숨져 < 국제일반 < 사회 < 기사본문 - 스페셜경제",
-    "url": "https://speconomy.com/news/articleView.html?idxno=418079",
+    "url": "https://www.speconomy.com/news/articleView.html?idxno=418079",
     "description": "WP가 입수한 문서에 따르면 ... 전쟁 비용이 약 436억달러(약 60조원)에 달한 것으로 추산했다. 전체 비용 가운데 소모된 군수품은 280억달러로 집계됐다. 미군 기지 피해액은 포함되지 않아 실제 비용은 더 늘어날 가능성이 있다. 미국 내 여론도 악화하고 있다. 로이터·입소스가 9월 실시한 여론조사에서 도널드 트럼프 대통령의 이란 대응을 ...",
-    "age": "23 minutes ago",
+    "age": "5 hours ago",
     "page_age": "2026-09-19T00:49:50",
     "profile": {
       "name": "Speconomy",
-      "url": "https://speconomy.com/news/articleView.html?idxno=418079"
+      "url": "https://www.speconomy.com/news/articleView.html?idxno=418079"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "speconomy.com",
-      "hostname": "speconomy.com",
-      "favicon": "https://imgs.search.brave.com/3oJgdcsI830kcGScPf9yQMzfYinkGc4XVCs74dUENYU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI0YTg1MjY2/MmQ5MDVjNDJhMWE5/MGYyNzRiMTQ3NGEy/MDY1YjE5OWNmMDAx/Y2Q0NDZjY2Y1NjJl/YTZhOGU5My9zcGVj/b25vbXkuY29tLw",
+      "hostname": "www.speconomy.com",
+      "favicon": "https://imgs.search.brave.com/YAsSi20uu-qYohlfLxY64lYV5IiGs4XQda9tHt7OYqw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY0ODQ2MGM2/NTdlYjYzZDI2Yjgx/N2E0NmMxZDVjNDFj/OTk5YTE2MDljMDdk/YWFhOTA1YmFhODU2/MzI2MDYzZC93d3cu/c3BlY29ub215LmNv/bS8",
       "path": "› news  › articleView.html"
     },
     "thumbnail": {
@@ -89,108 +375,42 @@
   },
   {
     "type": "news_result",
-    "title": "[국제 이슈] 사우디, 후티에 중국제 탄도미사일 첫 사용 정황…韓 '천무' 실전 배치 중 - 이슈밸리",
-    "url": "https://issuevalley.com/news/articleView.html?idxno=56472",
-    "description": "사실로 확인되면 사우디가 후티와의 전쟁에서 탄도미사일을 실전에 사용한 첫 사례가 된다. 사거리 약 965㎞인 DF-15A는 후티뿐 아니라 이란 남부까지 타격할 수 있어 이란을 겨냥한 경고라는 분석도 나온다.",
-    "age": "35 minutes ago",
-    "page_age": "2026-09-19T00:38:16",
-    "profile": {
-      "name": "Issuevalley",
-      "url": "https://issuevalley.com/news/articleView.html?idxno=56472"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "issuevalley.com",
-      "hostname": "issuevalley.com",
-      "favicon": "https://imgs.search.brave.com/Q2pl2EIG-o5Qe4aQdZUc1X2n0_nuZ0mbcpkabWtZC_0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFhYjQzMjJj/Y2I4NzA0Yjg1MTBj/MzQ2YzMzMjY2YTFm/MjllYTc4ODEzNGI2/MjQ4MDJjYTY1MDVh/ZjAyNWQ5ZC9pc3N1/ZXZhbGxleS5jb20v",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_eqBBLwLBvZnpN_mVGzmK_vxoyU9Cjrx1EskOcN0J9U/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5p/c3N1ZXZhbGxleS5j/b20vbmV3cy90aHVt/Ym5haWwvMjAyNjA5/LzU2NDcyXzUzMjIz/XzM1NTZfdjE1MC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "9월 19일 세계: 미국, 그린란드 안보 영구 통제권 장악 선언",
-    "url": "https://ko.laodong.vn/the-gioi/the-gioi-ngay-199-my-tuyen-bo-nam-quyen-kiem-soat-an-ninh-greenland-vinh-vien-1769075.ldo",
-    "description": "앞서 미국 의회 예산처는 이란과의 충돌로 인해 매달 약 20억~30억 달러가 소요될 것으로 추정했습니다. 전쟁 초기 5개월 동안의 총 비용은 약 380억 달러로 추정됩니다. 미국과 이스라엘은 2월 28일 이란과 전쟁을 시작했습니다.",
-    "age": "47 minutes ago",
-    "page_age": "2026-09-19T00:25:40",
-    "profile": {
-      "name": "Laodong",
-      "url": "https://ko.laodong.vn/the-gioi/the-gioi-ngay-199-my-tuyen-bo-nam-quyen-kiem-soat-an-ninh-greenland-vinh-vien-1769075.ldo"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "ko.laodong.vn",
-      "hostname": "ko.laodong.vn",
-      "favicon": "https://imgs.search.brave.com/DOr0mAdDVpZGUxRdJ-5_Apgmc6clw0eYJllgfPWYzbc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmUxNDIzMDEz/NTJjYmRiNDUwNTEw/NGNkZDYxZmFjMDNl/MDhhNzkxYzk1YzFj/OWE5OGM4NDkxMWUw/M2ViY2M2OC9rby5s/YW9kb25nLnZuLw",
-      "path": "› the-gioi  › the-gioi-ngay-199-my-tuyen-bo-nam-quyen-kiem-soat-an-ninh-greenland-vinh-vien-1769075.ldo"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/PpUEL-prnZCqLJLwXe_QgkPmB485axK96xakPekfof8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4tdjIubGFv/ZG9uZy52bi9zdG9y/YWdlL25ld3Nwb3J0/YWwvMjAyNi85LzE4/LzE3NjkwNzUvUnN6/XzEyMTZFNTk0ZmQ1/ODk0YmUuanBnP3c9/ODAwJmFtcDtoPTQy/MCZhbXA7Y3JvcD1h/dXRvJmFtcDtzY2Fs/ZT1ib3Ro"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프·시진핑 회담 앞두고 북미대화 신호...“김정은과 전화도 가능”",
-    "url": "https://sstpnews.com/news/view/1065573430625654",
-    "description": "이란 측 “한국 파병하면 경제·군사 자산 공격”...호르무즈 선택 압박 · 이 대통령 “대미투자, 동의 어려운 부분 있어 재협의”...레버리지 ETF엔 “정책 불완전” · 이 대통령, 김승원 임명 보류·전쟁 파병 불가...특검엔 ...",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T00:00:08",
-    "profile": {
-      "name": "Sstpnews",
-      "url": "https://sstpnews.com/news/view/1065573430625654"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sstpnews.com",
-      "hostname": "sstpnews.com",
-      "favicon": "https://imgs.search.brave.com/9XSqD1Kca7nMMw6_pdP2qlBRGoaoH30Y-R7OybmDra8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzA5ZGFlOTVl/MDZjOTdlOGUxOWYz/NDI5NDkxNTBlODk4/ZTU0NjUxYTg0MDQ5/ZGUyODFkYzc4NDQx/ZmY4NWE4MS9zc3Rw/bmV3cy5jb20v",
-      "path": "› news  › view  › 1065573430625654"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/0AeyeYFQPqyTemEZM865FSv80XYNPGyYKaE1McF_cMg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zc3Rw/bmV3cy5jb20vbmV3/cy9kYXRhLzIwMjYw/OTE5L3AxMDY1NTcz/NDMwNjI1NjU0Xzgy/MV90aHVtLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"전쟁 개입 파병 없다\" 선 그은 李 대통령…청해부대 작전영역 확대로 가나 - 파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202609190704238395",
-    "description": "[서울=뉴시스] 옥승욱 기자 = 이재명 대통령이 18일 이란 전쟁에 개입하는 호르무즈 해협 파병은 없다고 밝히면서, 앞으로 미국의 요구에 어떤 방식으로 응할지에 관심이 쏠리고 있다.",
-    "age": "3 hours ago",
-    "page_age": "2026-09-18T22:04:42",
+    "title": "\"이란전 미군 사망자 최소 22명…공식 집계보다 4~5명 많아\" - 파이낸셜뉴스",
+    "url": "https://fnnews.com/news/202609190612472742",
+    "description": "[도버공군기지=AP/뉴시스]도널드 트럼프 미국 대통령과 피트 헤그세스 국방장관이 지난 7월 22일(현지 시간) 미국 델라웨어주 도버공군기지에서 이란과의 전쟁에서 전사한 미군 장병 4명의 유해 운구식이 진행되는 동안 ...",
+    "age": "9 hours ago",
+    "page_age": "2026-09-18T21:13:03",
     "profile": {
       "name": "First News",
-      "url": "https://www.fnnews.com/news/202609190704238395"
+      "url": "https://fnnews.com/news/202609190612472742"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "fnnews.com",
-      "hostname": "www.fnnews.com",
-      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
-      "path": "› news  › 202609190704238395"
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
+      "path": "› news  › 202609190612472742"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/GSgqLcxAlwyk5yjX0OvcnWW5gOuzzBjZN936snKhCSM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMTkvMjAy/NjA5MTkwNzA0Mzg2/NTU3X2UuanBn"
+      "src": "https://imgs.search.brave.com/lgm8opuzxb8QUUiH_DbsydpJRg2FUHy4BDAYMkpPbcQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMTkvMjAy/NjA5MTkwNjEyNTk4/NTE5X2UuanBn"
     }
   },
   {
     "type": "news_result",
     "title": "이란 전쟁 비용 1달여 만에 7조8000억 증가 - 파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202609190612121393",
+    "url": "https://fnnews.com/news/202609190612121393",
     "description": "[워싱턴=AP/뉴시스] 강영진 기자 = 미군의 이란 전쟁 비용이 지난 3일까지 436억 달러(약 60조5386억 원)로 늘어났다는 새로운 추산이 이번 주 의원들에게 제공됐다. 미 중부사령부가 제시한 이 수치는 미국과 이스라엘이 2월 28일 ...",
-    "age": "4 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-09-18T21:12:29",
     "profile": {
       "name": "First News",
-      "url": "https://www.fnnews.com/news/202609190612121393"
+      "url": "https://fnnews.com/news/202609190612121393"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "fnnews.com",
-      "hostname": "www.fnnews.com",
-      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
       "path": "› news  › 202609190612121393"
     },
     "thumbnail": {
@@ -199,42 +419,20 @@
   },
   {
     "type": "news_result",
-    "title": "“공식 발표보다 더 죽었다”…이란전쟁 미군 사망자 최소 22명",
-    "url": "https://www.dailian.co.kr/news/view/1692414/%E2%80%9C%EA%B3%B5%EC%8B%9D-%EB%B0%9C%ED%91%9C-%EB%8D%94-%EC%A3%BD%EC%97%88%EB%8B%A4%E2%80%9D%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%EB%AF%B8%EA%B5%B0-2026",
-    "description": "특히 사망자 가운데 일부는 이란군의 직접 공격으로 숨진 전투 사망자가 아니라 중동 지역에서 작전을 수행하다 훈련 사고나 응급 상황 등으로 숨진 군인들인 것으로 알려졌다. WP 보도에 따르면 이라크에서 훈련 중 숨진 군인과 쿠웨이트에서 의료 응급상황으로 사망한 군인 등도 공개된 전쟁 ...",
-    "age": "5 hours ago",
-    "page_age": "2026-09-18T20:22:00",
-    "profile": {
-      "name": "Dailian",
-      "url": "https://www.dailian.co.kr/news/view/1692414/%E2%80%9C%EA%B3%B5%EC%8B%9D-%EB%B0%9C%ED%91%9C-%EB%8D%94-%EC%A3%BD%EC%97%88%EB%8B%A4%E2%80%9D%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%EB%AF%B8%EA%B5%B0-2026"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "dailian.co.kr",
-      "hostname": "www.dailian.co.kr",
-      "favicon": "https://imgs.search.brave.com/NSTlDPTkdbyU1BvZx9ubITf6GIVeFL4jHpe8rZua090/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxZTkyYmIz/OWUwYzk0NjRiNTdi/NzNlMDc4YjFhMDJi/ZGE3MDAxYWNmYWJi/Y2MxYzBiNjU0Mjg1/NWEwMThlYy93d3cu/ZGFpbGlhbi5jby5r/ci8",
-      "path": "› news  › view  › 1692414  › “공식-발표-더-죽었다”이란전쟁-미군-2026"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/yRs6GdN8Q3PbYAY247_oa7bZNhEi3soD4O-AgyfNY2Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA5L25ld3Nf/MTc4OTc2Mjk1MzA3/Ml8xNjkyNDE0X21f/MS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "\"이란전쟁 미군 사망자, 공식 집계된 18명보다 4∼5명 많아\" - 파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202609190427326719",
+    "url": "https://fnnews.com/news/202609190427326719",
     "description": "DCAS 자료에는 이란과의 전쟁 이후 전투 중 부상한 미군 장병은 820명 이상이다. 이들 중 다수는 중동의 미군 기지를 겨냥한 이란의 반격으로 외상성 뇌손상을 입었다.",
-    "age": "6 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-09-18T19:27:44",
     "profile": {
       "name": "First News",
-      "url": "https://www.fnnews.com/news/202609190427326719"
+      "url": "https://fnnews.com/news/202609190427326719"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "fnnews.com",
-      "hostname": "www.fnnews.com",
-      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
+      "hostname": "fnnews.com",
+      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
       "path": "› news  › 202609190427326719"
     },
     "thumbnail": {
@@ -245,8 +443,8 @@
     "type": "news_result",
     "title": "유엔의 지원을 받는 전문가들은 학교 공격을 포함해 이란에서 미국이 전쟁 범죄를 일으킬 가능성이 있다고 언급합니다.",
     "url": "https://lnews.tv/%EC%9C%A0%EC%97%94%EC%9D%98-%EC%A7%80%EC%9B%90%EC%9D%84-%EB%B0%9B%EB%8A%94-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%ED%95%99%EA%B5%90-%EA%B3%B5%EA%B2%A9%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%B4",
-    "description": "제네바 – 유엔 최고인권기구가 의뢰한 전문가들은 미국이 남부 도시 미나브에 있는 학교를 포함해 이란에서 두 차례의 전쟁 범죄를 저질렀다고 믿을 수 있는 “합리적인 근거”를 찾았다고 말했습니다.",
-    "age": "8 hours ago",
+    "description": "켈리 국장은 “이 분쟁에서 전쟁 범죄를 저지른 유일한 당사자는 이란 정권으로, 자국민 수천 명을 살해하고 해외 미국인을 살해했으며 호르무즈 해협에서 테러 행위를 자행하고 이 지역 이웃 국가에 무차별 공격을 ...",
+    "age": "13 hours ago",
     "page_age": "2026-09-18T17:02:24",
     "profile": {
       "name": "Lnews",
@@ -265,32 +463,10 @@
   },
   {
     "type": "news_result",
-    "title": "ఇరాన్ తో యుద్ధం.. ఆర్థికంగా అమెరికా కుదేలు.!",
-    "url": "https://teluguone.com/news/content/us-iran-war-58-231558.html",
-    "description": "ఇరాన్‌తో కొనసాగుతున్న సైనిక ఘర్షణ కారణంగా అమెరికాపై మోయలేని ఆర్థిక భారం పడుతోంది. ఈ ఏడాది జులై వరకు పెంటగాన్ ...",
-    "age": "9 hours ago",
-    "page_age": "2026-09-18T16:07:52",
-    "profile": {
-      "name": "TeluguOne",
-      "url": "https://teluguone.com/news/content/us-iran-war-58-231558.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "teluguone.com",
-      "hostname": "teluguone.com",
-      "favicon": "https://imgs.search.brave.com/vXtYusUFt35KmzBEvscU5-2ae5U9Rs2hp5iIeDxsvtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRjODIwNzZk/ODg1NTk0Y2ExYWVi/OWE0MzEyMzUxMWM4/ZWE0MTk1Y2RlYzYw/ZTA5MGNkNDdiMDdk/NTFiYmYzNS90ZWx1/Z3VvbmUuY29tLw",
-      "path": "› news  › content  › us-iran-war-58-231558.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/QIzzFdm8SxkdqZDagwmcU5inVXDXNoSpwGgQVm3lxuM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGVsdWd1b25lLmNv/bS90ZWx1Z3VvbmVV/c2VyRmlsZXMvaW1n/L1VTSXJhbndhcigx/KS53ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "[영상] 국제 뉴스 속보 2026년 9월 18일",
     "url": "https://www.vietnam.vn/ko/video-ban-tin-quoc-te-ngay-18-9-2026",
-    "description": "이란, 호르무즈 해협에서 유조선 공격 및 나포 발표; 독일, EU에 중국산 하이브리드 자동차 수입 관세 부과 촉구; 유럽으로 향하는 해상 횡단 시도 중 2,200명 이상 사망; 유가 하락, 금과 미국 주식 상승; 베네수엘라, 미국과의 ...",
-    "age": "14 hours ago",
+    "description": "이란, 호르무즈 해협에서 유조선 공격 및 나포 발표; 독일, EU에 중국산 하이브리드 자동차 수입 관세 부과 촉구; 유럽으로 향하는 해상 횡단 시도 중 2,200명 이상 사망; 유가 하락, 금과 미국 주식 상승; 베네수엘라, 미국과의 협력을 통해 석유·가스 산업 재건 추진; 이스라엘...",
+    "age": "19 hours ago",
     "page_age": "2026-09-18T11:04:00",
     "profile": {
       "name": "Vietnam",
@@ -312,7 +488,7 @@
     "title": "“미국에 죽음을” 외친 이란…시민 100만명 ‘전투 훈련’ 나선다 | 세계일보",
     "url": "https://segye.com/newsView/20260918515054",
     "description": "이란 수도 테헤란에서 지난 2월 전쟁 발발 이후 최대 규모의 관제 시위가 열렸다. 미국의 해상 봉쇄와 촘촘한 경제 제재로 최악의 경제난이 이어지자 국민을 결집하고 국가적 통합을 강조하는 한편, 잠재적인 내부 소요에 ...",
-    "age": "14 hours ago",
+    "age": "19 hours ago",
     "page_age": "2026-09-18T10:46:55",
     "profile": {
       "name": "Sekye",
@@ -331,68 +507,46 @@
   },
   {
     "type": "news_result",
-    "title": "“美·이스라엘에 죽음을“…이란서 대규모 반미 관제 시위 | 연합뉴스TV",
-    "url": "https://m.yonhapnewstv.co.kr/news/AKR20260918184031tON",
-    "description": "이란 수도 테헤란에서 지난 2월 전쟁 발발 이후 최대 규모의 관세 시위가 열렸습니다. 미국의 해상 봉쇄와 경제 제재로 인한 최악의 경제난 속 결집을 도모하려는 취지로 풀이됩니다. 현지시간 18일 이란 관영 매체와 외신에 ...",
-    "age": "16 hours ago",
-    "page_age": "2026-09-18T09:40:31",
+    "title": "\"미국과 이스라엘에 죽음을\"…경제난에 이란 수십만명 관제시위 - SBS Biz",
+    "url": "https://biz.sbs.co.kr/article/20000335664",
+    "description": "18일(현지시간) 이란 관영 ... 이란을 위한 희생)로 명명된 군사 퍼레이드 형식의 반미 관제 시위가 열렸습니다. 국가 방위 및 군사 훈련 자원자들은 전투복 차림으로 깃발을 들고 테헤란 도심을 행진했습니다. 여성 참가자들은 히잡 차림으로 총을 손에 들었습니다. 일부 시위 참가자들은 미국과 이스라엘 국기를 ...",
+    "age": "1 day ago",
+    "page_age": "2026-09-18T09:24:00",
     "profile": {
-      "name": "Yonhapnewstv",
-      "url": "https://m.yonhapnewstv.co.kr/news/AKR20260918184031tON"
+      "name": "Sbs",
+      "url": "https://biz.sbs.co.kr/article/20000335664"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "m.yonhapnewstv.co.kr",
-      "hostname": "m.yonhapnewstv.co.kr",
-      "favicon": "https://imgs.search.brave.com/O8bMP8hmq_MWh2izRB78Z2XC0kHyFW1OJ6KSiMtz6QQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODY2ODc3NjBm/NmEyMzZkN2FlMzY1/NjA1NjVjYTM2ZmVj/YWZlMGNkZDFhYzc0/Zjk0NjY3MmJkMjQ3/ZGUyNmVmMC9tLnlv/bmhhcG5ld3N0di5j/by5rci8",
-      "path": "› news  › AKR20260918184031tON"
+      "netloc": "biz.sbs.co.kr",
+      "hostname": "biz.sbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/fVyBpKrJh7GHYg5STLpVWnpLRESxOqaaufJZpe6hqEY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGU5MmQ0Mjhj/MmQxODlhZjhmMzMx/ZmE4MWU0Y2RhOGNm/YzQzMGQ0MDNjY2I1/YzU0MDY3MmQwZGQ2/NjNmZjkzNy9iaXou/c2JzLmNvLmtyLw",
+      "path": "› article  › 20000335664"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/geO3zCa7ReEPHNUiBoLzoEyGRUuMBXF3O9whnHKtitI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS55b25oYXBuZXdz/dHYuY28ua3IvYXJ0/aWNsZS9BS1IvMjAy/NjA5MTgvQUtSMjAy/NjA5MTgxODQwMzF0/T05fMDFfaS5qcGc"
+      "src": "https://imgs.search.brave.com/UetILFg2AzQNAFAk2XYDDSDGTPIz-ECqxVbWXicXPlo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/Yml6LnNicy5jby5r/ci91cGxvYWQvMjAy/Ni8wOS8xOC9pQUwx/Nzg5NzI3MjU1MTE5/LTg1MC5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "[아시안게임] '이현중 26점' 남자 농구, 12년 만에 결승 진출…은메달 확보(종합) | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260918166151007",
-    "description": "(나고야=연합뉴스) 최송아 오명언 기자 = 한국 남자 농구 대표팀이 12년 만에 아시안게임 결승에 진출했다.",
-    "age": "16 hours ago",
-    "page_age": "2026-09-18T09:03:30",
+    "title": "유엔 “156명 사망 이란 초교 공습은 전쟁범죄”…백악관 “헛소리” 일축",
+    "url": "https://hani.co.kr/arti/international/international_general/1278520.html",
+    "description": "미국·이스라엘이 대이란 공격을 시작한 첫날인 2월28일 이란 미나브 초등학교 폭격으로 두 자녀를 잃은 이란 여성이 5월 미나브의 선한나무(샤자레 타이예베) 초등학교 앞에서 자녀들의 사진을 든 채 걸어가고 있다.",
+    "age": "1 day ago",
+    "page_age": "2026-09-18T07:26:00",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260918166151007"
+      "name": "Hani",
+      "url": "https://hani.co.kr/arti/international/international_general/1278520.html"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260918166151007"
+      "netloc": "hani.co.kr",
+      "hostname": "hani.co.kr",
+      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
+      "path": "› arti  › international  › international_general  › 1278520.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/jKu_0DLYivK4rCSgixfwqIe24q-uuZ665wEtV9gigkQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc2/LnluYS5jby5rci9w/aG90by95bmEvWUgv/MjAyNi8wOS8xOC9Q/WUgyMDI2MDkxODIy/OTYwMDAxMzAwX1A0/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란전쟁 7개월째…美, 이란 대통령 뉴욕 방문 비자 승인 - 노컷뉴스",
-    "url": "https://www.nocutnews.co.kr/news/6580200",
-    "description": "미국과 이란 전쟁이 장기화되는 가운데 이란 대통령이 다음주 미국 뉴욕에서 열리는 유엔총회에 참석할 것으로 보인다.",
-    "age": "18 hours ago",
-    "page_age": "2026-09-18T07:19:35",
-    "profile": {
-      "name": "Nocutnews",
-      "url": "https://www.nocutnews.co.kr/news/6580200"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nocutnews.co.kr",
-      "hostname": "www.nocutnews.co.kr",
-      "favicon": "https://imgs.search.brave.com/ueLKs0WbWxNawz6W4DH5XTK68v-NRMCvTJHMp3w-T64/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWYwNTBmMDI5/Y2RhMDYwZWIzNWQ2/ODcwM2YwZGU4NGJl/YTJjMjBhNWI3Yzdk/ZjNlNzcxOTBiZDIx/MGYyZTg2NS93d3cu/bm9jdXRuZXdzLmNv/LmtyLw",
-      "path": "› news  › 6580200"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/msy0U7T_oY_W0a2oKjLahYrbbhihCYpc0pJLAChai5E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9maWxl/Mi5ub2N1dG5ld3Mu/Y28ua3IvbmV3c3Jv/b20vaW1hZ2UvMjAy/Ni8wOS8xOC8yMDI2/MDkxODA3MTkyMDU5/NjRfMC5qcGc"
+      "src": "https://imgs.search.brave.com/OVZkNBkLq9RlF2Zx2lt02r6GBfXyzxGDXv5-6wdUbls/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/NzAwLzQ2Ni9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTgvMjAy/NjA5MTg1MDI2MjAu/d2VicA"
     }
   },
   {
@@ -400,7 +554,7 @@
     "title": "[조하현 교수칼럼] 끝나지 않는 이란전쟁, 韓 정치·경제도 불안 < 조하현 교수 칼럼 < 경제일반 < 경제 < 기사본문 - 주간한국",
     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184681",
     "description": "지난 2월 말에 시작된 미국-이란 전쟁이 끝날 조짐이 보이지 않는다. 미국·이스라엘의 이란 폭격이 1단계, 호르무즈 해협 봉쇄 및 역봉쇄가 2단계였다. 그리고 최근 3단계로 미국은 이란에 대한 무역·금융 봉쇄를 통해 이란을 ...",
-    "age": "18 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-18T06:59:38",
     "profile": {
       "name": "Hankooki",
@@ -422,7 +576,7 @@
     "title": "UN 전문가들, '미국, 이란 공습 중 전쟁범죄 저질렀다고 볼 근거 있어' - BBC News 코리아",
     "url": "https://bbc.com/korean/articles/cm7905529qwxo",
     "description": "유엔(UN) 인권 전문가들은 이란에서 발생한 두 차례의 공습으로 최소 177명의 민간인이 사망한 것과 관련해, 미국이 전쟁범죄를 저질렀다고 볼 만한 합리적인 근거가 있다고 밝혔다.",
-    "age": "19 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-18T06:27:18",
     "profile": {
       "name": "BBC",
@@ -444,7 +598,7 @@
     "title": "ஈரானில் அமெரிக்கத் தாக்குதல்கள் – போர்க்குற்றம் இடம்பெற்றிருக்கலாம் என ஐ.நா. குழு தகவல்! - Global Tamil News",
     "url": "https://globaltamilnews.net/2026/235520",
     "description": "ஈரானில் கடந்த பெப்ரவரி 28ஆம் திகதி நடத்தப்பட்ட இரண்டு அமெரிக்க வான்வழித் தாக்குதல்கள் தொடர்பாக, போர்க்குற்றம் ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-18T05:20:12",
     "profile": {
       "name": "Global Tamil News",
@@ -466,7 +620,7 @@
     "title": "이란 대통령 유엔총회 참석… 트럼프 만날 수도",
     "url": "https://www.chosun.com/international/international_general/2026/09/19/7ZYCSMKILJFCBLMTDGYANB2ODY/",
     "description": "트럼프는 이날 인터넷매체 악시오스와의 인터뷰에서 이란전쟁에 대해 “중대한 결정이 다가오고 있다”며 “그들(이란)을 공격해 전멸시킬 것인지 말 것인지. 이는 중대한 결정이 될 것”이라고 말했다.",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-18T04:49:57",
     "profile": {
       "name": "Chosun Daily",
@@ -525,28 +679,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/9iW1ASJKVwzgUCakMKym4sSPvakc74iLuVpgel-nfCE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzkvMTgvODEx/MzY0MS9oaWdoLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "유엔 조사단 “123명 숨진 美 이란 학교 공습은 전쟁범죄에 해당”",
-    "url": "https://chosun.com/international/international_general/2026/09/18/MZRTSZBQME4GMOBYMQYTIMBYMQ",
-    "description": "유엔 조사단이 올해 2월 미군의 이란 내 민간 시설 공습을 전쟁범죄로 판단했습니다. 조사단은 미군이 정밀 타격 미사일 등을 사용하여 민간인 피해를 초래했다고 지적했습니다. 이에 미 국방부는 공식 논평을 거부하고 자체 ...",
-    "age": "1 day ago",
-    "page_age": "2026-09-18T00:58:23",
-    "profile": {
-      "name": "Chosun Daily",
-      "url": "https://chosun.com/international/international_general/2026/09/18/MZRTSZBQME4GMOBYMQYTIMBYMQ"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "chosun.com",
-      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
-      "path": "› international  › international_general  › 2026  › 09  › 18  › MZRTSZBQME4GMOBYMQYTIMBYMQ"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ZjUIuV_701aoJWPTQJ7KMr4yE2vuR_5h9wO2bovd3ac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0dF/M0RDWUpWTVkzVEtO/VEVNWVpUQU1MREdZ/LmpwZz9hdXRoPWMw/OWEyYjE5MDg4Mjhm/ZjJhZWNlOTE0YzAy/ZGE4NDFmYTkyNjRh/OWI5NDZjNTBkMjNl/ZmVmMTM5OGE4ODdk/OGYmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
     }
   },
   {
