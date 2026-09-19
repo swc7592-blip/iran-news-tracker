@@ -1,508 +1,332 @@
 [
   {
     "type": "news_result",
-    "title": "평범한 미국인인 줄 알았는데…'팔로워 8만 계정' 소름 돋는 정체 - 서플",
-    "url": "https://supple.kr/news/cmu879oec0025yry7nzijl3i0",
-    "description": "이란과 중국의 국가 세력, 이스라엘의 민간 기업들이 인공지능(AI)을 활용해 대규모로 여론 조작을 펼친 정황이 포착됐다고 미 일간 뉴욕타임스(NYT)가 18일(현지시간) 보도했다.",
-    "age": "17 minutes ago",
-    "page_age": "2026-09-19T09:38:34",
+    "title": "사우디 리야드 첫 공습경보…공항 인근 아람코 연료탱크 화재(종합) - 뉴스1",
+    "url": "https://news1.kr/world/middleeast-africa/6296260",
+    "description": "7월 후티 공세 강화 후 처음…2차례 발령 뒤 해제 사우디아라비아 리야드에 19일(현지시간) 새벽 공습경보가 발령됐다. 예멘 후티 반군이 지난 7월 공세를 강화한 뒤로 사우디 수도에 경보가 내려진 것은 처음이다.로 …",
+    "age": "14 minutes ago",
+    "page_age": "2026-09-19T13:24:23",
+    "profile": {
+      "name": "News1",
+      "url": "https://news1.kr/world/middleeast-africa/6296260"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news1.kr",
+      "hostname": "news1.kr",
+      "favicon": "https://imgs.search.brave.com/90S-5fxbTX5-2gJ2g1aitKTz_kVQv_r_qIBXoNQxNlo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzYwYTg3OWNi/ZTg5NWM5ODBjODI5/NzJiMWFhYzBhM2I5/YWJjMjUwMDVmMDI5/N2FiZDgxOWM2ZTdi/YWExNzFlNC9uZXdz/MS5rci8",
+      "path": "› world  › middleeast-africa  › 6296260"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/VSe8cae1iMYpfEcz3izqjJ0peJrPE8I88Am8jXc1yA0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzkvMTkvODEx/NTg3OS9oaWdoLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[프로축구] 서울이랜드, 대구에 2-1…수원FC, 전남 완파 2위 도약",
+    "url": "https://newspim.com/news/view/20260919000167",
+    "description": "[서울=뉴스핌] 박상욱 기자 = 프로축구 K리그2 상위권 순위 싸움이 안갯속으로 빠져들었다. 서울이랜드FC가 대구FC를 꺾고 판도를 흔들었고 수원FC는 대승을 거두며 2위로 도약했다.서울이랜드는 19일 서울 목동종합운동장 ...",
+    "age": "50 minutes ago",
+    "page_age": "2026-09-19T12:49:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260919000167"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260919000167"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/oFwe5erUb8EAIfmjanroskWzVqcXbQdgugZdZM6uuk4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTIx/NDUwMzE1MzFfMjYx/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "경주 물천리 주택 화재....진화하던 소방대원·80대 여성 집주인 부상",
+    "url": "https://newspim.com/news/view/20260919000162",
+    "description": "[경주=뉴스핌] 남효선 기자 = 경북 경주의 한 주택에서 화재가 발생해 발화 2시간20여 분 만에 진화됐다. 이 과정에서 진화하던 소방대원과 주택 관계자 등 2명이 부상을 당해 병원으로 이송됐다.19일 경북소방본부에 따르면 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T12:08:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260919000162"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260919000162"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/4iEqd3qT50oofQ4h7iNuMwSVzvvvyVd8-v2i46r3HD4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTIw/Mjg1NzM2MjBfdDEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "북한, 전투 무기 시스템에 AI 응용 강화",
+    "url": "https://ko.laodong.vn/the-gioi/trieu-tien-day-manh-ung-dung-ai-vao-cac-he-thong-vu-khi-tac-chien-1769416.ldo",
+    "description": "김정은 북한 국무위원장이 주요 탄약 공장을 시찰하여 지능 응용을 강화할 것을 요청했습니다...",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T11:41:50",
+    "profile": {
+      "name": "Laodong",
+      "url": "https://ko.laodong.vn/the-gioi/trieu-tien-day-manh-ung-dung-ai-vao-cac-he-thong-vu-khi-tac-chien-1769416.ldo"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ko.laodong.vn",
+      "hostname": "ko.laodong.vn",
+      "favicon": "https://imgs.search.brave.com/DOr0mAdDVpZGUxRdJ-5_Apgmc6clw0eYJllgfPWYzbc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmUxNDIzMDEz/NTJjYmRiNDUwNTEw/NGNkZDYxZmFjMDNl/MDhhNzkxYzk1YzFj/OWE5OGM4NDkxMWUw/M2ViY2M2OC9rby5s/YW9kb25nLnZuLw",
+      "path": "› the-gioi  › trieu-tien-day-manh-ung-dung-ai-vao-cac-he-thong-vu-khi-tac-chien-1769416.ldo"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/xUGHo4zaD-nCTwtpsZ2J7wfm7spYeiOVNjXGcTXTmTY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4tdjIubGFv/ZG9uZy52bi9zdG9y/YWdlL25ld3Nwb3J0/YWwvMjAyNi85LzE5/LzE3Njk0MTYvMTQ4/NjgxMS5qcGc_dz04/MDAmYW1wO2g9NDIw/JmFtcDtjcm9wPWF1/dG8mYW1wO3NjYWxl/PWJvdGg"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국 SNS를 접수한 가짜 미국인들의 정체가 소름 돋는 이유 - 서플 커뮤니티",
+    "url": "https://supple.kr/community/society/135785270",
+    "description": "중국과 이란의 경우에는 국가가 직접 배후로 지목됐어요 · 미국 정보기관과 보안 연구자들은 이 두 캠페인이 국가의 지원을 받은 조직에 의해 운영됐다고 결론지었어요 · 반면 이스라엘에서 확인된 두 건의 캠페인은 국가가 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-09-19T11:40:56",
     "profile": {
       "name": "Supple",
-      "url": "https://supple.kr/news/cmu879oec0025yry7nzijl3i0"
+      "url": "https://supple.kr/community/society/135785270"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "supple.kr",
       "hostname": "supple.kr",
       "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
-      "path": "› news  › cmu879oec0025yry7nzijl3i0"
+      "path": "› community  › society  › 135785270"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ElIyPT0JC5Q3MmDDhSMiH31Erg__HzJCFcPbhULVlwc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZ0aHVt/Yi5tdC5jby5rciUy/RjA2JTJGMjAyNiUy/RjA5JTJGMjAyNjA5/MTkxODI4MTgyOTk4/NF8xLmpwZw"
+      "src": "https://imgs.search.brave.com/RBXwgkStN9h9F4s4yPvUJARi1m9fR08dP6MFNpf2jQk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5udWRnZS1jb21t/dW5pdHkuY29tLzEw/NjE4NzY1"
     }
   },
   {
     "type": "news_result",
-    "title": "“지구 불태우는 ‘메가 폭주’ 멈춰라”…3대 메가 프로젝트 반대 확산",
-    "url": "https://hani.co.kr/arti/society/society_general/1278616.html",
-    "description": "환경·노동·시민단체들이 모여 정부의 적극적인 기후위기 대응과 ‘3대 메가프로젝트’ 추진 중단을 촉구하며 대규모 집회와 행진을 벌였다. 시민들은 폐박스로 만든 손팻말을 든 채 서울 도심을 걸으며 “지구를 불태우는 ...",
-    "age": "19 minutes ago",
+    "title": "눈덩이처럼 불어난 이란전쟁 비용… 美 국방부 “기지 수리비 빼고도 62조원”",
+    "url": "https://www.chosun.com/international/international_general/2026/09/19/MI4TEMZSGFRDCYTCGQ3TGMBWHA/",
+    "description": "미국 국방부가 이란과의 전쟁에 투입된 누적 비용을 62조 원 규모로 집계함. 무기 및 탄약 소모가 지출의 핵심이며 향후 매달 수조 원대 추가 예산이 요구됨. 기지 수리비와 전투 격화 가능성 등을 고려할 때 재정적 부담은 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T10:44:44",
+    "profile": {
+      "name": "Chosun Daily",
+      "url": "https://www.chosun.com/international/international_general/2026/09/19/MI4TEMZSGFRDCYTCGQ3TGMBWHA/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "chosun.com",
+      "hostname": "www.chosun.com",
+      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
+      "path": "› international  › international_general  › 2026  › 09  › 19  › MI4TEMZSGFRDCYTCGQ3TGMBWHA"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/uxXl6fW-RNAvaJ417Y5NiXMk-BEKe3hISsiosAuqq-A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9w/Zi9yZXNvdXJjZXMv/aW1hZ2VzL3RodW1i/X21ldGEucG5nP2Q9/MjM4Nw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란, 이스라엘 간첩 혐의 남성 교수형 집행",
+    "url": "https://imnews.imbc.com/news/2026/world/article/6853018_36925.html",
+    "description": "이란이 이스라엘에 미사일 기지 정보를 몰래 넘긴 혐의를 받는 남성을 교수형에 처했다고 로이터통신이 보도했습니다. 현지시간 19일 관련 보도에 따르면, 이란 사법부는 이 남성이 지난...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T10:32:14",
+    "profile": {
+      "name": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6853018_36925.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "imnews.imbc.com",
+      "hostname": "imnews.imbc.com",
+      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
+      "path": "› news  › 2026  › world  › article  › 6853018_36925.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/K8G46RWamw-uAmAJVZyNIL1AGIEA4xWcRKcyr9yQXcs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vbmV3cy8y/MDI2L3dvcmxkL2Fy/dGljbGUvX19pY3NG/aWxlcy9hZmllbGRm/aWxlLzIwMjYvMDkv/MTkvc2FfMjAyNjA5/MTlfOC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[2026AG] 48억 아시아인 스포츠 축제 팡파르...16일간 열전 돌입",
+    "url": "https://newspim.com/news/view/20260919000150",
+    "description": "[서울=뉴스핌] 박상욱 기자 = 48억 아시아 최대 스포츠 종합대회인 2026 아이치·나고야 아시안게임이 32년 만에 일본에서 막을 올렸다. 아이치·나고야 아시안게임 개회식은 19일 오후 6시 일본 나고야 미즈호공원 육상경기장에서 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-19T10:28:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://newspim.com/news/view/20260919000150"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "newspim.com",
+      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
+      "path": "› news  › view  › 20260919000150"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Pu1vyXfmszpmB6foUkc2OWkDJmOZDd5vWt8gUkj6crM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTE5/MjIyNTM4NzBfNzU1/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“中·이란·이스라엘 기업, AI로 ‘자율형 여론조작’” < 국제일반 < 국제 < 기사본문 - 천지일보",
+    "url": "https://www.newscj.com/news/articleView.html?idxno=3434088",
+    "description": "[천지일보=김성완 기자] 중국과 이란의 국가 조직, 이스라엘 민간 기업이 인공지능(AI) 에이전트를 활용해 소셜미디어에서 자율형 여론 조작 활동을 벌였다는 외신 보도가 18일(현지시간) 나왔다.뉴욕타임스(NYT)는 이날 미 ...",
+    "age": "4 hours ago",
+    "page_age": "2026-09-19T10:00:00",
+    "profile": {
+      "name": "Newscj",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3434088"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newscj.com",
+      "hostname": "www.newscj.com",
+      "favicon": "https://imgs.search.brave.com/4O7u-v-VlpxmpSTTEPeS-95MlqHxhzqWt2kSw6AXDYs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk3N2ZlYzQx/ZGQ1OWJlNWYzMWMx/ZGIyMGNlN2Q4ZjA3/YzgwOTQwZmFlMDk5/MTdiYWI4MmRkNDNm/YWRlMmM5Yi93d3cu/bmV3c2NqLmNvbS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/KCZ4w87eo6pPx5564UnpGmVxnsj9pKRgqnWWo4RVBUQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3c2NqLmNvbS9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDkvMzQz/NDA4OF8zNTUxMzY3/XzI4MTdfdjE1MC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "일본 금리 1 상승이 나라 박살내는 이유",
+    "url": "https://bbs.ruliweb.com/community/board/300143/read/76731398",
+    "description": "일본의 빚은 약 1경에 가까움근데 어디서 들어보면 뭐 일본 국채는 내부에서 다 소화한다는데요 문제 없는거 아임 이런 생각이 들거임반대로 나라가 갚을 능력이 없는데 내부에서 소화시키는거라고생각을 해보면 어라 싶지 ...",
+    "age": "4 hours ago",
+    "page_age": "2026-09-19T09:47:44",
+    "profile": {
+      "name": "Ruliweb",
+      "url": "https://bbs.ruliweb.com/community/board/300143/read/76731398"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbs.ruliweb.com",
+      "hostname": "bbs.ruliweb.com",
+      "favicon": "https://imgs.search.brave.com/FmRCvZqz6psTktAcFrXNHNttO1mXA3jr3JjWhl_hfzI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTMyNjdiYmMy/NmQzNDY3OWVlM2I3/N2I1YjIyNTRlYzM3/NWMyZWMxZjc3OWQz/OTk4Y2NkMzg4NzE5/NGY2MGNkNC9iYnMu/cnVsaXdlYi5jb20v",
+      "path": "› community  › board  › 300143  › read  › 76731398"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/rn7hkL1qI-QKSBrB8jHDf7s67mZrvslHVTuAwALWfXw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMi5y/dWxpd2ViLmNvbS9v/cmkvMjYvMDkvMTkv/MWEwYjkwZDkxOGQ0/ZDVhNWYud2VicA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“미국에 죽음을”…테헤란서 최대 규모 반미 시위 | 채널A 뉴스",
+    "url": "https://ichannela.com/news/detail/000000551375.do",
+    "description": "현지시간 18일, 이란 테헤란 도심에서 대규모 반미 시위가 열렸습니다. 트럼프 미국 대통령과 네타냐후 이스라엘 총리의 얼굴이 붙은 관을 끌고 다니고 폭격을 맞은 듯한 트럼프 대통령 모형도 등장했습니다.",
+    "age": "4 hours ago",
     "page_age": "2026-09-19T09:37:00",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/society/society_general/1278616.html"
+      "name": "iChannelA",
+      "url": "https://ichannela.com/news/detail/000000551375.do"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › society  › society_general  › 1278616.html"
+      "netloc": "ichannela.com",
+      "hostname": "ichannela.com",
+      "favicon": "https://imgs.search.brave.com/mgkVZN4gSqEmY703F8Mzxp4GS3IzLyBi8R8x5kLgNmg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTUzNGRiODA1/Mjc0MTBhNWEwMmZj/YzQ0ZWIwM2Q5N2Q0/MzY4YzkwNjJlMGRl/NjY5MDRlYjQ0YTFm/NDRmMTYyYi9pY2hh/bm5lbGEuY29tLw",
+      "path": "› news  › detail  › 000000551375.do"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/meJGiZaor4oVJjbfWYqxUg8GwObvIpHBWdj6S3VcmzU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/ODAwLzQ5Ni9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTkvMjAy/NjA5MTk1MDA2MDku/d2VicA"
+      "src": "https://imgs.search.brave.com/E2BxJvv6p5O2mW7a-MP7rmB6JOMbovqsBYfwafwSN8I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pY2hhbm5lbGEu/Y29tL2ltYWdlcy9j/aGFubmVsYS8yMDI2/LzA5LzE5LzAwMDAw/MzEzOTA1OS8wMDAw/MDMxMzkwNTkyMDI2/MDkxOTE4NTEyNzEz/MC53ZWJw"
     }
   },
   {
     "type": "news_result",
-    "title": "‘몸 안 좋아’ 만찬 못 간 시진핑…건강이상설 다시 고개 | 서울경제",
-    "url": "https://sedaily.com/article/20092946",
-    "description": "시 주석의 건강에 대한 관심은 다음 주 예정된 미국 방문을 앞두고 더 커지고 있다. 시 주석과 도널드 트럼프 미국 대통령은 오는 24일(미 동부시간 기준)로 잠정 예정된 정상회담에서 무역과 인공지능(AI), 양안 문제, 이란 전쟁 ...",
-    "age": "24 minutes ago",
-    "page_age": "2026-09-19T09:31:35",
+    "title": "美 이란전 누적비용 62조원…진짜 청구서는 아직 \"매달 4조 추가\" - 머니투데이",
+    "url": "https://www.mt.co.kr/world/2026/09/19/2026091917511619302",
+    "description": "전투 장기화와 탄약 소모가 이어지면서 전쟁 비용이 눈덩이처럼 불어나는 양상이다. 19일(현지시간) CNN에 따르면 미 국방부는 이란 전쟁에 투입된 비용이 451억달러(약 62조5000억원)에 달한다고 의회에 보고했다.",
+    "age": "5 hours ago",
+    "page_age": "2026-09-19T08:55:09",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://sedaily.com/article/20092946"
+      "name": "Mt",
+      "url": "https://www.mt.co.kr/world/2026/09/19/2026091917511619302"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "sedaily.com",
-      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
-      "path": "› article  › 20092946"
+      "netloc": "mt.co.kr",
+      "hostname": "www.mt.co.kr",
+      "favicon": "https://imgs.search.brave.com/i0ZvllZujUwXm7Ix4-_1ToHeW7Eq3L6F7Ei6VLmsewY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmI3ODA0YWNk/M2JkYTk5YjM5MDJm/NTZkZGE2ZWYxMjk5/OTM0OWVjMTg3MTUz/ZDE0YTA4YTRmNTcy/ZjVjMDUxYy93d3cu/bXQuY28ua3Iv",
+      "path": "› world  › 2026  › 09  › 19  › 2026091917511619302"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/SmHw2Y1-N6paEzodCaLnW5TKHfF28vuCv1J3DgdKT-s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMTkvcmN2/LllOQS4yMDI2MDkx/My5QQVAyMDI2MDkx/MzI1OTEwMTAwOV9a/MS5qcGc"
+      "src": "https://imgs.search.brave.com/BRnytoa05YGZIqVbm0JydiY5kAVPVlGCybmLY-Ip5aQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi5tdC5jby5rci9j/ZG4tY2dpL2ltYWdl/L2Y9YXZpZi8yMS8y/MDI2LzA5LzIwMjYw/OTE5MTc1MTE2MTkz/MDJfMS5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "방산업계 뉴스 9월 19일: 영국, 챌린저 3 프로토타입 공개.",
-    "url": "https://vietnam.vn/ko/tin-cong-nghiep-quoc-phong-19-9-anh-cong-bo-nguyen-mau-challenger-3",
-    "description": "SPICE 1000 시스템은 약 ... 수 있도록 합니다. SPICE 1000 폭탄은 오랫동안 이스라엘의 F-15 및 F-16 전투기의 주력 공격 무기로 사용되어 왔으며, 최근 이란 에 대한 공습에도 사용되었습니다....",
-    "age": "31 minutes ago",
-    "page_age": "2026-09-19T09:24:45",
+    "title": "'전쟁 언제 끝나나'…美국방부 이란전쟁에 \"62조원 지출\"",
+    "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02079526645581760",
+    "description": "앞서 국방부는 지난 7월 이란과의 전쟁 비용을 375억 달러(약 52조원)로 추산한 바 있다. 다만 이란의 공격으로 파손된 미군 기지와 건물의 복구비 등을 감안하면 실제 비용은 이보다 훨씬 더 커질 것으로 예상된다.",
+    "age": "8 hours ago",
+    "page_age": "2026-09-19T06:06:46",
+    "profile": {
+      "name": "Edaily",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02079526645581760"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "edaily.co.kr",
+      "hostname": "edaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/LT3n_9VOx9yP2Pi6YNc2jEXqs3YBCtUqFfQ_Gihkr3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDAxZDc4NmQ2/NWEyZTdjZTk2ZTll/ZjNmMmYwYTRhNmVk/MTM5MDQxMDgzZmE2/ODM4OWIxYTU5ZWZh/ZWY2MGIxOS9lZGFp/bHkuY28ua3Iv",
+      "path": "› News  › Read"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wD5SNQ2fQG2rmghlSo9m8Mq3zNCYxw2vo_XUOU3GQ3c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5lZGFpbHkuY28u/a3IvaW1hZ2VzL1Bo/b3RvL2ZpbGVzL05Q/L1MvMjAyNi8wOS9Q/UzI2MDkxOTAwNDcw/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "총비용 60조원 돌파… 탄약 값만 절반 넘어선 미군의 ‘이란 전쟁’ 영수증 [밀리터리노트] | 서울신문",
+    "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/09/19/20260919500025",
+    "description": "미군의 이란 전쟁 누적 비용이 60조원을 돌파했다. 한 달 새 7조8000억원 넘게 늘었고, 패트리엇·사드 등 고가 요격미사일 소모가 전체 비용의 절반을 훌쩍 넘겼다. 미군 사망·부상과 중동 기지 피해까지 겹치며 재정 부담과 ...",
+    "age": "8 hours ago",
+    "page_age": "2026-09-19T06:05:48",
+    "profile": {
+      "name": "Seoul",
+      "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/09/19/20260919500025"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "seoul.co.kr",
+      "hostname": "www.seoul.co.kr",
+      "favicon": "https://imgs.search.brave.com/lLChAlWrUXMzMqjbE3BX3GKVwOmrGsVwq2GE8Dpcqwc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MwZjlmZmFj/MWRmOGU3ZWE2M2Yz/Zjc1MzY0OTg3NDEx/YTcxMzM2ZTUyZjM1/ZDY0ZDg2M2YwMjAy/NGI1NmI2Ni93d3cu/c2VvdWwuY28ua3Iv",
+      "path": "› news  › international  › USA-amrica  › 2026  › 09  › 19  › 20260919500025"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/DEp0GHkn4OkfMVkH836vbusNr8ylHSpJb1jLSRgSHbA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2VvdWwuY28ua3Iv/L2ltZy91cGxvYWQv/MjAyNi8wNC8wMi9T/U0NfMjAyNjA0MDIx/ODQ1MTlfTzIuanBn/LndlYnA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국의 이란 전쟁 비용은 430억 달러를 넘어섰습니다.",
+    "url": "https://www.vietnam.vn/ko/chi-phi-cua-my-cho-cuoc-chien-tai-iran-vuot-43-ty-usd",
+    "description": "이란과의 전쟁에 대한 미국의 군사비 지출은 9월 3일 기준으로 436억 달러로 증가했다.",
+    "age": "8 hours ago",
+    "page_age": "2026-09-19T05:31:39",
     "profile": {
       "name": "Vietnam",
-      "url": "https://vietnam.vn/ko/tin-cong-nghiep-quoc-phong-19-9-anh-cong-bo-nguyen-mau-challenger-3"
+      "url": "https://www.vietnam.vn/ko/chi-phi-cua-my-cho-cuoc-chien-tai-iran-vuot-43-ty-usd"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "vietnam.vn",
-      "hostname": "vietnam.vn",
-      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
-      "path": "› ko  › tin-cong-nghiep-quoc-phong-19-9-anh-cong-bo-nguyen-mau-challenger-3"
+      "hostname": "www.vietnam.vn",
+      "favicon": "https://imgs.search.brave.com/47r7RDNSdUZSrBTsPnezp7b5ygNYN3_e52FKTKI4O4A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQwMTkzNTQ2/ZWI0YmJhZmIzYjk2/MTMyYWQwYWY5Njdm/Y2ZlYWEwMzJjY2I3/Mzc4ZWQwODc0ZGZm/ZTY3ZDZjMC93d3cu/dmlldG5hbS52bi8",
+      "path": "› ko  › chi-phi-cua-my-cho-cuoc-chien-tai-iran-vuot-43-ty-usd"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/gaYUMz12M_zHub0nNqfpyA2dyrqqCcR9WrT3BhQ28Rw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk4MTAxODU2/MDBfMjAtMTUyNjIx/MzMuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "촛불시민, 미 대사관 앞 집결…\"파병강요·경제수탈 규탄\" < 사회 < 기사본문 - 세상을 바꾸는 시민언론 민들레",
-    "url": "https://mindlenews.com/news/articleView.html?idxno=22420",
-    "description": "김민웅 상임대표는 기조 발언을 통해 전날 \"전쟁에 관여, 개입하는 파병은 없다\"란 이재명 대통령의 발언에 대해 \"우리가 듣고 싶었던 말이다. 단호하게 거부한 것, 정말 잘한 일 아니냐\"면서 \"우리 촛불 국민의 멈추지 않는 투쟁 덕분\"이라고 말했다. 김 상임대표는 \"파병을 막기 위한 타격 대상은 미국이다. 이란에 ...",
-    "age": "41 minutes ago",
-    "page_age": "2026-09-19T09:15:00",
-    "profile": {
-      "name": "Mindlenews",
-      "url": "https://mindlenews.com/news/articleView.html?idxno=22420"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mindlenews.com",
-      "hostname": "mindlenews.com",
-      "favicon": "https://imgs.search.brave.com/6bjl9e4Iuv2wg0zsA2gcY0srEZKmIkbLEdSOiVIaHFw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGY1ZjUwYjUx/ZmE4MjNjNzRiNTY4/NzM2NmQ1ODM3MmEz/ZjhjNmFhYzNlODJi/MmZiZjQ3YTEwNmQz/Y2UxYzhhMC9taW5k/bGVuZXdzLmNvbS8",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/meWoJy-CdPsXcGH58e-lEMbCJYbxJpWoliWuFm12gyk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bWluZGxlbmV3cy5j/b20vbmV3cy90aHVt/Ym5haWwvMjAyNjA5/LzIyNDIwXzc3NjU5/XzEyNDVfdjE1MC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국, 전략 무기 생산을 위한 대규모 계약 체결… 이 '항공모함 킬���'는 얼마나 강력할까?",
-    "url": "https://vietnam.vn/ko/my-ky-hop-dong-khung-san-xuat-vu-khi-chien-luoc-sat-thu-tau-san-bay-uu-viet-nhu-the-nao",
-    "description": "미 해군은 점점 더 복잡해지는 전투 환경에서 항공모함 비행단의 작전 범위를 확대하기 위한 조치로, 보잉사에 MQ-25A 스팅레이 공중급유 무인항공기(UAV) 초기 생산분 제작 계약(5억 6200만 달러)을 체결했다.",
-    "age": "48 minutes ago",
-    "page_age": "2026-09-19T09:07:39",
-    "profile": {
-      "name": "Vietnam",
-      "url": "https://vietnam.vn/ko/my-ky-hop-dong-khung-san-xuat-vu-khi-chien-luoc-sat-thu-tau-san-bay-uu-viet-nhu-the-nao"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "vietnam.vn",
-      "hostname": "vietnam.vn",
-      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
-      "path": "› ko  › my-ky-hop-dong-khung-san-xuat-vu-khi-chien-luoc-sat-thu-tau-san-bay-uu-viet-nhu-the-nao"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/WpSWv1GN3gFjr6NGAVxc68gU8flI0VPJo14jLwWmfBM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk4MDkwNjk3/NDJfaGFpLXF1YW4t/bXkyMDI2MDkxOTE1/NTQwMS5qcGVn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "체코는 이스라엘로부터 스파이더 방공 시스템을 구매할 예정이다.",
-    "url": "https://vietnam.vn/ko/ch-sec-sap-mua-he-thong-phong-khong-spyder-cua-israel",
-    "description": "이스라엘의 주요 방위산업체가 체코 공화국에 스파이더 방공 시스템과 새로운 지휘통제(C2) 시스템을 공급하는 수십억 달러 규모의 계약을 체결할 예정이다.",
-    "age": "51 minutes ago",
-    "page_age": "2026-09-19T09:05:00",
-    "profile": {
-      "name": "Vietnam",
-      "url": "https://vietnam.vn/ko/ch-sec-sap-mua-he-thong-phong-khong-spyder-cua-israel"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "vietnam.vn",
-      "hostname": "vietnam.vn",
-      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
-      "path": "› ko  › ch-sec-sap-mua-he-thong-phong-khong-spyder-cua-israel"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6UpKMf7Y6TwVdl8HRBTthXZXHVs1Xs8NXfGLS1GElyA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk4MDg3Njg1/NjJfaGUtdGhvbmct/cGhvbmcta2hvbmct/cmFmYWVsLXNweWRl/ci1yYWZhZWwtanBn/LndlYnA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“끝날 듯 안 끝난다” 7개월째 미-이란 전쟁…‘K-기업’ 3대 수혜 분야는? [투자360] - 헤럴드경제",
-    "url": "https://biz.heraldcorp.com/article/10878792",
-    "description": "지난 2월28일 미국·이스라엘의 공습으로 시작된 이란전쟁은 당초 예상과 달리 예멘 후티반군과 이라크 시아파 민병대까지 참전하며 장기화하고 있는데 이 과정에서 미국은",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T09:00:00",
-    "profile": {
-      "name": "Herald Corp",
-      "url": "https://biz.heraldcorp.com/article/10878792"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.heraldcorp.com",
-      "hostname": "biz.heraldcorp.com",
-      "favicon": "https://imgs.search.brave.com/2JdhoGX1yJx7qkQ1ilRsZWW0NwlpbUZCaz9_gFPqPTU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWFkOTQzOWUx/Nzg3Y2FjMmYyNmNh/MGZkYmUyY2JhNmFl/MDJjYjViMTIxNTU3/YzkyNzQ0Yjk5MWI0/Mjg3OTE5MC9iaXou/aGVyYWxkY29ycC5j/b20v",
-      "path": "› article  › 10878792"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cZxqfec8oLtsI0YzVsfl1NejhIS7uRnuOguIiFpZPtI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmhlcmFsZGNvcnAu/Y29tL25ld3MvY21z/LzIwMjYvMDkvMTgv/cmN2LllOQS4yMDI2/MDUxNC5QWUgyMDI2/MDUxNDEyMzMwMDAx/MzAwX1AxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘이 사우디아라비아의 미국산 F-35 전투기 구매를 우려하는 이유.",
-    "url": "https://vietnam.vn/ko/ly-do-israel-lo-ngai-saudi-arabia-mua-f-35-cua-my",
-    "description": "이스라엘 국방부 관계자들은 군사적 우려를 이유로 미국이 사우디아라비아에 243억 달러 상당의 F-35 전투기 48대를 판매하려는 계획에 반대하고 있다.",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T08:59:45",
-    "profile": {
-      "name": "Vietnam",
-      "url": "https://vietnam.vn/ko/ly-do-israel-lo-ngai-saudi-arabia-mua-f-35-cua-my"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "vietnam.vn",
-      "hostname": "vietnam.vn",
-      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
-      "path": "› ko  › ly-do-israel-lo-ngai-saudi-arabia-mua-f-35-cua-my"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/fIXp20MxGQU03slaFeiY8AOnbSqRUDZYA1rI8xcrAV4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk4MDg3NzAy/MTVfZi1qcGcud2Vi/cA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "'가짜 계정 생성·게시물 유포'…AI로 여론 조작한 중국·이란·이스라엘",
-    "url": "https://mbn.co.kr/news/world/5220325",
-    "description": "수백 개의 AI 에이전트들은 ... 정치·시사 이슈 관련 허위 게시물을 빠르게 유포했습니다. 중국과 이란의 캠페인은 국가가, 이스라엘의 캠페인은 민간 기업이 주도한 것으로 파악됐습니다....",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T08:54:00",
-    "profile": {
-      "name": "MBN",
-      "url": "https://mbn.co.kr/news/world/5220325"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mbn.co.kr",
-      "hostname": "mbn.co.kr",
-      "favicon": "https://imgs.search.brave.com/TOfje9LqaEZye9wcIcV7XTKtQ_FvQMTN5T9Ij58Oh9o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDhhZDMxYzU1/ODUxMWVmNmQ2Yjlj/ZWVjZDQ4ZWZhYWJl/NjAxM2Y3NWE0MTgz/NzBiNzJkMGQyMjI2/NzhkYzdmMi9tYm4u/Y28ua3Iv",
-      "path": "› news  › world  › 5220325"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UsxdgEs548VO49-taR7RQ9ZhtdA3uDB8qTEz5Z44GNI/rs:fit:200:200:1:0/g:ce/aHR0cDovL2ltZy5t/Ym4uY28ua3IvZmls/ZXd3dy9uZXdzLzIw/MjYvMDkvMTkvMTc4/OTgwNjM5NzZhYWU0/NzNkNjI5MjIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"美시민으로 꾸민 가짜 SNS 계정…이란·中 여론조작 새 단계\"",
-    "url": "https://view.asiae.co.kr/article/2026091917511705304",
-    "description": "18일(현지시간) 뉴욕타임스(NYT)는 미국 정부 당국자와 보안 연구자들을 인용해 이란과 중국, 이스라엘 일부 민간 업체들이 최근 중국산 오픈소스 AI 모델을 기반으로 한 AI 에이전트를 온라인 영향력 공작에 활용했다고 보도했다.",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T08:51:17",
-    "profile": {
-      "name": "Asiae",
-      "url": "https://view.asiae.co.kr/article/2026091917511705304"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "view.asiae.co.kr",
-      "hostname": "view.asiae.co.kr",
-      "favicon": "https://imgs.search.brave.com/TG_kszJV7lJ3N9ct7i7q5eiL0MyTt_kXzvImOEzQnDk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjZiY2YzYzk2/ZTFhM2MwYzhiNDg0/NjgwZTIyNTRkNmNj/NzZjZTQxYjFkMmFk/NTNmNzQ4M2M3YmRi/YzE4OGQwOS92aWV3/LmFzaWFlLmNvLmty/Lw",
-      "path": "› article  › 2026091917511705304"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ibZvs94QMz3YiP7GvNEwtCCdh8b_3TN44kB0q-IAfog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jcGhv/dG8uYXNpYWUuY28u/a3IvbGlzdGltZ2xp/bmsvMS8yMDI1MDIy/NDA4NTc1NDQyODI4/XzE3NDAzNTUwNzQu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“청해부대 변칙 파병도 안 돼” 파병반대 긴급행동, 2차 시민대행진:자주시보",
-    "url": "https://jajusibo.com/70953",
-    "description": "‘미국 침략전쟁 중단 한국군 파병반대 긴급행동’(파병반대 긴급행동)이 19일 오후 1시 서울 종로 르메이에르 빌딩 앞에서 ‘미국은 침략전쟁 중단하라",
-    "age": "1 hour ago",
-    "page_age": "2026-09-19T08:50:00",
-    "profile": {
-      "name": "Jajusibo",
-      "url": "https://jajusibo.com/70953"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "jajusibo.com",
-      "hostname": "jajusibo.com",
-      "favicon": "https://imgs.search.brave.com/eIx5UAFnRGIJvNjkhwuajgsE28UPP9qR4DpF4XJTFeI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTc0NjFlOTkz/OTc1OTBjMWJmNjE5/ZjRhNjkwMDQxZmNk/ODliYmRhOGQxNTQx/MjVjMGFhNDc4ZjAx/NTVkYjhmYy9qYWp1/c2liby5jb20v",
-      "path": "› 70953"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/iPBZqDx1-O8dzG_AOfjjT25MsYNE3hmSI0BPUnC4dog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/amFqdXNpYm8uY29t/L2ltZ2RhdGEvamFq/dWlsYm9fY29tLzIw/MjYwOS8yMDI2MDkx/OTMwNTI0NzEwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란, 이스라엘 간첩 혐의 남성 교수형 집행 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260919049400109",
-    "description": "(로마=연합뉴스) 민경락 특파원 = 이란이 이스라엘에 미사일 기지 정보를 몰래 넘긴 혐의를 받는 남성을 교수형에 처했다고 로이터통신이 19일(현...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-19T08:18:09",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260919049400109"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260919049400109"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/iBGUXGFDiXFr0FJfIG_JhnORU_F7QWC7QBw8-Epx4lA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcw/LnluYS5jby5rci9w/aG90by9ldGMvZ3Qv/MjAyNi8wNi8yMi9Q/R1QyMDI2MDYyMjEw/NjYwMTAwOV9QNC5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 멜라트은행, 튀르키예서 영업 면허 전격 취소… 美·EU 제재 압박 가속화 : 국제 : 재경일보",
-    "url": "https://news.jkn.co.kr/post/990414",
-    "description": "튀르키예 정부가 오늘 '예금자 권리 및 금융 시스템 안정에 위협'을 이유로 이란 멜라트은행의 영업 면허를 취소했다. 이는 미국과 EU의 제재를 받는 이란 멜라트은행에 대한 국제사회의 압박을 가속화하며, 이란 금융기관의 ...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-19T08:14:10",
-    "profile": {
-      "name": "JKN",
-      "url": "https://news.jkn.co.kr/post/990414"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.jkn.co.kr",
-      "hostname": "news.jkn.co.kr",
-      "favicon": "https://imgs.search.brave.com/sBKDQrVLVCg_BKiYiDuNyMETNHtEP798XKZXAzhvPdI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGEwZjg1ZWQw/ODhhODM4NDVkNmQ2/OTBjZjI3YTkxMzkz/ZmYyM2Q5M2VhOTU1/MzIyNjA2ZGMyMDUy/MzVjMTAwZC9uZXdz/Lmprbi5jby5rci8",
-      "path": "› post  › 990414"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/R0t12aHD4BKF6nZgzfFZhonArJnkY3uzjxb0knBSaPQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuamtuLmNvLmty/L2RhdGEvaW1hZ2Vz/L2Z1bGwvMTA1LzQz/LzEwNTQzOTAuanBn/P3dpZHRoPTEyMDAm/YW1wO2hlaWdodD02/MzA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“폭발음 들리고 경보 발령하고”…수도까지 공습한 후티, 사우디 ‘발칵’ - 매일경제",
-    "url": "https://mk.co.kr/news/world/12157125",
-    "description": "친이란 예멘 반군 후티의 공격 수위가 시간이 갈수록 높아지고 있다. 사우디아라비아 수도 ���야드에 첫 공습 경보가 발령된 것. 19일(현지 시간) 영국 BBC 방송에 따르면 사우디 민방위국은 현지 시간으로 전날 밤부터 이날 ...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-19T08:03:48",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/world/12157125"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › world  › 12157125"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/tQzsAtWlhqKc3dIpf5Tza6Os6MGwH2CLbL_5LpVmWmA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OS8xOS9uZXdzLXAu/djEuMjAyNjA5MTku/OWNiZDBhZWM0NmEw/NDg5YTk0MjM2YjY0/MTk2NTZkZDVfUi5w/bmc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "디젤 가격 상승, 우크라전보다 중동분쟁 영향 커…트럼프 주장과 배치 < 세계 < 기사본문 - 블로터",
-    "url": "https://bloter.net/news/articleView.html?idxno=674069",
-    "description": "올해 초까지만 해도 시장은 원유 공급 과잉으로 유가가 하락할 것으로 전망했지만 중동전쟁 이후 상황이 뒤바꼈다. 2월 말 미국과 이스라엘이 이란을 공격한 이후 호르무즈해협을 통한 원유 공급이 제한되면서 유가가 ...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-19T08:00:00",
-    "profile": {
-      "name": "Bloter",
-      "url": "https://bloter.net/news/articleView.html?idxno=674069"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bloter.net",
-      "hostname": "bloter.net",
-      "favicon": "https://imgs.search.brave.com/YJ9r0nXxKMD-X7ECS8UIwdhc92f8wsUSS-hi5lG8gvo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTdiN2YwZjFj/OGNiZmM5OTA3MWY2/OWRlMTkzOGVjNzM4/MDhjY2Y3NDY3NzE0/Y2M5M2NiMTg5Zjkw/OWM0NGVkNi9ibG90/ZXIubmV0Lw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/w_Jo0O6TqprNFMEpY3PexZV2VIZaZwloVUxZAaMGlKg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmxvdGVyLm5ldC9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDkvNjc0/MDY5XzI4Nzc0Ml83/MzdfdjE1MC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "후티, 거침없는 공세…사우디 수도까지 노렸다 | 서울경제",
-    "url": "https://m.sedaily.com/article/20092935",
-    "description": "친이란 예멘 반군 후티의 공격 수위가 높아진 가운데 사우디아라비아 수도 리야드에 첫 공습경보가 발령됐다. 19일(현지 시간) 영국 BBC 방송 등 보도에 따르면 사우디 민방위국은 전날 밤부터 이날 아침까지 리야드를 포함한 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-19T07:13:59",
-    "profile": {
-      "name": "Sedaily",
-      "url": "https://m.sedaily.com/article/20092935"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "m.sedaily.com",
-      "hostname": "m.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/cVrIZQ9vjmwnYLxNcoKpHQHeB_mFzg89qoRan1C93-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNkYmI3NWZh/YjQwOTM1OTcyOTcx/MjhkMTQ0ZTAyM2Ey/MjU0YmJmMWMyMmQ5/ZGUyMGVhNTZmNzUw/MWY1ZTc4ZC9tLnNl/ZGFpbHkuY29tLw",
-      "path": "› article  › 20092935"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/6mwSLYJmcGwsqKbntbOVEu05uYPN55V-QpBAmPswo2c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMTkvcmN2/LllOQS4yMDI2MDkx/OS5QQUYyMDI2MDkx/OTA0MDUwMTAwOV9a/MS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "에이스 권순우가 끝내줬다...한국 테니스 사상 첫 세계 8강행 금자탑",
-    "url": "https://newspim.com/news/view/20260919000110",
-    "description": "[서울=뉴스핌] 박상욱 기자 = 한국 남자 테니스가 66년 만에 처음으로 국가대항전 데이비스컵 파이널(8강) 진출이라는 새 역사를 썼다.에이스 권순우(157위·충남체육회)를 앞세운 한국 대표팀은 19일 서울 올림픽공원 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-19T07:05:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260919000110"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260919000110"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/we6HvEWBFDyHbHTvXVTC2E5l6sRKyU27Wnq5o4MzP-4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzE5LzI2MDkxOTE2/MzE0NzE2MjFfNjE4/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미 국방부 “이란전 비용 62조원”…미군기지 수리비는 빠졌다",
-    "url": "https://hani.co.kr/arti/international/international_general/1278607.html",
-    "description": "CNN은 전쟁 비용의 상당 부분이 군수품 지출에서 비롯됐으며, 이란 전쟁이 2027년 1분기 물가 상승 압력으로도 이어질 수 있다고 의회예산국이 봤다고 전했다.",
-    "age": "3 hours ago",
-    "page_age": "2026-09-19T06:51:00",
-    "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/international/international_general/1278607.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › international  › international_general  › 1278607.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/eaHe59t8ZUyOyLVp5Dj_LtJCjKFZXvoo2Z8dGeUlnnI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC84MDAvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTE5LzIw/MjYwOTE5NTAwNTIw/LndlYnA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "김승원 자진사퇴 배경에 '성추행 의혹'…靑 \"확인 어렵다\"",
-    "url": "https://newspim.com/news/view/20260919000109",
-    "description": "[서울=뉴스핌] 김연순 기자 = 김승원 전 법무부 장관 후보자의 과거 성추행 의혹 등이 담긴 탄원서가 청와대에 전달됐다는 언론 보도가 나온 가운데, 청와대는 \"인사와 관련한 사안은 확인이 어렵다\"고 밝혔다.청와대 관계자는 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-19T06:51:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://newspim.com/news/view/20260919000109"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "newspim.com",
-      "favicon": "https://imgs.search.brave.com/Id40IpPJD04L0N5hIU8QVpL0JQCc7MPAiKmf6Q__i-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzcyMzUwYTBl/Nzk1OGM2ZTFiMWVj/NWEwNDdhZjIxM2Fh/ZDUzYjQ3MTY2MmUz/NmY5OWM5OTNjYzJl/YTkxNDgzOC9uZXdz/cGltLmNvbS8",
-      "path": "› news  › view  › 20260919000109"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Of0-1mDBT8b7Z_2Ah5Bc-KDTNtDoGh6s6quk_v7NRlE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA0/LzEyLzI2MDQxMjA5/NDc0MDMyODBfOTAx/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "예멘 반군 후티, 사우디 수도에 첫 공습경보 발령… 전면전 위기 고조-국제ㅣ한국일보",
-    "url": "https://hankookilbo.com/news/article/A2026091914500004322",
-    "description": "① 후티의 공격이 거세지면서 사우디 수도 리야드에 처음으로 공습경보가 발령됐습니다. ② 후티는 모카항과 페림 섬을 장악한 뒤 드론과 미사일로 사우디 본토 압박을 강화했습니다. ③ 사우디 주도의 아랍동맹군은 예멘 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-19T06:44:00",
-    "profile": {
-      "name": "한국일보",
-      "url": "https://hankookilbo.com/news/article/A2026091914500004322"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hankookilbo.com",
-      "hostname": "hankookilbo.com",
-      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
-      "path": "› news  › article  › A2026091914500004322"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/LLdFEPKVter74V8IoWg9M75MXiOB-kUTvsGC_Fl9LUk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA5LzE5L2Q2Yzgw/N2ZhLTcxM2QtNDk4/My04YzI4LWEwMWI3/ZGU1OTE1YS5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "후티 공세에 사우디 수도 리야드 첫 공습경보…전면전 우려 | 한국경제",
-    "url": "https://hankyung.com/article/2026091952107",
-    "description": "후티 공세에 사우디 수도 리야드 첫 공습경보…전면전 우려, 리야드 등 여러 지역에 전날 밤부터 경보",
-    "age": "4 hours ago",
-    "page_age": "2026-09-19T05:57:29",
-    "profile": {
-      "name": "Hankyung",
-      "url": "https://hankyung.com/article/2026091952107"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hankyung.com",
-      "hostname": "hankyung.com",
-      "favicon": "https://imgs.search.brave.com/QYXHOeosX1HK-oSxvD1Z5IhfE9iEA1C4Ci6uKqRgErc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2VjNDI2/NzZlMjE0Y2U1MjM3/MDg0MDQ4NDQzZjE0/ZmE3MTllZGMwYjA0/Njg4OTg1MDJlYjBm/NmRkZTVmMS9oYW5r/eXVuZy5jb20v",
-      "path": "› article  › 2026091952107"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wvWtGZmXtoM-CG6PI7AJOLpd0bh1NkKVlYGjqaVb_v4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGFua3l1bmcuY29t/L3Bob3RvLzIwMjYw/OS8wMS40NTc0ODkx/MC4xLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "눈덩이처럼 불어나는 이란 전쟁 비용…美 국방부 “62조원 지출” - 매일경제",
-    "url": "https://www.mk.co.kr/news/world/12157095",
-    "description": "미국이 이란과의 전쟁에 쓴 비용이 계속 불어나고 있다. 18일(현지시간) CNN에 따르면 미 국방부는 이란 전쟁에 투입된 비용이 451억달러(62조5000억원)에 달한다고 의회에 보고했다. 지난 3일 기준으로 전쟁 비용은 436억 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-19T05:36:07",
-    "profile": {
-      "name": "MK",
-      "url": "https://www.mk.co.kr/news/world/12157095"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "www.mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/PL5Vw9m6owq3uA17wc9pmOmjoxHzhzwmd06EtyNkh88/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzZjZGQ5MWVk/MjA4MjhhMDY5NjIx/ODYxYmUwMWY3NjI1/NDBhYWJmZTBkYTli/ZWYzMGYwNmVjNDU3/ZmYwMmUzYS93d3cu/bWsuY28ua3Iv",
-      "path": "› news  › world  › 12157095"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Efcb-P5urzpXdBPlZNCaeKm0EAmgRsZMYt5ICHGNkcc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYw/OS8xOS9uZXdzLXAu/djEuMjAyNjA5MTku/MTI3YTBjNmYxZjkz/NDE3Zjk0MjdhMzg4/YTAwNTM3N2JfUi5q/cGc"
+      "src": "https://imgs.search.brave.com/wYFLVBy2eUKLNqylZCkhPsjP_yiEso4n5WB77GvF20Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzE5/LzE3ODk3OTY0NDY4/MDZfcG90YWwtbXkt/eGFjLW5oYW4tdG9u/LXRoYXQtdGFuZy1j/dW9uZy1oaWVuLWRp/ZW4tcXVhbi1zdS10/YWktdHJ1bmctZG9u/Zy1zdGFuZC1qcGcu/d2VicA"
     }
   },
   {
@@ -510,7 +334,7 @@
     "title": "美 이란전 비용 62조원 넘어…전쟁비용 계속 불어난다 - 파이낸셜뉴스",
     "url": "https://www.fnnews.com/news/202609191420562752",
     "description": "미국이 이란과의 전쟁에 투입한 비용이 450억달러를 넘어선 것으로 나타났다.18일 CNN에 따르면 미 국방부는 이란 전쟁에 들어간 비용이 총 451억달러에 달한다고 의회에 보고했다.국방부가 지난 3일까지 집계한 전쟁 비용은 ...",
-    "age": "5 hours ago",
+    "age": "8 hours ago",
     "page_age": "2026-09-19T05:23:00",
     "profile": {
       "name": "First News",
@@ -532,7 +356,7 @@
     "title": "미국, \"이란의 코앞에서 작? ? 수행\": 피해 지역 내 물자 공급 상황 보?? - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/09/19/75109.html",
     "description": "중동에 있는 주요 미군 기지들이 이란의 집중 포격을 받는 동안 이러한 상황이 발생했다고 설명됩니다. 미사일 и 드론가미카제 공격으로 인명, 장비, 기반 시설에 손실이 발생했지만, 소규모 해병대원들은 신속하게 임시 ...",
-    "age": "7 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-09-19T03:24:19",
     "profile": {
       "name": "News-pravda",
@@ -554,7 +378,7 @@
     "title": "미국이 이란에게 패배한 이?? 는 무엇일까요? - Pravda 대한민국",
     "url": "https://south-korea.news-pravda.com/south-korea/2026/09/19/18898.html",
     "description": "역사 제1차 세계 대전 이후 중동 전문가이자 도쿄의 싱크탱크인 오카자키 연구소의 중동 문제 평론가로 활동해 왔다. 이란과의 전쟁 발발 이후, 그는 일본 언론에서 분쟁 분석을 제공하는 주요 인물로 부상했다.",
-    "age": "7 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-09-19T03:22:38",
     "profile": {
       "name": "Pravda South Korea",
@@ -573,10 +397,32 @@
   },
   {
     "type": "news_result",
+    "title": "李 대통령, “전쟁 파병 없다”…청해부대 역할 확대 검토 < 정치일반 < 정치 < 기사본문 - 스페셜경제",
+    "url": "https://www.speconomy.com/news/articleView.html?idxno=418083",
+    "description": "정부는 전쟁에 직접 개입하지 않는다는 원칙 아래 우리 선박과 에너지 수송로를 보호할 방안을 구체화할 것으로 보인다. 향후 국제 해양연합 구성과 미국을 비롯한 우방국의 요청 수위에 따라 청해부대 임무 확대나 비전투 분야 지원 여부가 결정될 전망이다. 정미송 기자 speconomy@naver.com 다른기사 보기 · 키워드 #이재명 #호르무즈해협 #이란전쟁 ...",
+    "age": "11 hours ago",
+    "page_age": "2026-09-19T02:32:08",
+    "profile": {
+      "name": "Speconomy",
+      "url": "https://www.speconomy.com/news/articleView.html?idxno=418083"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "speconomy.com",
+      "hostname": "www.speconomy.com",
+      "favicon": "https://imgs.search.brave.com/YAsSi20uu-qYohlfLxY64lYV5IiGs4XQda9tHt7OYqw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY0ODQ2MGM2/NTdlYjYzZDI2Yjgx/N2E0NmMxZDVjNDFj/OTk5YTE2MDljMDdk/YWFhOTA1YmFhODU2/MzI2MDYzZC93d3cu/c3BlY29ub215LmNv/bS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/7SSu4ss1S7OX4jPxhzmbguOr-ZybFikq5VALA7uM63U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BlY29ub215LmNv/bS9uZXdzL3Bob3Rv/LzIwMjYwOS80MTgw/ODNfNDE0NDg2XzQ0/NDEucG5n"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "일본에서 나라 망했다고 난리난 로손 편의점 신상 도시락",
     "url": "https://bbs.ruliweb.com/community/board/300143/read/76726195",
     "description": "일본에서 나라 망했다고 난리난 로손 편의점 신상 도시락",
-    "age": "8 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-09-19T01:43:29",
     "profile": {
       "name": "Ruliweb",
@@ -598,7 +444,7 @@
     "title": "이 대통령 \"전쟁 파병 없다\" 앞다퉈 주목한 외신의 분석 - 오마이뉴스",
     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268693&PAGE_CD=N0002&CMPT_CD=M0112",
     "description": "이재명 대통령이 이란 전쟁 파병은 없을 것이라고 선언하면서 외신도 주목하고 나섰다.이 대통령이 18일 청와대 기자회견에서 호르무즈 해협 파병 문제와 관련해 \"전쟁에 관여하거나 개입하는 파병은 없다\"라며 \"그런 형태의 ...",
-    "age": "9 hours ago",
+    "age": "13 hours ago",
     "page_age": "2026-09-19T00:53:00",
     "profile": {
       "name": "OhmyNews",
@@ -619,8 +465,8 @@
     "type": "news_result",
     "title": "미군,이란전쟁 사망 ‘축소 집계’…최소 22명 숨져 < 국제일반 < 사회 < 기사본문 - 스페셜경제",
     "url": "https://www.speconomy.com/news/articleView.html?idxno=418079",
-    "description": "WP가 입수한 문서에 따르면 ... 전쟁 비용이 약 436억달러(약 60조원)에 달한 것으로 추산했다. 전체 비용 가운데 소모된 군수품은 280억달러로 집계됐다. 미군 기지 피해액은 포함되지 않아 실제 비용은 더 늘어날 가능성이 있다. 미국 내 여론도 악화하고 있다. 로이터·입소스가 9월 실시한 여론조사에서 도널드 트럼프 대통령의 이란 대응을 ...",
-    "age": "9 hours ago",
+    "description": "WP가 입수한 문서에 따르면 ... 전쟁 비용이 약 436억달러(약 60조원)에 달한 것으로 추산했다. 전체 비용 가운데 소모된 군수품은 280억달러로 집계됐다. 미군 기지 피해액은 포함되지 않아 실제 비용은 더 늘어날 가능성이 있다. 미국 내 여론도 악화하��� 있다. 로이터·입소스가 9월 실시한 여론조사에서 도널드 트럼프 대통령의 이란 대응을 ...",
+    "age": "13 hours ago",
     "page_age": "2026-09-19T00:49:50",
     "profile": {
       "name": "Speconomy",
@@ -642,7 +488,7 @@
     "title": "이란은 국민들을 동원하여 국가를 지지하도록 하고 있다.",
     "url": "https://vietnam.vn/ko/iran-van-dong-quan-chung-tham-gia-ho-tro-dat-nuoc",
     "description": "수십만 명의 이란인들이 \"잔파다\" 캠페인에 참여하여 외부 위협으로부터 조국을 지키기 위해 기꺼이 희생하겠다는 의지를 보여주었습니다.",
-    "age": "10 hours ago",
+    "age": "14 hours ago",
     "page_age": "2026-09-18T23:30:25",
     "profile": {
       "name": "Vietnam",
@@ -664,7 +510,7 @@
     "title": "이란 전쟁 비용 1달여 만에 7조8000억 증가｜동아일보",
     "url": "https://donga.com/news/Inter/article/all/20260919/134700132/1",
     "description": "미군의 이란 전쟁 비용이 지난 3일까지 436억 달러(약 60조5386억 원)로 늘어났다는 새로운 추산이 이번 주 의원들에게 제공됐다.미 중부사령부가 제시한 이 수치는 미국과 이스라엘이 2월 28일 전쟁을 시작한 이후 이란 전쟁에 ...",
-    "age": "13 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-09-18T21:19:05",
     "profile": {
       "name": "The DONG-A ILBO",
@@ -685,8 +531,8 @@
     "type": "news_result",
     "title": "\"이란전 미군 사망자 최소 22명…공식 집계보다 4~5명 많아\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202609190612472742",
-    "description": "[도버공군기지=AP/뉴시스]도널드 트럼프 미국 대통령과 피트 헤그세스 국방장관이 지난 7월 22일(현지 시간) 미국 델라웨어주 도버공군기지에서 이란과의 전쟁에서 전사한 미군 장병 4명의 유해 운구식이 진행되는 동안 ...",
-    "age": "13 hours ago",
+    "description": "[서울=뉴시스] 이재은 기자 = 미 국방부의 내부 사상자 집계 자료에 정통한 미국 관리들이 현재 진행 중인 이란 전쟁에서 중동 지역 미군 사망자가 국방부가 공개한 수치보다 많다고 밝혔다. 18일(현지 시간) 워싱턴포스트(WP)에 ...",
+    "age": "16 hours ago",
     "page_age": "2026-09-18T21:13:03",
     "profile": {
       "name": "First News",
@@ -705,10 +551,32 @@
   },
   {
     "type": "news_result",
+    "title": "“공식 발표보다 더 죽었다”…이란전쟁 미군 사망자 최소 22명",
+    "url": "https://www.dailian.co.kr/news/view/1692414/%E2%80%9C%EA%B3%B5%EC%8B%9D-%EB%B0%9C%ED%91%9C-%EB%8D%94-%EC%A3%BD%EC%97%88%EB%8B%A4%E2%80%9D%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%EB%AF%B8%EA%B5%B0-2026",
+    "description": "특히 사망자 가운데 일부는 이란군의 직접 공격으로 숨진 전투 사망자가 아니라 중동 지역에서 작전을 수행하다 훈련 사고나 응급 상황 등으로 숨진 군인들인 것으로 알려졌다. WP 보도에 따르면 이라크에서 훈련 중 숨진 군인과 쿠웨이트에서 의료 응급상황으로 사망한 군인 등도 공개된 전쟁 ...",
+    "age": "17 hours ago",
+    "page_age": "2026-09-18T20:22:00",
+    "profile": {
+      "name": "Dailian",
+      "url": "https://www.dailian.co.kr/news/view/1692414/%E2%80%9C%EA%B3%B5%EC%8B%9D-%EB%B0%9C%ED%91%9C-%EB%8D%94-%EC%A3%BD%EC%97%88%EB%8B%A4%E2%80%9D%EC%9D%B4%EB%9E%80%EC%A0%84%EC%9F%81-%EB%AF%B8%EA%B5%B0-2026"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "dailian.co.kr",
+      "hostname": "www.dailian.co.kr",
+      "favicon": "https://imgs.search.brave.com/NSTlDPTkdbyU1BvZx9ubITf6GIVeFL4jHpe8rZua090/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWMxZTkyYmIz/OWUwYzk0NjRiNTdi/NzNlMDc4YjFhMDJi/ZGE3MDAxYWNmYWJi/Y2MxYzBiNjU0Mjg1/NWEwMThlYy93d3cu/ZGFpbGlhbi5jby5r/ci8",
+      "path": "› news  › view  › 1692414  › “공식-발표-더-죽었다”이란전쟁-미군-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yRs6GdN8Q3PbYAY247_oa7bZNhEi3soD4O-AgyfNY2Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA5L25ld3Nf/MTc4OTc2Mjk1MzA3/Ml8xNjkyNDE0X21f/MS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "\"이란전쟁 미군 사망자, 공식 집계된 18명보다 4∼5명 많아\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202609190427326719",
     "description": "DCAS 자료에는 이란과의 전쟁 이후 전투 중 부상한 미군 장병은 820명 이상이다. 이들 중 다수는 중동의 미군 기지를 겨냥한 이란의 반격으로 외상성 뇌손상을 입었다.",
-    "age": "14 hours ago",
+    "age": "18 hours ago",
     "page_age": "2026-09-18T19:27:44",
     "profile": {
       "name": "First News",
@@ -730,7 +598,7 @@
     "title": "유엔의 지원을 받는 전문가들은 학교 공격을 포함해 이란에서 미국이 전쟁 범죄를 일으킬 가능성이 있다고 언급합니다.",
     "url": "https://lnews.tv/%EC%9C%A0%EC%97%94%EC%9D%98-%EC%A7%80%EC%9B%90%EC%9D%84-%EB%B0%9B%EB%8A%94-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%80-%ED%95%99%EA%B5%90-%EA%B3%B5%EA%B2%A9%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%B4",
     "description": "켈리 국장은 “이 분쟁에서 전쟁 범죄를 저지른 유일한 당사자는 이란 정권으로, 자국민 수천 명을 살해하고 해외 미국인을 살해했으며 호르무즈 해협에서 테러 행위를 자행하고 이 지역 이웃 국가에 무차별 공격을 ...",
-    "age": "17 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-09-18T17:02:24",
     "profile": {
       "name": "Lnews",
@@ -745,28 +613,6 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/a2kdcSbsBWJaOSHHvepDe2N-6mrChLXWEAKvliTSdbs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG5ld3MudHYvd3At/Y29udGVudC91cGxv/YWRzLzIwMjYvMDkv/7Jyg7JeU7J2YLeyn/gOybkOydhC3rsJvr/ipQt7KCE66y46rCA/65Ok7J2ALe2Vmeq1/kC3qs7XqsqnsnYQt/7Y-s7ZWo7ZW0Leyd/tOuegOyXkOyEnC3r/r7jqta3snbQt7KCE/7J-BLmNvbTJGZGlt/czMyRmRlZmF1bHQy/RnN0cmlwMkZmYWxz/ZTJGY3JvcDJGNTk3/NXgzMzYxMjAwMjAu/anBlZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "ఇరాన్ తో యుద్ధం.. ఆర్థికంగా అమెరికా కుదేలు.!",
-    "url": "https://teluguone.com/news/content/us-iran-war-58-231558.html",
-    "description": "ఇరాన్‌తో కొనసాగుతున్న సైనిక ఘర్షణ కారణంగా అమెరికాపై మోయలేని ఆర్థిక భారం పడుతోంది. ఈ ఏడాది జులై వరకు పెంటగాన్ ...",
-    "age": "18 hours ago",
-    "page_age": "2026-09-18T16:07:52",
-    "profile": {
-      "name": "TeluguOne",
-      "url": "https://teluguone.com/news/content/us-iran-war-58-231558.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "teluguone.com",
-      "hostname": "teluguone.com",
-      "favicon": "https://imgs.search.brave.com/vXtYusUFt35KmzBEvscU5-2ae5U9Rs2hp5iIeDxsvtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRjODIwNzZk/ODg1NTk0Y2ExYWVi/OWE0MzEyMzUxMWM4/ZWE0MTk1Y2RlYzYw/ZTA5MGNkNDdiMDdk/NTFiYmYzNS90ZWx1/Z3VvbmUuY29tLw",
-      "path": "› news  › content  › us-iran-war-58-231558.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/QIzzFdm8SxkdqZDagwmcU5inVXDXNoSpwGgQVm3lxuM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGVsdWd1b25lLmNv/bS90ZWx1Z3VvbmVV/c2VyRmlsZXMvaW1n/L1VTSXJhbndhcigx/KS53ZWJw"
     }
   },
   {
@@ -833,6 +679,28 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/UetILFg2AzQNAFAk2XYDDSDGTPIz-ECqxVbWXicXPlo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/Yml6LnNicy5jby5r/ci91cGxvYWQvMjAy/Ni8wOS8xOC9pQUwx/Nzg5NzI3MjU1MTE5/LTg1MC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "유엔 “156명 사망 이란 초교 공습은 전쟁범죄”…백악관 “헛소리” 일축",
+    "url": "https://hani.co.kr/arti/international/international_general/1278520.html",
+    "description": "미국·이스라엘이 대이란 공격을 시작한 첫날인 2월28일 이란 미나브 초등학교 폭격으로 두 자녀를 잃은 이란 여성이 5월 미나브의 선한나무(샤자레 타이예베) 초등학교 앞에서 자녀들의 사진을 든 채 걸어가고 있다.",
+    "age": "1 day ago",
+    "page_age": "2026-09-18T07:26:00",
+    "profile": {
+      "name": "Hani",
+      "url": "https://hani.co.kr/arti/international/international_general/1278520.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hani.co.kr",
+      "hostname": "hani.co.kr",
+      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
+      "path": "› arti  › international  › international_general  › 1278520.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/OVZkNBkLq9RlF2Zx2lt02r6GBfXyzxGDXv5-6wdUbls/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/NzAwLzQ2Ni9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzA5MTgvMjAy/NjA5MTg1MDI2MjAu/d2VicA"
     }
   },
   {
@@ -925,32 +793,10 @@
   },
   {
     "type": "news_result",
-    "title": "유엔 조사단 “123명 숨진 美 이란 학교 공습은 전쟁범죄에 해당”",
-    "url": "https://chosun.com/international/international_general/2026/09/18/MZRTSZBQME4GMOBYMQYTIMBYMQ",
-    "description": "유엔 조사단이 올해 2월 미군의 이란 내 민간 시설 공습을 전쟁범죄로 판단했습니다. 조사단은 미군이 정밀 타격 미사일 등을 사용하여 민간인 피해를 초래했다고 지적했습니다. 이에 미 국방부는 공식 논평을 거부하고 자체 ...",
-    "age": "1 day ago",
-    "page_age": "2026-09-18T00:58:23",
-    "profile": {
-      "name": "Chosun Daily",
-      "url": "https://chosun.com/international/international_general/2026/09/18/MZRTSZBQME4GMOBYMQYTIMBYMQ"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "chosun.com",
-      "favicon": "https://imgs.search.brave.com/-EKjwMI3kDvBwd_RhVH63t0DKf1jxbTPM6jB9E3jj3E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTMyYTg1MmUz/NjQ3OTViYzE4OTIz/OWI2YjllZTNhNGFj/ZWM1NDI4NjczYmQ2/ZjhiM2EwNDZmMjQ4/Mjg0NjZmNC9jaG9z/dW4uY29tLw",
-      "path": "› international  › international_general  › 2026  › 09  › 18  › MZRTSZBQME4GMOBYMQYTIMBYMQ"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ZjUIuV_701aoJWPTQJ7KMr4yE2vuR_5h9wO2bovd3ac/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0dF/M0RDWUpWTVkzVEtO/VEVNWVpUQU1MREdZ/LmpwZz9hdXRoPWMw/OWEyYjE5MDg4Mjhm/ZjJhZWNlOTE0YzAy/ZGE4NDFmYTkyNjRh/OWI5NDZjNTBkMjNl/ZmVmMTM5OGE4ODdk/OGYmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "유엔 조사단 “123명 숨진 美 이란 학교 공습은 전쟁범죄에 해당” - 조선비즈",
     "url": "https://biz.chosun.com/international/international_general/2026/09/18/RSNNGRD2PRGO7N5BVZ5JMJ6FDM",
     "description": "유엔 조사단 123명 숨진 美 이란 학교 공습은 전쟁범죄에 해당 전쟁 첫날 공습으로 민간인 170여 명 사망 美 자체 조사 진행 중 UN, 이란의 反정부 시위 유혈 진압도 비판 미국이 올해 2월 이란의 초등학교와 체육시설을 공습해 ...",
-    "age": "1 day ago",
+    "age": "2 days ago",
     "page_age": "2026-09-18T00:54:36",
     "profile": {
       "name": "CHOSUNBIZ",
