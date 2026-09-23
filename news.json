@@ -1,152 +1,460 @@
 [
   {
     "type": "news_result",
-    "title": "뉴욕증시, 미ㆍ이란 ‘3시간 협상’에도 혼조…나스닥 0.45%↑[상보] - 이투데이",
-    "url": "https://etoday.co.kr/news/view/2628820",
-    "description": "도널드 트럼프 미국 대통령이 이날 유엔총회 연설에서 이란과의 전쟁 종식을 위한 합의 가능성을 언급한 데 이어 미국과 이란 대표단이 약 3시간 동안 협상했다는 사실을 공개했지만 시장의 경계심을 완전히 해소하지는 ...",
+    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – live | Donald Trump | The Guardian",
+    "url": "https://theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+    "description": "The subject was raised after a reporter mentioned Ukraine’s attacks on Russian oil infrastructure, which Trump was quick to point out had damaged global diesel supplies. (The conflict between the US and Iran, which Trump launched in February alongside Israel, has also strangled global energy ...",
+    "age": "7 minutes ago",
+    "page_age": "2026-09-23T00:13:19",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "theguardian.com",
+      "favicon": "https://imgs.search.brave.com/RUl9ybA9ntMGVUE4dG-E30SF5zaX2G90cR9BhutzZfI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3M2ZmODU1/Njg0MGQwZmU4ZmIx/MmExNWNkZTFkY2Q0/MzM2MDNmOWQxYWYz/MjZiZjQ4ZDIzMmYz/OTU5MmE2NC90aGVn/dWFyZGlhbi5jb20v",
+      "path": "› us-news  › live  › 2026  › sep  › 22  › donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/prSBkNK6imHtJPWbf7xvIso18erIlNzGlFO3U4GDoD0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2ZkM2Q1/NGU3ODYxMDUwMmRj/ZGMzZDdmODVhMzAz/OWUxOTFmODM2ZGIv/NjUxXzI4N18zMzk2/XzI3MTgvbWFzdGVy/LzMzOTYuanBnP3dp/ZHRoPTEyMDAmaGVp/Z2h0PTYzMCZxdWFs/aXR5PTg1JmF1dG89/Zm9ybWF0JmZpdD1j/cm9wJnByZWNyb3A9/NDA6MjEsb2Zmc2V0/LXg1MCxvZmZzZXQt/eTAmb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dGJHbDJaUzV3Ym1j/JmVuYWJsZT11cHNj/YWxlJnM9NGEyN2Vj/MmJmN2E0Y2E2NWRm/ZDk3Y2QxODRjZTAx/OTY"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Oil On The Boil: Trump Mulls Diesel Export Ban — Will Prices Finally Fall? | Times Now",
+    "url": "https://timesnownews.com/world/us/us-news/us-iran-war-updates-trump-diesel-export-ban-gas-prices-strait-of-hormuz-article-156206741",
+    "description": "Republicans in Congress have been calling for restrictions on diesel exports as global supply shortages push prices higher. The shortages have been linked to disruptions caused by the US-Israeli war against Iran and the continuing Russia-Ukraine conflict.",
     "age": "12 minutes ago",
-    "page_age": "2026-09-22T21:51:00",
+    "page_age": "2026-09-23T00:08:10",
     "profile": {
-      "name": "Etoday",
-      "url": "https://etoday.co.kr/news/view/2628820"
+      "name": "Times Now",
+      "url": "https://timesnownews.com/world/us/us-news/us-iran-war-updates-trump-diesel-export-ban-gas-prices-strait-of-hormuz-article-156206741"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "etoday.co.kr",
-      "hostname": "etoday.co.kr",
-      "favicon": "https://imgs.search.brave.com/8tYmt61rT0raA4kHfr7ZYeUKu2dRUMue-4o4Oi_bSQ0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDI3MDA2ZDky/MDkxNTA2NmI1NWQw/M2VmZjU0OTZlZDNj/MDc4ZThjYjlmZDVi/MDhhNWRiN2UyZDg4/MGI0MTNjOS9ldG9k/YXkuY28ua3Iv",
-      "path": "› news  › view  › 2628820"
+      "netloc": "timesnownews.com",
+      "hostname": "timesnownews.com",
+      "favicon": "https://imgs.search.brave.com/vTYLHN6zx9Td9nbn8_lBpSICJpzH4NaOCpdrgPGn-RY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhYWE2MjI3/Y2IyMmZiMDU4MGIw/NDBlNGQ1NTI3ZGMw/MDViZWQzNzJlNGUw/NDgyNDgzZmViZTg0/NWZlYjAwZS90aW1l/c25vd25ld3MuY29t/Lw",
+      "path": "› world  › us  › us-news  › us-iran-war-updates-trump-diesel-export-ban-gas-prices-strait-of-hormuz-article-156206741"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ulgDTcvS8k59OZsKuYK8ahDW7efUlmXe8-rZ1ZWEDVg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRvZGF5LmNvLmty/L3B0b19kYi8yMDI2/LzA5LzIwMjYwOTE4/MDYyMzAzXzIzOTAw/MThfMTIwMF84MDAu/anBn"
+      "src": "https://imgs.search.brave.com/JszdONL-Bs7ek8ODoQrh0wA_DVMZHopqfDndpdcsAig/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGltZXNub3du/ZXdzLmNvbS90aHVt/Yi9tc2lkLTE1NjIw/Njc0MCx0aHVtYnNp/emUtMTQyMTIwLHdp/ZHRoLTEyODAsaGVp/Z2h0LTcyMCxyZXNp/emVtb2RlLTc1LzE1/NjIwNjc0MC5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "미국-이란, 3개월 만에 직접회담...국제유가 100달러 아래로 - Radio Seoul",
-    "url": "https://radioseoul1650.com/archives/157061",
-    "description": "이에 따르면 이란은 호르무즈 재개방의 전제 조건으로 해상 봉쇄의 즉각적인 해제, 동결된 이란 자산 전체의 즉각적인 반환, 모든 전선에서의 전쟁 종식 등을 제시했다.",
-    "age": "17 minutes ago",
-    "page_age": "2026-09-22T21:45:28",
+    "title": "Trump supports diesel export ban as fuel prices hit records | FMT",
+    "url": "https://freemalaysiatoday.com/category/world/2026/09/23/trump-supports-diesel-export-ban-as-fuel-prices-hit-records",
+    "description": "Donald Trump's backing of a ban clashes with top energy officials' warnings it could raise US Gulf Coast fuel prices and tighten supplies for European allies.",
+    "age": "12 minutes ago",
+    "page_age": "2026-09-23T00:07:50",
     "profile": {
-      "name": "Radio Seoul",
-      "url": "https://radioseoul1650.com/archives/157061"
+      "name": "Free Malaysia Today",
+      "url": "https://freemalaysiatoday.com/category/world/2026/09/23/trump-supports-diesel-export-ban-as-fuel-prices-hit-records"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "radioseoul1650.com",
-      "hostname": "radioseoul1650.com",
-      "favicon": "https://imgs.search.brave.com/rcRTHMej-1yhaGudo-Q2CddtLcfXPI6Y8LW3FZ9Z6Fs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGUwZjEyNjQy/NDc4YzRjNzM0YzY0/MTUxZGVmNmI0ZTEy/YTZlNWE3ODY4NWE5/MzM2M2E0MTM5OTM2/ZjliMDBjZi9yYWRp/b3Nlb3VsMTY1MC5j/b20v",
-      "path": "› archives  › 157061"
+      "netloc": "freemalaysiatoday.com",
+      "hostname": "freemalaysiatoday.com",
+      "favicon": "https://imgs.search.brave.com/der6Ogsd2UAZ8m5QUfv0kXtfoasAglJxxHqZspRAY30/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZjOTAxMDc4/YWVlYTNjYWU2MmIz/ZjZiNjA1NDE3MjNk/MWE4NGFjNWQ0ZjQ5/MmE2YjliMzI5Zjky/YTQ1MDRjZC9mcmVl/bWFsYXlzaWF0b2Rh/eS5jb20v",
+      "path": "› category  › world  › 2026  › 09  › 23  › trump-supports-diesel-export-ban-as-fuel-prices-hit-records"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/we60aJpbU4d9OmoxgWhi23hMPHlW0H2Fj53LmmG9_RU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cmFkaW9zZW91bDE2/NTAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA5LzIw/MjYtMDktMjJUMTk0/NTUyWl8xNTg2NDc1/MjExX1JDMkpPTkFW/NUlCUl9SVFJNQURQ/XzNfVVNBLVRSVU1Q/LUdVTEYtc2NhbGVk/LmpwZw"
+      "src": "https://imgs.search.brave.com/XBkLzKCzkba7pHNdI3MkIEAznjVm592XAVGN60gHk9E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZW1hbGF5c2lh/dG9kYXkuY29tL2Nk/bi1jZ2kvaW1hZ2Uv/cXVhbGl0eT04MCxm/b3JtYXQ9YXV0byxm/aXQ9Y292ZXIsZHBy/PTEsd2lkdGg9MTIw/MCxoZWlnaHQ9NjMw/LGdyYXZpdHk9Y2Vu/dGVyL2h0dHBzOi8v/bWVkaWEuZnJlZW1h/bGF5c2lhdG9kYXku/Y29tL3YzLzIwMjYv/MDkvNTUxNmYzYzkt/ZTdjOS00ZmM0LTlj/ODItYTU5Zjg1MTM1/NjI5LURpZXNlbC5q/cGc"
     }
   },
   {
     "type": "news_result",
-    "title": "美-이란 관계 주시하며 숨죽인 뉴욕증시…기술주 약진 속 혼조세(종합) | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260923009351075",
-    "description": "이보다 앞서 트럼프 대통령은 기조연설에서 \"중대한 결정을 내려야 한다\"며 이란과의 합의와 공격 가능성을 동시에 거론하기도 했다.",
-    "age": "19 minutes ago",
-    "page_age": "2026-09-22T21:44:03",
+    "title": "Iran to attend UN assembly in New York — even as peace with US remains elusive - KESQ",
+    "url": "https://kesq.com/news/national-world/cnn-world/2026/09/22/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive",
+    "description": "Iran has attended the General Assembly in various forms for decades, through turbulent times as well as moments of diplomatic progress. Ayatollah Ali Khamenei addressed the assembly in 1987 when he was president, two years before he became supreme leader. Khamenei was killed in late February in an Israeli ...",
+    "age": "20 minutes ago",
+    "page_age": "2026-09-23T00:00:32",
     "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260923009351075"
+      "name": "KESQ",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/09/22/iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260923009351075"
+      "netloc": "kesq.com",
+      "hostname": "kesq.com",
+      "favicon": "https://imgs.search.brave.com/Ld2te4H9NCVdqhRZF4XgG06cAcOLFTHIhCGrM4MQuJQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGQ3OWZiNGI5/ZmJiNmU0NTgyMzk3/M2JmYTZkYTZhYjlk/NTUyZDZiOGYzODli/ZDEwODFlYzEyYzIz/ZmNmMzc4ZC9rZXNx/LmNvbS8",
+      "path": "› news  › national-world  › cnn-world  › 2026  › 09  › 22  › iran-to-attend-un-assembly-in-new-york-even-as-peace-with-us-remains-elusive"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/tA3rdy8P06l7ElVzV7ExNGDLSTpi-AlemvM_c41xxOc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc2/LnluYS5jby5rci9w/aG90by9ldGMvdXAv/MjAyNi8wOS8yMi9Q/VVAyMDI2MDkyMjAw/MTIwMTAwOV9QNC5q/cGc"
+      "src": "https://imgs.search.brave.com/fn86Fc4gQrkSv_DH_zyPNd-aKQY3LK2Kq6wIqn1GvHY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rZXNx/LmItY2RuLm5ldC8y/MDI2LzA5L2Nubi1M/MTlqYjIxd2IyNWxi/blJ6TDJsdFlXZGxM/Mmx1YzNSaGJtTmxj/eTlqYlhWaVozbzBO/VGN3TURBeE0yUTFk/RGxrZG5ScU1HVTIt/TDE5amIyMXdiMjVs/Ym5SekwyRnlkR2xq/YkdVdmFXNXpkR0Z1/WTJWekwyTnRkV0pu/ZGpVd1pqQXdZWG95/TjNGcFptNTFNakky/WVRVLTg2MHg1NzMu/anBn"
     }
   },
   {
     "type": "news_result",
-    "title": "시스코 시스템즈, 기술주 훈풍 속 홀로 하락 마감 : 기업주식정보 : 재경일보",
-    "url": "https://news.jkn.co.kr/post/994174",
-    "description": "시스코 시스템즈 주가가 22일(현지시간) 뉴욕 증시에서 기술주 전반의 상승세와 달리 4.50% 급락한 106.44달러에 마감하며 투자자들의 우려를 샀다. 이는 경쟁 심화와 성장 둔화, 클라우드 전환 및 AI 인프라 시장에서의 불확실성 ...",
+    "title": "美·이란, 뉴욕서 협상 테이블…호르무즈 재개방 조건 논의 < 정치 < 기사본문 - 민주신문",
+    "url": "https://iminju.net/news/articleView.html?idxno=169926",
+    "description": "이란이 내건 조건은 ▲해상 봉쇄의 즉각적인 해제 ▲동결된 이란 자산 전액의 즉각적인 해제 ▲레바논을 포함한 모든 전선에서의 전쟁 종식 등이다.",
+    "age": "22 minutes ago",
+    "page_age": "2026-09-22T23:58:13",
+    "profile": {
+      "name": "Iminju",
+      "url": "https://iminju.net/news/articleView.html?idxno=169926"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "iminju.net",
+      "hostname": "iminju.net",
+      "favicon": "https://imgs.search.brave.com/MeTnVZPJdAK_NS-X-QHrtu17Qk_s9lwXWIaGVjJgGOs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzRlYWQxMWE3/ODU4ZTg3ZjUwMDhl/NzY3ZDExMWIwZmE0/OGZhNmQ4MTc3ZDIx/ZjQ0MzY4NGE2YWE1/MGU0MjQ0Ny9pbWlu/anUubmV0Lw",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/l1f2XFnQQKNpw-UcKMGXOQ2G6IzuL7BMGxN0DkKT1H8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aW1pbmp1Lm5ldC9u/ZXdzL3RodW1ibmFp/bC8yMDI2MDkvMTY5/OTI2XzE4MDM4OV81/ODVfdjE1MC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "“국제유가가 뛰자 중동이 가까워졌다” - 교수신문",
+    "url": "https://kyosu.net/news/articleView.html?idxno=210508",
+    "description": "한국의 원유 약 70%, 나프타 약 60%가 걸프 지역에서 들어오는 만큼 호르무즈의 불안은 산업과 물류, 물가의 문제로 이어진다. <황해문화> 가을호(132호)는 특집으로 「누구를 위한 전쟁인가: 이란-미국·이스라엘 전쟁으로 보는 ...",
+    "age": "29 minutes ago",
+    "page_age": "2026-09-22T23:51:25",
+    "profile": {
+      "name": "Kyosu",
+      "url": "https://kyosu.net/news/articleView.html?idxno=210508"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "kyosu.net",
+      "hostname": "kyosu.net",
+      "favicon": "https://imgs.search.brave.com/9KZKAoO_8gHimNlOzN5HFwAeNIj6Od1L-dvPI-H7WgM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmU5ZTg3NjU3/Y2RiNTZlZDViMjAx/YmU5OGIxZDdhMmUw/YWU1ZGE3NzU2NjRk/NzBlNGM3ZDYzYTAw/NTlhMjU4Yy9reW9z/dS5uZXQv",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/xe4t3NDFO_uKJeaz6Rpm8dXLWgBDz527vUK08qImFG8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/a3lvc3UubmV0L25l/d3MvcGhvdG8vMjAy/NjA5LzIxMDUwOF8y/MTI1MDZfMTc0Ni5q/cGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이재명 유엔 연설 속 한반도 평화 청사진과 북한의 묘한 반응",
+    "url": "https://sano.co.kr/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%9C%A0%EC%97%94-%EC%97%B0%EC%84%A4-%EC%86%8D-%ED%95%9C%EB%B0%98%EB%8F%84-%ED%8F%89%ED%99%94-%EC%B2%AD%EC%82%AC%EC%A7%84%EA%B3%BC-%EB%B6%81%ED%95%9C%EC%9D%98-%EB%AC%98",
+    "description": "트럼프 임기 북한 관계 이란 전쟁 러시아 위협 총정리",
     "age": "32 minutes ago",
-    "page_age": "2026-09-22T21:31:09",
+    "page_age": "2026-09-22T23:48:01",
     "profile": {
-      "name": "Jkn",
-      "url": "https://news.jkn.co.kr/post/994174"
+      "name": "Sano",
+      "url": "https://sano.co.kr/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EC%9C%A0%EC%97%94-%EC%97%B0%EC%84%A4-%EC%86%8D-%ED%95%9C%EB%B0%98%EB%8F%84-%ED%8F%89%ED%99%94-%EC%B2%AD%EC%82%AC%EC%A7%84%EA%B3%BC-%EB%B6%81%ED%95%9C%EC%9D%98-%EB%AC%98"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news.jkn.co.kr",
-      "hostname": "news.jkn.co.kr",
-      "favicon": "https://imgs.search.brave.com/sBKDQrVLVCg_BKiYiDuNyMETNHtEP798XKZXAzhvPdI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGEwZjg1ZWQw/ODhhODM4NDVkNmQ2/OTBjZjI3YTkxMzkz/ZmYyM2Q5M2VhOTU1/MzIyNjA2ZGMyMDUy/MzVjMTAwZC9uZXdz/Lmprbi5jby5rci8",
-      "path": "› post  › 994174"
+      "netloc": "sano.co.kr",
+      "hostname": "sano.co.kr",
+      "favicon": "https://imgs.search.brave.com/0T2Iv0Huf6SFWbtDk4mnAbcFiJJ-ttz7HT-IRsx_Ox8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjE1NGU2MjE2/YTRiYjJiNmE3ZmJm/YzZhNDYxMzFlZjYx/MWYyY2RjNjVkMDY3/OWYxMzM4Y2RiYTg3/NjBkMTcwZi9zYW5v/LmNvLmtyLw",
+      "path": "› 이재명-유엔-연설-속-한반도-평화-청사진과-북한의-묘"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/R0qSHwgNDknyfi_Qw0VX_SthGtt2qbt5M2tSViN2-qo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuamtuLmNvLmty/L2RhdGEvaW1hZ2Vz/L2Z1bGwvMTA1Lzcz/LzEwNTczNDAucG5n/P3dpZHRoPTEyMDAm/YW1wO2hlaWdodD02/MzA"
+      "src": "https://imgs.search.brave.com/i_wh69P4wXuOqDAIC9hO7E1UlN3RYR2ouBNnpz1cvXU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2Fuby5jby5rci93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8w/OS8wOTIzMDg0NTQx/NC5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "KBO 홈런왕 대혼전, 힐리어드 만루포… 선두 kt 질주 : 스포츠 : 재경일보",
-    "url": "https://news.jkn.co.kr/post/994173",
-    "description": "2026 KBO리그 홈런왕 경쟁이 뜨거운 가운데, kt 힐리어드가 9월 22일 만루홈런으로 시즌 38호를 기록하며 선두 김도영, 오스틴을 맹추격했다. 선두 kt는 힐리어드 만루홈런에 힘입어 3연승을 질주하며 정규시즌 우승에 다가섰고, ...",
-    "age": "32 minutes ago",
-    "page_age": "2026-09-22T21:31:08",
+    "title": "'기생충 현실판' 홍콩 모델 살인사건...전 남편·시부모 3년 만에 재판",
+    "url": "https://dailian.co.kr/news/view/1693867/%EA%B8%B0%EC%83%9D%EC%B6%A9-%ED%98%84%EC%8B%A4%ED%8C%90-%ED%99%8D%EC%BD%A9-%EB%AA%A8%EB%8D%B8-%EC%82%B4%EC%9D%B8%EC%82%AC%EA%B1%B4%EC%A0%84-2026",
+    "description": "이란이 도널드 트럼프 미국 대통령의 유엔총회 연설을 “국내용 선전”이라고 깎아내리며 미국이 이란과의 전쟁에서 거둔 성과를 과장하고 있다고 주장했다.",
+    "age": "39 minutes ago",
+    "page_age": "2026-09-22T23:41:00",
     "profile": {
-      "name": "Jkn",
-      "url": "https://news.jkn.co.kr/post/994173"
+      "name": "Dailian",
+      "url": "https://dailian.co.kr/news/view/1693867/%EA%B8%B0%EC%83%9D%EC%B6%A9-%ED%98%84%EC%8B%A4%ED%8C%90-%ED%99%8D%EC%BD%A9-%EB%AA%A8%EB%8D%B8-%EC%82%B4%EC%9D%B8%EC%82%AC%EA%B1%B4%EC%A0%84-2026"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news.jkn.co.kr",
-      "hostname": "news.jkn.co.kr",
-      "favicon": "https://imgs.search.brave.com/sBKDQrVLVCg_BKiYiDuNyMETNHtEP798XKZXAzhvPdI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGEwZjg1ZWQw/ODhhODM4NDVkNmQ2/OTBjZjI3YTkxMzkz/ZmYyM2Q5M2VhOTU1/MzIyNjA2ZGMyMDUy/MzVjMTAwZC9uZXdz/Lmprbi5jby5rci8",
-      "path": "› post  › 994173"
+      "netloc": "dailian.co.kr",
+      "hostname": "dailian.co.kr",
+      "favicon": "https://imgs.search.brave.com/FVyyCLw47fsA-NFm7obdceQBaxi6rB81ReTy07-oUhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZhNDllMTEw/N2QwM2M5ZmQwNWM0/OGI4YWNkMDZjYmE0/MTU2NmFhYzMwYTVm/MDAzN2ZlMDViMDMx/ODVhNzhhOC9kYWls/aWFuLmNvLmtyLw",
+      "path": "› news  › view  › 1693867  › 기생충-현실판-홍콩-모델-살인사건전-2026"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/LQOlXuWosgK-tr-8h1tdm8OX7nM-WNwYy5YnvQsRURI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuamtuLmNvLmty/L2RhdGEvaW1hZ2Vz/L2Z1bGwvMTA1Lzcz/LzEwNTczMzkuanBn/P3dpZHRoPTEyMDAm/YW1wO2hlaWdodD02/MzA"
+      "src": "https://imgs.search.brave.com/eZ-F_gtmYQyQBtME5uHSs5yKXDi2Tn7dhyMnltUOwMA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA5L25ld3Nf/MTc5MDEyMDUxNDE5/MV8xNjkzODY3X21f/MS5wbmc"
     }
   },
   {
     "type": "news_result",
-    "title": "미·이란, 유엔서 3시간 협상 재개…“호르무즈 재개방 조건 논의”",
-    "url": "https://hani.co.kr/arti/international/america/1279181.html",
+    "title": "이란 숨구멍 막힐까…미국, 해운 이어 항공까지 3자제재 봉쇄 - 서플",
+    "url": "https://supple.kr/news/cmudcbbd8002r304oczfyybdy",
+    "description": "연합뉴스 · 이슈 핵심 정리 · 미국이 전쟁 상대국인 이란에 해운을 넘어 항공까지 봉쇄를 시도하며 경제 공세를 강화하고 있다. 이는 종전 합의를 압박하기 위한 초강수로 오랜 제재와 전쟁으로 신음하는 이란 경제에 고통을 ...",
+    "age": "42 minutes ago",
+    "page_age": "2026-09-22T23:38:19",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmudcbbd8002r304oczfyybdy"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmudcbbd8002r304oczfyybdy"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/nAfZBSB8h1VOxd_p4IySpz9qLwKwXwMOelZOrXrfZl4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWc0/LnluYS5jby5rciUy/RnBob3RvJTJGZXRj/JTJGZ3QlMkYyMDI2/JTJGMDklMkYyMyUy/RlBHVDIwMjYwOTIz/MDYxNjAxMDA5X1A0/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "조국 \"與 지도부, 내부 갈라치기 안 해야…'입단속' 지시 내리길\" :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260923_0003801334",
+    "description": "[서울=뉴시스]권신혁 기자 = 조국 조국혁신당 혁신정책연구원장은 23일 \"김민석 대표를 비롯한 민주당 지도부는 향후 민주진보진영 내부를 갈라치는 '배제의 정치'를 하지 않을 것을 분명히 해야 한다.",
+    "age": "44 minutes ago",
+    "page_age": "2026-09-22T23:36:24",
+    "profile": {
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260923_0003801334"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260923_0003801334"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/QI9NVMaH7YaF1beulOHl6AJjR5ufcc4uHYUo4TwDP1E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wOS8wMy9O/SVNJMjAyNjA5MDNf/MDAyMTQyMjU1Ml93/ZWIuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "李대통령 '건설적 기여국 연대' 제안…파병 압박 속 다자협력 강조 - SBS Biz",
+    "url": "https://biz.sbs.co.kr/article/20000336407",
+    "description": "이재명 대통령이 유엔총회 기조연설에서 호르무즈 해협을 둘러싼 미국과 이란 전쟁에 따른 글로벌 공급망 위기의 해법으로 '건설적 기여국 연대'를 제안했습니다.",
+    "age": "48 minutes ago",
+    "page_age": "2026-09-22T23:32:00",
+    "profile": {
+      "name": "Sbs",
+      "url": "https://biz.sbs.co.kr/article/20000336407"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "biz.sbs.co.kr",
+      "hostname": "biz.sbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/fVyBpKrJh7GHYg5STLpVWnpLRESxOqaaufJZpe6hqEY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGU5MmQ0Mjhj/MmQxODlhZjhmMzMx/ZmE4MWU0Y2RhOGNm/YzQzMGQ0MDNjY2I1/YzU0MDY3MmQwZGQ2/NjNmZjkzNy9iaXou/c2JzLmNvLmtyLw",
+      "path": "› article  › 20000336407"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/E1xJE2LpJByh73ESd16OcswvvJ9khXAXdlpohFEdE6A/rs:fit:200:200:1:0/g:ce/aHR0cHM6"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프, 결국 ‘경유 수출 금지’ 카드 꺼냈다…美 기름값 잡기 총력전",
+    "url": "https://dailian.co.kr/news/view/1693851/%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B2%B0%EA%B5%AD-%E2%80%98%EA%B2%BD%EC%9C%A0-%EC%88%98%EC%B6%9C-%EA%B8%88%EC%A7%80%E2%80%99-%EC%B9%B4%EB%93%9C-2026",
+    "description": "이란·우크라이나 전쟁 여파로 세계 에너지 공급이 흔들리자 미국에서 생산한 경유를 국내 시장에 우선 공급해 가격을 안정시키겠다는 구상이다.로이터통신 등에 따르면 트럼프 대통령은 22일(현지시간) 뉴욕에서 볼로디미르 ...",
+    "age": "50 minutes ago",
+    "page_age": "2026-09-22T23:30:00",
+    "profile": {
+      "name": "Dailian",
+      "url": "https://dailian.co.kr/news/view/1693851/%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B2%B0%EA%B5%AD-%E2%80%98%EA%B2%BD%EC%9C%A0-%EC%88%98%EC%B6%9C-%EA%B8%88%EC%A7%80%E2%80%99-%EC%B9%B4%EB%93%9C-2026"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "dailian.co.kr",
+      "hostname": "dailian.co.kr",
+      "favicon": "https://imgs.search.brave.com/FVyyCLw47fsA-NFm7obdceQBaxi6rB81ReTy07-oUhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZhNDllMTEw/N2QwM2M5ZmQwNWM0/OGI4YWNkMDZjYmE0/MTU2NmFhYzMwYTVm/MDAzN2ZlMDViMDMx/ODVhNzhhOC9kYWls/aWFuLmNvLmtyLw",
+      "path": "› news  › view  › 1693851  › 트럼프-결국-‘경유-수출-금지’-카드-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/D4YQxBbXGNmoHC3FfRG-y5u52R3a5KLudLFeldF47Ow/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA5L25ld3Nf/MTc5MDExNjM1MzYz/OV8xNjkzODUxX21f/MS5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미국-이란 협상 재개, 트럼프 \"재건이냐 전멸이냐\" - 오마이뉴스",
+    "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269854",
+    "description": "이번 회담은 위트코프 특사의 요청으로 이뤄졌으며, 이란 측은 호르무즈 해협 재개방의 조건으로 해상봉쇄 즉각 해제, 해외 이란 자산 동결 해제, 레바논을 포함한 모든 전선의 전쟁 종식 등을 제시했다고 IRIB는 밝혔다.",
+    "age": "1 hour ago",
+    "page_age": "2026-09-22T23:19:00",
+    "profile": {
+      "name": "OhmyNews",
+      "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269854"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ohmynews.com",
+      "hostname": "ohmynews.com",
+      "favicon": "https://imgs.search.brave.com/IeOdYt06C4GW6d_ptS1MfKepww6-5ba6AtNHhSHqpwg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzgyNmQ3MWFl/N2ZhMDI1NjI2OTMz/ZTdiOWE4MGM4ODU0/MDMxYzM5MjYwOWJj/YjBjY2ZiNGJhNGQx/MzUxOWE4NC9vaG15/bmV3cy5jb20v",
+      "path": "› NWS_Web  › View  › at_pg.aspx"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/yHmgjOuia41cFWlqkKBz0aJ3PYg2kG1LuOjSMR0jbAI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vanNm/aWxlLm9obXluZXdz/LmNvbS9CSUdfSU1H/X0ZJTEUvMjAyNi8w/OTIzL0lFMDAzNjc1/OTkyX0JJRy5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프, UN연설서 북한 언급 안 해 … 김정은 회담 추진은 계속 | 뉴데일리",
+    "url": "https://newdaily.co.kr/site/data/html/2026/09/23/2026092300032.html",
+    "description": "도널드 트럼프 미국 대통령이 22일(현지시각) 뉴욕 UN 본부에서 열린 UN 총회 고위급 회기 연설에서 북한을 언급하지 않았다. 이란과 우크라이나 전쟁 등 주요 외교·안보 현안에 상당한 시간을 할애했지만 북핵 문제나 김정은 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-09-22T23:06:53",
+    "profile": {
+      "name": "Newdaily",
+      "url": "https://newdaily.co.kr/site/data/html/2026/09/23/2026092300032.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newdaily.co.kr",
+      "hostname": "newdaily.co.kr",
+      "favicon": "https://imgs.search.brave.com/ukDEUqFBb1bHor8P0lUiyFb11tvEpxzemfqphu05Wa8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQyZWM4Yjdm/ZmFhYmEwMDNmNTJk/OTU3ODcwZGUwOTE1/OWRjMTEwMzZiYzMx/MjZkOGNjOTg3M2M1/NjFkYTc1MC9uZXdk/YWlseS5jby5rci8",
+      "path": "› site  › data  › html  › 2026  › 09  › 23  › 2026092300032.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/fM_3o8dgxe8htIO3X6Af_WHBWcNjOMTGhL4W6QsakQA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5uZXdkYWlseS5j/by5rci9zaXRlL2Rh/dGEvaW1nLzIwMjYv/MDkvMjMvMjAyNjA5/MjMwMDAzMl8wLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "전쟁 중 미국 찾는 이란 대통령…유엔 무대서 피해국’ 여론전 | 한국경제",
+    "url": "https://hankyung.com/article/202609232389i",
+    "description": "[밤 사이 해외뉴스]전쟁 중 미국 찾는 이란 대통령…유엔 무대서 ‘피해국’ 여론전 , 김동현 기자, 국제",
+    "age": "1 hour ago",
+    "page_age": "2026-09-22T23:00:46",
+    "profile": {
+      "name": "Hankyung",
+      "url": "https://hankyung.com/article/202609232389i"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankyung.com",
+      "hostname": "hankyung.com",
+      "favicon": "https://imgs.search.brave.com/QYXHOeosX1HK-oSxvD1Z5IhfE9iEA1C4Ci6uKqRgErc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg1Y2VjNDI2/NzZlMjE0Y2U1MjM3/MDg0MDQ4NDQzZjE0/ZmE3MTllZGMwYjA0/Njg4OTg1MDJlYjBm/NmRkZTVmMS9oYW5r/eXVuZy5jb20v",
+      "path": "› article  › 202609232389i"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/iai60OuAfGY_XTNLuirhUUapbwEc_tBQLjvbogBLrhs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGFua3l1bmcuY29t/L3Bob3RvLzIwMjYw/OS8wMS40NTc5NTEx/MS4xLnBuZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "As Iran and Houthis Tighten the Screws on Saudi Arabia, a Potential Role Emerges for Israel - Middle East Forum",
+    "url": "https://www.meforum.org/mef-online/as-iran-and-houthis-tighten-the-screws-on-saudi-arabia-a-potential-role-emerges-for-israel",
+    "description": "The Decision Underscores How Ineffective Israel’s Government Has Been in Maintaining Support Among Erstwhile Western Partners ... Saudi Arabia, Pakistan, and Turkey Aren’t Going to Go to War for Each Other; They Want to Show the U.S. and Iran They Are Ready to Lead in a Region They See ...",
+    "age": "1 hour ago",
+    "page_age": "2026-09-22T23:00:00",
+    "profile": {
+      "name": "Middle East Forum",
+      "url": "https://www.meforum.org/mef-online/as-iran-and-houthis-tighten-the-screws-on-saudi-arabia-a-potential-role-emerges-for-israel"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "meforum.org",
+      "hostname": "www.meforum.org",
+      "favicon": "https://imgs.search.brave.com/zd-pApCfgKZMHV1NmwC-d8U4-7F8FZ5HCDIM0iSYC9M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWY0Yjk5MWNh/MmQ2MmM0ZmZhMzEy/MmVhMmJkYzZjYjYx/MmU3YjczNjk3Zjc5/MmVkODM0MGU0YWI4/ZGEyN2FmNi93d3cu/bWVmb3J1bS5vcmcv",
+      "path": "› mef-online  › as-iran-and-houthis-tighten-the-screws-on-saudi-arabia-a-potential-role-emerges-for-israel"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/8nGu4cr_ZBTukEF6mvpMgIEKWHUkUPTM06Vhb_VkH00/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4t/bWVmLm1lZm9ydW0u/b3JnL2RpbXM0L2Rl/ZmF1bHQvYTE2MDFm/Yi8yMTQ3NDgzNjQ3/L3N0cmlwL3RydWUv/Y3JvcC80NjA4eDI1/OTIrMCswL3Jlc2l6/ZS8xNDQweDgxMCEv/cXVhbGl0eS85MC8_/dXJsPWh0dHBzJTNB/JTJGJTJGazItcHJv/ZC1tZWYuczMudXMt/ZWFzdC0xLmFtYXpv/bmF3cy5jb20lMkZi/cmlnaHRzcG90JTJG/MWElMkZmOCUyRjZh/MWI4MTM2NGQ1YTk2/ZWUxMzkzOTU5ZDI5/YmYlMkZzaHV0dGVy/c3RvY2stMjY4ODE4/OTI5MS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "中딥시크, 유엔 안보리로…오픈AI와 ‘AI 위험’ 놓고 격돌",
+    "url": "https://dailian.co.kr/news/view/1693859/%E4%B8%AD%EB%94%A5%EC%8B%9C%ED%81%AC-%EC%9C%A0%EC%97%94-%EC%95%88%EB%B3%B4%EB%A6%AC%EB%A1%9C%EC%98%A4%ED%94%88AI-%E2%80%98AI-2026",
+    "description": "중국 인공지능(AI) 스타트업 딥시크가 유엔 안전보장이사회 무대에 오른다. 오픈AI 최고경영자(CEO) 샘 올트먼도 직접 참석할 예정이어서 미·중을 대표하는 AI 기업들이 국제안보를 위협할 수 있는 AI의 위험성을 놓고 한자리에 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-09-22T22:59:00",
+    "profile": {
+      "name": "Dailian",
+      "url": "https://dailian.co.kr/news/view/1693859/%E4%B8%AD%EB%94%A5%EC%8B%9C%ED%81%AC-%EC%9C%A0%EC%97%94-%EC%95%88%EB%B3%B4%EB%A6%AC%EB%A1%9C%EC%98%A4%ED%94%88AI-%E2%80%98AI-2026"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "dailian.co.kr",
+      "hostname": "dailian.co.kr",
+      "favicon": "https://imgs.search.brave.com/FVyyCLw47fsA-NFm7obdceQBaxi6rB81ReTy07-oUhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2ZhNDllMTEw/N2QwM2M5ZmQwNWM0/OGI4YWNkMDZjYmE0/MTU2NmFhYzMwYTVm/MDAzN2ZlMDViMDMx/ODVhNzhhOC9kYWls/aWFuLmNvLmtyLw",
+      "path": "› news  › view  › 1693859  › 中딥시크-유엔-안보리로오픈AI-‘AI-2026"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/q28_p-V8Yg7_m3IaX78cg4mTcUyW6IapAFGhD8_pgNE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG5p/bWFnZS5kYWlsaWFu/LmNvLmtyL25ld3Mv/MjAyNjA5L25ld3Nf/MTc5MDExNzk1NTQz/M18xNjkzODU5X21f/MS5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[뉴욕증시] 혼조, 나스닥 최고치···'뮤즈'의 기대와 공포, 반도체↑·은행주↓ < 증권 < 증권/금융 < 기사본문 - 서울파이낸스",
+    "url": "https://seoulfn.com/news/articleView.html?idxno=638595",
+    "description": "투자자들은 24일로 예정된 트럼프 미국 대통령과 시진핑 중국 국가주석 간 정상회담에도 촉각을 곤두세우고 있다. 두 정상은 인공지능, 이란 전쟁, 관세, 희토류 등 다양한 쟁점을 심도 있게 논의할 예정이다.",
+    "age": "2 hours ago",
+    "page_age": "2026-09-22T21:57:02",
+    "profile": {
+      "name": "Seoulfn",
+      "url": "https://seoulfn.com/news/articleView.html?idxno=638595"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "seoulfn.com",
+      "hostname": "seoulfn.com",
+      "favicon": "https://imgs.search.brave.com/SBRiqv2LWy44ynvWdJ089sMvxZcfSFgu_1J4VQ0ruBU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDhiYzVhM2My/Yjg3ZmYyYTUwZjY3/OTRjZmU5NDA0ZDE4/MzkwZDYyMWFlNmQz/YjM2OTY3OTNjOWE3/OGVkYTZhNC9zZW91/bGZuLmNvbS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/CCNLeOLOi5PPIPvXBqKqQT9_Z-Z0UHAM-AzAeJVuwDo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2VvdWxmbi5jb20v/aW1hZ2UvbG9nby9z/bnNsb2dvXzIwMjUw/NTIyMDIzNzExLnBu/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미·이란, 유엔서 3시간 협상 재개…“호르무즈 재개방 조건 논의” · 향후 전망은? - 서플",
+    "url": "https://supple.kr/news/cmud7od310032nilk3g92uyzv",
     "description": "이란 고위 당국자는 로이터 ... 따르면 이란이 제시한 조건은 △미국 주도 해상 봉쇄 해제 △이란 자산 동결 해제 △모든 전선에서의 전쟁 종식 등이다....",
-    "age": "33 minutes ago",
-    "page_age": "2026-09-22T21:30:00",
+    "age": "3 hours ago",
+    "page_age": "2026-09-22T21:30:59",
     "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/international/america/1279181.html"
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmud7od310032nilk3g92uyzv"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › international  › america  › 1279181.html"
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmud7od310032nilk3g92uyzv"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/5wm_YQmGdgoIbfXOxYISODOFaOsWmY0H2yUzidEfFWw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/MTIwMC84MDAvaW1n/ZGIvb3JpZ2luYWwv/MjAyNi8wOTIzLzIw/MjYwOTIzNTAwMTc0/LndlYnA"
+      "src": "https://imgs.search.brave.com/GQ6s4vVx7uB5vEYNdUgQKiurPZG3ZmJSSU_sIywETAw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZmbGV4/aWJsZS5pbWcuaGFu/aS5jby5rciUyRmZs/ZXhpYmxlJTJGbm9y/bWFsJTJGMzAwJTJG/MTgwJTJGaW1nZGIl/MkZvcmlnaW5hbCUy/RjIwMjYlMkYwOTIz/JTJGMjAyNjA5MjM1/MDAxNzQuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Pentagon officially adds one more soldier death to US count from Iran war | The Independent",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-troops-death-trump-b3054537.html",
+    "description": "Within the DCAS system, 14 of the ... against Iran. An additional five deaths — including the female officer added this week — are listed under a separate “Overseas Operations” category, which includes casualties that occurred after a brief July ceasefire collapsed. In addition, the Pentagon issued press releases earlier in the war acknowledging ...",
+    "age": "3 hours ago",
+    "page_age": "2026-09-22T21:29:41",
+    "profile": {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/iran-war-troops-death-trump-b3054537.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "independent.co.uk",
+      "hostname": "www.independent.co.uk",
+      "favicon": "https://imgs.search.brave.com/M_zo7zhS0WvQG9XhO-0Js_pwEAlWc2wtGKCPFnNjZjI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEyODE2YjY0/YzFkZDgyOGUzOThi/NmFhOGNkZTRhZDBm/ZmJiYWUxZGQ0MjYx/YWI5YjIyYWQ3N2E4/ZTZjNDk3YS93d3cu/aW5kZXBlbmRlbnQu/Y28udWsv",
+      "path": "› news  › world  › americas  › us-politics  › iran-war-troops-death-trump-b3054537.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/IUI3VIQ-9WQMVwRY-xGh634gME9djmkr5y1d6mAaBqE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8wOS8yMi8yMC8z/Ni9HZXR0eUltYWdl/cy0yMjY1MzA4MjYx/LmpwZWc_dHJpbT0w/LDAsMCwwJndpZHRo/PTEyMDAmaGVpZ2h0/PTgwMCZjcm9wPTEy/MDA6ODAw"
     }
   },
   {
     "type": "news_result",
     "title": "美-이란, 3개월 만에 직접회담...트럼프 “합의하는 게 좋을 것” | 서울경제",
-    "url": "https://sedaily.com/article/20094278",
+    "url": "https://www.sedaily.com/article/20094278",
     "description": "이 매체는 아라그치 장관이 ... 재개방의 전제 조건으로 해상 봉쇄의 즉각적인 해제, 동결된 이란 자산 전체의 즉각적인 반환, 모든 전선에서의 전쟁 종식 등을 제시했다....",
-    "age": "34 minutes ago",
+    "age": "3 hours ago",
     "page_age": "2026-09-22T21:28:43",
     "profile": {
       "name": "Sedaily",
-      "url": "https://sedaily.com/article/20094278"
+      "url": "https://www.sedaily.com/article/20094278"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "sedaily.com",
-      "hostname": "sedaily.com",
-      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
+      "hostname": "www.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
       "path": "› article  › 20094278"
     },
     "thumbnail": {
@@ -155,384 +463,296 @@
   },
   {
     "type": "news_result",
-    "title": "재경일보",
-    "url": "https://news.jkn.co.kr/post/994108",
-    "description": "버추얼 유튜버 그룹 허니즈의 멤버 망내(MangNae)가 전속계약 해지와 함께 활동을 종료했다. 소속사 프로젝트아이는 외부 MCN·제3자 사업자와의 접촉, 비공개 정보 유출 등을 계약 위반 사유로 제시했으며 관련 법적 대응도 ...",
-    "age": "49 minutes ago",
-    "page_age": "2026-09-22T21:14:00",
+    "title": "Iran live updates: Trump says team met with Iran delegation at UN - ABC News",
+    "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503",
+    "description": "Trump later touted Operation Economic ... on Iran to negotiate before \"it's too late\" for it to \"survive as a nation.\" President Donald Trump attends a bilateral meeting with UK Prime Minister Andy Burnham during the 81st session of the United Nations General Assembly at U.N. Headquarters, September 22, 2026 in New York City. ... The president later said he was unclear on when the war would ...",
+    "age": "4 hours ago",
+    "page_age": "2026-09-22T20:43:30",
     "profile": {
-      "name": "Jkn",
-      "url": "https://news.jkn.co.kr/post/994108"
+      "name": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-ready-counteroffensive-us-attacks/?id=136611503"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news.jkn.co.kr",
-      "hostname": "news.jkn.co.kr",
-      "favicon": "https://imgs.search.brave.com/sBKDQrVLVCg_BKiYiDuNyMETNHtEP798XKZXAzhvPdI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGEwZjg1ZWQw/ODhhODM4NDVkNmQ2/OTBjZjI3YTkxMzkz/ZmYyM2Q5M2VhOTU1/MzIyNjA2ZGMyMDUy/MzVjMTAwZC9uZXdz/Lmprbi5jby5rci8",
-      "path": "› post  › 994108"
+      "netloc": "abcnews.com",
+      "hostname": "abcnews.com",
+      "favicon": "https://imgs.search.brave.com/Z0KUww45BkH61d1JNgt5vuvkxgmQcR6lt5OjVsfLgN0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWZjN2U4ZGRi/NzY4NGE0ZmNhYWRh/NDM5MWE5MTI5OTZm/ZDYzZjMxYTdjYWQ3/NDBlOGY4MWUzYWI1/OTQ1OTNlNS9hYmNu/ZXdzLmNvbS8",
+      "path": "› International  › live-updates  › iran-live-updates-irgc-ready-counteroffensive-us-attacks"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/A7szyO0tnYppcw7rORSzRK6Xacy5GstzabpvelnCMrc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuamtuLmNvLmty/L2RhdGEvaW1hZ2Vz/L2Z1bGwvMTA1Lzcz/LzEwNTczMjEucG5n/P3dpZHRoPTEyMDAm/YW1wO2hlaWdodD02/MzA"
+      "src": "https://imgs.search.brave.com/52_Sdn6UdkN-bp5Sb8EU-ytaz_E78tbJcNLw1KwXrdc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmFi/Y25ld3NmZS5jb20v/YS83ZmY4MGU2ZC0y/ZjM0LTRiZWYtYmFm/NS00NWEwZDBmMDY0/ZTEvdW4tMjItZ3R5/LWdtaC0yNjA5MjJf/MTc5MDA4OTU3NDIx/Ml9ocE1haW5fMTZ4/OS5qcGc_dz0xNjAw"
     }
   },
   {
     "type": "news_result",
-    "title": "\"봉쇄 풀고 자산 돌려달라\"…이란 외무-美 특사와 뉴욕서 회동 - 머니투데이",
-    "url": "https://mt.co.kr/world/2026/09/23/2026092305380285949",
-    "description": "이어 \"이란군은 침략자들과 미국 및 이스라엘 정권의 수뇌부에 더욱 강력하고 파괴적이며 예측할 수 없는 타격을 가할 완전한 준비 태세를 갖추고 있다\"며 미국·이스라엘 공격에 군사적 보복으로 대응할 것임을 시사했다.",
-    "age": "1 hour ago",
-    "page_age": "2026-09-22T21:11:38",
+    "title": "Americans say the United Nations is doing a bad job. They're right.",
+    "url": "https://reason.com/2026/09/22/americans-say-the-united-nations-is-doing-a-bad-job-theyre-right/",
+    "description": "Active wars rage in Asia, Africa, ... Assembly passed five times as many U.N. resolutions directed at Israel as any other nation, including countries with notorious human rights records like Cuba, Iran, and Myanmar....",
+    "age": "4 hours ago",
+    "page_age": "2026-09-22T20:40:59",
     "profile": {
-      "name": "Mt",
-      "url": "https://mt.co.kr/world/2026/09/23/2026092305380285949"
+      "name": "Reason Magazine",
+      "url": "https://reason.com/2026/09/22/americans-say-the-united-nations-is-doing-a-bad-job-theyre-right/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "mt.co.kr",
-      "hostname": "mt.co.kr",
-      "favicon": "https://imgs.search.brave.com/h9H2yseG3OH04C6u0AuYJ_M0c_QKhl7OXvBoVCeXLdQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNiMTNmMzg1/Yzg1MjAwNWY5YjMy/YWM1NTE1NzBkMTZk/Nzg2YmM3OGQ3Njli/ZTk0ODZiOWM5Mzc3/NmQ0OTA0NC9tdC5j/by5rci8",
-      "path": "› world  › 2026  › 09  › 23  › 2026092305380285949"
+      "netloc": "reason.com",
+      "hostname": "reason.com",
+      "favicon": "https://imgs.search.brave.com/bULQi9UmIWtHnBQd4MDVIj8uqG6bVrcxyF8tsM4cOUA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjJkNWRiMTk0/OWU3MjU3OTkwMTlk/OTI0NmQwODFmNDc3/OTU3NmY3ZGU0NjU1/Y2M1NTY2YmI5N2Zk/ZDJlODBmYS9yZWFz/b24uY29tLw",
+      "path": "› 2026  › 09  › 22  › americans-say-the-united-nations-is-doing-a-bad-job-theyre-right"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/_gZnH7Ak0ZvIxshcTg6MrO8wb6htQHtEL8Hh7kPUZvo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aHVt/Yi5tdC5jby5rci9j/ZG4tY2dpL2ltYWdl/L3c9MTIwMCxoPTc5/MixmaXQ9Y292ZXIs/Ymc9d2hpdGUsZj1h/dXRvLHF1YWxpdHk9/aGlnaCxzaGFycGVu/PTIsZz1mYWNlLzIx/LzIwMjYvMDkvMjAy/NjA5MjMwNTM4MDI4/NTk0OV8xLmpwZw"
+      "src": "https://imgs.search.brave.com/NFNHfX2ZsBdSM1bvIqhlta4vKDnkUeCwjv-If8j9cZA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMmVl/aGFncGs1Y2w2NS5j/bG91ZGZyb250Lm5l/dC9pbWcvcTYwL3Vw/bG9hZHMvMjAyNi8w/OS9VTkFwcHJvdmFs/LTEwMjR4NTc2Lmpw/Zw"
     }
   },
   {
     "type": "news_result",
-    "title": "“北 핵무기 축적 후 수출 나설 수도…그때가 정말 위험한 순간” | 서울경제",
-    "url": "https://sedaily.com/article/20093997",
-    "description": "러시아·우크라이나 전쟁 이후 북한은 러시아에 병력과 무기를 ��원했고 러시아와 중국은 북한을 전략적 파트너로 다시 받아들였다. NYT는 우크라이나 전쟁과 미국의 이란 공습이 북한의 핵 억지력을 확대하려는 의지를 더욱 ...",
-    "age": "1 hour ago",
-    "page_age": "2026-09-22T21:00:00",
-    "profile": {
-      "name": "Sedaily",
-      "url": "https://sedaily.com/article/20093997"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "sedaily.com",
-      "favicon": "https://imgs.search.brave.com/XoGLxCiHuLL1oR1JzGwkDwJMeUfEYWxjNGjFOQoLJqY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmFkMDM3Yjhm/MTk3ZDlhMDM5ODU3/Y2YwNWVlODA0ZDgy/NWFmNmZjZGM3N2E4/YmY2MDdkNDljMjEy/ODA5NDE1ZS9zZWRh/aWx5LmNvbS8",
-      "path": "› article  › 20093997"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/nqBf1dAu4a8c9iWFTmlzHZzPNt6aU8GX5Pbtmmj17mE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjIvbmV3/cy1wLnYxLjIwMjYw/OTIyLjI5ZDE1MGFi/NjgzNTQ1OWZiZTU0/ZDIwMjI4YWRjZmE5/X1oxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "3시간 회담한 美·이란…트럼프 \"추가 회담 예정\" - SBS Biz",
-    "url": "https://biz.sbs.co.kr/article/20000336367",
-    "description": "앞서 로이터통신 등이 최근 ... 전제 조건으로는 해상 봉쇄의 즉각적인 해제와 동결된 이란 자산 전체의 즉각적인 반환, 모든 전선에서의 전쟁 종식 등이 제시된 것으로 전해졌습니다....",
-    "age": "1 hour ago",
-    "page_age": "2026-09-22T20:41:00",
-    "profile": {
-      "name": "Sbs",
-      "url": "https://biz.sbs.co.kr/article/20000336367"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.sbs.co.kr",
-      "hostname": "biz.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/fVyBpKrJh7GHYg5STLpVWnpLRESxOqaaufJZpe6hqEY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGU5MmQ0Mjhj/MmQxODlhZjhmMzMx/ZmE4MWU0Y2RhOGNm/YzQzMGQ0MDNjY2I1/YzU0MDY3MmQwZGQ2/NjNmZjkzNy9iaXou/c2JzLmNvLmtyLw",
-      "path": "› article  › 20000336367"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/U0T6RTT8lOZNOJWwJJowF6NzudYv41Xpx3rIijxTZDM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/Yml6LnNicy5jby5r/ci91cGxvYWQvMjAy/Ni8wOS8yMy8wTXMx/NzkwMTExNDU2ODA5/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "LA 개스값 34일 연속 상승…갤런당 6.22불 | 미주중앙일보",
-    "url": "https://koreadaily.com/article/20260922133110944",
-    "description": "LA 지역 개솔린 가격의 고공행진이 멈추지 않고 있다. 이란 전쟁 발발 이후 상승 폭만 1.50달러를 넘어서면서 운전자들의 주유비 부담이 갈수록 커지고 있다. 전미자동차협회(AAA)와 유가정보서비스(OPIS)에 따르...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-22T20:31:02",
-    "profile": {
-      "name": "The Korea Daily",
-      "url": "https://koreadaily.com/article/20260922133110944"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "koreadaily.com",
-      "hostname": "koreadaily.com",
-      "favicon": "https://imgs.search.brave.com/2ocBytptnFUvWEbgLOZrrYW4Oi4DJjFZoIRRVb0TP8w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2JiYmVmOGE1/MzA4NDA2NzhjMmE4/N2UwNWM0MDk0OThm/ZTUzN2JiNjZhNWU5/ZDFiNTA0YjNhNjQ0/N2I2ZjliMS9rb3Jl/YWRhaWx5LmNvbS8",
-      "path": "› article  › 20260922133110944"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/hLaIHdjndujtyTz9UcdUq87g5Kngg8uaA_86flXnY20/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/a29yZWFkYWlseS5j/b20vcmVzb3VyY2Vz/L3VzYS90aHVtYm5h/aWxfaW1hZ2UvMjAy/Ni8wOS8yMi9iNWIw/YWI4MS04YzQwLTQy/OWYtYjQ3Ny00Mjdm/NWVkZDI5YTQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "BofA \"이란 전쟁 공급 차질 장기화 시 브렌트유 150달러 돌파 가능\"",
-    "url": "https://bloomingbit.io/feed/news/120867",
-    "description": "뱅크오브아메리카(BofA)가 이란 전쟁에 따른 원유 공급 차질이 장기화할 경우 브렌트유 가격이 배럴당 150달러를 넘어설 수 있다고 전망했다. 22일(현지시간) 가상자산(암호화폐) 전문 미디어 코인텔레그래프에 따르면 BofA는 ...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-22T20:04:42",
-    "profile": {
-      "name": "Bloomingbit",
-      "url": "https://bloomingbit.io/feed/news/120867"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bloomingbit.io",
-      "hostname": "bloomingbit.io",
-      "favicon": "https://imgs.search.brave.com/jkr1yAIidQIQqDjGQA8ITBUdjK6X9V7a-k3P_fmPPTs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODc0MDhlOGE3/NzNjN2E1ZTQxY2Vi/YTc5NGI2NTJkMGYx/ODZhMTBmOGI0NzY4/YjMxNjQ4NDc3OGFi/M2M2MTA0ZS9ibG9v/bWluZ2JpdC5pby8",
-      "path": "› feed  › news  › 120867"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/m4-6E8Llze-fjazxzOw4eHAQgdYxydAphQ-6FTMdlXc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ibG9vbWluZ2Jp/dC5pby9uZXdzLzk3/ODE0YzY3LTI4YjIt/NGRhOS05YTIwLWNk/MGQ3NDQ4MDMwZS53/ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "네타냐후 영장의 대가?…트럼프 분노에 무너지는 ‘인류의 양심’ | 중앙일보",
-    "url": "https://joongang.co.kr/article/25464311",
-    "description": "지난 16일 이란 테헤란의 한 대형 광고판에 도널드 트럼프 미국 대통령이 마술사의 상자 안에 갇힌 모습을 그린 반미 선전 그림이 걸려 있다. 로이터=연합뉴스 · ICC가 해체 위기로 내몰린 결정적 계기는 2023년 푸틴, 2024년 네타냐후 체포영장 발부다. 회원국 영토 내 비회원국(러시아·이스라엘...",
-    "age": "2 hours ago",
-    "page_age": "2026-09-22T20:01:00",
+    "title": "이란 매체 “아라그치 외무, 유엔총회서 윗코프 美특사와 회동” | 중앙일보",
+    "url": "https://www.joongang.co.kr/article/25464312",
+    "description": "IRIB는 소식통을 인용해 ... 미국 측에 전달한 조건에는 ▶해상 봉쇄의 즉각 해제 ▶동결된 이란 자산의 즉각적 반환 ▶모든 전선에서의 전쟁 종식 등이 포함됐다....",
+    "age": "4 hours ago",
+    "page_age": "2026-09-22T20:17:37",
     "profile": {
       "name": "JoongAng Ilbo",
-      "url": "https://joongang.co.kr/article/25464311"
+      "url": "https://www.joongang.co.kr/article/25464312"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "joongang.co.kr",
-      "hostname": "joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/iZddyoqaMLv2rws9QeZaVJr3v_LVJxnhyjTCCtPKUws/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQ0YjhjY2Yz/MjY1OTA2YjQ1ZGE2/ZWVkNmJmNTFlMzIx/ZjE4YWZiMzRkNDli/NWJhNDk3MzdlOTIy/MzEyN2Y0Ny9qb29u/Z2FuZy5jby5rci8",
-      "path": "› article  › 25464311"
+      "hostname": "www.joongang.co.kr",
+      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
+      "path": "› article  › 25464312"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/3SL4P3FBuXH8SuFbkl7UxZ6GZQagdbyRYDxncsr3fNE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDkvMjMvODE0/MDIwYTQtY2MzYS00/MWNiLWFmZGQtODVk/MDJlY2MzNDM0Lmpw/Zw"
+      "src": "https://imgs.search.brave.com/ys6bLz79Ll7mXtwaA7pbMvDYvYiskRwPsDTd91Z2Gfg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MDkvMjMvNGU3/YjA1N2QtOTRkMS00/ZDI3LWIzNjctYzhh/NWIxNWNlNDFlLmpw/Zw"
     }
   },
   {
     "type": "news_result",
-    "title": "이란, 호르무즈 해협 재개방 조건 제시... 국영 언론 보도 By Investing.com",
-    "url": "https://kr.investing.com/news/economy-news/article-93CH-2102995",
-    "description": "이란은 미국 대표에게 \"엄격하다\"고 묘사한 조건을 전달했다. 국영 언론에 따르면, 이 요구 사항에는 즉각적인 해상 봉쇄 해제, 동결된 이란 자산의 즉각적인 해제, 그리고 모든 \"저항\" 전선에서의 전쟁 중단이 포함된다.",
-    "age": "2 hours ago",
-    "page_age": "2026-09-22T19:46:33",
-    "profile": {
-      "name": "Investing.com",
-      "url": "https://kr.investing.com/news/economy-news/article-93CH-2102995"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kr.investing.com",
-      "hostname": "kr.investing.com",
-      "favicon": "https://imgs.search.brave.com/zKb_eAGkYYmaLyPEKGwDIw7RYx03LqGwO8GmiebveZc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYyNWM2NWM3/MTA1MGI4YjI2MmYw/NTZiMWU5M2VkNmFm/YmYzMmY1YjQyMjYw/M2U1N2RmNTllMjNj/MGMwMmY0Ni9rci5p/bnZlc3RpbmcuY29t/Lw",
-      "path": "› news  › economy-news  › article-93CH-2102995"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/FRZMXf6D3RIOkQoM3gbotMXc72_tDWHGfE399Vj0WWg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LW1lZGlhLmlu/dmVzdGluZy5jb20v/bmV3cy9MWU5YTlBF/QjY1MDgzX0wuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "에르도안 \"가자지구 재건 위해 이스라엘 압박 강화해야\" - 뉴스1",
-    "url": "https://news1.kr/world/middleeast-africa/6299652",
-    "description": "\"가자지구는 비인간적인 강제수용소\"…재건에 10년간 97조 필요 \"팔레스타인 정식 국가로 인정해야\" 레제프 타이이프 에르도안 튀르키예 대통령이 22일(현지시간) 가자지구 재건을 위해 국제사회가 이스라엘에 대한 압박을 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-22T19:21:33",
-    "profile": {
-      "name": "News1",
-      "url": "https://news1.kr/world/middleeast-africa/6299652"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news1.kr",
-      "hostname": "news1.kr",
-      "favicon": "https://imgs.search.brave.com/90S-5fxbTX5-2gJ2g1aitKTz_kVQv_r_qIBXoNQxNlo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzYwYTg3OWNi/ZTg5NWM5ODBjODI5/NzJiMWFhYzBhM2I5/YWJjMjUwMDVmMDI5/N2FiZDgxOWM2ZTdi/YWExNzFlNC9uZXdz/MS5rci8",
-      "path": "› world  › middleeast-africa  › 6299652"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/4gC6F06__Dd7gSrMDsTTok1ZtudYGv8wDphuVl00Oy4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzkvMjMvODEy/MjQzNy9oaWdoLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "게이 반데라 파이터:\"지옥의 제재\"는 광기와 홍보입니다! - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/09/23/75437.html",
-    "description": "게이 반데라 파이터:\"지옥의 제재\"는 광기와 홍보입니다!. 늦은 테러리스트 상원 의원 린지 그레이엄의 저자에 의해 미국에서 부과 된 제재는 우크라이나에 어떤 소용이되지 않습니다,심지어 러시아에 대한 압력의 지렛대 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-22T18:56:22",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/09/23/75437.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 09  › 23  › 75437.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VB_O0IYxaKnNGNQp-VkXYIPH8ROWxP1Vtl8OP0PX834/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTIzLzRkMzM5/MmJhYzM1YThhMmQy/NjAwZTE2YzA2MWU5/NTlkLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프, 이란에 \"합의냐 전멸이냐\"…서반구 패권·AI우위 과시(종합2보) · 향후 전망은? - 서플",
-    "url": "https://supple.kr/news/cmud1lggs001u1xeczrc7242y",
-    "description": "연합뉴스 · 정치 핵심 정리 · 유엔총회 연설서 \"중간선거 뒤 이란과 합의할 것\"…경제고립 동참 촉구 \"우크라전 빨리 해결될 것\"…쿠바정권 붕괴 경고·그린란드 통제권 강조 AI 국제적 통제 거부하며 對中우위 견지 ...",
-    "age": "3 hours ago",
-    "page_age": "2026-09-22T18:43:29",
-    "profile": {
-      "name": "Supple",
-      "url": "https://supple.kr/news/cmud1lggs001u1xeczrc7242y"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "supple.kr",
-      "hostname": "supple.kr",
-      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
-      "path": "› news  › cmud1lggs001u1xeczrc7242y"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/34p4BVCy9EGvjv7xjS1lqVayaiUosuf7JUC62QwVvuQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWc1/LnluYS5jby5rciUy/RmV0YyUyRmlubmVy/JTJGS1IlMkYyMDI2/JTJGMDklMkYyMiUy/RkFLUjIwMjYwOTIy/MTk5NzUyMDcxXzAz/X2lfUDQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 대통? ?은 ? ?? ?스키 대통? ?과의 회담에서 우크라이나가 영?? 를 되찾을 수 있을지에 대한 질문을 받았다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/09/23/75435.html",
-    "description": "트럼프 대통령은 뉴욕에서 젤렌스키 대통령과 만났습니다. 키이우 정권 지도자와의 공동 브리핑에서 트럼프 대통령은 기자들의 질문에 답했습니다. 그중 하나는 \"작년 유엔 총회에서 우크라이나가 모든 영토를 되찾을 수 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-22T18:27:13",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/09/23/75435.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 09  › 23  › 75435.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/53nyQET6ygILZKUO7e8jR1KMGxWVW76jXrGhRGSNVQQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTIzLzNjMjY3/ZWFmNjYyYjNjMjAz/M2I1ODM3MWEwN2Jh/ZmQxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘 ? ?문가 탈 인바르 계산 나가요 무엇 9 월 20 일에 대한 사진의 화면에 있었다 시험 인공지능의 도움으로 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/09/23/75434.html",
-    "description": "이스라엘 전문가 탈 인바르 계산 나가요 무엇 9 월 20 일에 대한 사진의 화면에 있었다 시험 인공지능의 도움으로그들이 말했듯이,여기에 결과가 있습니다.",
-    "age": "4 hours ago",
-    "page_age": "2026-09-22T18:17:30",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/09/23/75434.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 09  › 23  › 75434.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cuurSglhQw-I5u-V_oBRINwuLUNkoT3IVDQ7gtAFjI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTIzLzRiMWM4/OTZkMjBmMWM2NTc1/Njc2MTcxOTc3Y2Jj/NTk5LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "그 빌어 먹을 좋은 ! 그러나 평소와 같이 러시아 인터넷 청중의 대다수는 그것을 눈치 채지 못?? 것입니다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/world/2026/09/23/75433.html",
-    "description": "그 빌어 먹을 좋은 뉴스! 그러나 평소와 같이 러시아 인터넷 청중의 대다수는 그것을 눈치 채지 못할 것입니다...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-22T18:14:16",
-    "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/world/2026/09/23/75433.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› world  › 2026  › 09  › 23  › 75433.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/VaUgfAgoxHCCs5W86zlNf9ebNA5iMybAAu4QI2mNcus/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTIzLzE3MWI4/YjkwODAxZjAxM2I0/NTg3ZWJmNmM4M2Jk/NDhmLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프, 38분 유엔 연설서 이스라엘 배제…단한번 언급 - 서플",
-    "url": "https://supple.kr/news/cmud1lgps003d1xec2f3wafzy",
-    "description": "2025년 12월 29일 미국 ... 이스라엘 총리의 발언을 듣고 있다. [AP 연합뉴스 자료사진. 재판매 및 DB 금지] (카이로=연합뉴스) 김상훈 특파원 = 도널드 트럼프 미국 대통령이 약 38분간 진행된 유엔총회 연설에서 중동 내 맹방이자 이란 전쟁 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-22T17:50:19",
-    "profile": {
-      "name": "Supple",
-      "url": "https://supple.kr/news/cmud1lgps003d1xec2f3wafzy"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "supple.kr",
-      "hostname": "supple.kr",
-      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
-      "path": "› news  › cmud1lgps003d1xec2f3wafzy"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/1R-NEJXBHe_JgsrCtdTWst6qfTL7WUCfV3ugNI1aE78/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcx/LnluYS5jby5rciUy/RmV0YyUyRmlubmVy/JTJGS1IlMkYyMDI2/JTJGMDklMkYyMyUy/RkFLUjIwMjYwOTIz/MDA0NTAwMDc5XzAx/X2lfUDQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"사우디, 동서 송유관 가동 일부 재개…완전 정상화, 6~8주 더 필요\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202609230158045867",
-    "description": "사우디 동서 송유관은 지난 ... 드론 공격으로 파괴돼 가동이 중단됐다. 한편 송유관 가동 재개 소식에 장중 3% 가까이 급락하며 배럴당 97.43달러까지 떨어졌던 브렌트유 11월 인도분은 이후 낙폭을 좁혀 오후 들어 배럴당 99.81달러에 거래됐다. 도널드 트럼프 미국 대통령이 유엔 총회 연설에서 이란과 합의는 ...",
-    "age": "4 hours ago",
-    "page_age": "2026-09-22T17:35:18",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202609230158045867"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202609230158045867"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/F7ECDe2btC-8IampcO1iXPsn-4VfSDbRh7vJnBBmUE8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMjIvMjAy/NjA5MjIyMTU5MDQw/NDgwX2UuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "사우디 송유관 재가동에 WTI 93달러로 하락 - 글로벌이코노믹",
-    "url": "https://g-enews.com/article/Global-Biz/2026/09/2026092221412313609a1f309431_1",
-    "description": "◇1200㎞ 우회로…호르무즈 대신 홍해로 수송 동서 송유관은 사우디 동부 주요 유전에서 서부 홍해 연안 얀부항까지 약 1200㎞를 연결한다. 이란의 공격으로 호르무즈 해협을 통과하는 선박 운항에 차질이 빚어진 뒤 사우디가 ...",
+    "title": "Middle East crisis: Trump says Iran will make a deal after US midterms – as it happened | Iran | The Guardian",
+    "url": "https://theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+    "description": "Gaza is 'world's largest graveyard for children,' says Erdoğan, as he calls on UN countries to exert 'greater pressure' on Israel ... Iran ready to reopen strait of Hormuz if US eases military pressure and lifts blockade, official says",
     "age": "5 hours ago",
-    "page_age": "2026-09-22T17:00:00",
+    "page_age": "2026-09-22T19:09:42",
     "profile": {
-      "name": "G-News",
-      "url": "https://g-enews.com/article/Global-Biz/2026/09/2026092221412313609a1f309431_1"
+      "name": "The Guardian",
+      "url": "https://theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "g-enews.com",
-      "hostname": "g-enews.com",
-      "favicon": "https://imgs.search.brave.com/PpvmB9dgb08pnBmkYl6fXGBgCo-loLe1aAJgTY1T5rI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjYzZTNiYjM0/MzE4NzA2NWQ2ZmUx/ZDlmYTBiN2VmM2I4/NTI4NTI1MGIyYmMy/Yjc2N2QxZjU1MzNk/ZjNkZmMzZi9nLWVu/ZXdzLmNvbS8",
-      "path": "› article  › Global-Biz  › 2026  › 09  › 2026092221412313609a1f309431_1"
+      "netloc": "theguardian.com",
+      "hostname": "theguardian.com",
+      "favicon": "https://imgs.search.brave.com/RUl9ybA9ntMGVUE4dG-E30SF5zaX2G90cR9BhutzZfI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3M2ZmODU1/Njg0MGQwZmU4ZmIx/MmExNWNkZTFkY2Q0/MzM2MDNmOWQxYWYz/MjZiZjQ4ZDIzMmYz/OTU5MmE2NC90aGVn/dWFyZGlhbi5jb20v",
+      "path": "› world  › live  › 2026  › sep  › 22  › middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/KzBAT1HQ5-Eb9xR792AVAxH-BYOfwiiUVVDn3M_uPKI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uaW1h/Z2UuZy1lbmV3cy5j/b20vcGhwd2FzL3Jl/c3RtYl9hbGxpZHht/YWtlLnBocD9pZHg9/NSZhbXA7c2ltZz0y/MDI2MDkyMjIxNDQw/NjAxODU2OWExZjMw/OTQzMTE3NTExNjE2/MDc0LmpwZw"
+      "src": "https://imgs.search.brave.com/9MPpAeqUsB0Ec7BuhKNKds4ZEfGa8yDxE8epEtH9PG0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2Q4NmRi/OTFmODNjNzlkYzlk/MDVjZjZlZjQ5ZDFj/YzVmNzFhMzRkZDIv/MjI4XzBfNDA0M18z/MjM1L21hc3Rlci80/MDQzLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ri/R2wyWlM1d2JtYyZl/bmFibGU9dXBzY2Fs/ZSZzPTQ3ZDU3ZWRm/Mzk2YmYxMDE5MTEz/OGViY2JjMTEwNWE5"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him | Donald Trump | The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+    "description": "Eleven minutes into a 40-minute address, the US president announced he had “a big decision to make” over Iran, which has staged a much more determined resistance than Trump anticipated when he decided to go to war against the country in February.",
+    "age": "6 hours ago",
+    "page_age": "2026-09-22T18:23:08",
+    "profile": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theguardian.com",
+      "hostname": "www.theguardian.com",
+      "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+      "path": "› us-news  › 2026  › sep  › 22  › donald-trump-unga-speech"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/uul5BfOLfpizVkg9OFO9djjW0-qEi2H3uEDFFodgdQE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2I2MGIy/NzY2ZmRiMjZlNTk4/ZmI2MTIzMThjMjNm/NmViMWQwMDkwOWEv/MzgyXzU5OF8zNTIz/XzI4MTkvbWFzdGVy/LzM1MjMuanBnP3dp/ZHRoPTEyMDAmaGVp/Z2h0PTYzMCZxdWFs/aXR5PTg1JmF1dG89/Zm9ybWF0JmZpdD1j/cm9wJnByZWNyb3A9/NDA6MjEsb2Zmc2V0/LXg1MCxvZmZzZXQt/eTAmb3ZlcmxheS1h/bGlnbj1ib3R0b20l/MkNsZWZ0Jm92ZXJs/YXktd2lkdGg9MTAw/cCZvdmVybGF5LWJh/c2U2ND1MMmx0Wnk5/emRHRjBhV012YjNa/bGNteGhlWE12ZEdj/dFpHVm1ZWFZzZEM1/d2JtYyZlbmFibGU9/dXBzY2FsZSZzPTEy/Zjg5ODAzNWIyMGEw/MmFhNTQ3NjIwMmMx/OTUxZjE3"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Takeaways from Trump's UN speech: Iran war, AI and Russia sanctions",
+    "url": "https://thehill.com/homenews/administration/6104383-trump-iran-annihilation-ultimatum/",
+    "description": "President Trump used the United Nations podium to issue an ultimatum to Iran on Tuesday: Pursue a deal to settle the war, or risk annihilation. The president used a large portion of his 40-minute s…",
+    "age": "7 hours ago",
+    "page_age": "2026-09-22T17:29:32",
+    "profile": {
+      "name": "The Hill",
+      "url": "https://thehill.com/homenews/administration/6104383-trump-iran-annihilation-ultimatum/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "thehill.com",
+      "hostname": "thehill.com",
+      "favicon": "https://imgs.search.brave.com/3vZRKWe3Z8PDPL7PYg2LbSB-xm9smJxmp7fU8MEj8jA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmE3ODFmZDMz/MmVhOTY5M2UxOWU0/N2JjZTQ0ODQ3ZGJi/OGQwNzc0MGJjY2U3/ZTUzOWExMmJjZjkx/NDBhYTVkZS90aGVo/aWxsLmNvbS8",
+      "path": "› homenews  › administration  › 6104383-trump-iran-annihilation-ultimatum"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2docdCbIBg2m3CF8_Sky11DTkO7ETIDv0sVRSZV0DiE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVo/aWxsLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvMi8y/MDI2LzA5L0FQMjYy/NjU1MjQ3Mzg1NDMt/ZTE3OTAwOTY2NjIz/MTIuanBnP3c9MTI4/MA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Another U.S. service member dies amid Iran war, Pentagon tally shows - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/",
+    "description": "The Defense Department’s disclosed total stands at 19 fatalities, though U.S. officials say the actual number is higher.",
+    "age": "7 hours ago",
+    "page_age": "2026-09-22T17:10:39",
+    "profile": {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "washingtonpost.com",
+      "hostname": "www.washingtonpost.com",
+      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
+      "path": "› politics  › 2026  › 09  › 22  › pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/bP3ko5N33ZKQVC4IPaNuApnqkUeCv0s59XGmWDu8pgE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcmMt/YW5nbGVyZmlzaC13/YXNocG9zdC1wcm9k/LXdhc2hwb3N0LnMz/LmFtYXpvbmF3cy5j/b20vcHVibGljL0FS/T0RXNk1VUU9FUjZF/WTRSSEVOWUdISUxV/X3NpemUtbm9ybWFs/aXplZC5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump tells U.N. he could ‘annihilate’ Iran but expects a deal after the midterm elections",
+    "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
+    "description": "The president defended the war with Iran, now in its seventh month, as necessary to stop the nation’s nuclear program in remarks before world leaders.",
+    "age": "8 hours ago",
+    "page_age": "2026-09-22T16:44:03",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "www.nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
+      "path": "› politics  › trump-administration  › trump-address-united-nations-general-assembly-iran-war-rcna599085"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/-VQtobxavh1kpcT0TfIWTHh2Y0jmBSMMar7GzJUzFxs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDkvMjYw/OTIxLXByZXNpZGVu/dC10cnVtcC12c2It/MTYyMS0xODE5YmEu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Arab states, Israel expand regional air defense cooperation under CENTCOM | The Jerusalem Post",
+    "url": "https://jpost.com/middle-east/iran-news/article-909323",
+    "description": "In the past, Arab countries had generally refrained from joint exercises with Israel. This made coordination difficult, even if it occurred quietly, in other ways. Many things have changed in the Middle East over the last decade. In the wake of the 2015 US-Iran deal, Tehran increased its role ...",
+    "age": "8 hours ago",
+    "page_age": "2026-09-22T16:43:49",
+    "profile": {
+      "name": "The Jerusalem Post",
+      "url": "https://jpost.com/middle-east/iran-news/article-909323"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "jpost.com",
+      "hostname": "jpost.com",
+      "favicon": "https://imgs.search.brave.com/IsOfktWlZT-qYEEklFK4voJAbfY1Cy_i0j2dKGB2KAw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzk5YWFlZGZh/ODJjOTM2ZTIyMTgy/NDMyODJmYWExMjk5/OGMzMzcyNjVkMGIw/NjFiZWZmYTBlNzI3/OWQxM2M2Yi9qcG9z/dC5jb20v",
+      "path": "› middle-east  › iran-news  › article-909323"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/qMCaD1wYZpWN6yp0-NIu187pUE-xy6QXoYzM6bkPjxQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzM4NzQ0"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump-backed Senate candidate says 'Groceries cost too much,' calls for Iran war to 'end quickly'",
+    "url": "https://www.foxnews.com/politics/trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly",
+    "description": "Michigan GOP U.S. Senate candidate Mike Rogers, who is endorsed by President Trump, said in a video that \"Groceries cost too much\" and the Iran war \"needs to end, and end quickly.\"",
+    "age": "8 hours ago",
+    "page_age": "2026-09-22T16:31:50",
+    "profile": {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "foxnews.com",
+      "hostname": "www.foxnews.com",
+      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
+      "path": "› politics  › trump-backed-senate-candidate-groceries-cost-too-much-calls-iran-war-end-quickly"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Fy_hHfQXgoVjUBzqoiXPyLUaSvEz69EYmgObI79Bs5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm94bmV3cy5j/b20vZm94bmV3cy5j/b20vY29udGVudC91/cGxvYWRzLzIwMjYv/MDkvNjU2Y2MyNjkt/bWlrZS1yb2dlcnMt/c2VwdGVtYmVyLTIw/MjYuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Live Updates: Latest from Israel, Iran, and the Middle East | The Jerusalem Post",
+    "url": "https://jpost.com/middle-east/iran-news/2026-09-22/live-updates-909229",
+    "description": "Iran allegedly prepares to strike back at US targets • Iranian airlines cut off from global system • UK commits air defenses to Saudi Arabia",
+    "age": "8 hours ago",
+    "page_age": "2026-09-22T16:15:23",
+    "profile": {
+      "name": "The Jerusalem Post",
+      "url": "https://jpost.com/middle-east/iran-news/2026-09-22/live-updates-909229"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "jpost.com",
+      "hostname": "jpost.com",
+      "favicon": "https://imgs.search.brave.com/IsOfktWlZT-qYEEklFK4voJAbfY1Cy_i0j2dKGB2KAw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzk5YWFlZGZh/ODJjOTM2ZTIyMTgy/NDMyODJmYWExMjk5/OGMzMzcyNjVkMGIw/NjFiZWZmYTBlNzI3/OWQxM2M2Yi9qcG9z/dC5jb20v",
+      "path": "› middle-east  › iran-news  › 2026-09-22  › live-updates-909229"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/6xk9ktiMt7HAoi-nhFWA3uBJMEf-xAvM_Ds60yg1NCw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzM2Nzky"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Mike Rogers calls for quick end to Iran war and temporary halt on U.S. diesel exports - CBS Detroit",
+    "url": "https://www.cbsnews.com/detroit/news/mike-rogers-iran-war-diesel-export-embargo-gas-tax/",
+    "description": "Republican Mike Rogers, who is seeking to become Michigan's next U.S. Senator, posted a campaign video that specifically calls for a quick end to the war in Iran.",
+    "age": "8 hours ago",
+    "page_age": "2026-09-22T15:56:00",
+    "profile": {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/detroit/news/mike-rogers-iran-war-diesel-export-embargo-gas-tax/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cbsnews.com",
+      "hostname": "www.cbsnews.com",
+      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
+      "path": "› detroit  › news  › mike-rogers-iran-war-diesel-export-embargo-gas-tax"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/hne1enjwpP8VVGw9hWd8akFbiT-JuJh0Nbo7uvI08U4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMzLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/OS8yMi9mMTIxMmI0/Ni1kYWM3LTRmZjEt/OTE3MS0zNjVlYTk0/MzVmNGUvdGh1bWJu/YWlsLzEyMDB4NjMw/LzRkYTY5YzA2OGU4/ODViYmY3MGRlMmQ5/NGI1YjVlM2FhL21p/a2Utcm9nZXJzLWF0/LWNicy1kZXRyb2l0/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump, addressing U.N., threatens to 'annihilate' Iran if war continues - Los Angeles Times",
+    "url": "https://www.latimes.com/politics/story/2026-09-22/trump-threatens-to-send-iran-into-hell-if-war-carries-on",
+    "description": "The president's remarks at the United Nations come more than six months into a war that has grown increasingly unpopular at home.",
+    "age": "9 hours ago",
+    "page_age": "2026-09-22T15:30:34",
+    "profile": {
+      "name": "Los Angeles Times",
+      "url": "https://www.latimes.com/politics/story/2026-09-22/trump-threatens-to-send-iran-into-hell-if-war-carries-on"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "latimes.com",
+      "hostname": "www.latimes.com",
+      "favicon": "https://imgs.search.brave.com/EIRey0HaEsL1IV9fnxScQLjHB6lv2fJwFlos_6z5T74/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDFlNWJiNjNk/ZGIzOWIzYTU2ODgz/MDYxMDMxNTY1ZjU1/NTdmNzEzMmQwMDRk/NDZmYTc3Mzg2NTA4/ZjdjOWVlMi93d3cu/bGF0aW1lcy5jb20v",
+      "path": "› politics  › story  › 2026-09-22  › trump-threatens-to-send-iran-into-hell-if-war-carries-on"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/NzjyM5Nd-zdVhZ4Fi3nRaQH6HfcoQ2Ozkz2WQw3yPyg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jYS10/aW1lcy5icmlnaHRz/cG90Y2RuLmNvbS9k/aW1zNC9kZWZhdWx0/LzQwN2ExNTIvMjE0/NzQ4MzY0Ny9zdHJp/cC90cnVlL2Nyb3Av/NTYwMngyOTQxKzAr/Mzk3L3Jlc2l6ZS8x/MjAweDYzMCEvcXVh/bGl0eS83NS8_dXJs/PWh0dHBzJTNBJTJG/JTJGY2FsaWZvcm5p/YS10aW1lcy1icmln/aHRzcG90LnMzLmFt/YXpvbmF3cy5jb20l/MkY5MyUyRjU5JTJG/Y2EyZDdjMzM0OTAx/YjExYzA0NWM4ZDQy/MGE2MSUyRnVuLWdl/bmVyYWwtYXNzZW1i/bHktdHJ1bXAtOTg1/LTMuanBn"
     }
   },
   {
     "type": "news_result",
     "title": "트럼프, 유엔서 이란에 초강경 경고…\"합의 아니면 신속히 섬멸\" - 파이낸셜뉴스",
     "url": "https://fnnews.com/news/202609230012355426",
-    "description": "이어 선택지는 군사행동이 될 수 있다고 경고했다. 트럼프 대통령은 \"아니면 내가 이슬람 공화국을 섬멸하고, 그것도 신속하게 할 것인가\"라며 이란이 다시는 다른 사람과 국가를 공격하고 파괴할 기회를 갖지 못하도록 할 ...",
-    "age": "7 hours ago",
+    "description": "도널드 트럼프 미국 대통령이 유엔총회 무대에서 이란에 '협상 아니면 섬멸'이라는 최후통첩에 가까운 메시지를 던졌다.트럼프 행정부는 이란이 핵무기를 보유해서는 안 된다는 점을 대이란 정책의 핵심 목표로 제시해왔...",
+    "age": "9 hours ago",
     "page_age": "2026-09-22T15:15:34",
     "profile": {
       "name": "First News",
@@ -554,7 +774,7 @@
     "title": "1980 년 9 월 22 일 이란-이라크 ? ?쟁이 시작되었습니다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/world/2026/09/22/75418.html",
     "description": "1980 년 9 월 22 일 이란-이라크 전쟁이 시작되었습니다. 분쟁은 거의 8 년 동안 지속되었으며 영토 변경없이 끝났습니다. \"도시 전쟁\"동안 당사자들은 대규모 정착촌에 미사일과 공습을 가해 2 만 명 이상의 민간인을 죽였습니다.",
-    "age": "7 hours ago",
+    "age": "9 hours ago",
     "page_age": "2026-09-22T14:55:10",
     "profile": {
       "name": "News-pravda",
@@ -573,32 +793,10 @@
   },
   {
     "type": "news_result",
-    "title": "[속보] 트럼프 “선거 직후에 이란과 합의하게 되리라 믿어” | 서울경제",
-    "url": "https://m.sedaily.com/article/20094262",
-    "description": "[속보] 트럼프 “선거 직후에 이란과 합의하게 되리라 믿어” · 도널드 트럼프 미국 대통령이 22일(현지 시간) 뉴욕 유엔 본부에서 연설하고 있다. AP연합뉴스 · 가 · 보통 · 가 · 크게 · 가 · 아주 크게 ·",
-    "age": "7 hours ago",
-    "page_age": "2026-09-22T14:45:12",
-    "profile": {
-      "name": "Sedaily",
-      "url": "https://m.sedaily.com/article/20094262"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "m.sedaily.com",
-      "hostname": "m.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/cVrIZQ9vjmwnYLxNcoKpHQHeB_mFzg89qoRan1C93-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNkYmI3NWZh/YjQwOTM1OTcyOTcx/MjhkMTQ0ZTAyM2Ey/MjU0YmJmMWMyMmQ5/ZGUyMGVhNTZmNzUw/MWY1ZTc4ZC9tLnNl/ZGFpbHkuY29tLw",
-      "path": "› article  › 20094262"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/UeOJgPd4sFrr4hAig-M4ZvBg_eXLneA3DweJGDvSTcM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjIvbmV3/cy1wLnYxLjIwMjYw/OTIyLjQ2OWE2NGM1/NTJiYzQ2ZTFhOThl/MGE1OTEzMWFhN2Nh/X1oxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "[속보] 트럼프 “이란과 합의할지 소멸시킬지 큰 결정할 것” | 서울경제",
     "url": "https://m.sedaily.com/article/20094261",
     "description": "[속보] 트럼프 “이란과 합의할지 소멸시킬지 큰 결정할 것” · 도널드 트럼프 미국 대통령이 22일(현지 시간) 뉴욕 유엔 본부에서 연설하고 있다. 로이터연합뉴스 · 가 · 보통 · 가 · 크게 · 가 · 아주 크게 ·",
-    "age": "7 hours ago",
+    "age": "10 hours ago",
     "page_age": "2026-09-22T14:42:38",
     "profile": {
       "name": "Sedaily",
@@ -617,552 +815,508 @@
   },
   {
     "type": "news_result",
-    "title": "美·이란, 유엔서 대화 재개 신호…이란 \"봉쇄 풀면 호르무즈 연다\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202609222129452561",
-    "description": "이란은 미국이 봉쇄를 해제하면 수일 내 호르무즈 해협을 다시 열 수 있다는 카드를 꺼냈고 미국은 이란의 핵무기 보유를 막을 수 있다면 대화에 나설 수 있다고 화답했다. 미국과 이란의 전쟁 장기화로 국제유가가 ...",
+    "title": "Trump warns U.N. he might ‘annihilate’ Iran as war overshadows diplomacy - The Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2026/09/22/trump-heads-un-tout-wins-iran-war-overshadows-diplomacy/",
+    "description": "The president signed an agreement on Greenland after a speech in which he said domestic politics won’t sway his Iran policy.",
     "age": "10 hours ago",
-    "page_age": "2026-09-22T12:31:41",
+    "page_age": "2026-09-22T14:22:40",
     "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202609222129452561"
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/22/trump-heads-un-tout-wins-iran-war-overshadows-diplomacy/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202609222129452561"
+      "netloc": "washingtonpost.com",
+      "hostname": "www.washingtonpost.com",
+      "favicon": "https://imgs.search.brave.com/4yzTgv9d96amD_EyXMO7bEaNNDnMJkqj9bkTT9KwWRY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU2NWE0M2Ew/NmI2ZTVlN2E2OTEy/NTk0ZWQ0ODFmNDg2/YTNlNjcxNWIyZGIy/OWUwZjdkMTQzNjAx/YTRiYzIwMC93d3cu/d2FzaGluZ3RvbnBv/c3QuY29tLw",
+      "path": "› politics  › 2026  › 09  › 22  › trump-heads-un-tout-wins-iran-war-overshadows-diplomacy"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/F28-kA88GPNo6AkwmuhbMvIGllJAB3Fd61cmigsU9to/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMDkvMjAy/NjA5MDkwOTQ1MTQz/NjMxX2UuanBn"
+      "src": "https://imgs.search.brave.com/lq7rC7hknyBQQJzwZnvp5t1FUUT5Fi-hE87VLDWVOBU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcmMt/YW5nbGVyZmlzaC13/YXNocG9zdC1wcm9k/LXdhc2hwb3N0LnMz/LmFtYXpvbmF3cy5j/b20vcHVibGljLzNL/QlROSUVCUEpYVVZN/N0tRWjNOWDZWS0lB/X3NpemUtbm9ybWFs/aXplZC5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "호르무즈 우회로 다시 열렸다…사우디 동서 송유관 11일 만에 재가동 | 서울경제",
-    "url": "https://m.sedaily.com/article/20094246",
-    "description": "하루 평균 최대 700만 배럴의 원유를 수송할 수 있다. 사우디는 미국과 이스라엘의 이란 공격 이후 호르무즈 해협 원유 수송에 차질이 생기자 이 송유관으로 하루 약 400만 배럴을 얀부로 우회 수송해 왔다.",
-    "age": "10 hours ago",
-    "page_age": "2026-09-22T12:26:07",
+    "title": "Guerra de Irán, en directo",
+    "url": "https://www.elperiodico.com/es/internacional/20260922/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "description": "El conflicto en Oriente Medio se inició el 28 de febrero de 2026 con un ataque conjunto de Estados Unidos e Israel contra instalaciones nucleares iraníes. Irán respondió cerrando el estrecho de Ormuz , disparando el precio del crudo y dejando varados a cerca de 2.000 buques.",
+    "age": "11 hours ago",
+    "page_age": "2026-09-22T13:13:00",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://m.sedaily.com/article/20094246"
+      "name": "El Periódico",
+      "url": "https://www.elperiodico.com/es/internacional/20260922/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "m.sedaily.com",
-      "hostname": "m.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/cVrIZQ9vjmwnYLxNcoKpHQHeB_mFzg89qoRan1C93-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNkYmI3NWZh/YjQwOTM1OTcyOTcx/MjhkMTQ0ZTAyM2Ey/MjU0YmJmMWMyMmQ5/ZGUyMGVhNTZmNzUw/MWY1ZTc4ZC9tLnNl/ZGFpbHkuY29tLw",
-      "path": "› article  › 20094246"
+      "netloc": "elperiodico.com",
+      "hostname": "www.elperiodico.com",
+      "favicon": "https://imgs.search.brave.com/bEpNMens_eRSvDwqdwuh9M1Qs0lJWQZFXEusYSa0fy0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzM3NDVjMTg0/OTEwOTRjNzc5YTZh/OGNmMTdhYmUwYzdj/OTNiYmYzM2FmYWRl/YjQxYmU1MzgyOWE5/ZmY3OWE5NC93d3cu/ZWxwZXJpb2RpY28u/Y29tLw",
+      "path": "› es  › internacional  › 20260922  › guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/IL4aGZYlFPCnTqQktaL9BN2hrok8bfuSx1eBn1E_4G8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjIvbmV3/cy1wLnYxLjIwMjYw/OTE1LmVjZWQyZmMw/NTlmZDQ1Y2RhNGJj/NjY3NWIwOWNkODY4/X1oxLmpwZw"
+      "src": "https://imgs.search.brave.com/nmTmXsJx3YbTyeJHnkYcaJP_z8XfC_xuM_QPD9bef1M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lc3Rh/dGljb3MtY2RuLnBy/ZW5zYWliZXJpY2Eu/ZXMvY2xpcC85ZGVl/NDI1NS05NzFmLTQz/YTQtYTQ5ZC00MGMy/ZTdlMTM2MjNfMTYt/OS1kaXNjb3Zlci1h/c3BlY3QtcmF0aW9f/ZGVmYXVsdF8wX3g5/NjB5MzYwLmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "이란 “압박 낮추면 1주일 내 호르무즈 열겠다”…美에 제안",
-    "url": "https://m.sedaily.com/article/20094236",
-    "description": "미국이 군사적 압박을 완화한다는 조건이다. 교착 상태에 빠진 미국과의 종전 협상 불씨를 되살리기 위해서다. 동시에 이란 혁명수비대(IRGC)는 미국에 픽액스산(곡괭이산)에 대한 공격을 자제하라고 경고했다.",
-    "age": "10 hours ago",
-    "page_age": "2026-09-22T11:39:17",
+    "title": "UN General Assembly updates: Trump warns Iran; Qatar, Turkiye slam Israel | United Nations News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates",
+    "description": "First day of UN General Assembly kicks off with speeches from world leaders, including from Brazil, US, Turkiye, Qatar.",
+    "age": "12 hours ago",
+    "page_age": "2026-09-22T12:00:00",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://m.sedaily.com/article/20094236"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "m.sedaily.com",
-      "hostname": "m.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/cVrIZQ9vjmwnYLxNcoKpHQHeB_mFzg89qoRan1C93-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNkYmI3NWZh/YjQwOTM1OTcyOTcx/MjhkMTQ0ZTAyM2Ey/MjU0YmJmMWMyMmQ5/ZGUyMGVhNTZmNzUw/MWY1ZTc4ZC9tLnNl/ZGFpbHkuY29tLw",
-      "path": "› article  › 20094236"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › liveblog  › 2026  › 9  › 22  › un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/hPNdCd74jSOl8lYxiukfPgqfZKsq8AofYFCNFa_dU_w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjIvbmV3/cy1wLnYxLjIwMjYw/OTEwLjY1Y2FiZjhi/MGNlMDRjMTNiYjk5/ZWM3OTM0MzQ1YmZj/X1oxLmpwZw"
+      "src": "https://imgs.search.brave.com/1zwKUGmMIA346r0XptVU6tEzX60mxilTRyIr353Bu5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOS9BUDI2MjY1/NTA1OTY0NjM0LTE3/OTAxMDE0NjkuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
     }
   },
   {
     "type": "news_result",
-    "title": "이란 “미국 7개 조건 수용하면 7일 내 호르무즈 개방”",
-    "url": "https://knewsla.com/main-news1/20260921994995357333",
-    "description": "앞서 모센 레자이 이란 국가안보보좌관은 ▲ 이란의 동결 자산 해제 ▲ 모든 전선에서의 전쟁 종식 ▲ 이란 내정 불간섭 ▲ 이란 영토에 대한 공격 중단 ▲ 미국의 해상 봉쇄 해제 등 5가지 조건을 공개적으로 언급했었다.",
+    "title": "Marco Rubio on Iran War, Soaring Gas Prices, AI, Media Ban, More",
+    "url": "https://www.today.com/video/marco-rubio-on-iran-war-soaring-gas-prices-ai-media-ban-more-270276677690",
+    "description": "Secretary of State Marco Rubio joins TODAY to discuss President Donald Trump being open to meet with Iran’s president, the cost of the war on Americans, when prices may go down and when the conflict is expected to end. Sec. Rubio also explains why there needs to be guardrails around AI saying, ...",
     "age": "13 hours ago",
-    "page_age": "2026-09-22T09:00:11",
+    "page_age": "2026-09-22T11:34:45",
     "profile": {
-      "name": "KNEWSLA",
-      "url": "https://knewsla.com/main-news1/20260921994995357333"
+      "name": "TODAY.com",
+      "url": "https://www.today.com/video/marco-rubio-on-iran-war-soaring-gas-prices-ai-media-ban-more-270276677690"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "knewsla.com",
-      "hostname": "knewsla.com",
-      "favicon": "https://imgs.search.brave.com/0EfWT-E_XGzj9MtpngkN40tlXsIdg99Ob6ZabPvISyY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQwOTU3M2U3/MjNmNjhhZmVhZmY1/ZTY5MjQ2N2EzMjIy/ZTEyMjRhZDUwNmEy/YjUwYmYyNDYyY2Ux/ZmQ2N2NkMi9rbmV3/c2xhLmNvbS8",
-      "path": "› main-news1  › 20260921994995357333"
+      "netloc": "today.com",
+      "hostname": "www.today.com",
+      "favicon": "https://imgs.search.brave.com/8IP1z9rq6hQCVgqTu3FvcRh-H7knhDWVbEeasncQp3s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTI3MDdlNDkz/ODk2MzA3ZWVmOGNk/MTRkNDk0YzBkN2Uw/OTkyNTU2MjRkZjQ2/ZmI1YWM5YjA4NGYx/YjgzMDE1NS93d3cu/dG9kYXkuY29tLw",
+      "path": "› video  › marco-rubio-on-iran-war-soaring-gas-prices-ai-media-ban-more-270276677690"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/bwrflNeeKoyx1l6WQ1FnIpF9KMJbkSLmFPQG5VZ2rWc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rbmV3/c2xhLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNi8wOC9O/SVNJMjAyNjA4MTlf/MDAwMjIxNTMwOV93/ZWIuanBn"
+      "src": "https://imgs.search.brave.com/cZrTMKHAsDQ52wjsn1cUsxpr3n4TIosywYyu-uTjqyY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9zb2NpYWxfc2hh/cmVfMTIwMHg2MzBf/Y2VudGVyLGZfYXV0/byxxX2F1dG86YmVz/dC9tcHgvMjcwNDcy/MjIxOS8yMDI2XzA5/LzE3OTAwNzY4NzY3/NzBfdGR5X25ld3Nf/N2FfY21fbWFyY29f/cnViaW9fMjYwOTIy/X1MzXzE5MjB4MTA4/MC1nMTlqczcuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "미국은 이란을 때리는데 왜 중국이 등장할까…호르무즈에서 겹친 미·중 이해관계 - 인터내셔널",
-    "url": "https://dspdaily.com/news/view.php?no=27596",
-    "description": "최근 아랍권 일부 정치·외교 논객들이 미국과 이란의 충돌을 미·중 경쟁까지 끌어와 해석하는 배경도 여기에 있다. 이들은 미국이 이란을 압박하는 문제를 핵이나 제재, 이스라엘 안보만으로 봐서는 안 된다고 주장한다.",
-    "age": "17 hours ago",
-    "page_age": "2026-09-22T05:25:50",
+    "title": "U.N. Live Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions - The New York Times",
+    "url": "https://nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+    "description": "As President Trump spoke of a stark ... Iran and annihilating it on Tuesday, other world leaders at the United Nations General Assembly warned of the dangers posed by division and unilateral action, underscoring the deep divide between the visions of the president and his counterparts around the globe. Mr. Trump used his address near the start of the day to defend the war he launched alongside Israel in February, ...",
+    "age": "13 hours ago",
+    "page_age": "2026-09-22T11:18:13",
     "profile": {
-      "name": "Dspdaily",
-      "url": "https://dspdaily.com/news/view.php?no=27596"
+      "name": "NYTimes",
+      "url": "https://nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "dspdaily.com",
-      "hostname": "dspdaily.com",
-      "favicon": "https://imgs.search.brave.com/emC7U9uWkMtum6Sx51qX7o2L8cMgubzuI_AXWeg4guE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTZiNDZmZmQw/YzQxYTM1NmMwYTE4/OTU2MGY3YTE1YmE1/MDkxMGNmMWI5ODQ1/ZTdhZTQxMDA5Yjli/OTViN2YzMC9kc3Bk/YWlseS5jb20v",
-      "path": "› news  › view.php"
+      "netloc": "nytimes.com",
+      "hostname": "nytimes.com",
+      "favicon": "https://imgs.search.brave.com/RN_hisZu4P-ruAdWPR9uvaiS7YyW2d23CPtP4_gduCA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTRlZDNhZjVm/ZDNmYzA0NDdjYjYx/NjY5YWQ5ZDFiYmE1/ZTE5NjE5ZjBiYmRl/NTdkZGFiZDQ0M2Y5/NGNkZjA3Yi9ueXRp/bWVzLmNvbS8",
+      "path": "› live  › 2026  › 09  › 22  › world  › un-general-assembly-trump-speech-news"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/HyHXD9TrwrAzOl5G1Jccqi2rYNyBKi2gLKEz3ifqBmw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kc3Bk/YWlseS5jb20vZGF0/YS9uZXdzLzIwMjYw/OS9uZXdzXzE3OTAw/NTQ3NzQuMS5qcGc"
+      "src": "https://imgs.search.brave.com/UluZNxlX5yXItlMPQheVLytqDJGWtM6gVkPseIAxCsM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzA5LzIyL211bHRp/bWVkaWEvMjJ1bmdh/LWxpdmUtcHJvbW83/cC8yMnVuZ2EtbGl2/ZTg1LWJ0emgtZmFj/ZWJvb2tKdW1iby5q/cGc"
     }
   },
   {
     "type": "news_result",
-    "title": "유엔총회 찾은 이란 외무 \"美·이스라엘 공격, 국민 피해 알릴 것\" - 뉴스1",
-    "url": "https://www.news1.kr/world/middleeast-africa/6298874",
-    "description": "\"전쟁 아직 안 끝나…이란 국민의 권리·이익 방어\" 유엔총회 참석을 위해 미국 뉴욕을 방문 중인 아바스 아라그치 이란 외무장관이 이번 총회 참석의 최우선 과제는 미·이스라엘의 공격 이후 이란 국민의 권리와 이익을 …",
-    "age": "17 hours ago",
-    "page_age": "2026-09-22T04:48:17",
+    "title": "Middle East takes center stage at UN as regional leaders confront Iran war, Gaza and Houthi threat",
+    "url": "https://www.foxnews.com/world/middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat",
+    "description": "UNITED NATIONS — The Middle East will take center stage when world leaders open the U.N. General Assembly's annual debate Tuesday, with some of Washington's most important regional partners arriving in New York facing a question: What will the region look like after months of war with Iran, ...",
+    "age": "13 hours ago",
+    "page_age": "2026-09-22T11:00:52",
     "profile": {
-      "name": "News1",
-      "url": "https://www.news1.kr/world/middleeast-africa/6298874"
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/world/middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news1.kr",
-      "hostname": "www.news1.kr",
-      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
-      "path": "› world  › middleeast-africa  › 6298874"
+      "netloc": "foxnews.com",
+      "hostname": "www.foxnews.com",
+      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
+      "path": "› world  › middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/-ny-k1GNIp5zFMzpiBiROJ6_dZmElFWzbj_ys2BxSTE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzkvMjIvODEy/MTAyMS9oaWdoLmpw/Zw"
+      "src": "https://imgs.search.brave.com/7W0bX-aw1QJsNcZGprQPMLEznNPXlfbJDJaigK-wWVQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm94bmV3cy5j/b20vZm94bmV3cy5j/b20vY29udGVudC91/cGxvYWRzLzIwMjUv/MDkvdW5pdGVkLW5h/dGlvbnMtZ2EtMDA5/LmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "이란, 유엔총회 앞두고 미국에 경고장…\"재침략 시 전쟁 지형 바꿀 것\"",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765781",
-    "description": "▲ 호세인 모헤비 이란 혁명수비대 대변인 미국, 이스라엘 등 중동 전쟁 당사국 정상들이 뉴욕 유엔총회에 모이는 와중에 이란에서는 강경론을 주도하는 혁명수비대가 미국을 겨냥해 \"재침략 시 전쟁의 지형을 바꾸겠다\"고 ...",
+    "title": "Live updates: Trump defends Iran war, discusses Gaza conflict in U.N. General Assembly address",
+    "url": "https://nbcnews.com/politics/trump-administration/live-blog/trump-un-speech-iran-gaza-ukraine-congress-2026-election-live-updates-rcna599086",
+    "description": "Trump also emphasized Iran’s support for Hamas, which carried out the Oct. 7, 2023 attacks on Israel, calling the militant group “terrorists funded by Iran\" who \"tortured, mutilated, and killed 1,200 very innocent civilians, including dozens of Americans.”",
+    "age": "13 hours ago",
+    "page_age": "2026-09-22T11:00:29",
+    "profile": {
+      "name": "NBC News",
+      "url": "https://nbcnews.com/politics/trump-administration/live-blog/trump-un-speech-iran-gaza-ukraine-congress-2026-election-live-updates-rcna599086"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "nbcnews.com",
+      "hostname": "nbcnews.com",
+      "favicon": "https://imgs.search.brave.com/c-qJEfDE5SWYdkJsDEjPE-fA5Sn3LPyJQoH6T9wOa68/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjBhZTk3NWQ3/NjU0ZmJmNTY3ZjRl/Mzk2YzAzMDUwNmM0/Njk0ZmRiZDRhOTUx/MzBmZDMwYzQ2YmQ3/NDZhZTkyMi9uYmNu/ZXdzLmNvbS8",
+      "path": "› politics  › trump-administration  › live-blog  › trump-un-speech-iran-gaza-ukraine-congress-2026-election-live-updates-rcna599086"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/k4A9EEXNqjiPjfxEArZenCeWsNvRzWfYlqOzbESEkXM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMDkvMjYw/OTIxLVRydW1wLWFh/LTUzNy01Yjk1ZTYu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Israel Can’t Postpone Its Reckoning Forever - The Atlantic",
+    "url": "https://theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649",
+    "description": "The dominant view outside Israel is that the country’s problems are just the opposite: The issues that matter include the hard rain of Iranian missiles, and the tattered umbrella of interceptors that provides shelter; the failure to destroy Hamas; and, finally, Israel’s pariah status.",
+    "age": "13 hours ago",
+    "page_age": "2026-09-22T11:00:00",
+    "profile": {
+      "name": "The Atlantic",
+      "url": "https://theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "theatlantic.com",
+      "hostname": "theatlantic.com",
+      "favicon": "https://imgs.search.brave.com/K_TBnXrqRHaWONWUAU8W_bs38mterN80lFiW9srzTC0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWMyYzFkNTU3/ODdiYWUzY2MyMjI0/YTI1MzIyMzI4YTc1/NTczNDQxZTk4ZDI5/Y2NiNTJmYjM0ZTBh/OGI0ZTk1NS90aGVh/dGxhbnRpYy5jb20v",
+      "path": "› ideas  › 2026  › 09  › israel-secular-religious-divide  › 688649"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/N7kOlQ-PwQ0kF_eBf20ukIJRPPXn1dFAupv6YFD0LD8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dGhlYXRsYW50aWMu/Y29tL3RodW1ib3Iv/aHJIZUpUcjRpbkZS/czBqQ3pHcU5SM2Rv/Y213PS8weDg1OjM5/OTR4MjE2NS8xMjAw/eDYyNS9tZWRpYS9p/bWcvbXQvMjAyNi8w/OS8yMDI2XzA5XzIy/X0ZlYXR1cmVfVGhl/X0Z1dHVyZV9vZl9J/c3JhZWxfR3JhZW1l/X1dvb2Qvb3JpZ2lu/YWwuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump says Iran deal nearing after UN talks as Tehran sets conditions to reopen Strait of Hormuz | Live Updates from Fox News Digital",
+    "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26",
+    "description": "U.S. Central Command (CENTCOM) ... of Iranian ports during Operation Epic Fury. British Prime Minister Andy Burnham announced Monday that the U.K. will provide military support to Saudi Arabia amid escalating attacks from the Houthis in Yemen. The U.S. Department of State warned New York ...",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T10:39:04",
+    "profile": {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "foxnews.com",
+      "hostname": "www.foxnews.com",
+      "favicon": "https://imgs.search.brave.com/8Y6YYaSHf4PweCQwcB2IRvUWPCEsdNoek5FtyWqRRW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGIyN2Q2NTE4/NGRmOTVmZGNmMzEy/OWJjY2MwNzkzYzg0/YWNhOGFmY2UxYTQ1/NmZiM2JkYzcxMjFh/MDFmNDBkYy93d3cu/Zm94bmV3cy5jb20v",
+      "path": "› live-news  › iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/TNM0Ayk8KEe70eL63FMhkilH55nK_TP-tKd7p-uf5Ks/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZm94bmV3cy5j/b20vbGl2ZWJsb2cv/Zm4vcHJvZC9pbWFn/ZXMvMjAyNi8wOS9l/OWY4NzhmMTBlMWNl/Zjc0YjJmMzgwZjUz/OWJiOWFiOS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump says Iran deal nearing after UN talks as Tehran sets conditions to reopen Strait of Hormuz | Live Updates from Fox News Digital",
+    "url": "https://foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26",
+    "description": "The U.S. Department of State warned New York businesses that Iranian officials attending the U.N. General Assembly are barred from buying luxury items or obtaining wholesale club memberships. Israel’s ambassador to the United Nations, Danny Danon, rebuked Turkish President Recep Tayyip Erdoğan ...",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T10:39:04",
+    "profile": {
+      "name": "Fox News",
+      "url": "https://foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "foxnews.com",
+      "hostname": "foxnews.com",
+      "favicon": "https://imgs.search.brave.com/L5S4HF5IHGkXnz-xITTc5Xn96sU733ZOFnQUHZwiPjQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTEwOWY3Zjhk/MmQ3ZmJjOWZhYWYz/NDIyNjVjMmE3YzVm/ZmEzYzY3Zjk4NjVl/Yzg0ZWUxNzYzYjdj/MGFhMmYxOS9mb3hu/ZXdzLmNvbS8",
+      "path": "› live-news  › iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/TNM0Ayk8KEe70eL63FMhkilH55nK_TP-tKd7p-uf5Ks/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZm94bmV3cy5j/b20vbGl2ZWJsb2cv/Zm4vcHJvZC9pbWFn/ZXMvMjAyNi8wOS9l/OWY4NzhmMTBlMWNl/Zjc0YjJmMzgwZjUz/OWJiOWFiOS5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Israel given too much freedom, Iran's Araghchi claims on arrival to NY for UNGA | The Jerusalem Post",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-909255",
+    "description": "According to Araghchi, Iran's primary goal during UNGA is to \"defend the legitimacy, rights and interests of the Iranian people.\"",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T10:18:03",
+    "profile": {
+      "name": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-909255"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "jpost.com",
+      "hostname": "www.jpost.com",
+      "favicon": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw",
+      "path": "› middle-east  › iran-news  › article-909255"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/jLmSW4cEcc-ufj11JhXrHzDzRF49omMh4ZEfEZCesAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzM4NjQ0"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "In U.N. speech, Trump threatens to \"annihilate\" Iran and defends handling of global conflicts - CBS News",
+    "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/",
+    "description": "President Trump said he could \"annihilate\" Iran while predicting that Tehran would make a deal to end the war after the U.S. midterm elections.",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T10:00:00",
+    "profile": {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cbsnews.com",
+      "hostname": "www.cbsnews.com",
+      "favicon": "https://imgs.search.brave.com/WMJ84WFf8h1hcjjVVUUmzl0nnJIhOkOa5cdJGjXcdWk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUwNTNjY2I0/ZTJkMTA1NjkzNzQ3/Mzg4OGQ4ZDNmZjg0/YTFmYzhhZjBkMTU2/N2ZkNDA4MmZjZTM4/YTI3MTllMS93d3cu/Y2JzbmV3cy5jb20v",
+      "path": "› news  › trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/ShYwVnPmRHlelNncsvATp3proB-21Al0V6Dib6wGF2Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMyLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8w/OS8yMi8xNzkzZjhm/Ni00MDIxLTQ4N2It/YWQ1Ny1mMGJiYzc5/NGVjMzIvdGh1bWJu/YWlsLzEyMDB4NjMw/ZzIvMjUyMjc2ODk3/YjQ2Y2I2NTNmODQx/OTJkNDc5ZjU1ZTEv/YXAyNjI2NTUyNDM3/NDk5Ny5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "UNGA 2026 live: Trump says he faces a decision on Iran to make a deal or ‘annihilate’ the country | CNN",
+    "url": "https://cnn.com/2026/09/22/world/live-news/un-general-assembly-trump",
+    "description": "He said the decision was taken ... for Israelis and Palestinians.” · Asked whether he had met with US President Donald Trump at the UN General Assembly yet, Carney said he hadn’t. “I find that when you have 160 leaders come to New York, it’s most valuable to meet those who you don’t normally see,” Carney said. ... Link Copied! ... Iran's Foreign ...",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T09:59:27",
+    "profile": {
+      "name": "CNN",
+      "url": "https://cnn.com/2026/09/22/world/live-news/un-general-assembly-trump"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "cnn.com",
+      "hostname": "cnn.com",
+      "favicon": "https://imgs.search.brave.com/AaaswLrRnQ_SvPuKsYddH7GMONyJXC4FA6WPngvvZ9k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWE1MThkOTBj/NGQ0OTZhODQ4Y2E2/YTdjZTM4MzYzNDgy/Mzk2OTAwYmRlYTI4/YWFhNjg0ZjNlNTcw/Mzc3OTUyOC9jbm4u/Y29tLw",
+      "path": "› 2026  › 09  › 22  › world  › live-news  › un-general-assembly-trump"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/B_lnMB7cwYNCacdrHG3dyDny5Klr3Cy442Yhe8URJo8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/L2dldHR5aW1hZ2Vz/LTIyOTY1NTk4MjUu/anBnP2M9MTZ4OSZx/PXdfODAwLGNfZmls/bA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Retreat; The only option facing US to exit from Iran war? - Mehr News Agency",
+    "url": "https://en.mehrnews.com/news/247972/Retreat-The-only-option-facing-US-to-exit-from-Iran-war",
+    "description": "TEHRAN, Sep. 22 (MNA) –The war that US expected to resolve by leveraging its military superiority has now entered a phase where main issue for the United States is not merely continuation of military operation, rather how to bring conflict to an end.",
+    "age": "14 hours ago",
+    "page_age": "2026-09-22T09:57:47",
+    "profile": {
+      "name": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247972/Retreat-The-only-option-facing-US-to-exit-from-Iran-war"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "en.mehrnews.com",
+      "hostname": "en.mehrnews.com",
+      "favicon": "https://imgs.search.brave.com/r7PnGeqbo_xKb2G2zeXOR-2XtczMRQDqPG9S1lO_HHY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdmNjk3ZmE1/OGJkMWJlNDMxZDFk/YWM0M2JjY2NiMGQ3/NDExMTdiNmEyYzAy/ODUxYjY4MTM4MTMy/ZmMzZDJhZC9lbi5t/ZWhybmV3cy5jb20v",
+      "path": "› news  › 247972  › Retreat-The-only-option-facing-US-to-exit-from-Iran-war"
+    },
+    "thumbnail": {
+      "src": ""
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Live: Trump says choosing to make a deal or 'annihilate' Iran | Middle East Eye",
+    "url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise",
+    "description": "The Trump administration has imposed ... for Israeli Prime Minister Benjamin Netanyahu. US President Donald Trump addresses the 81st United Nations General Assembly at the United Nations Headquarters in New York, on 22 September 2026 (Timothy A. Clary/AFP) Trump interested in meeting Iranian officials ...",
+    "age": "16 hours ago",
+    "page_age": "2026-09-22T08:28:43",
+    "profile": {
+      "name": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/live/iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "middleeasteye.net",
+      "hostname": "www.middleeasteye.net",
+      "favicon": "https://imgs.search.brave.com/yg1xTejkTfyFF_wq3UyRFNWDMKFh3nWBZCFTAqWBTK8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNiZTA5NmVi/ODRmMjk3ZDI3Njll/MzI5ZjlkZDhiYmRh/MzVjYTgyMDEzZDdk/MTIwOGUzZWFlNWM3/OWUyNmJkOC93d3cu/bWlkZGxlZWFzdGV5/ZS5uZXQv",
+      "path": "› live  › iran-war-live-tehran-denounces-us-israel-attacks-regional-tensions-rise"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/92fFZ44VmXdTmQkxiQ_mJyGVWTzV63aiT7uoTxF0f0Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWlkZGxlZWFzdGV5/ZS5uZXQvc2l0ZXMv/ZGVmYXVsdC9maWxl/cy8yMDI2LTA5LzAw/MF9DOFpaOFVWLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "Trump deciding whether to 'annihilate' Iran; Yemen war rages",
+    "url": "https://www.newarab.com/news/iran-insists-israel-us-must-withdraw-war-yemen-rages",
+    "description": "Bloomberg reported, citing several ... with Iran, during a meeting scheduled for Tuesday on the sidelines of the United Nations General Assembly in New York. According to the sources, who requested anonymity due to the sensitivity of the issue, officials from the Gulf Cooperation Council countries, which includes six countries including Saudi Arabia, the UAE, and Qatar, coordinated their positions prior to the meeting with Trump. The GCC countries are seeking to end the US-Israeli war on Iran, ...",
     "age": "18 hours ago",
-    "page_age": "2026-09-22T04:08:18",
+    "page_age": "2026-09-22T06:37:33",
     "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765781"
+      "name": "New Arab",
+      "url": "https://www.newarab.com/news/iran-insists-israel-us-must-withdraw-war-yemen-rages"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
+      "netloc": "newarab.com",
+      "hostname": "www.newarab.com",
+      "favicon": "https://imgs.search.brave.com/EdZ5N3mxO1zyTC2TWxtNjpmAhScSLbHuHk84fCEsbpY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzM0ODYxMDll/YmExOTJjYjlhM2Fm/OGEwNGUzM2U0ZjIx/MzEzYzBiYzdjY2Qx/YmU0MDc5MDUzMWEy/ZDZhZGIzNi93d3cu/bmV3YXJhYi5jb20v",
+      "path": "› news  › iran-insists-israel-us-must-withdraw-war-yemen-rages"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/eCiqVxwpyyMRbV_5z8iOsRAkCSDtqLN970LLOBTCXbo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYwOTEwLzIwMjIy/MDgzNV8xMjgwLmpw/Zw"
+      "src": "https://imgs.search.brave.com/LHK4ftoBcSLkv6vMI1dwKRb09lyY4btyV0qLejieptE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3YXJhYi5jb20v/c2l0ZXMvZGVmYXVs/dC9maWxlcy9zdHls/ZXMvbmV3X2FyYWJf/b3ZlcmxheV9tZWRp/dW1fMTZfOS9wdWJs/aWMvMjI5NTk4ODgw/Ni5qcGVnP2l0b2s9/aU9tY3VPNWk"
     }
   },
   {
     "type": "news_result",
-    "title": "“중동 추가전쟁 불가” vs “동맹 배신 안돼”…후티 공격 두고 미군도 분열",
-    "url": "https://www.donga.com/news/Inter/article/all/20260922/134718160/1",
-    "description": "도널드 트럼프 미국 대통령이 예멘 친(親)이란 무장 세력 후티를 직접 공격 여부를 고심 중인 가운데, 미군 지휘부도 참전을 두고 격론을 벌이고 있는 것으로 알려졌다.NBC는 21일(현지 시간) 미국 당국자 2명을 인용해 ...",
-    "age": "18 hours ago",
-    "page_age": "2026-09-22T03:44:46",
+    "title": "앱 닫아도 알아서 일한다…챗GPT 제친 메타 '뮤즈'의 비결 :: 공감언론 뉴시스 ::",
+    "url": "https://newsis.com/view/NISX20260922_0003799972",
+    "description": "[서울=뉴시스]오동현 기자 = 이메일을 보내고 여행을 예약한다. 필요한 물건을 찾아 결제하고, 이용자가 앱을 닫아도 맡은 일을 계속한다.메타가 출시한 개인용 인공지능(AI) 에이전트 '뮤즈(Muse)'가 기존 생성형 AI와 다른 점이다.",
+    "age": "20 hours ago",
+    "page_age": "2026-09-22T04:26:24",
     "profile": {
-      "name": "The DONG-A ILBO",
-      "url": "https://www.donga.com/news/Inter/article/all/20260922/134718160/1"
+      "name": "Newsis",
+      "url": "https://newsis.com/view/NISX20260922_0003799972"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "donga.com",
-      "hostname": "www.donga.com",
-      "favicon": "https://imgs.search.brave.com/z1PmHrOm5K4NyCHEI_5MiNdTSCR64jdLsxhN0Hjm5eA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDkwZTU0Yzkz/ZTJjZDkxYTg4OGE4/M2Y2MmVkNzNkNjJl/MzM0YWVmYzlmYTEy/MTEzNzgwMzk5OTJh/MjliMjMzZC93d3cu/ZG9uZ2EuY29tLw",
-      "path": "› news  › Inter  › article  › all  › 20260922  › 134718160  › 1"
+      "netloc": "newsis.com",
+      "hostname": "newsis.com",
+      "favicon": "https://imgs.search.brave.com/nCI2ro80zyuqD8Mlmf9-s5tP73J7ENbSiWN9OqlHpD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjgxNzZjM2Rm/MWE5NjRiNTRlOGRi/OTE4ZDljNzUxOTU0/ZTBmNzQyYjQyZDIw/NjFjMzVlMTVmNjg4/YWFhNGEzZi9uZXdz/aXMuY29tLw",
+      "path": "› view  › NISX20260922_0003799972"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/cJLQJD94eBWr970kVWljqAx68Bql35y4CwnRPn51p1Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1n/LmRvbmdhLmNvbS93/cHMvTkVXUy9JTUFH/RS8yMDI2LzA5LzIy/LzEzNDcxODE2MS4x/LmpwZw"
+      "src": "https://imgs.search.brave.com/faI4tcjXRiZQiB8oGrusenh4lirHAw0rnrIxc45vlcA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcx/Lm5ld3Npcy5jb20v/MjAyNi8wNi8xOS9O/SVNJMjAyNjA2MTlf/MDAwMTM1MTk5NF93/ZWIuanBn"
     }
   },
   {
     "type": "news_result",
-    "title": "영국은 키프로스에서 후티 반군과 싸우는 살만 왕세자를 공중 급?? 기로 지원?? 예? ?입니다 - Pravda 한국",
-    "url": "https://korea.news-pravda.com/dprk/2026/09/22/75344.html",
-    "description": "한편, 미국과 이란 간의 갈등으로 호르무즈 해협의 해상 운송이 심각하게 차질을 빚으면서 사우디아라비아는 홍해를 통한 수출 경로에 더욱 의존하게 되었습니다. 사우디아라비아의 경제 생명줄이 여러 방면에서 압박을 받고 있다. 동부 유전과 홍해 연안의 얀부 항구를 연결하는 동서 송유관이 공격 ...",
-    "age": "18 hours ago",
-    "page_age": "2026-09-22T03:42:20",
+    "title": "Trump defends war against Iran in speech at United Nations | AP News",
+    "url": "https://apnews.com/article/trump-united-nations-unga-iran-ai-f7cb0b3ebc492446c0be97ed3a6843aa",
+    "description": "President Donald Trump says U.S. and Iranian officials met Tuesday, shortly after threatening in his address to the U.N.",
+    "age": "20 hours ago",
+    "page_age": "2026-09-22T04:03:59",
     "profile": {
-      "name": "News-pravda",
-      "url": "https://korea.news-pravda.com/dprk/2026/09/22/75344.html"
+      "name": "AP News",
+      "url": "https://apnews.com/article/trump-united-nations-unga-iran-ai-f7cb0b3ebc492446c0be97ed3a6843aa"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "korea.news-pravda.com",
-      "hostname": "korea.news-pravda.com",
-      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
-      "path": "› dprk  › 2026  › 09  › 22  › 75344.html"
+      "netloc": "apnews.com",
+      "hostname": "apnews.com",
+      "favicon": "https://imgs.search.brave.com/-_32qKbk4nzvzQ3RP6w9el0V0iswWgQP6EG3HIKvQ2s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOGE2ODEz/ZDcxYzRjZDBjMzMw/OTZiMWM3ZDUwNjJk/ZTMyZDY3N2U5NTg4/ZDZhNDk3NzFiZjdh/OGQ0YTFmNi9hcG5l/d3MuY29tLw",
+      "path": "› article  › trump-united-nations-unga-iran-ai-f7cb0b3ebc492446c0be97ed3a6843aa"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/1K7wJ4En_MCYo50hJeLpK0X5el5mGntHxlpP_QKs_js/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYwOTIyLzlhMTRh/ZjM1ODM1M2M3MDVj/OGZiMGY5Y2I2NWQ2/OGFiLmpwZw"
+      "src": "https://imgs.search.brave.com/idoPXYYd4KIUMAeowTKhmAzapNHxyR029r6RwugI-KI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaW1z/LmFwbmV3cy5jb20v/ZGltczQvZGVmYXVs/dC8wNjllMWFiLzIx/NDc0ODM2NDcvc3Ry/aXAvdHJ1ZS9jcm9w/LzUwMjZ4MzM0OSsw/KzEvcmVzaXplLzk4/MHg2NTMhL3F1YWxp/dHkvOTAvP3VybD1o/dHRwcyUzQSUyRiUy/RmFzc2V0cy5hcG5l/d3MuY29tJTJGN2Ul/MkY4NyUyRmI4ZGMz/NTBlNGIyZTk0ZmU3/ZTkyNzlkNDExZWYl/MkZlYTliZjFjNzU0/MzU0Yzg5ODVlOGFi/MDFiMjA2NjMwNw"
     }
   },
   {
     "type": "news_result",
-    "title": "이란 혁명수비대 \"美 재침략시 전쟁 지형 바꿀 것…신형 무기 투입\" < 국제일반 < 글로벌 < 기사본문 - 신아일보",
-    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065109",
-    "description": "유엔총회 참석을 위해 세계 각국 정상들이 뉴욕에 집결한 가운데 이란 혁명수비대가 미국의 추가 공격 가능성에 맞서 신형 무기 투입을 경고했다.21일(현지시간) AP",
-    "age": "19 hours ago",
-    "page_age": "2026-09-22T03:19:49",
-    "profile": {
-      "name": "Shinailbo",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065109"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "shinailbo.co.kr",
-      "hostname": "www.shinailbo.co.kr",
-      "favicon": "https://imgs.search.brave.com/ee2Bgok_uxotGXFalwlBmKF0POIhPVuA-siXmfUko5Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjEwNjk0MTNi/OWEwOTk3NzYzYzg3/ZDViMTVlMzU5YmMx/M2NjNzJkZDIxMDVj/ZmZmMWJhYTUzM2E3/ZmFhZDAzNy93d3cu/c2hpbmFpbGJvLmNv/LmtyLw",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/BrB9E5Dsxq-j-nOXlu1IQLpN_C372srbgMUFGNtImQo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2hpbmFpbGJvLmNv/LmtyL25ld3MvcGhv/dG8vMjAyNjA5LzUw/NjUxMDlfMjA2Mjkz/NV8xNzQ0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[아시아라운드업 20260922] 미국 신뢰 깨진 걸프국가들, 새 안보질서 모색 - 아시아엔 THE AsiaN",
-    "url": "https://kor.theasian.asia/archives/416240",
-    "description": "아랍에미리트(UAE)·카타... 이란을 배제하기보다 대화와 상호불가침에 기반한 새 지역 안보체제에 끌어들이려는 움직임을 보이고 있다는 것. – FT에 따르면 카타르의 셰이크 무함마드 빈 압둘라흐만 알사니 총리는 이날 뉴욕 유엔 총회 기간에 열린 한 행사에서 지난 2월 미국과 이스라엘이 시작한 ...",
-    "age": "19 hours ago",
-    "page_age": "2026-09-22T02:45:41",
-    "profile": {
-      "name": "Theasian",
-      "url": "https://kor.theasian.asia/archives/416240"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kor.theasian.asia",
-      "hostname": "kor.theasian.asia",
-      "favicon": "https://imgs.search.brave.com/DCdyNOrwXcpwO_64ujYZNbIffGOSOLtw0ZAyzitmFEg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzMxYjQ4Njgw/ZDVmN2EyNmFiNjM3/OTUyZTM1NzRiNmY4/MGViOTY1NzU0NGFm/YmQ0ZTU2YTIwMTk1/MDY4M2QwMy9rb3Iu/dGhlYXNpYW4uYXNp/YS8",
-      "path": "› archives  › 416240"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/IZSduUUvHFnclFqCQFSBOeDjPrXVrIeFbzcuZuWTlBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Iu/dGhlYXNpYW4uYXNp/YS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8xMi9NTjIwMjVf/V2ludGVyX1NwZWNp/YWwtUmVwb3J0LTFf/SGFiaWItVG91bWlf/My1zY2FsZWQuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "“A매치 57골” 아즈문, 논란 4개월 만에 이란 대표팀 복귀 | 조수지 기자 | 톱스타뉴스",
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16206436",
-    "description": "A매치 91경기 57골 공격수, 2026 북중미 월드컵·3월 A매치 제외 후 10월 친선경기 소집. (사진=연합뉴스) (톱스타뉴스 조수지 기자) 내년 1월 사우디아라비아에서 개막하는 2027 아시아축구연맹(AFC) 아시안컵을 준비하는 과정에서 이란 ...",
+    "title": "US-Israel-Iran War Latest Live News: Trump’s Board of Peace Restates Gaza Goals as UNGA Begins; Saudi-Led Coalition Strikes Houthi Sites in Taiz",
+    "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-trumps-board-of-peace-restates-gaza-goals-as-unga-begins-saudi-led-coalition-strikes-houthi-sites-in-taiz-290047/",
+    "description": "Gaza diplomacy, Yemen fighting and rising oil prices dominate Middle East headlines as leaders gather for UNGA and watch possible US-Iran talks.",
     "age": "1 day ago",
-    "page_age": "2026-09-22T01:06:03",
+    "page_age": "2026-09-22T03:03:43",
     "profile": {
-      "name": "Top Star News",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16206436"
+      "name": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-news-trumps-board-of-peace-restates-gaza-goals-as-unga-begins-saudi-led-coalition-strikes-houthi-sites-in-taiz-290047/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "topstarnews.net",
-      "hostname": "www.topstarnews.net",
-      "favicon": "https://imgs.search.brave.com/uH1piFrCa3lbDIzK5d3uKEzViuvzWtbqgfdg0FjbckA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI0ZmY3MWE3/ZGQ0Nzg1MzY1ZjM5/ZGIzNTlkYjg5OTU4/ZDEyODc2ZDY1YjAy/NjYzMDNkZjk5YjA4/ZmU2NDU0ZC93d3cu/dG9wc3Rhcm5ld3Mu/bmV0Lw",
-      "path": "› news  › articleView.html"
+      "netloc": "sundayguardianlive.com",
+      "hostname": "sundayguardianlive.com",
+      "favicon": "https://imgs.search.brave.com/dmYpr0uW3Tg_IWrhQJ_W3kE1tx4DDy8Q6gEHY4fr1H8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzBhODZmZjI2/N2E4ZGNlNjMxNTJh/MjJhODU2ZTFjZWU4/NmEzMTJmZjc4OWMx/NDA1YmE5OTkxYWRm/MWJkMzUxMy9zdW5k/YXlndWFyZGlhbmxp/dmUuY29tLw",
+      "path": "› world  › us-israel-iran-war-latest-live-news-trumps-board-of-peace-restates-gaza-goals-as-unga-begins-saudi-led-coalition-strikes-houthi-sites-in-taiz-290047"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/lfAY4L6hX-_9aVy0AqY6mKNo7IVHZdoiAHXFCdjhsrw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/dG9wc3Rhcm5ld3Mu/bmV0L25ld3MvcGhv/dG8vMjAyNjA5LzE2/MjA2NDM2XzIwMzMy/MzVfNTU0X2Nyb3Au/anBn"
+      "src": "https://imgs.search.brave.com/IAxPCILGMh0TzZjAub7rEJ6R09vXnxwX3-UDCoD7erM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdW5k/YXlndWFyZGlhbmxp/dmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA5L3Vz/LWlzcmFlbC1pcmFu/LXdhci1uZXdzLXRy/dW1wLXdhcm5zLWly/YW5fNC5wbmc"
     }
   },
   {
     "type": "news_result",
-    "title": "UN 계기 이란 만남 “오픈”, 노림수 없어 뵈는데 [트럼프 스톡커] | 서울경제",
-    "url": "https://www.sedaily.com/article/20093778",
-    "description": "더욱이 이란에는 대통령 위에 아야톨라 세예드 모즈타바 하메네이 최고지도자라는 실질적 국가 통치자가 더 있다. 이슬람혁명수비대(IRGC) 등 실세 노릇을 하는 군부 강경파의 입김도 만만치 않다. 그나마 전쟁 이후 처음으로 양국 정상은 물론 베냐민 네타냐후 이스라엘 ...",
+    "title": "'All Iranian Airlines Will Be Grounded Globally By September 23': US' New Weapon In War",
+    "url": "https://www.ndtv.com/world-news/all-iranian-airlines-will-be-grounded-globally-by-september-23-us-new-weapon-in-war-12078856",
+    "description": "China is one of Iran's top economic partners and diplomatic backers. ... United States Treasury Secretary Scott Bessent has warned that Iranian airlines could be effectively shut out of international operations from this week, as Washington threatens foreign companies with secondary sanctions ...",
     "age": "1 day ago",
-    "page_age": "2026-09-22T00:30:44",
+    "page_age": "2026-09-22T01:54:35",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://www.sedaily.com/article/20093778"
+      "name": "NDTV",
+      "url": "https://www.ndtv.com/world-news/all-iranian-airlines-will-be-grounded-globally-by-september-23-us-new-weapon-in-war-12078856"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "www.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
-      "path": "› article  › 20093778"
+      "netloc": "ndtv.com",
+      "hostname": "www.ndtv.com",
+      "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
+      "path": "› world-news  › all-iranian-airlines-will-be-grounded-globally-by-september-23-us-new-weapon-in-war-12078856"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/OzryhXG68N8u9djPwBLUTOp2pSQMgipY--8G6ee5NRg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjIvbmV3/cy1wLnYxLjIwMjYw/OTIwLmExZTc1NjRi/NjhmMzQxYjliODZm/OWExMzFmYjgxM2Vj/X1oxLmpwZw"
+      "src": "https://imgs.search.brave.com/-UUq-egi5GR1FDWUbRAOLzeyl8Tlafkit98kNt7gI2g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMDkvM2V1YTY3/cWtfdHJ1bXBfNjI1/eDMwMF8yMl9TZXB0/ZW1iZXJfMjYuanBl/Zz9pbT1GZWF0dXJl/Q3JvcCxhbGdvcml0/aG09ZG5uLHdpZHRo/PTE2MDAsaGVpZ2h0/PTkwMA"
     }
   },
   {
     "type": "news_result",
-    "title": "‘두 개의 전쟁’ 이번엔 해법 실마리 찾나…트럼프 ‘뉴욕 외교전’ 개막[글로벌 모닝 브리핑] | 서울경제",
-    "url": "https://www.sedaily.com/article/20093695",
-    "description": "※[글로벌 모닝 브리핑]은 서울경제가 전하는 글로벌 소식을 요약해 드립니다. 유엔 총회 개막을 계기로 도널드 트럼프 미국 대통령이 이란·우크라이나 문제와 미중 관계까지 한꺼번에 풀어내려는 외교전에 나섰습니다.",
+    "title": "Iran Warns US, Israel of ‘Destructive Response’ as Ansarallah Rejects Saudi War - Palestine Chronicle",
+    "url": "https://www.palestinechronicle.com/iran-warns-us-israel-of-destructive-response-as-ansarallah-rejects-saudi-war/",
+    "description": "Iran warned Washington and Israel against renewed attacks, while Ansarallah leader urged countries not to join Saudi Arabia’s campaign.",
     "age": "1 day ago",
-    "page_age": "2026-09-21T21:30:00",
+    "page_age": "2026-09-22T01:00:49",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://www.sedaily.com/article/20093695"
+      "name": "Palestine Chronicle",
+      "url": "https://www.palestinechronicle.com/iran-warns-us-israel-of-destructive-response-as-ansarallah-rejects-saudi-war/"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "www.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
-      "path": "› article  › 20093695"
+      "netloc": "palestinechronicle.com",
+      "hostname": "www.palestinechronicle.com",
+      "favicon": "https://imgs.search.brave.com/UB9csPLI-g61Vc-7B128ERfWmIL3p_njkQPDNP1tf2M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI4MzZkYjUy/Y2IxMDMwNzA5MWM1/YWI5OTFlNmQ1MGM5/MDM3YjVlMjA2MGNl/ZjI4M2RmMmRmYTFm/YjljNjdmNC93d3cu/cGFsZXN0aW5lY2hy/b25pY2xlLmNvbS8",
+      "path": "› iran-warns-us-israel-of-destructive-response-as-ansarallah-rejects-saudi-war"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/93NTt4wx9zpMDD7U5Jx9938ghWI1WCMEGUgPXY0joRE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjEvbmV3/cy1wLnYxLjIwMjYw/OTIxLjljOTk5NWZk/YWE4YzQzZTE5YWRj/NzY3MWI2OTQ0MjQw/X1oxLmpwZw"
+      "src": "https://imgs.search.brave.com/yokUuMO6F9wQKNH4tnaWeDPNEhtl7GP3BgdFtdYFy9Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cGFsZXN0aW5lY2hy/b25pY2xlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8w/Mi9JUkdDX1Nwb2tl/c3BlcnNvbl9WSURF/Ty5wbmc"
     }
   },
   {
     "type": "news_result",
-    "title": "네타냐후 반등시킨 ‘가짜 영상’…AI 선거로 홍역치르는 이스라엘 | 서울경제",
-    "url": "https://www.sedaily.com/article/20093661",
-    "description": "베냐민 네타냐후 이스라엘 총리가 선거에서 승리할 것으로 예상되자 통화 중이던 조란 맘다니 미국 뉴욕 시장과 레제프 타이이프 에르도안 튀르키예 대통령이 낙담하며 전화를 끊는다. 온몸에 깁스를 한 채 병원에 누운 모즈타바 하메네이 이란 ...",
+    "title": "Vulnerable US Republicans seek distance from Trump over Iran war as fuel prices soar - India Today",
+    "url": "https://www.indiatoday.in/world/story/vulnerable-us-republicans-seek-distance-from-trump-over-iran-war-as-fuel-prices-soar-2999928-2026-09-22",
+    "description": "Mike Rogers and Ashley Hinson called for the Iran war to end immediately as fuel costs climbed. Their shift drew Democratic attacks and highlighted wider Republican efforts to distance themselves from Donald Trump.",
     "age": "1 day ago",
-    "page_age": "2026-09-21T21:00:00",
+    "page_age": "2026-09-22T00:18:07",
     "profile": {
-      "name": "Sedaily",
-      "url": "https://www.sedaily.com/article/20093661"
+      "name": "India Today",
+      "url": "https://www.indiatoday.in/world/story/vulnerable-us-republicans-seek-distance-from-trump-over-iran-war-as-fuel-prices-soar-2999928-2026-09-22"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "www.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
-      "path": "› article  › 20093661"
+      "netloc": "indiatoday.in",
+      "hostname": "www.indiatoday.in",
+      "favicon": "https://imgs.search.brave.com/sZANsHCG-N5ablt504AfbzyQKfsNOLAXalFEWsQItyQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFmZGJhOGM3/NWM1NWY1OTA5MWE0/NjhmNDEwYmQ3MjU3/NWY0NDc1ZWFkZGNk/NDIyZDk3OWUwMDUy/NzIxYWNmYi93d3cu/aW5kaWF0b2RheS5p/bi8",
+      "path": "› world  › story  › vulnerable-us-republicans-seek-distance-from-trump-over-iran-war-as-fuel-prices-soar-2999928-2026-09-22"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/nj5PK3QEec7cx9v0nHRMrAGwQ337a-7fsP8LmFB2vsY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMDkvMjEvbmV3/cy1hLnYxLjIwMjYw/OTIxLjI5MmM5N2Vh/YzA5OTQ4NWJhMDYw/YmU1YTllNDEzOTU4/X1QxLnBuZw"
+      "src": "https://imgs.search.brave.com/9sx5cp9vqPatLrI7BIL2yCL_QV_52GBNiP3adLe7AqY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vaW5k/aWF0b2RheS9pbWFn/ZXMvc3RvcnkvMjAy/NjA5L2RvbmFsZC10/cnVtcC0zMDU4MTU0/MjMtMTZ4OS5qcGc_/VmVyc2lvbklkPWtu/R0tqcVlFT1N5ckJU/ZWxnRXJkbXcuOWVT/aDdVS2Fr"
     }
   },
   {
     "type": "news_result",
-    "title": "확전이냐 타협이냐… 기로에 선 이란戰 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202609211812150302",
-    "description": "중동 전쟁이 후티 반군의 사우디아라비아 본토 공격으로 확전 양상을 보이는 가운데 다시 갈림길에 섰다. 무력 충돌이 더욱 확대될 것인지, 아니면 유엔총회를 계기로 정상급 대면 접촉이 이뤄져 극적인 타협의 돌파구가 마련될 것인지 주목된다. 도널드 트럼프 미국 대통령이 이란에 ...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T09:13:00",
+    "title": "Iran war updates: Witkoff, Iran’s FM Araghchi meet in New York | US-Israel war on Iran News | Al Jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region",
+    "description": "These were the updates on the US-Israel war on Iran from Tuesday, September 22, 2026.",
+    "age": "1 day ago",
+    "page_age": "2026-09-22T00:00:00",
     "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202609211812150302"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202609211812150302"
+      "netloc": "aljazeera.com",
+      "hostname": "www.aljazeera.com",
+      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
+      "path": "› news  › liveblog  › 2026  › 9  › 22  › iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[속보] 美 \"이란 내 미국 시민, 즉시 출국하라\"…군사 충돌 긴장 고조",
-    "url": "https://www.pressian.com/pages/articles/2026092108494124774",
-    "description": "도널드 트럼프 미국 대통령이 이란에 대한 '멸망'을 언급하는 등, 이란에 대한 공세를 강화할 것을 시사한 가운데, 미국 정부가 이란 내 자국민에게 즉시 출국할 것을 권고했다는...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T08:49:41",
-    "profile": {
-      "name": "Pressian",
-      "url": "https://www.pressian.com/pages/articles/2026092108494124774"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "pressian.com",
-      "hostname": "www.pressian.com",
-      "favicon": "https://imgs.search.brave.com/we2N9APGejOHji97JZh434J9Qe5E7nDy6NIyDyI_VTY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTZhMzdhODVk/YmQ3NGUyMGI1Yjk3/MmI5OTkxNzgxYmM1/ZDE1ZjNkMTdjOGM3/YzZmZThlZmJjNGI0/ZmI5YWQ5OC93d3cu/cHJlc3NpYW4uY29t/Lw",
-      "path": "› pages  › articles  › 2026092108494124774"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/X8uwsZZz0r90WCf8ek5w5DRgSbj_Eap6-GuSMBladNU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cHJlc3NpYW4uY29t/L19yZXNvdXJjZXMv/MTAvMjAyNi8wOS8y/MS8yMDI2MDkxMTE4/MTA1NTQ3MzMwX2wu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란은 미국이 군사적으로 개입할 경우 공격 범위를 확대하겠다고 위협하고 있다.",
-    "url": "https://vietnam.vn/ko/iran-de-doa-mo-rong-pham-vi-tan-cong-neu-my-can-thiep-quan-su",
-    "description": "이란 혁명수비대(IRGC)는 성명을 통해 미국과 동맹국이 이 지역에 건설 중인 새로운 군사 및 경제 시설들을 공격할 경우 이를 목표로 삼겠다고 강력히 경고했다.",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T08:37:01",
-    "profile": {
-      "name": "Vietnam",
-      "url": "https://vietnam.vn/ko/iran-de-doa-mo-rong-pham-vi-tan-cong-neu-my-can-thiep-quan-su"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "vietnam.vn",
-      "hostname": "vietnam.vn",
-      "favicon": "https://imgs.search.brave.com/APX6iLTmpyTxdBRHnFKgU4CYz6-JmK-5CLuucBsJq2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjM5ZWUyNjIy/YjQ5YmIyYTBjNGQx/NmYyMDcyNDUwNjFj/MzdhNmJlMTdlNTdl/Mjg1NTM2MWNkYmU4/NjExZjQ3YS92aWV0/bmFtLnZuLw",
-      "path": "› ko  › iran-de-doa-mo-rong-pham-vi-tan-cong-neu-my-can-thiep-quan-su"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/eh7hOqZCy9RIGWw4Gx5fpAhuz8U3gqj9u25KI7xKP1w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly92c3Rh/dGljLnZpZXRuYW0u/dm4vdmlldG5hbS9y/ZXNvdXJjZS9JTUFH/RS8yMDI2LzA5LzIx/LzE3ODk5Nzk5NDQ3/NjNfaXJhbi1kZS1k/b2EtbW8tcm9uZy1w/aGFtLXZpLXRhbi1j/b25nLmpwZWc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "JP모건도 “모르겠다”…100달러 유가에 코스피 다시 흔들리나",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/09/21/GZRDSYRSMFTGCYRYGFTDMOJRME/",
-    "description": "이란 전쟁 장기화로 국제 유가 예측이 불가능해진 가운데 고유가가 물가와 금리를 자극하며 국내 증시의 변동성을 키우고 있음. 공급 차질에 따른 가격 상승이 실수요를 기반으로 하고 있어 연말 유가 110달러 도달 가능성까지 ...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T07:35:45",
-    "profile": {
-      "name": "Chosun Daily",
-      "url": "https://www.chosun.com/economy/stock-finance/2026/09/21/GZRDSYRSMFTGCYRYGFTDMOJRME/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "chosun.com",
-      "hostname": "www.chosun.com",
-      "favicon": "https://imgs.search.brave.com/HkZ-R4NmIEeqdvLQNcHlEhE8yV_77UVncFfX2NEKv8U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjI3OWE5MDgy/YjkyMWJhNzU2MTIx/NDI0YjRlNTUyNWNi/ZjI0Zjk0MDI0NGU3/ZTYxNWE4NWNmYmU0/YWVhYzNhMS93d3cu/Y2hvc3VuLmNvbS8",
-      "path": "› economy  › stock-finance  › 2026  › 09  › 21  › GZRDSYRSMFTGCYRYGFTDMOJRME"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/GG1W2k_cqVIeAfO6XN1K-vaEMCtrMyntkzrawYmiO2Q/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hvc3VuLmNvbS9y/ZXNpemVyL3YyL0dV/M0dHTUpaTVFaV0NZ/WlZNWVlEU1lSWU1F/LmpwZz9hdXRoPTg3/ZDk3YjkxMGU3MDgz/ZmRhZWUwNTRmZTE0/ODBkMmNjNjNjMzRj/MDY2ZWUxOTQxMGY3/ZTM3YTZlYmQyMzA4/YmMmYW1wO3dpZHRo/PTEyMDAmYW1wO2hl/aWdodD02MzAmYW1w/O3NtYXJ0PXRydWU"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 혁명수비대 \"전장에 신형 무기 투입…세계가 놀랄 것\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202609211630246980",
-    "description": "21일(현지 시간) 알자지라에 ... 인터뷰에서 \"미국이 다시 공격할 경우 이란의 방어 및 반격 작전에 상당한 변화가 있을 것\"이라고 말했다. 모헤비는 \"그러한 변화에는 전쟁의 지리적 변화와 무기 및 군사 장비의 변화가 ...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T07:31:05",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202609211630246980"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202609211630246980"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wBm621hOj5vstIGscYqOl4pvP112IpQENcsQOtguWUo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMDkvMjEvMjAy/NjA5MjExNjMwNTQ3/OTQ1X2UuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "당근·채찍 든 트럼프, 맞불 놓은 이란… 유엔 총회 전 벼랑끝 전술-국제ㅣ한국일보",
-    "url": "https://hankookilbo.com/news/article/A2026092109460003349",
-    "description": "(미국·이란 전쟁) 미국과 이란이 군사적 압박과 외교적 협상을 병행하며 중동 긴장 고조 속 종전 협상 기싸움을 벌이고 있다. 호르무즈해협 봉쇄, 유엔총회 회동 가능성 등 다양한 외교안보 전략이 전개된다.",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T05:22:00",
-    "profile": {
-      "name": "한국일보",
-      "url": "https://hankookilbo.com/news/article/A2026092109460003349"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hankookilbo.com",
-      "hostname": "hankookilbo.com",
-      "favicon": "https://imgs.search.brave.com/RNRsAok0k7DqPjj2tzvaqoRzVz3GofdEuHLXaSL7wxI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjk2ZGMzZDMx/ZmRlM2Y1M2ZjMWZj/ZWMyOTFkODYxYmE4/ODllYjNlN2Y5YWZi/MDIzMTZkMDZkYzJh/YzJhNzJkNi9oYW5r/b29raWxiby5jb20v",
-      "path": "› news  › article  › A2026092109460003349"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/ryFD0xxC7Byskl0cfyn34sWU_u6irFQ9kCIxm3L5iqg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdz/aW1nLmhhbmtvb2tp/bGJvLmNvbS8yMDI2/LzA5LzIxL2I1MDRi/NzYyLTdkNDctNDJj/YS04MDhhLTlkZWMx/OTEyYzUwNi5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "\"언제 날려버릴까\"…트럼프 대이란 궤멸전 수사에 중동 초긴장 | 연합뉴스",
-    "url": "https://yna.co.kr/view/AKR20260921086300009",
-    "description": "모흐센 레자이 이란 최고국가안보회의(SNSC) 사무총장은 알자지라와 인터뷰에서 미국과 전쟁 종식을 목표로 협상을 재개하기 위해 모든 전선에서의 전쟁 종식, 이란 동결 자금 해제, 해상 봉쇄 해제 등 조건을 중재국을 통해 ...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T02:53:58",
-    "profile": {
-      "name": "Yonhap News Agency",
-      "url": "https://yna.co.kr/view/AKR20260921086300009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "yna.co.kr",
-      "hostname": "yna.co.kr",
-      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
-      "path": "› view  › AKR20260921086300009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/KDAjOXflI0TNduEwPPUMQvchnfPfkpn7aA9gFckCER4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8wOS8yMS9B/S1IyMDI2MDkyMTA4/NjMwMDAwOV8wM19p/X1A0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 “이란 중대 결정 임박”…공습·협상 갈림길 < 국제일반 < 사회 < 기사본문 - 스페셜경제",
-    "url": "https://www.speconomy.com/news/articleView.html?idxno=418121",
-    "description": "트럼프 대통령이 언급한 선택지는 크게 세 가지다. 이란을 상대로 대규모 군사 행동에 나서거나 경제적 압박을 이어가는 방안, 또는 협상을 통해 전쟁을 끝내는 방안이다.",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T02:05:37",
-    "profile": {
-      "name": "Speconomy",
-      "url": "https://www.speconomy.com/news/articleView.html?idxno=418121"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "speconomy.com",
-      "hostname": "www.speconomy.com",
-      "favicon": "https://imgs.search.brave.com/YAsSi20uu-qYohlfLxY64lYV5IiGs4XQda9tHt7OYqw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGY0ODQ2MGM2/NTdlYjYzZDI2Yjgx/N2E0NmMxZDVjNDFj/OTk5YTE2MDljMDdk/YWFhOTA1YmFhODU2/MzI2MDYzZC93d3cu/c3BlY29ub215LmNv/bS8",
-      "path": "› news  › articleView.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/hz9sx5rTCrVGvCl6DKJ_W0cna6fCdZ3FvMax4rpqhDE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3BlY29ub215LmNv/bS9uZXdzL3Bob3Rv/LzIwMjYwOS80MTgx/MjFfNDE0NTMwXzM5/NTYuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 경제 '전쟁 직격탄'‥석 달간 10% 역성장",
-    "url": "https://imnews.imbc.com/news/2026/world/article/6853223_36925.html",
-    "description": "미국과의 전쟁으로 인해 이란 경제가 큰 폭으로 후퇴한 것으로 나타났습니다. 이란 통계청에 따르면 올해 1분기 실질 GDP는 지난해 같은 기간보다 10.1% 감소했고, 원유·천연가스...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T00:55:16",
-    "profile": {
-      "name": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6853223_36925.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "imnews.imbc.com",
-      "hostname": "imnews.imbc.com",
-      "favicon": "https://imgs.search.brave.com/zgbdsyZa1abwSoYzE-rOBlM8ioAxkc7bhaCpSWLgxfw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmIyN2I2NmJh/ODk5MGQzMWZiZWIw/MzYyYmYwY2FhODA2/NGI4ZTRlOTM5NjQx/NmVhOTk2YzJkNDgz/MjRjOWQyNS9pbW5l/d3MuaW1iYy5jb20v",
-      "path": "› news  › 2026  › world  › article  › 6853223_36925.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lYUM7alRMG0RFcFyHVNuatn1nRGtypWAg1VHZdobmsE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vbmV3cy8y/MDI2L3dvcmxkL2Fy/dGljbGUvX19pY3NG/aWxlcy9hZmllbGRm/aWxlLzIwMjYvMDkv/MjEvbHlqXzI2MDky/MV83LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 \"美 폭격 재개 정보 입수\"…트럼프 \"조만간 큰일\" 중동 긴장 - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202609210926484717",
-    "description": "혁명수비대는 \"공격이 발생한다면 역내 모든 미국 기지와 이익은 어떠한 제한이나 고려도 없이 지속적이고 효과적이며 고통스러운 공격의 표적이 될 것\"이라고 밝혔다. 이란 지도부는 보복 대상이 인도양에 배치된 미 해군 ...",
-    "age": "2 days ago",
-    "page_age": "2026-09-21T00:27:12",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202609210926484717"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202609210926484717"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/osx9dXP_r-Y8oH-F8ALUB1ryM6-7Sk2w4htKEZo6vNQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZm5uZXdzLmNv/bS9yZXNvdXJjZXMv/aW1nL2xvZ28vZm5u/ZXdzX29nLmpwZw"
+      "src": "https://imgs.search.brave.com/MVukEOQaCjp9ng-M5JMqgL_D7h49EuPQ8ypatjeG56g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wOS8yMDI2LTA5/LTIyVDE5NDQyM1pf/MzAxNzEwNDY0X1JD/MkpPTkFSMjVMT19S/VFJNQURQXzNfVVNB/LVRSVU1QLUdVTEYt/MTc5MDEwNjM2Ny5q/cGc_cmVzaXplPTE5/MjAlMkMxNDQw"
     }
   }
 ]
