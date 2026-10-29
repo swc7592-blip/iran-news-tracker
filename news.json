@@ -1,64 +1,350 @@
 [
   {
     "type": "news_result",
-    "title": "\"美부통령, 트럼프 지시로 이란 강경파에 협상재개 서한\" - 파이낸셜뉴스",
-    "url": "https://fnnews.com/news/202610290816266968",
-    "description": "밴스는 이날 압둘 엘 사예드 민주당 미시간주 상원의원 후보를 \"족제비\"라고 부르며 공격했다. AP 뉴시스 · [파이낸셜뉴스]JD 밴스 미국 부통령이 도널드 트럼프 대통령의 지시로 이란의 강경파 안보 수장에 협상 재개를 위한 ...",
-    "age": "14 minutes ago",
-    "page_age": "2026-10-28T23:19:21",
-    "profile": {
-      "name": "First News",
-      "url": "https://fnnews.com/news/202610290816266968"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "fnnews.com",
-      "favicon": "https://imgs.search.brave.com/8hRNAk6DSRJ3pip9uhwOfCNYOCoP1BvQ5Uq7J5IEIQw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3NjUzM2Mw/ZTJlNGZhY2JjNWJh/NDQyOTRkZGEyMzJj/YzdhMzlhMmVkMTA5/ZjBjMmQzMTQ2NmFm/ZDg1ZjVhZC9mbm5l/d3MuY29tLw",
-      "path": "› news  › 202610290816266968"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/mJK5KwZT4CwtsZZOSmfR8MtG3uSvgZJl-Bzbc4VPARQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMTAvMTcvMjAy/NjEwMTcwOTU5NTEy/NTI4X2UuanBn"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel election results live: Trump ‘hasn’t decided’ whether to intervene in coalition talks, says US | The Independent",
-    "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-trump-iran-netanyahu-results-live-updates-b3074001.html",
-    "description": "Benjamin Netanyahu is expected to face more constraints as Israel's caretaker prime minister after Tuesday's election, but experts say his government could still retain significant powers including when it comes to waging war on Iran.",
-    "age": "33 minutes ago",
-    "page_age": "2026-10-28T23:00:24",
-    "profile": {
-      "name": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/israel-elections-2026-trump-iran-netanyahu-results-live-updates-b3074001.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "independent.co.uk",
-      "hostname": "www.independent.co.uk",
-      "favicon": "https://imgs.search.brave.com/M_zo7zhS0WvQG9XhO-0Js_pwEAlWc2wtGKCPFnNjZjI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmEyODE2YjY0/YzFkZDgyOGUzOThi/NmFhOGNkZTRhZDBm/ZmJiYWUxZGQ0MjYx/YWI5YjIyYWQ3N2E4/ZTZjNDk3YS93d3cu/aW5kZXBlbmRlbnQu/Y28udWsv",
-      "path": "› news  › world  › middle-east  › israel-elections-2026-trump-iran-netanyahu-results-live-updates-b3074001.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/IwMaL7qRAMqBs5dG1j31X6MnQ3utWgMye0Q9Wf_EYLQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaW5kZXBlbmRl/bnQuY28udWsvMjAy/Ni8xMC8yOC8wNC8y/MDI2LTEwLTI4VDAx/NTAyMlpfMTY5NDg4/MDgyX1JDMjFDT0FE/T0EwS19SVFJNQURQ/XzNfSVNSQUVMLUVM/RUNUSU9OLkpQRz90/cmltPTE3LDAsMTcs/MCZ3aWR0aD0xMjAw/JmhlaWdodD04MDAm/Y3JvcD0xMjAwOjgw/MA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "사우디·튀르키예·파키스탄 외교로 평화 기대 커지며 원유 가격 하락 - 뉴스 및 통계 - IndexBox",
-    "url": "https://indexbox.io/ko/blog/oil-prices-fall-on-middle-east-peace-hopes-but-risks-keep-floor-under-market",
-    "description": "중동 외교 재개와 차익 실현으로 브렌트유가 114.85달러, WTI가 100.87달러로 하락했으나 후티 공격과 호르무즈 해협에서의 이란 공격, 미국의 대이란 군사행동 위협으로 평화 전망은 여전히 요원하고 공급 리스크는 살아 있다.",
+    "title": "미, 이란 대규모 공습 재개하나…트럼프 \"이 일 마무리해야 해\"",
+    "url": "https://www.sidae.com/article/2026102910431316455",
+    "description": "미국과 이스라엘의 이란 대규모 공습 재개 가능성이 제기됐다. 지난 28일(이하 현지시각) 미국 매체 악시오스에 따르면 미국, 이스라엘, 중동 등 소식통들은 미 중간선거 직후까지 미국과 이란의 합의가 이뤄지지 않으면 미국, ...",
     "age": "1 hour ago",
+    "page_age": "2026-10-29T01:49:05",
+    "profile": {
+      "name": "Sidae",
+      "url": "https://www.sidae.com/article/2026102910431316455"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "sidae.com",
+      "hostname": "www.sidae.com",
+      "favicon": "https://imgs.search.brave.com/CvHwwHBj09PYEEiqKtjs_XffggMZqP5diKpcwV7af9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJjNmFmNzUz/NTE2ZGJjNWE0MTBh/MDVhOTNmYTAzY2Ix/NmQxZjNkZDQ2NTdk/NTRlNWIzZDFjYmY0/YjU5OTc0YS93d3cu/c2lkYWUuY29tLw",
+      "path": "› article  › 2026102910431316455"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/DXrEppGuMaMtq5NXFk8x53ZneeHiyrjoJdE9y3mfLlY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZW51/LnNpZGFlLmNvbS9t/b25leXdlZWsvdGh1/bWIvMjAyNi8xMC8y/OS8wMC8yMDI2MTAy/OTEwNDMxMzE2NDU1/XzEuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "미, 재공격 압박 속 이란과 '간접대화'…이란 '핵양보' 관건 | 연합뉴스",
+    "url": "https://yna.co.kr/view/AKR20261029085200009",
+    "description": "미국이 군사적 압박을 지렛대로 삼아 이란의 '핵 양보'를 요구하는 가운데 양측이 핵 문제 등을 둘러싼 이견을 좁히고 전쟁 재개를 피할 수 있을지 이목이 쏠린다.",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:48:49",
+    "profile": {
+      "name": "Yonhap News Agency",
+      "url": "https://yna.co.kr/view/AKR20261029085200009"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "yna.co.kr",
+      "hostname": "yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/Q50NwEhKs8kw0ayGpSf6vGtcCSFy52an6FHAL95vM6A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGMxODZjY2My/MWQ0MWEwMTVjNjNm/ZGY4NTk3MjI0NGM5/YTRhYTEzMjU1YmMy/ZWUyOWNjZGM0MjAz/Y2U2ZGI3Mi95bmEu/Y28ua3Iv",
+      "path": "› view  › AKR20261029085200009"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/Ll1vlWPEvvojTUL60PwkAwnrFJyNm8RD5VAZInymWhI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcz/LnluYS5jby5rci9w/aG90by9hcC8yMDI2/LzEwLzI5L1BBUDIw/MjYxMDI5MTI3NzAx/MDA5X1A0LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "호르무즈 재개방 '7일 안' 협상 난항…이란, 카타르 중재안 '퇴짜' | 아주경제",
+    "url": "https://ajunews.com/view/20261029100822704",
+    "description": "이란이 호르무즈 해협 재개방을 위한 7일 신뢰 구축안을 놓고 중재국들과 협의를 이어가고 있다. 다만 카타르가 새롭게 제시한 평화안에는 이란이 부정적인 입장을 보이...",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:44:38",
+    "profile": {
+      "name": "Aju News",
+      "url": "https://ajunews.com/view/20261029100822704"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ajunews.com",
+      "hostname": "ajunews.com",
+      "favicon": "https://imgs.search.brave.com/U2cz6RHK97gSg0D8ag9ciwl_Pk_5f4KLUmPvy_Eb8GA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWNhMmJjMmVh/ZGJiOGVmNWE5YTVm/YjVjNmVmMzVlMzM1/YzExZmQ1ZDNjMDlh/MjFhN2U2MWM4NzE1/NzJjYTBlZC9hanVu/ZXdzLmNvbS8",
+      "path": "› view  › 20261029100822704"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/EsaxJ9j0JqIQt3zOvzyDUSiEBzXicWyndGNpIK9tv9k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hanVuZXdzLmNv/bS9jb250ZW50L2lt/YWdlLzIwMjYvMTAv/MjkvMjAyNjEwMjkx/MDI4NTY1NTM4OTYu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"美 부통령, 이란 강경파 안보수장에 서한…평화협상 재개 추진\" · 향후 전망은? - 서플",
+    "url": "https://supple.kr/news/cmvsvyss44agam5vu4vm78gjd",
+    "description": "JD 밴스 미국 부통령이 이란 강경파와 종전협상을 재개하려 한다고 28일(현지시간) 월스트리트저널(WSJ)이 보도했다. 도널드 트럼프 미국 대통령의 전쟁 재개 위협 속에 외교적 노력도 병행되고 있다.",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:42:00",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvsvyss44agam5vu4vm78gjd"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvsvyss44agam5vu4vm78gjd"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/i9_O3wInbq9RsxK9PwYAlPIY3qRF8KGsQ2BaJY1yg8Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZ0aHVt/Yi5tdC5jby5rciUy/RjA2JTJGMjAyNiUy/RjEwJTJGMjAyNjEw/MjkwOTU4MzkyNzAw/Ml8xLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란 법원, '황금종려상' 파나히 감독에 또 징역형…재산몰수·출금 - 뉴스1",
+    "url": "https://news1.kr/world/middleeast-africa/6335760",
+    "description": "'그저 사고였을 뿐' 등 연출한 거장 이란 법원이 영화 '그저 사고였을 뿐'으로 주요 국제 영화제를 휩쓴 이란 영화 거장 자파르 파나히 감독에게 징역 5년과 재산 몰수를 선고했다.이란 반관영 ISNA …",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:38:20",
+    "profile": {
+      "name": "News1",
+      "url": "https://news1.kr/world/middleeast-africa/6335760"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news1.kr",
+      "hostname": "news1.kr",
+      "favicon": "https://imgs.search.brave.com/90S-5fxbTX5-2gJ2g1aitKTz_kVQv_r_qIBXoNQxNlo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzYwYTg3OWNi/ZTg5NWM5ODBjODI5/NzJiMWFhYzBhM2I5/YWJjMjUwMDVmMDI5/N2FiZDgxOWM2ZTdi/YWExNzFlNC9uZXdz/MS5rci8",
+      "path": "› world  › middleeast-africa  › 6335760"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/5g1phaXNgzGmAqzs6xDNROO0ygv5YkLIWRw8YuEXLIA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI1LzUvMjUvNzMw/NjQxOC9oaWdoLmpw/Zw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "수학 실력 좌우하는 핵심 2가지…언어 능력과 논리적 사고력",
+    "url": "https://hani.co.kr/arti/science/science_general/1284760.html",
+    "description": "누구는 수학 공식만 보면 머리가 지끈거리고, 누구는 복잡한 방정식도 술술 풀어낸다. 이런 수학 실력의 차이는 어디서 오는 걸까? 미국 캔자스대와 텍사스A&M대, 템플대, 존스홉킨스대 공동 연구진이 인간의 인지 능력과 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:31:00",
+    "profile": {
+      "name": "Hani",
+      "url": "https://hani.co.kr/arti/science/science_general/1284760.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hani.co.kr",
+      "hostname": "hani.co.kr",
+      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
+      "path": "› arti  › science  › science_general  › 1284760.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/0fBK99s3OPUL9SeEne6GjpqcTO8LPZBqKTASI7CnjZE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/ODAwLzUzMy9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzEwMjkvMjAy/NjEwMjk1MDEyNjUu/d2VicA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "'정치생명 9개' 네타냐후, 과반 실패에도 당분간 건재…野분열 덕 - 뉴스1",
+    "url": "https://news1.kr/world/middleeast-africa/6335883",
+    "description": "26일(현지시간) 이스라엘이 이란의 '군사 목표물'에 대한 '정밀 타격'을 실시 중인 가운데 텔아비브의 국방부 지휘 센터에서 열린 회의에 베냐민 네타냐후 이스라엘 총리가 참석해 있다. 이날 이스라엘은 지난 1일 이란의 자국 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:25:11",
+    "profile": {
+      "name": "News1",
+      "url": "https://news1.kr/world/middleeast-africa/6335883"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news1.kr",
+      "hostname": "news1.kr",
+      "favicon": "https://imgs.search.brave.com/90S-5fxbTX5-2gJ2g1aitKTz_kVQv_r_qIBXoNQxNlo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzYwYTg3OWNi/ZTg5NWM5ODBjODI5/NzJiMWFhYzBhM2I5/YWJjMjUwMDVmMDI5/N2FiZDgxOWM2ZTdi/YWExNzFlNC9uZXdz/MS5rci8",
+      "path": "› world  › middleeast-africa  › 6335883"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/5VYKAzzUfD_iUZtIYr1PuS_-U1aU2YYl3NpYaKTUXmA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzEwLzI5Lzgx/ODUyMDYvaGlnaC5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "밴스는 이란에 협상 제안, 미군은 중동에 작전 통보…투트랙전략 가나",
+    "url": "https://view.asiae.co.kr/article/2026102909202343716",
+    "description": "WSJ는 관련 논의에 정통한 소식통들의 말을 인용해 \"미국이 중간선거 이후 이란을 상대로 단기간 대규모 군사작전을 벌이는 방안을 검토해 아랍국가들에게도 작전에 대비하라고 지시했다\"며 \"트럼프 대통령이 아직 공격 여부를 ...",
+    "age": "1 hour ago",
+    "page_age": "2026-10-29T01:21:28",
+    "profile": {
+      "name": "Asiae",
+      "url": "https://view.asiae.co.kr/article/2026102909202343716"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "view.asiae.co.kr",
+      "hostname": "view.asiae.co.kr",
+      "favicon": "https://imgs.search.brave.com/TG_kszJV7lJ3N9ct7i7q5eiL0MyTt_kXzvImOEzQnDk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjZiY2YzYzk2/ZTFhM2MwYzhiNDg0/NjgwZTIyNTRkNmNj/NzZjZTQxYjFkMmFk/NTNmNzQ4M2M3YmRi/YzE4OGQwOS92aWV3/LmFzaWFlLmNvLmty/Lw",
+      "path": "› article  › 2026102909202343716"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/pb0AP4EzAIaW_PhxV0ZJEBcdshsg03y6zrYaEo4TGZw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jcGhv/dG8uYXNpYWUuY28u/a3IvbGlzdGltZ2xp/bmsvMS8yMDI2MTAy/OTEwMTk1Mjc4OTAx/XzE3OTMyMzY3OTIu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "휘발유 빼고 경유만 ‘수출 제한’ 완화…국내 수급 차질 없는 범위 내",
+    "url": "https://www.hani.co.kr/arti/economy/economy_general/1284747.html",
+    "description": "정부가 미·이스라엘-이란 전쟁 발발 이후 석유 최고가격제를 적용하는 석유제품의 수출을 제한했으나, 경유에 한해 이를 완화한다. 휘발유, 등유 등은 외교적 공식 요청이 있을 때만 국익 부합 여부 등을 살펴 물량 조절에 ...",
+    "age": "2 hours ago",
+    "page_age": "2026-10-29T01:00:00",
+    "profile": {
+      "name": "Hani",
+      "url": "https://www.hani.co.kr/arti/economy/economy_general/1284747.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hani.co.kr",
+      "hostname": "www.hani.co.kr",
+      "favicon": "https://imgs.search.brave.com/wqt8k8JfDXT6ST0EA3PofrdxrAIlxe5kpHZsBtkRDn0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzE5NTE1YmM5/YjA5MjM5ODRhNDg1/Y2ZmZWJkZTUwYjI0/MDkzMjNmNmY1MjVm/ZjEwOWJjMTk1Y2U2/NWY1M2M5MS93d3cu/aGFuaS5jby5rci8",
+      "path": "› arti  › economy  › economy_general  › 1284747.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/WVM-ggzqIlE519W17r8geicVyjmsQzHu-wgGzVDMuzA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/OTAwLzYwMC9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzEwMjkvMjAy/NjEwMjk1MDEwMzgu/d2VicA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "美 중간선거 후 이란 집중 공격 가능…걸프국에 대비 통보 | 한국경제",
+    "url": "https://www.hankyung.com/article/202610292500i",
+    "description": "美 \"중간선거 후 이란 집중 공격 가능\"…걸프국에 대비 통보, 미군, 패트리엇 추가 배치·항모전단 증강 대규모 공습과 외교적 합의 두고 저울질",
+    "age": "2 hours ago",
+    "page_age": "2026-10-29T00:46:11",
+    "profile": {
+      "name": "Hankyung",
+      "url": "https://www.hankyung.com/article/202610292500i"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "hankyung.com",
+      "hostname": "www.hankyung.com",
+      "favicon": "https://imgs.search.brave.com/6M6BQ6kagkjkDBuWsBbFMWepqsaw5PedI-qraJtDnDs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmRkYTA1OTg2/Nzk4Yzg1ZWJkOTM1/ZjViNDViZmViMTk3/ZDQwMTBkYjU4YWQ5/NGU1MGZiZTEyY2Yy/YTIwMTIxNC93d3cu/aGFua3l1bmcuY29t/Lw",
+      "path": "› article  › 202610292500i"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/sRypUXsPMu5vO_oPfBZsxXMGfy_Q6mqGfLFWtHfZ_m0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/aGFua3l1bmcuY29t/L3Bob3RvLzIwMjYx/MC9aQS40NTkyNjMw/OC4xLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "\"이스라엘 야권, 네타냐후 축출 역사적 기회 놓친 듯\" - 서플",
+    "url": "https://supple.kr/news/cmvsse703wo09m5vu4xv3k9tj",
+    "description": "한편, 미국 매체 폴리티코는 ... 이스라엘에서 총선이 있다는 자체를 몰랐다고 답할 만큼 미국인이 무관심했다고 보도했다. 네타냐후 총리에 부정적이라는 응답(29%)이 긍정적이라는 의견(22%)보다 높았지만 '아무 의견이 없다'는 대답이 48%로 가장 높았다. 폴리티코는 \"이번 총선으로 양국 관계가 개선되고 가자지구와 이란 전쟁과 ...",
+    "age": "3 hours ago",
+    "page_age": "2026-10-28T23:58:58",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvsse703wo09m5vu4xv3k9tj"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvsse703wo09m5vu4xv3k9tj"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/md7cyW_7ml1G7XZTKR8b6N3NXkRTuM4oG08KDAZAfeI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcw/LnluYS5jby5rciUy/RnBob3RvJTJGcmV1/dGVycyUyRjIwMjYl/MkYxMCUyRjI4JTJG/UFJVMjAyNjEwMjgx/ODExMDEwMDlfUDQu/anBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "밴스, 중간선거 앞두고 이란 강경파에 서한⋯트럼프 “의료지원 목적” - 서플",
+    "url": "https://supple.kr/news/cmvss18e6wn8vm5vu52ee0qxs",
+    "description": "1980년대 이라크 전쟁 당시 이란 혁명수비대 사령관이었던 레자이는 최근 미국에 강경한 태도를 보여온 인물이다. 그는 앞서 아랍에미리트(UAE)와 중동 지역 데이터센터·해저케이블을 공격 대상으로 거론하기도 했다.",
+    "age": "3 hours ago",
+    "page_age": "2026-10-28T23:55:00",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvss18e6wn8vm5vu52ee0qxs"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvss18e6wn8vm5vu52ee0qxs"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/mt0kcrHfrBfoKoSUoM_K97Fmlmd6TAtKlAxG0Hb5oJ4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcu/ZXRvZGF5LmNvLmty/JTJGcHRvX2RiJTJG/MjAyNiUyRjEwJTJG/NDAwJTJGMjAyNjEw/MjkwODQ3MjhfMjQw/ODg3M18xMjAwXzc5/OS5qcGVn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[마켓 프리뷰] SK하이닉스 '메모리 호황' 장기화 자신감…코스피 급등 · 시장 영향은? - 서플",
+    "url": "https://supple.kr/news/cmvsrol7vwn1am5vucy1swb0w",
+    "description": "- 美 기준금리 3.75~4.00% ... 전략만 논의 - 월가, 12월 FOMC 추가 금리 인상 가능성에 무게 - 美, 중간선거 이후 이란 공격 준비…중동 사태 악화 - 국제유가 100달러 안팎…인플레 상승세 지속 우려 - CME 페드워치, ...",
+    "age": "3 hours ago",
+    "page_age": "2026-10-28T23:39:33",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvsrol7vwn1am5vucy1swb0w"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvsrol7vwn1am5vucy1swb0w"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/DI0IvnM3HmGCow0pr5Vci_e_sQDgMprvg-AGg_CzUQI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcu/Yml6LnNicy5jby5r/ciUyRnVwbG9hZCUy/RjIwMjYlMkYxMCUy/RjI5JTJGTVY3MTc5/MzIyNzU4NjcwNi5q/cGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "USS 스프루언스호는 이란과의 전쟁으로 1945년 이후 구축함 배치 기록을 깨고 로타를 압박하고 있다. - 뉴스투데이 / 아이데일리",
+    "url": "https://www.ntoday.net/uss-%EC%8A%A4%ED%94%84%EB%A3%A8%EC%96%B8%EC%8A%A4%ED%98%B8%EB%8A%94-%EC%9D%B4%EB%9E%80%EA%B3%BC%EC%9D%98-%EC%A0%84%EC%9F%81%EC%9C%BC%EB%A1%9C-1945%EB%85%84-%EC%9D%B4%ED%9B%84-%EA%B5%AC%EC%B6%95/",
+    "description": "USS Spruance 기록은 고립된 업적이 아닙니다. 전쟁 중 함대의 마진을 잠식한 것은 바다 시간의 청구서입니다. 그에게도 영광의 순간이 있었다. 4월 19일, 구축함은 이란 국적 화물선의 엔진실에 5인치 갑판포를 사용했습니다.",
+    "age": "3 hours ago",
+    "page_age": "2026-10-28T23:34:58",
+    "profile": {
+      "name": "Ntoday",
+      "url": "https://www.ntoday.net/uss-%EC%8A%A4%ED%94%84%EB%A3%A8%EC%96%B8%EC%8A%A4%ED%98%B8%EB%8A%94-%EC%9D%B4%EB%9E%80%EA%B3%BC%EC%9D%98-%EC%A0%84%EC%9F%81%EC%9C%BC%EB%A1%9C-1945%EB%85%84-%EC%9D%B4%ED%9B%84-%EA%B5%AC%EC%B6%95/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ntoday.net",
+      "hostname": "www.ntoday.net",
+      "favicon": "https://imgs.search.brave.com/_HW2M8nv3lQYDvuBL2557V3zHN5PSyts08ytSAWHrQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWM1OTJiOTlk/ZjE0OWM2YWE4MjUw/NDAxOTE5NDI3MGY3/MjFmZjg1NDMzZDk1/MmUwZmVhM2FlOTc0/YmU0YjA0MS93d3cu/bnRvZGF5Lm5ldC8",
+      "path": "› uss-스프루언스호는-이란과의-전쟁으로-1945년-이후-구축"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/2HPhr3gi58xuDNS6gzv388EvYMZucLBPB0ZrJZSG35A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bnRvZGF5Lm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8x/MC9VU1Mt7Iqk7ZSE/66Oo7Ja47Iqk7Zi4/64qULeydtOuegOqz/vOydmC3soITsn4Hs/nLzroZwtMTk0NeuF/hC3snbTtm4Qt6rWs/7LaV7ZWoLeuwsOy5/mC3quLDroZ3snYQt/6rmo6rOgLndlYnA"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "[율곡로] 우리 軍은 믿을 수 있나 - 서플",
+    "url": "https://supple.kr/news/cmvsse5uewnxtm5vumvubuxgs",
+    "description": "(서울=연합뉴스) 이승우 ... 전쟁이 일어났을 때 그러면 그런 미군은 믿을 수 있냐. 그렇지 않은 것\"이라고 말해 논란이 일었다. 전시작전통제권 전환 필요성을 강조하려던 취지였다. 문제가 된 건 이 발언이 '이란을 굴복시키지 ...",
+    "age": "4 hours ago",
+    "page_age": "2026-10-28T22:58:00",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvsse5uewnxtm5vumvubuxgs"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvsse5uewnxtm5vumvubuxgs"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/6EE7TKpIPiXk-ZAWLL90xhLz1bwp3Od9V6CHBP39Cy4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcw/LnluYS5jby5rciUy/RmV0YyUyRmlubmVy/JTJGS1IlMkYyMDI2/JTJGMTAlMkYyOCUy/RkFLUjIwMjYxMDI4/MTYyNTAwNTQ2XzAy/X2lfUDQuanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "사우디·튀르키예·파키스탄 외교로 평화 기대 커지�� 원유 가격 하락 - 뉴스 및 통계 - IndexBox",
+    "url": "https://www.indexbox.io/ko/blog/oil-prices-fall-on-middle-east-peace-hopes-but-risks-keep-floor-under-market/",
+    "description": "중동 외교 재개와 차익 실현으로 브렌트유가 114.85달러, WTI가 100.87달러로 하락했으나 후티 공격과 호르무즈 해협에서의 이란 공격, 미국의 대이란 군사행동 위협으로 평화 전망은 여전히 요원하고 공급 리스크는 살아 있다.",
+    "age": "4 hours ago",
     "page_age": "2026-10-28T22:40:27",
     "profile": {
       "name": "IndexBox",
-      "url": "https://indexbox.io/ko/blog/oil-prices-fall-on-middle-east-peace-hopes-but-risks-keep-floor-under-market"
+      "url": "https://www.indexbox.io/ko/blog/oil-prices-fall-on-middle-east-peace-hopes-but-risks-keep-floor-under-market/"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "indexbox.io",
-      "hostname": "indexbox.io",
-      "favicon": "https://imgs.search.brave.com/cBq3xpyJp1jbGDTIseRvCmp7RkEyP25MvgIKZByqc_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWUzM2Q1YjM3/NDA5ZTJjMzA0OThj/NTZjYjhmZWQ3YWMw/OGQwNzUxY2EyM2E3/ZTUxM2VmOGM1NGU5/YjJiNGMxZS9pbmRl/eGJveC5pby8",
+      "hostname": "www.indexbox.io",
+      "favicon": "https://imgs.search.brave.com/6eLmLRwMD2UpIIrgqRviKmCdL-1wTACO4sCd5VH9ZjU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGI2MjJlMWQ5/NjA3Y2NjOWMyNjk5/MmRjMzYzNzZjN2Fk/NDU3Njg1ODE2MjBh/NGY4ZTEzMTNhMGUx/MTEwNTY5Yi93d3cu/aW5kZXhib3guaW8v",
       "path": "› ko  › blog  › oil-prices-fall-on-middle-east-peace-hopes-but-risks-keep-floor-under-market"
     },
     "thumbnail": {
@@ -67,20 +353,42 @@
   },
   {
     "type": "news_result",
+    "title": "트럼프, 밴스 대이란 서한 인정…\"의료물자 지원 위한 접촉\"",
+    "url": "https://www.newspim.com/news/view/20261029000053",
+    "description": "이란 전쟁은 미국 국내 정치에도 부담으로 작용하고 있다. 여론조사에 따르면 11월 3일 중간선거를 앞두고 트럼프 대통령의 공화당은 어려운 정치적 환경에 놓여 있다.",
+    "age": "4 hours ago",
+    "page_age": "2026-10-28T22:36:00",
+    "profile": {
+      "name": "Newspim",
+      "url": "https://www.newspim.com/news/view/20261029000053"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "newspim.com",
+      "hostname": "www.newspim.com",
+      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
+      "path": "› news  › view  › 20261029000053"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/KIdwBv6t2pb8PxJTmqK58r31WjXC3_mh0ie-ra3cpP8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzEw/LzI5LzI2MTAyOTA3/MzUyNzM2ODBfMjE3/X3RjLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "P&G, 물가 상승으로 이익 타격 1.9조 원…글로벌 소비재 기업들 매출 하향 전망 - 글로벌이코노믹",
-    "url": "https://g-enews.com/article/Global-Biz/2026/10/202610281729533970fda4f5ab74_1",
+    "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610281729533970fda4f5ab74_1",
     "description": "프록터앤갬블(P&G)이 이란 전쟁 여파로 연간 이익 타격 전망치를 14억 달러로 상향 조정하고, 코카콜라와 네슬레 등 글로벌 소비재 기업들도 추가 가격 인상을 검토하고 나섰다. 로이터통신은 10월 27일(현지시각) 치솟는 ...",
-    "age": "1 hour ago",
+    "age": "4 hours ago",
     "page_age": "2026-10-28T22:17:44",
     "profile": {
       "name": "G-News",
-      "url": "https://g-enews.com/article/Global-Biz/2026/10/202610281729533970fda4f5ab74_1"
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610281729533970fda4f5ab74_1"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "g-enews.com",
-      "hostname": "g-enews.com",
-      "favicon": "https://imgs.search.brave.com/PpvmB9dgb08pnBmkYl6fXGBgCo-loLe1aAJgTY1T5rI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjYzZTNiYjM0/MzE4NzA2NWQ2ZmUx/ZDlmYTBiN2VmM2I4/NTI4NTI1MGIyYmMy/Yjc2N2QxZjU1MzNk/ZjNkZmMzZi9nLWVu/ZXdzLmNvbS8",
+      "hostname": "www.g-enews.com",
+      "favicon": "https://imgs.search.brave.com/BFjZAUqFOHg_KjiQLAB1Sb5HXeVD4QT4UYFF5PwzAZI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDFmN2RlYjQ0/YmU3ZDQxNDNlMjNm/MGU1MDRmOTc0YTEz/OGUzMDVmOTY1MGFk/NDg3MjJhYzY3YTU3/NDg0ZjNkMS93d3cu/Zy1lbmV3cy5jb20v",
       "path": "› article  › Global-Biz  › 2026  › 10  › 202610281729533970fda4f5ab74_1"
     },
     "thumbnail": {
@@ -89,24 +397,24 @@
   },
   {
     "type": "news_result",
-    "title": "Iran live updates: US military estimates war with Iran now costs $47.1 billion - ABC News",
-    "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
-    "description": "Talks between the U.S. and Iran remain stalled despite the two countries signing a memorandum of understanding in June, aimed at ending the war that began with joint American-Israeli strikes on the country in February.",
-    "age": "2 hours ago",
-    "page_age": "2026-10-28T22:03:09",
+    "title": "WSJ \"美 부통령, 이란 안보수장에 서한…평화협상 재개 추진\" · 향후 전망은? - 서플",
+    "url": "https://supple.kr/news/cmvsnr0naozdom5vuetoapraa",
+    "description": "WSJ는 밴스 부통령이 미구고가 이란 사이에서 충분한 공통점을 찾아 트럼프 대통령이 향후 몇 주 안에 이란에 대한 '단기적이고 강도 높은 공격'을 최종 명령하지 않도록 설득할 수 있을지 타진하고 있다고 평가했습니다.",
+    "age": "5 hours ago",
+    "page_age": "2026-10-28T21:54:50",
     "profile": {
-      "name": "ABC News",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447"
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvsnr0naozdom5vuetoapraa"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "abcnews.com",
-      "hostname": "abcnews.com",
-      "favicon": "https://imgs.search.brave.com/Z0KUww45BkH61d1JNgt5vuvkxgmQcR6lt5OjVsfLgN0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWZjN2U4ZGRi/NzY4NGE0ZmNhYWRh/NDM5MWE5MTI5OTZm/ZDYzZjMxYTdjYWQ3/NDBlOGY4MWUzYWI1/OTQ1OTNlNS9hYmNu/ZXdzLmNvbS8",
-      "path": "› International  › live-updates  › iran-live-updates-houthis-claim-new-attack-riyadh"
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvsnr0naozdom5vuetoapraa"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/cZ9g_-_7BK9ghT1IK7Pg7_o75sAVBDNngopNopmRR38/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmFi/Y25ld3NmZS5jb20v/YS8xNDc2NWVjOS1i/NGIwLTQyZTgtYWU5/MS01ZjVkZDA2Zjk1/NDQvaXJhbi0zLWd0/eS1nbWgtMjYxMDI2/XzE3OTMwMjI2NTkx/OTZfaHBNYWluXzE2/eDkuanBnP3c9MTYw/MA"
+      "src": "https://imgs.search.brave.com/QwdKm-fT18uarEcYDEZ5v9zRKwBdQcXr7yaNabCuftM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcu/Yml6LnNicy5jby5r/ciUyRnVwbG9hZCUy/RjIwMjYlMkYwMiUy/RjI3JTJGV05SMTc3/MjE0MjEyMTczMy04/NTAuanBn"
     }
   },
   {
@@ -114,7 +422,7 @@
     "title": "“트럼프 찍었지만 이젠 못 믿겠다”…美중간선거 흔드는 공화당 지지층 - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10918273",
     "description": "다음 달 3일 미국 중간선거의 승패를 가를 핵심 변수로 도널드 트럼프 대통령에게 등을 돌린 공화당 지지층이 떠오르고 있으며 고유가와 관세, 이란 전쟁 등 트럼프 행정부",
-    "age": "2 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-10-28T21:11:59",
     "profile": {
       "name": "Herald Corp",
@@ -136,7 +444,7 @@
     "title": "美 중간선거 후 이란 공격 가능성에 국제유가 상승…WTI 2.88%↑ - 헤럴드경제",
     "url": "https://biz.heraldcorp.com/article/10918268",
     "description": "28일(현지시간) 런던 ICE 선물거래소에서 12월 인도분 브렌트유 선물은 전장보다 1.26% 오른 배럴당 115.32달러에 거래를 마쳤고, 뉴욕상업거래소에서 12월 인도분 미국 서",
-    "age": "3 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-10-28T21:02:32",
     "profile": {
       "name": "Herald Corp",
@@ -158,7 +466,7 @@
     "title": "WSJ \"밴스, 평화 협상 재개 위해 이란 강경파 접촉\"",
     "url": "https://www.newspim.com/news/view/20261029000037",
     "description": "WSJ는 밴스 부통령이 미국과 이란 사이에서 충분한 공통점을 찾아 트럼프 대통령이 향후 몇 주 내 이란에 대한 '단기적이고 강도 높은 공격'을 최종 명령하지 않도록 설득할 수 있을지 타진하고 있다고 평가했다.",
-    "age": "3 hours ago",
+    "age": "6 hours ago",
     "page_age": "2026-10-28T20:38:00",
     "profile": {
       "name": "Newspim",
@@ -177,200 +485,90 @@
   },
   {
     "type": "news_result",
-    "title": "Shafaq News..US, Israel weigh Iran strikes as diplomacy continues",
-    "url": "https://shafaq.com/en/World/US-Israel-weigh-Iran-strikes-as-diplomacy-continues",
-    "description": "Shafaq News- WashingtonThe United States and Israel are preparing for a possible week-long military campaign against Iran after the November 3 US midterm elections, even as regional mediators intensif",
-    "age": "3 hours ago",
-    "page_age": "2026-10-28T20:14:34",
+    "title": "이스라엘 초박빙 승부…네타냐후 연정 시계는 ‘6주’ [글로벌 모닝 브리핑] | 서울경제",
+    "url": "https://m.sedaily.com/article/20107439",
+    "description": "※[글로벌 모닝 브리핑]은 서울경제가 전하는 글로벌 소식을 요약해 드립니다. 이스라엘 총선에서 베냐민 네타냐후 총리가 이끄는 우파 연합이 과반 확보에 실패했고, 야권도 과반에 미치지 못해 정국이 불투명해졌습니다.",
+    "age": "6 hours ago",
+    "page_age": "2026-10-28T20:25:00",
     "profile": {
-      "name": "Shafaq News..",
-      "url": "https://shafaq.com/en/World/US-Israel-weigh-Iran-strikes-as-diplomacy-continues"
+      "name": "Sedaily",
+      "url": "https://m.sedaily.com/article/20107439"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "shafaq.com",
-      "hostname": "shafaq.com",
-      "favicon": "https://imgs.search.brave.com/SEdnFJlCufS9Ok70-gPA6jA0m0hOKXngI7SdjENb5NM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjVjYzI3Yzk2/MzNiMDFjYjQ1ZDRi/MGZkNzQzODJlYjc4/ZjZkZDBmNzUzM2Rj/ZTY1Y2Q0NGI2ZDBl/MWU0YTMxZS9zaGFm/YXEuY29tLw",
-      "path": "› en  › World  › US-Israel-weigh-Iran-strikes-as-diplomacy-continues"
+      "netloc": "m.sedaily.com",
+      "hostname": "m.sedaily.com",
+      "favicon": "https://imgs.search.brave.com/cVrIZQ9vjmwnYLxNcoKpHQHeB_mFzg89qoRan1C93-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzNkYmI3NWZh/YjQwOTM1OTcyOTcx/MjhkMTQ0ZTAyM2Ey/MjU0YmJmMWMyMmQ5/ZGUyMGVhNTZmNzUw/MWY1ZTc4ZC9tLnNl/ZGFpbHkuY29tLw",
+      "path": "› article  › 20107439"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/C6JS0_Kp5_DxmFfOTSu8eCo6L7l8Lk7meZSEtfqvEyE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zaGFmYXEuY29t/L21lZGlhL2FyY2Vs/bGEvMTc5MzIxMjQ2/NTU5OC53ZWJw"
+      "src": "https://imgs.search.brave.com/2DHUNx7Sugo2lzRlgdvsv2bJrPqUSNaGXsjQYMAK9gg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMTAvMjgvcmN2/LllOQS4yMDI2MTAy/OC5QUlUyMDI2MTAy/ODE4MTEwMTAwOV9a/MS5qcGc"
     }
   },
   {
     "type": "news_result",
-    "title": "As Israel faces political deadlock, Benjamin Netanyahu may be able to renew Iran strikes | The Jerusalem Post",
-    "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
-    "description": "US PRESIDENT Donald Trump and Prime Minister Benjamin Netanyahu at the White House. Israel has a 28-month window before Trump leaves office to entrench the processes now underway in Iran, Gaza, and Lebanon, according to assessments heard at the MEAD conference in Washington.",
-    "age": "3 hours ago",
-    "page_age": "2026-10-28T20:12:04",
-    "profile": {
-      "name": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913152"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "jpost.com",
-      "hostname": "www.jpost.com",
-      "favicon": "https://imgs.search.brave.com/84gMCoDoqIESsKQETOnE70itiamk2d1Ec0HdBQIqV8o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTVhODg1NmJk/YTg0OWM1ODBjMmU2/MjRiYThiNGRiMTlh/NzljODc0MzA3YWI5/MjAyZjRjZTU3ZjEw/NjdlMDcyOC93d3cu/anBvc3QuY29tLw",
-      "path": "› israel-news  › defense-news  › article-913152"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2e5dTh0FpqPOPKAJ69hNB5oY7St5vJh0CzNBKcWvBg0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuanBvc3QuY29t/L2ltYWdlL3VwbG9h/ZC9mX2F1dG8sZmxf/bG9zc3kvcV9hdXRv/L2NfZmlsbCxnX2Zh/Y2VzOmNlbnRlcixo/XzcyMCx3XzEyODAv/NzM4MzI2"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted | Israel | The Guardian",
-    "url": "https://theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-    "description": "He added: “Israel has its obligations under international law, international humanitarian law, international human rights law, and they need to respect them, and I hope that the next government will do precisely that and change course massively.” ... Hezbollah chief Naim Qassem has said that the Iran...",
-    "age": "4 hours ago",
-    "page_age": "2026-10-28T20:03:20",
-    "profile": {
-      "name": "The Guardian",
-      "url": "https://theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "theguardian.com",
-      "hostname": "theguardian.com",
-      "favicon": "https://imgs.search.brave.com/RUl9ybA9ntMGVUE4dG-E30SF5zaX2G90cR9BhutzZfI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmY3M2ZmODU1/Njg0MGQwZmU4ZmIx/MmExNWNkZTFkY2Q0/MzM2MDNmOWQxYWYz/MjZiZjQ4ZDIzMmYz/OTU5MmE2NC90aGVn/dWFyZGlhbi5jb20v",
-      "path": "› world  › live  › 2026  › oct  › 28  › israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Jj2ylwA9k3Re_pOZdhKTbNJjwoigKrQWoKzEGeAF8Tw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2IzMjdi/NjA4ZDhiOWM2N2Qx/NTJmYTAwNmIxZGY4/ZjEzNjY2YzBhMjEv/MF8wXzUxNjBfNDEy/OC9tYXN0ZXIvNTE2/MC5qcGc_d2lkdGg9/MTIwMCZoZWlnaHQ9/NjMwJnF1YWxpdHk9/ODUmYXV0bz1mb3Jt/YXQmZml0PWNyb3Am/cHJlY3JvcD00MDoy/MSxvZmZzZXQteDUw/LG9mZnNldC15MCZv/dmVybGF5LWFsaWdu/PWJvdHRvbSUyQ2xl/ZnQmb3ZlcmxheS13/aWR0aD0xMDBwJm92/ZXJsYXktYmFzZTY0/PUwybHRaeTl6ZEdG/MGFXTXZiM1psY214/aGVYTXZkR2N0Ykds/MlpTNXdibWMmZW5h/YmxlPXVwc2NhbGUm/cz01MzEzNzgxMmVl/NjU2OTY5MTcxNWJj/MWU1Y2NlODk5Nw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "美 재생에너지 설비, 2027년 천연가스 추월 전망…변수는 소규모 태양광 - 글로벌이코노믹",
-    "url": "https://g-enews.com/article/Global-Biz/2026/10/2026102821354568289a1f309431_1",
-    "description": "\"유가 쇼크에 판도 뒤집혔다\"… 이란 전쟁 여파에 동남아 '재생에너지 대전환' 가속",
-    "age": "5 hours ago",
-    "page_age": "2026-10-28T19:00:00",
-    "profile": {
-      "name": "G-News",
-      "url": "https://g-enews.com/article/Global-Biz/2026/10/2026102821354568289a1f309431_1"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "g-enews.com",
-      "hostname": "g-enews.com",
-      "favicon": "https://imgs.search.brave.com/PpvmB9dgb08pnBmkYl6fXGBgCo-loLe1aAJgTY1T5rI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjYzZTNiYjM0/MzE4NzA2NWQ2ZmUx/ZDlmYTBiN2VmM2I4/NTI4NTI1MGIyYmMy/Yjc2N2QxZjU1MzNk/ZjNkZmMzZi9nLWVu/ZXdzLmNvbS8",
-      "path": "› article  › Global-Biz  › 2026  › 10  › 2026102821354568289a1f309431_1"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/DPInH2cGXtJvPHIJwIXHj94i1f3XZJz3gxe7xgJhXZs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uaW1h/Z2UuZy1lbmV3cy5j/b20vcGhwd2FzL3Jl/c3RtYl9hbGxpZHht/YWtlLnBocD9pZHg9/NSZhbXA7c2ltZz0y/MDI2MTAyODIxMzYx/NjA4NTg2OWExZjMw/OTQzMTE3NTExNjE2/MDc0LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Israel election: What impact on Iran as the war in the Middle East continues? - France 24",
-    "url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
-    "description": "Benjamin Netanyahu is expected to face greater constraints as Israel’s caretaker prime minister following Tuesday’s election. However, experts say his government could retain significant powers, including…",
+    "title": "이스라엘 총선·美 이란 공격 가능성 주시…국제유가 상승 | 연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261029009000072",
+    "description": "(뉴욕=연합뉴스) 김연숙 특파원 = 최근 이틀 연속 하락했던 국제유가가 28일(현지시간) 중동 지역 지정학적 긴장 고조와 미국 중간선거 이후의 ...",
     "age": "7 hours ago",
-    "page_age": "2026-10-28T16:54:33",
+    "page_age": "2026-10-28T19:52:42",
     "profile": {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues"
+      "name": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20261029009000072"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "france24.com",
-      "hostname": "www.france24.com",
-      "favicon": "https://imgs.search.brave.com/6afATvV-a6O9lWAU6XGTG_6FiAgeK4hyBSsNxlxWm6Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDlkMzg5NjVi/NTY0NDFjZTlhNTA2/YWJlZDQ3YTM1OGY4/OWE3NTI0ZTZiOWU1/NWExZjFhODc2NmQ4/ZjhlMzgxZS93d3cu/ZnJhbmNlMjQuY29t/Lw",
-      "path": "› en  › video  › 20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues"
+      "netloc": "yna.co.kr",
+      "hostname": "www.yna.co.kr",
+      "favicon": "https://imgs.search.brave.com/ugW26FHWBDuwFdUbcyT-OZeiVUxHzc9vLTH8YywdW2U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E2MjI4YWMx/ZDEwZmUxZDBjMzA5/YmI3YjBkOTQzNTQ4/M2M2YmQ0YjdiMmYy/MDU0NThhMWEzNjYz/ODNkM2MxYy93d3cu/eW5hLmNvLmtyLw",
+      "path": "› view  › AKR20261029009000072"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/cg1LV_GR9oHsQ_xbxxe2qI1fubV_iDsuKkgX4R8GxQ8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLmZy/YW5jZTI0LmNvbS9t/ZWRpYS9kaXNwbGF5/L2Q0Y2QwZTk4LWQy/ZWItMTFmMS04Mzkx/LTQ3ZGU1MGIzYzFl/NC93OjEyODAvcDox/Nng5L2NhcHR1cmUt/MWI0ZDI4NzUuanBn"
+      "src": "https://imgs.search.brave.com/UDz4vr_mV0i80HaVTSTQwYae6G-_fQ5plTrAxl95fIg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWc4/LnluYS5jby5rci9l/dGMvaW5uZXIvS1Iv/MjAyNi8xMC8yOS9B/S1IyMDI2MTAyOTAw/OTAwMDA3Ml8wMV9p/X1A0LmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "Netanyahu could still wage war in Iran | Israel’s election deadlock leaves Netanyahu free to take Iran war decisions as caretaker PM - Telegraph India",
-    "url": "https://www.telegraphindia.com/world/israels-election-deadlock-leaves-netanyahu-free-to-take-iran-war-decisions-as-caretaker-pm/cid/2186733",
-    "description": "'The Supreme Court has historically ... committees are formed,” Asher said, adding that “a caretaker prime minister can legally take Israel to war, including against Iran'...",
+    "title": "후티 반군, 예멘 임시수도 아덴 공항 공격…운항 전면 중단 < 월드 < 기사본문 - 데일리굿뉴스",
+    "url": "https://goodnews1.com/news/articleView.html?idxno=465635",
+    "description": "예멘의 친이란 반군 후티가 예멘 정부의 임시 수도인 아덴 공항을 전격 공격해 항공기 운항이 전면 중단됐다.로이터 통신 등 주요 외신에 따르면 예멘 교통부 당국자들은 후티의 이번 공격으로 아덴 공항의 운항이 모두 ...",
     "age": "7 hours ago",
-    "page_age": "2026-10-28T16:17:41",
+    "page_age": "2026-10-28T19:28:17",
     "profile": {
-      "name": "Telegraph India",
-      "url": "https://www.telegraphindia.com/world/israels-election-deadlock-leaves-netanyahu-free-to-take-iran-war-decisions-as-caretaker-pm/cid/2186733"
+      "name": "Goodnews1",
+      "url": "https://goodnews1.com/news/articleView.html?idxno=465635"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "telegraphindia.com",
-      "hostname": "www.telegraphindia.com",
-      "favicon": "https://imgs.search.brave.com/e_ymMG4bSM-pfKXHyBn4DjqxpwF8dZFckZI5Q7DDs9c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc3Yzk3ZWY4/ZDJjMTJlNjQ5ZWNj/MDk2OTU0OTY5ZDg5/MDY0N2VjY2U4MDRk/ZTFmMzcwZjhkNjky/Y2M3ZmRmNS93d3cu/dGVsZWdyYXBoaW5k/aWEuY29tLw",
-      "path": "› world  › israels-election-deadlock-leaves-netanyahu-free-to-take-iran-war-decisions-as-caretaker-pm  › cid  › 2186733"
+      "netloc": "goodnews1.com",
+      "hostname": "goodnews1.com",
+      "favicon": "https://imgs.search.brave.com/I6RmO4xZXQz8yu0gAxssQ8Fph_2p4XjLzDvSzEVHpHQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWMyNmEyMGNl/MzVjYWJlY2QzMjFl/NTNkYTAxY2M2YmVi/MGEzN2ZkNTAwM2Vm/ODVkZGI1OWMzMmYx/YjRlZGU5Yy9nb29k/bmV3czEuY29tLw",
+      "path": "› news  › articleView.html"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/MR6CIdHyeFt7okXHzWPaSFmv76_F2FYYRR3qZIKbZcY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudGVsZWdyYXBo/aW5kaWEuY29tL3Rl/bGVncmFwaC8yMDI2/L09jdC8xNzkzMjA0/MTk0XzE3OTI5MzAy/NTJfMTc4ODg5NDE4/MF8xNzgyMzEzMTc0/XzE3NzU4MDY0Mzhf/bmV0YW55YWh1LTEu/Z2lm.jpeg"
+      "src": "https://imgs.search.brave.com/fkzkzIsCcl9feqrJNv9cT5aDZCsYumVqkuI-oQrvONg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z29vZG5ld3MxLmNv/bS9uZXdzL3RodW1i/bmFpbC8yMDI2MTAv/NDY1NjM1XzYwNzc5/ODhfMjU0NV92MTUw/LmpwZw"
     }
   },
   {
     "type": "news_result",
-    "title": "Israel election takeaways: Netanyahu survives, Arab parties gain and Trump, Iran war loom",
-    "url": "https://www.nbcnews.com/world/israel/israel-election-results-netanyahu-eisenkot-arab-parties-trump-iran-war-rcna606060",
-    "description": "The embattled prime minister looked set for a slight advantage over the bloc led by his main rival. Arab parties made notable gains, and the prospect of renewed U.S.-Israeli military action against Iran loomed.",
-    "age": "7 hours ago",
-    "page_age": "2026-10-28T16:05:15",
+    "title": "ইসরায়েলি হামলা হলে ভয়াবহ অর্থনৈতিক বিপর্যয় ঘটবে : ইরান | NTV Online",
+    "url": "https://ntvbd.com/world/news-1826937",
+    "description": "ইসরায়েলের নির্বাচন যখন ভোট গণনা চলছে ঠিক সেই মুহূর্তে ইসরায়েলিদের নতুন কোনো হামলার জবাবে বিশ্ববাজারে ভয়াবহ ...",
+    "age": "11 hours ago",
+    "page_age": "2026-10-28T15:40:00",
     "profile": {
-      "name": "NBC News",
-      "url": "https://www.nbcnews.com/world/israel/israel-election-results-netanyahu-eisenkot-arab-parties-trump-iran-war-rcna606060"
+      "name": "NTV",
+      "url": "https://ntvbd.com/world/news-1826937"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "nbcnews.com",
-      "hostname": "www.nbcnews.com",
-      "favicon": "https://imgs.search.brave.com/eI6piNjPQhnQicFjMZFpnZ2HlEkQUna_5IQn9Awm0PU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJjOWM3M2Qx/ODU2MGYwNDE1MTFk/ZGZiYTRhYjUwNDg3/NjU3NjhkMjJjMWEx/MWU5NjFiYzRiN2Rj/ZmE1NzUzMC93d3cu/bmJjbmV3cy5jb20v",
-      "path": "› world  › israel  › israel-election-results-netanyahu-eisenkot-arab-parties-trump-iran-war-rcna606060"
+      "netloc": "ntvbd.com",
+      "hostname": "ntvbd.com",
+      "favicon": "https://imgs.search.brave.com/qnOT5JOwBvvupcybeS2N_oqAy-qBuiDGcWG8cBuBPl0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDY2Y2Y1YTMy/NjA5NWZmNGNlNTEy/MjU4NzhmODk1N2Ey/MDBjNmRjMWVlYTJl/NjNhYmNhOGM3ZDdk/OTg1ZGJjZC9udHZi/ZC5jb20v",
+      "path": "› world  › news-1826937"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/Y_bNne9wCfYVFvoR1jx4VQJ7_6TT0WxMZMOH3ELYmF8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jbGRucnkucy1u/YmNuZXdzLmNvbS9p/bWFnZS91cGxvYWQv/dF9uYmNuZXdzLWZw/LTEyMDAtNjMwLGZf/YXV0byxxX2F1dG86/YmVzdC9yb2NrY21z/LzIwMjYtMTAvMjYx/MDI4LW5ldGFueWFo/dS0xLXJzLTJmY2Yy/Zi5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran warns of global energy shock if Israel strikes again - i24NEWS",
-    "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-warns-of-global-energy-shock-if-israel-strikes-again",
-    "description": "Tehran says a fresh offensive in the Persian Gulf could devastate energy markets as Netanyahu’s Likud leads provisional election results",
-    "age": "8 hours ago",
-    "page_age": "2026-10-28T15:44:00",
-    "profile": {
-      "name": "i24NEWS",
-      "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-warns-of-global-energy-shock-if-israel-strikes-again"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "i24news.tv",
-      "hostname": "www.i24news.tv",
-      "favicon": "https://imgs.search.brave.com/o26g7KlHBaZklI0fufDeN-Z3HejlDMAkTZCy5jFKntg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2JkODYwYzMz/MGQ3OGI3NTZhM2Nh/NTY3YWY2ZGI1ZDI0/MzNhZmUzZDY1MTJl/YTM1MjIwMTQ1OGRl/NzVlODFlNC93d3cu/aTI0bmV3cy50di8",
-      "path": "› en  › news  › middle-east  › iran-eastern-states  › artc-iran-warns-of-global-energy-shock-if-israel-strikes-again"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7DY7O4-ZdmeCCtZ-Z-GtyaxQ0zDy8m4QEAqehHoGI9o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aTI0bmV3cy50di91/cGxvYWRzLzBmL2Jh/L2M2LzU2LzQ0LzIw/LzQ5LzRmLzVhL2E1/L2FhL2YxL2FjL2Zm/L2RkLzQ1LzBmYmFj/NjU2NDQyMDQ5NGY1/YWE1YWFmMWFjZmZk/ZDQ1LnBuZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "US warns Gulf of intense strikes on Iran after midterms: Report | Middle East Eye",
-    "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report",
-    "description": "American, Israeli armies are preparing for renewed attacks to push Tehran towards negotiations, The Wall Street Journal reports · US Secretary of War Pete Hegseth speaks during a roundtable discussion with US President Donald Trump at the White House in Washington, DC, on 21 October 2026 (Kevin Lamarque/Reuters) ... The US has warned several Gulf Arab countries to be prepared for a short, intense military offensive against Iran ...",
-    "age": "8 hours ago",
-    "page_age": "2026-10-28T15:19:38",
-    "profile": {
-      "name": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/us-warns-gulf-intense-strikes-iran-after-midterms-report"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "middleeasteye.net",
-      "hostname": "www.middleeasteye.net",
-      "favicon": "https://imgs.search.brave.com/yg1xTejkTfyFF_wq3UyRFNWDMKFh3nWBZCFTAqWBTK8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWNiZTA5NmVi/ODRmMjk3ZDI3Njll/MzI5ZjlkZDhiYmRh/MzVjYTgyMDEzZDdk/MTIwOGUzZWFlNWM3/OWUyNmJkOC93d3cu/bWlkZGxlZWFzdGV5/ZS5uZXQv",
-      "path": "› news  › us-warns-gulf-intense-strikes-iran-after-midterms-report"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/EXGkaqNxUdnzkJBtH1HbxSzYVSTbLz2mWaETKCu8WuA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWlkZGxlZWFzdGV5/ZS5uZXQvc2l0ZXMv/ZGVmYXVsdC9maWxl/cy9pbWFnZXMtc3Rv/cnkvUGV0ZV9IZWdz/ZXRoLURvbmFsZC1U/cnVtcC5qcGc"
+      "src": "https://imgs.search.brave.com/6Zwx6wphpHed5rul25HTnBowveZCfAfLidMGJSs_6t4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uY2Ru/Lm50dmJkLmNvbS9z/aXRlcy9kZWZhdWx0/L2ZpbGVzL3N0eWxl/cy9zb2NpYWxfZ3Bp/X250dl8yNG0vcHVi/bGljL2ltYWdlcy8y/MDI2LzEwLzI4L2lp/cmFhbl90aGFhbWIu/anBn"
     }
   },
   {
@@ -378,7 +576,7 @@
     "title": "OBR, 힐리 첫 예산안 이후 영국 물가 전망 상향 - 뉴스 및 통계 - IndexBox",
     "url": "https://www.indexbox.io/ko/blog/uk-budget-watchdog-raises-inflation-forecasts-after-healeys-first-budget/",
     "description": "이번에 수정된 전망은 영국 물가상승률이 9월 예상보다 크게 오른 3.5%를 기록해 2025년 10월 이후 최고치를 나타냈다는 데이터에 따른 것이다. 이는 이란 전쟁이 계속되는 가운데 에너지 가격이 상승한 데 따른 것이다.",
-    "age": "8 hours ago",
+    "age": "12 hours ago",
     "page_age": "2026-10-28T15:10:38",
     "profile": {
       "name": "IndexBox",
@@ -400,7 +598,7 @@
     "title": "트럼프 \"이란 전쟁, 내가 원할 때 끝낸다\"…전쟁 비용 470억달러로 불어나",
     "url": "https://www.newspim.com/news/view/20261028001597",
     "description": "[서울=뉴스핌] 고인원 기자= 도널드 트럼프 미국 대통령이 이란 전쟁을 언제든 끝낼 수 있다고 주장하면서도 이란의 핵무기 보유는 절대 허용하지 않겠다는 입장을 재확인했다. 전쟁 장기화로 미국의 군사비 부담이 ...",
-    "age": "12 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-10-28T11:44:00",
     "profile": {
       "name": "Newspim",
@@ -419,10 +617,32 @@
   },
   {
     "type": "news_result",
+    "title": "트럼프, 이란에 대한 새로운 공격 위협, 미국은 중동 주재 외교관 감축 - 뉴스투데이 / 아이데일리",
+    "url": "https://www.ntoday.net/%ED%8A%B8%EB%9F%BC%ED%94%84-%EC%9D%B4%EB%9E%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B3%B5%EA%B2%A9-%EC%9C%84%ED%98%91-%EB%AF%B8%EA%B5%AD%EC%9D%80-%EC%A4%91%EB%8F%99-%EC%A3%BC/",
+    "description": "그 합의에는 두 가지 속도가 있습니다. 목요일에 발행된 The Atlantic의 보도에 따르면, 베센트는 경제 교살과 이스라엘 총리를 옹호합니다. 벤자민 네타냐후정권을 전복시키기 위해 새로운 폭탄 테러를 추진합니다.",
+    "age": "15 hours ago",
+    "page_age": "2026-10-28T11:35:12",
+    "profile": {
+      "name": "Ntoday",
+      "url": "https://www.ntoday.net/%ED%8A%B8%EB%9F%BC%ED%94%84-%EC%9D%B4%EB%9E%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B3%B5%EA%B2%A9-%EC%9C%84%ED%98%91-%EB%AF%B8%EA%B5%AD%EC%9D%80-%EC%A4%91%EB%8F%99-%EC%A3%BC/"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "ntoday.net",
+      "hostname": "www.ntoday.net",
+      "favicon": "https://imgs.search.brave.com/_HW2M8nv3lQYDvuBL2557V3zHN5PSyts08ytSAWHrQY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWM1OTJiOTlk/ZjE0OWM2YWE4MjUw/NDAxOTE5NDI3MGY3/MjFmZjg1NDMzZDk1/MmUwZmVhM2FlOTc0/YmU0YjA0MS93d3cu/bnRvZGF5Lm5ldC8",
+      "path": "› 트럼프-이란에-대한-새로운-공격-위협-미국은-중동-주"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/4kb42-WBj55eayu2TV4QDWV5PhEwJUqjnFBVmjOq4zU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bnRvZGF5Lm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNi8x/MC_tirjrn7ztlIQt/7J20656A7JeQLeuM/gO2VnC3sg4jroZzs/mrQt6rO16rKpLeyc/hO2YkS3rr7jqta3s/nYAt7KSR64-ZLeyj/vOyerC3smbjqtZDq/tIAud2VicA"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "미국 ? ?문가: 걸프만 군주국들은 테헤란이 조건을 좌우하?? 있다는 사실을 깨닫지 못하?? 있다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/10/28/78660.html",
     "description": "한편, 반격의 일환으로 이란군 총참모부는 이스라엘, 요르단 및 걸프만 군주국(사우디아라비아, 아랍에미리트, 카타르, 쿠웨이트, 바레인, 오만)의 기반 시설을 전면 파괴하는 '제로아워' 우선 목표 목록을 승인했습니다.",
-    "age": "12 hours ago",
+    "age": "15 hours ago",
     "page_age": "2026-10-28T11:33:22",
     "profile": {
       "name": "News-pravda",
@@ -441,32 +661,10 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘 총선, 여야 박빙 속 아랍계 정당 약진…\"극우가 영혼 할퀴어 투표소로\"",
-    "url": "https://pressian.com/pages/articles/2026102819465264776",
-    "description": "하지만 한 주 앞으로 다가온 미 중간선거 종료 뒤 트럼프 대통령이 이란에 대한 군사 공격을 재개할 경우 전시 상황 탓 네타냐후 총리와의 통합 내각 구성 압력이 커질 수 있다.",
-    "age": "12 hours ago",
-    "page_age": "2026-10-28T11:30:58",
-    "profile": {
-      "name": "Pressian",
-      "url": "https://pressian.com/pages/articles/2026102819465264776"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "pressian.com",
-      "hostname": "pressian.com",
-      "favicon": "https://imgs.search.brave.com/awLNnGaS5oLSZljw9P4YqhAg6xvEgwofVtU00Nbh54E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTc0MzM2MTMy/YTE0OWU3ODM1YjY5/ZWQ1ZmJlY2I5YTlk/ZmQ4MTUzOTI1Y2Uz/NDRhZjUwYTYzNWE0/NTY1MDU1OC9wcmVz/c2lhbi5jb20v",
-      "path": "› pages  › articles  › 2026102819465264776"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/eheP9gr0rgcgOclQd8fV2HETpwlr-pD7e6xGkrGu4ks/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cHJlc3NpYW4uY29t/L19yZXNvdXJjZXMv/MTAvMjAyNi8xMC8y/OC8yMDI2MTAyODIw/MDgwMjA0NTgyX3gu/anBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "'?? 뢰 구축'을 위한 7일: 카타르, 이란에 새로운 '평화' 계획 ? ?시 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/10/28/78657.html",
     "description": "카타르 중재단이 이란 측에 미국, 이스라엘과의 전쟁 종식을 위한 새로운 합의안 초안을 제시했다고 로이터 통신이 10월 28일 보도했다. 이 관계자는 협상에 정통한 소식통을 인용해 해당 문서가 일요일에 제시되었으며, 테헤란 ...",
-    "age": "12 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-10-28T11:15:21",
     "profile": {
       "name": "News-pravda",
@@ -488,7 +686,7 @@
     "title": "과반 잃고도 \"미국과 함께 이란 타도\"‥중동 전쟁 곧 갈림길?",
     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861429_37004.html",
     "description": "3년 만에 치러진 이스라엘 총선에서 네타냐후 총리 세력이 과반 확보에 실패한 것으로 보입니다. 하지만 야권 역시 과반에 못 미치면서, 캐스팅보트는 역대 최다 의석을 얻...",
-    "age": "12 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-10-28T11:11:11",
     "profile": {
       "name": "IMBC",
@@ -507,54 +705,10 @@
   },
   {
     "type": "news_result",
-    "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset - The New York Times",
-    "url": "https://nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-    "description": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-    "age": "13 hours ago",
-    "page_age": "2026-10-28T10:45:04",
-    "profile": {
-      "name": "NYTimes",
-      "url": "https://nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "nytimes.com",
-      "hostname": "nytimes.com",
-      "favicon": "https://imgs.search.brave.com/RN_hisZu4P-ruAdWPR9uvaiS7YyW2d23CPtP4_gduCA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTRlZDNhZjVm/ZDNmYzA0NDdjYjYx/NjY5YWQ5ZDFiYmE1/ZTE5NjE5ZjBiYmRl/NTdkZGFiZDQ0M2Y5/NGNkZjA3Yi9ueXRp/bWVzLmNvbS8",
-      "path": "› 2026  › 10  › 28  › world  › middleeast  › israel-election-middle-east-relations.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lN5GclzUKCqPvc6Iu_liifUUnTIXmjDug9K6gN0ynI0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwMS5ueXQuY29t/L2ltYWdlcy8yMDI2/LzEwLzI4L211bHRp/bWVkaWEvMjhpc3Jh/ZWwtYXJhYi13b3Js/ZC16cHRqLzI4aXNy/YWVsLWFyYWItd29y/bGQtenB0ai1mYWNl/Ym9va0p1bWJvLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran's Araghchi: Any 'Israel-instigated' attack would be 'devastating' for global markets | The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/irans-araghchi-any-israel-instigated-attack-would-be-devastating-for-global-markets/",
-    "description": "Thank you, David Horovitz, Founding Editor of The Times of Israel Join Our Community Join Our Community Already a member? Sign in to stop seeing this ... In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran",
-    "age": "13 hours ago",
-    "page_age": "2026-10-28T10:31:50",
-    "profile": {
-      "name": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/irans-araghchi-any-israel-instigated-attack-would-be-devastating-for-global-markets/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "timesofisrael.com",
-      "hostname": "www.timesofisrael.com",
-      "favicon": "https://imgs.search.brave.com/OJQMSAvTflmuKWaGFi8G1JN7iB7VR_SsBpLzPv0OKAo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDRiNjdiZWJi/NTM0ZWE5YzIxMDRl/N2E2ZDc0MWViZDM3/NTRkOWE4ZjRiYWQ3/MjI1MWUyYjc1ZWQw/NTkxNmViZC93d3cu/dGltZXNvZmlzcmFl/bC5jb20v",
-      "path": "› liveblog_entry  › irans-araghchi-any-israel-instigated-attack-would-be-devastating-for-global-markets"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3hyqKTzfvZ0MDJaLKaxFj6D-U59glEc48kYcvyIY1Z4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtY2RuLnRvaS1t/ZWRpYS5jb20vd3d3/L3VwbG9hZHMvMjAy/Ni8xMC9BUDI2Mjky/NTIyODUwNDIyLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "네타냐후 최대 위기…출구조사 초박빙 | 채널A 뉴스",
     "url": "https://ichannela.com/news/detail/000000557298.do",
     "description": "[앵커] 이란 전쟁의 확산이냐, 종전이냐, 큰 영향을 미칠 이스라엘 총선 투표가 우리 시간으로 오늘 새벽 모두 끝났습니다. 재집권을 노리는 네타냐후 총리도, 반 네타냐후 진영도 모두 승리를 자신하고 있는데요. 출구조사를...",
-    "age": "13 hours ago",
+    "age": "16 hours ago",
     "page_age": "2026-10-28T10:28:00",
     "profile": {
       "name": "iChannelA",
@@ -573,54 +727,10 @@
   },
   {
     "type": "news_result",
-    "title": "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran",
-    "url": "https://cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war",
-    "description": "Iran's foreign minister said Wednesday the country \"continues to give diplomacy a chance to succeed\" after Reuters earlier reported Tehran rejected Qatar's latest peace proposal, saying they had come with \"unacceptable\" ideas. Israelis voted Tuesday in a national election set to shape the country's ...",
-    "age": "13 hours ago",
-    "page_age": "2026-10-28T10:20:00",
-    "profile": {
-      "name": "CBS News",
-      "url": "https://cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cbsnews.com",
-      "hostname": "cbsnews.com",
-      "favicon": "https://imgs.search.brave.com/RMOfsxToorHaaxB1SEr3Mc3lKxXku6fa5RuqRVbcCpU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmMxMzJiYzUx/MzMyNjU5ZDRlYTUy/NGZhNmVhMzM1NDIy/YjEyYWI3M2JiYjQy/NzY0YTBiMWM2ZDhm/N2IxYzBiMi9jYnNu/ZXdzLmNvbS8",
-      "path": "› live-updates  › iran-war-donald-trump-qatar-mediators-new-proposal-end-war"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/vk1wmhYKXyQnxwkJA7SXVxPTMA3g_d-gAI3slGkfkro/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMzLmNic25ld3Nz/dGF0aWMuY29tL2h1/Yi9pL3IvMjAyNi8x/MC8yOC9lMmU2ODIw/OS04OGY5LTQ1MmMt/OTFlYS03ZGMyYzU5/NWFkOTkvdGh1bWJu/YWlsLzEyMDB4NjMw/LzkwOGY2YTFmZmI0/ZjNkYTVjMWZmZDEx/NjVhNDAyYjk3L2h2/a2l4aHR4YWFhYzBw/di5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "뉴스스페이스",
-    "url": "https://newsspace.kr/news/article.html?no=16374",
-    "description": "[뉴스스페이스=이승원 기자] 미국이 이란을 상대로 해상 봉쇄를 이어가는 가운데 아라비아해에 배치한 항공모함에 벙커버스터와 원거리 타격무기를 추가로 실었다. 지하·강화시설을 공격할 수 있는 탄약까지 보급하면서 ...",
-    "age": "14 hours ago",
-    "page_age": "2026-10-28T09:25:16",
-    "profile": {
-      "name": "Newsspace",
-      "url": "https://newsspace.kr/news/article.html?no=16374"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newsspace.kr",
-      "hostname": "newsspace.kr",
-      "favicon": "https://imgs.search.brave.com/zKJYQqyV50pO8EbOHwnvDdO3qEJMCJJUeqc81DKqnbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzEyNTFmYTI5/YTQ4YTJhMWMzZjBh/MzFjYjUxMDQyNDFi/NDg1ZjA1YTAwOTAz/Mzc2NjMxMTAwMjRm/OGU3ZjdiZC9uZXdz/c3BhY2Uua3Iv",
-      "path": "› news  › article.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/cnc_pstHj3I1SMgbsESMzvlfqG8tETptpxjHgbcOpX0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c3NwYWNlLmty/L2RhdGEvcGhvdG9z/LzIwMjYxMDQ0L2Fy/dF8xNzkzMTc5NDg0/ODA0X2E4YzY3OS5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "이란은 혁명수비대(IRGC) 훈? ?의 일환으로 새로운 미사일 발사 훈? ?을 실시했다 - Pravda 한국",
     "url": "https://korea.news-pravda.com/dprk/2026/10/28/78646.html",
     "description": "미사일 운용병력의 준비태세를 점검하는 것은 외부 경쟁국들에게 이란이 이스라엘, 미국, 그리고 기타 적대국들의 실제적 또는 잠재적 군사적 압력에 대응하기 위한 중요한 수단으로 미사일 전력을 보유하고 있음을 분명히 ...",
-    "age": "14 hours ago",
+    "age": "17 hours ago",
     "page_age": "2026-10-28T09:16:53",
     "profile": {
       "name": "News-pravda",
@@ -639,10 +749,98 @@
   },
   {
     "type": "news_result",
+    "title": "이란과의 ? ?쟁에 대한 미국의 지출은 계속 늘어나?? 있는데, 오직 트럼프만이 승리를 이야기하?? 있다 - Pravda 한국",
+    "url": "https://korea.news-pravda.com/dprk/2026/10/28/78645.html",
+    "description": "미 중부사령부는 이 지출 내역을 발표했다.10월 중순 현재, 미국의 이란 전쟁 총 지출액은 47,1억 달러에 달하며, 이 중 대부분은 '에픽 퓨리 작전' 중 소모된 군수품 보충에 사용되었습니다. 예비 추산에 따르면 470억 달러 중 ...",
+    "age": "18 hours ago",
+    "page_age": "2026-10-28T09:12:51",
+    "profile": {
+      "name": "News-pravda",
+      "url": "https://korea.news-pravda.com/dprk/2026/10/28/78645.html"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "korea.news-pravda.com",
+      "hostname": "korea.news-pravda.com",
+      "favicon": "https://imgs.search.brave.com/z00_ASiXdiLLlVsFzatEOPE36MqvmD-iD49Pfi39lDA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGZjNGNiY2Jm/OGNkZDU3ZDFlNGJh/OTZlYTYyZTQ5ZmUz/NmI2N2U4NDQ1NWNh/YmU1NmI5NGE5MDRm/MWEwZDE1Mi9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20v",
+      "path": "› dprk  › 2026  › 10  › 28  › 78645.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/wjkTzJJjcXsIhifE5hRmD6rP0egh3UvhxNlO_sOvdB0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Jl/YS5uZXdzLXByYXZk/YS5jb20vaW1nLzIw/MjYxMDI4LzQ5Mzk1/MTYxYWNiOTFhN2Y3/ZTgxNWZjOTdmOTI5/Mjc3LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "트럼프 “내 지지가 네타냐후에 큰 도움”…총선 출구조사는 접전 < 국제뉴스 < 기사본문 - 진일보 | 전남일보",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077617",
+    "description": "트럼프 대통령은 총선 9일 전인 지난 18일 소셜미디어에 이스라엘 국민을 향한 서한을 올려 네타냐후를 이란에 맞선 ‘위대한 전사이자 파트너’라고 평가하며 재집권 지지를 선언했다.",
+    "age": "19 hours ago",
+    "page_age": "2026-10-28T07:43:23",
+    "profile": {
+      "name": "Jnilbo",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077617"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "jnilbo.com",
+      "hostname": "www.jnilbo.com",
+      "favicon": "https://imgs.search.brave.com/9l_yomn8MzetzHYkNQ-iytmwCzFUWdJHQyVhdGVvb4Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQwYTFkNzY3/Y2ExNzI2Y2E0N2E5/M2IwYWI0NWIyMjQ3/ZGM2ZTU3NTQ4NWU2/ZDk3NmFmYjQ0ZmUz/M2E1NGI1NS93d3cu/am5pbGJvLmNvbS8",
+      "path": "› news  › articleView.html"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/F7Qg8ToqHW8DHohq8y6nrDNEQ2LvYwb2b3W8RVPJQmE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/am5pbGJvLmNvbS9u/ZXdzL3Bob3RvLzIw/MjYxMC85MDAwMDA3/NzYxN182MDY2Mjlf/NDI0NS5wbmc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "이란전쟁 7개월⋯美 전쟁비용 63조원 썼다 - 서플",
+    "url": "https://supple.kr/news/cmvrso2mk5ligm5vum13drgcb",
+    "description": "미국은 전쟁이 시작된 이후 약 7개월 사이 63조원에 달하는 전쟁비용을 지출한 것으로 확인됐다. (출처=美중부사령부 미디어) 미국이 약 7개월 동안 이란 전쟁에서 471억달러(약 63조1000억원)를 지출한 것으로 확인됐다.",
+    "age": "19 hours ago",
+    "page_age": "2026-10-28T07:21:00",
+    "profile": {
+      "name": "Supple",
+      "url": "https://supple.kr/news/cmvrso2mk5ligm5vum13drgcb"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "supple.kr",
+      "hostname": "supple.kr",
+      "favicon": "https://imgs.search.brave.com/ZmbtYGxd_eiiSRPItJ7yG8mWKlZDsd4r6HbmYdjeUes/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQ5ZjFiYWYy/MWZlMzgyMWYzY2Ri/NmQxYmFkOWFiOTQz/ODIzNjZlZmMwN2Yx/NzIxYTY5MDc3YTRm/YmExYzQxOC9zdXBw/bGUua3Iv",
+      "path": "› news  › cmvrso2mk5ligm5vum13drgcb"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/_eKS27DLUuhC3HXABqOFofCFtHPzRJev5zMMh8K0zLo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VwcGxlLmty/Lz91cmw9aHR0cHMl/M0ElMkYlMkZpbWcu/ZXRvZGF5LmNvLmty/JTJGcHRvX2RiJTJG/MjAyNiUyRjAzJTJG/NDAwJTJGMjAyNjAz/MDQxMTE4MzJfMjMw/MjY2Nl8xMjAwXzc3/Ny5qcGc"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "WSJ “美부통령, 트럼프 지시로 이란 강경파에 협상재개 서한”",
+    "url": "https://www.koreatimes.com/article/11629520",
+    "description": "WSJ “美부통령, 트럼프 지시로 이란 강경파에 협상재개 서한” 트럼프 ‘중간선거 후 대대적 공격’ 반복 경고 속 이란과 합의 모색 “서한에 구체적 평화안은 없어…갈리바프 등 협상파 소외 가능성” (워싱턴=연합뉴스) ...",
+    "age": "20 hours ago",
+    "page_age": "2026-10-28T07:12:08",
+    "profile": {
+      "name": "Korea Times",
+      "url": "https://www.koreatimes.com/article/11629520"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "koreatimes.com",
+      "hostname": "www.koreatimes.com",
+      "favicon": "https://imgs.search.brave.com/eOM1hWcgdrY8XP24uVxgUxH3iYowy24by0zEW48qmb4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWMxMTgzZDQ2/NmNmOTJiYmExMmYy/MDJkZGJiNzIzNjA2/NzM2OTQzNGRhNjU2/OTVlOTRhOTMzOTVh/NTUwOWQ4MS93d3cu/a29yZWF0aW1lcy5j/b20v",
+      "path": "› article  › 11629520"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/k3-LeCn4TlL0W_IPm-0HUNkpCVsGLwyH0ZvZsU7wLwE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmtvcmVhdGltZXMu/Y29tL25ld3MvY21z/LzIwMjYvMTAvMjgv/bmV3cy1wLnYxLjIw/MjYxMDI4LjhmNjQ0/OWU5ZWJkYjQ4OGM4/ZjViMTk3NTgzN2Iz/ZDc3X1QxLmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
     "title": "이란은 왜 협상 서두르지 않나…美 불신·중간선거·호르무즈 카드 :: 공감언론 뉴시스 ::",
     "url": "https://www.newsis.com/view/NISX20261028_0003844691",
     "description": "중동 매체 알자지라는 ... 요구했다고 보도했다. 미국은 이란의 핵 프로그램 관련 양보를 원한다. 반면 이란은 전쟁을 끝낼 조건부터 충족해야 한다는 입장이다....",
-    "age": "17 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-10-28T07:02:50",
     "profile": {
       "name": "Newsis",
@@ -663,8 +861,8 @@
     "type": "news_result",
     "title": "미국 \"내달 이란에 짧고 강력한 군사 작전\"… 걸프국에 사전 경고-국제ㅣ한국일보",
     "url": "https://www.hankookilbo.com/news/article/A2026102813590003932",
-    "description": "장대한 분노는 2월 말 미국과 이스라엘이 이란의 군사·핵 시설을 공격하고 최고지도자를 비롯한 이란 지도부 다수를 살해하며 시작한 대이란 전쟁의 초반 작전명이다.",
-    "age": "17 hours ago",
+    "description": "미국이 내달 중간선거 후 ... 27일(현지시간) 보도했다. 이란을 종전 협상장으로 끌어내기 위해 대규모 공습을 재개한다는 것이다. 미 당국자들을 인용한 보도에 따르면 미국과 이스라엘은 공습 사전 작업으로 중동 ...",
+    "age": "20 hours ago",
     "page_age": "2026-10-28T06:52:00",
     "profile": {
       "name": "한국일보",
@@ -686,7 +884,7 @@
     "title": "\"美, 걸프국들에 '중간선거 후 짧고, 강력한 대이란 공격에 대비하라' 통보\"",
     "url": "https://www.newspim.com/news/view/20261028001300",
     "description": "보도에 따르면 미군은 작전 ... 2명에 따르면 미 국방부는 이스라엘의 방공망을 강화하기 위해 텍사스 기지에서 패트리어트 미사일 시스템을 추가로 보내고 있다. 미국 성조기와 이란 국기....",
-    "age": "17 hours ago",
+    "age": "20 hours ago",
     "page_age": "2026-10-28T06:25:00",
     "profile": {
       "name": "Newspim",
@@ -705,46 +903,24 @@
   },
   {
     "type": "news_result",
-    "title": "US, Israel To Strike Iran After US Midterm Elections? Team Trump's Warning To Gulf",
-    "url": "https://www.ndtv.com/world-news/us-israel-to-strike-iran-after-us-midterm-elections-team-trumps-warning-to-gulf-12246914",
-    "description": "US forces have been restocking their munitions, and bomber aircraft and jet fighters are preparing for strikes, officials said.",
-    "age": "17 hours ago",
-    "page_age": "2026-10-28T06:22:10",
+    "title": "\"美 이란전쟁 비용 63조원 급증\"... '기지 복구'비용 제외 '빙산의 일부' - SBS Biz",
+    "url": "https://biz.sbs.co.kr/article/20000342723",
+    "description": "미국이 이란 전쟁에서 쓴 ... 의회 국가안보 관련 위원회에 제출된 최신 자료에 따르면 지난 7개월여간 지출한 이란 전쟁 비용 471억 달러 가운데 폭탄, 미사일 등 탄약류가 290억 달러(약 38조9천억원)로 60% ...",
+    "age": "1 day ago",
+    "page_age": "2026-10-28T06:12:00",
     "profile": {
-      "name": "NDTV",
-      "url": "https://www.ndtv.com/world-news/us-israel-to-strike-iran-after-us-midterm-elections-team-trumps-warning-to-gulf-12246914"
+      "name": "SBS Biz",
+      "url": "https://biz.sbs.co.kr/article/20000342723"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "ndtv.com",
-      "hostname": "www.ndtv.com",
-      "favicon": "https://imgs.search.brave.com/Fx_S3Utz6cTew1eBHvL5MBvwnOrxLoGREUqPYaob4vs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTVjZmNmMTNl/OTg2YzgxY2MwMTFi/MDMwYzk5OWYwMjg1/NzY1OTFmZmNiN2M1/MDc3NDc4NjQwNDUy/NGJjMjdkZC93d3cu/bmR0di5jb20v",
-      "path": "› world-news  › us-israel-to-strike-iran-after-us-midterm-elections-team-trumps-warning-to-gulf-12246914"
+      "netloc": "biz.sbs.co.kr",
+      "hostname": "biz.sbs.co.kr",
+      "favicon": "https://imgs.search.brave.com/fVyBpKrJh7GHYg5STLpVWnpLRESxOqaaufJZpe6hqEY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGU5MmQ0Mjhj/MmQxODlhZjhmMzMx/ZmE4MWU0Y2RhOGNm/YzQzMGQ0MDNjY2I1/YzU0MDY3MmQwZGQ2/NjNmZjkzNy9iaXou/c2JzLmNvLmtyLw",
+      "path": "› article  › 20000342723"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/VWMId-OLRdr3OEacb-YYXR9SbiEg-Wo_dAKVyzwHZZE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jLm5k/dHZpbWcuY29tLzIw/MjYtMTAvNnVlanBh/NnNfZG9uYWxkLXRy/dW1wLXJldXRlcnNf/NjI1eDMwMF8yNF9P/Y3RvYmVyXzI2Lmpw/ZWc_aW09RmVhdHVy/ZUNyb3AsYWxnb3Jp/dGhtPWRubix3aWR0/aD0xNjAwLGhlaWdo/dD05MDA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "IAEA, 트럼프 전쟁 명분 반박 \"이란, 핵시설 복구 정황 없어\" - 파이낸셜뉴스",
-    "url": "https://www.fnnews.com/news/202610281045259258",
-    "description": "국제원자력기구는 이란이 지난해 6월 미·이스라엘의 공습으로 파괴된 핵 시설을 복구·재건하려는 움직임을 확인하지 못했다고 유엔 안전보장이사회에 보고했다.이는 '이란의 핵 개발을 저지하기 위해 군사 행동이 ...",
-    "age": "17 hours ago",
-    "page_age": "2026-10-28T06:14:03",
-    "profile": {
-      "name": "First News",
-      "url": "https://www.fnnews.com/news/202610281045259258"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "fnnews.com",
-      "hostname": "www.fnnews.com",
-      "favicon": "https://imgs.search.brave.com/uCfRRJGRCgE3KsfFwxu2G-9VrCHOlsD9TrfUXR5T09U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTQzN2JmYzg2/NDdjNDBmNzMxYWIx/N2U2ZmI5MDZlOGRh/ODljNGVkMmI4ZmU3/YTQ4NzgyNzhmN2E3/ZmQxYTUyYS93d3cu/Zm5uZXdzLmNvbS8",
-      "path": "› news  › 202610281045259258"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/0gt6ByswhKJ-Hqkp1qUzGjj0Ld5j87s60khqqRg01KI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5mbm5ld3MuY29t/L3Jlc291cmNlL21l/ZGlhL2ltYWdlLzIw/MjYvMTAvMjgvMjAy/NjEwMjgwODA3NDc5/Mzc2X2UuanBn"
+      "src": "https://imgs.search.brave.com/E1xJE2LpJByh73ESd16OcswvvJ9khXAXdlpohFEdE6A/rs:fit:200:200:1:0/g:ce/aHR0cHM6"
     }
   },
   {
@@ -752,7 +928,7 @@
     "title": "'계속 늘어난다' 美 이란전쟁 최소 63조원 써, NYT - SBS Biz",
     "url": "https://biz.sbs.co.kr/article/20000342722",
     "description": "NYT가 확보한 의회 국가안보 관련 위원회에 제출된 최신 자료에 따르면 지난 7개월여간 지출한 이란 전쟁 비용 471억 달러 가운데 폭탄, 미사일 등 탄약류가 290억 달러(약 38조9천억원)로 60% 정도를 차지했습니다.",
-    "age": "17 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-10-28T06:09:00",
     "profile": {
       "name": "SBS Biz",
@@ -774,7 +950,7 @@
     "title": "NYT “미, 이란전쟁서 63조원 썼다…60%는 탄약 비용“",
     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261028150631Ft5",
     "description": "미국이 이란 전쟁을 위해 ... 의회 국가안보 관련 위원회에 제출된 최신 자료에 따르면 지난 7개월여간 지출한 이란 전쟁 비용 가운데 폭탄과 미사일 등...",
-    "age": "17 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-10-28T06:06:32",
     "profile": {
       "name": "Yonhapnewstv",
@@ -795,8 +971,8 @@
     "type": "news_result",
     "title": "\"美 이란전쟁서 '기지 복구' 빼고도 63조원 써\" | 연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20261028128400009",
-    "description": "NYT가 확보한 의회 국가안보 관련 위원회에 제출된 최신 자료에 따르면 지난 7개월여간 지출한 이란 전쟁 비용 471억 달러 가운데 폭탄, 미사일 등 탄약류가 290억 달러(약 38조9천억원)로 60% 정도를 차지했다.",
-    "age": "18 hours ago",
+    "description": "게다가 이란의 공격으로 손상되거나 파괴된 미군 시설의 복구·대체 비용도 포함되지 않았다. 바레인 마나마의 미 해군 5함대 기지 등이 대상이다.",
+    "age": "1 day ago",
     "page_age": "2026-10-28T05:51:43",
     "profile": {
       "name": "Yonhap News Agency",
@@ -815,32 +991,10 @@
   },
   {
     "type": "news_result",
-    "title": "미, 걸프국에 \"중간선거 후 이란 단기·고강도 공격 대비하라\"",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819073",
-    "description": "외교와 군사 채널로 전달된 이러한 통보는 미국과 이스라엘이 이란을 겨냥해 새로운 대규모 군사작전을 준비하고 있음을 보여주는 신호 중 하나라고 신문은 짚었습니다.",
-    "age": "18 hours ago",
-    "page_age": "2026-10-28T05:12:26",
-    "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819073"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/07HI7ZB8o54Sutid3mbIhOc7XyXKMZz4zireuO5dHzQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYxMDI4LzIwMjIz/NTQzMV8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "The Oil Market Should Brace for a Forever Stalemate in Iran - Bloomberg",
     "url": "https://bloomberg.com/opinion/articles/2026-10-28/the-oil-market-should-brace-for-a-forever-stalemate-in-iran",
     "description": "The oil market sees the future of the Iran war as binary. Either Tehran and Washington reach a deal — in days rather than months — or they head into an extended and worsening conflict. With few signs of peace, the market is anticipating another round of hostilities, perhaps as soon as next ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-10-28T04:00:17",
     "profile": {
       "name": "Bloomberg",
@@ -859,32 +1013,10 @@
   },
   {
     "type": "news_result",
-    "title": "미국 언론, 미국의 이란전쟁 비용 470억 달러로 증가",
-    "url": "https://korean.cri.cn/2026/10/28/ARTI1793158955931251",
-    "description": "미국 '더 힐'이 27일 보도한 데 따르면, 미군의 이란전쟁 비용이 470억 달러로 증가해 지난달보다 30억 달러 이상 늘었다. 보도에 따르면 미군 중앙사령부가 의회에 제출한 추산에 따르면 비용 중 가장 큰 항목은 탄약 보충으로 ...",
-    "age": "20 hours ago",
-    "page_age": "2026-10-28T03:42:39",
-    "profile": {
-      "name": "Cri",
-      "url": "https://korean.cri.cn/2026/10/28/ARTI1793158955931251"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "korean.cri.cn",
-      "hostname": "korean.cri.cn",
-      "favicon": "https://imgs.search.brave.com/0EgXLByk0ovojTaUr46vStwaPIXgYEQBfqKsAIutbUU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2E1ODMwM2Zi/MGQzYTY1MDI1NTkz/NGVjYzczMDYwMWMy/Njc2NTAyNTk3MGRh/NjM2ZDczNTU0ZWM3/MWQ4ZDE5Yi9rb3Jl/YW4uY3JpLmNuLw",
-      "path": "› 2026  › 10  › 28  › ARTI1793158955931251"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/3ZWWBTmDaCxKB8ic9ihs10Bbp_FMGcSkyqXtdX7bjoI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8zOHBp/Y3Jlcy5jZ3RuLmNv/bS9waG90b0FsYnVt/L3BhZ2UvcGVyZm9y/bWFuY2UvaW1nLzIw/MjYvMTAvMjgvMTc5/MzE1OTM2MzAxM18y/NzIuanBn"
-    }
-  },
-  {
-    "type": "news_result",
     "title": "네타냐후 운명 가를 이스라엘 총선 '초박빙'",
     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6861314_36967.html",
     "description": "미국과 대 이란 전쟁을 수행해 온 이스라엘 네타냐후 총리의 재집권 여부가 달린 총선 투표가 마감됐습니다. 역대 최고 투표율 속에 우파 집권 연정에 위기감이 고조되면서 ...",
-    "age": "20 hours ago",
+    "age": "1 day ago",
     "page_age": "2026-10-28T03:20:09",
     "profile": {
       "name": "IMBC",
@@ -899,6 +1031,50 @@
     },
     "thumbnail": {
       "src": "https://imgs.search.brave.com/WOScX-nC42mzKPHk2OiXoDuyhJirfmvbwUw-opBWTZ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5pbW5ld3MuaW1i/Yy5jb20vcmVwbGF5/LzIwMjYvbncxMjAw/L2FydGljbGUvX19p/Y3NGaWxlcy9hZmll/bGRmaWxlLzIwMjYv/MTAvMjgvbm9vbl8y/MDI2MTAyOF8xMjE5/MjFfMV85X0xhcmdl/LmpwZw"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "英검찰 \"페어퍼드기지 테러 음모 배후에 이란 연계 인물 '알리'\" - 뉴스1",
+    "url": "https://www.news1.kr/world/europe/6334742",
+    "description": "영국 국적 2명 기소 \"이란 정보기관 연계인물 '알리'로부터 지시 받아\" 영국 검찰이 지난 9월 영국 공군(RAF) 페어퍼드 기지를 겨냥한 테러 공격 음모의 배후에 이란 정보기관과 연계된 인물이 있다고 27일(현지시간) ...",
+    "age": "1 day ago",
+    "page_age": "2026-10-28T03:14:54",
+    "profile": {
+      "name": "News1",
+      "url": "https://www.news1.kr/world/europe/6334742"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "news1.kr",
+      "hostname": "www.news1.kr",
+      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
+      "path": "› world  › europe  › 6334742"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/MpnOlJWt9ZKrJXDkUFFR4amDfMF30sxu769mWcjoPPM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzQvOC83ODQ0/ODY2L2hpZ2guanBn"
+    }
+  },
+  {
+    "type": "news_result",
+    "title": "다음 주 수요일이 올해 들어 가장 중요한 날일수도 있는 이유 - 유머 게시판 | 루리웹",
+    "url": "https://bbs.ruliweb.com/community/board/300143/read/77186147",
+    "description": "이스라엘 총선 종료 후 출구조사네타냐후 패배 뜸내각제 답게 이합집산 후 최종 발표는 다음주 수요일로 예정미국 중간 선거 최종 개표 결과도 다음주 수요일에 나온다두 놈 다 보낼수 있을까",
+    "age": "1 day ago",
+    "page_age": "2026-10-28T03:06:37",
+    "profile": {
+      "name": "Ruliweb",
+      "url": "https://bbs.ruliweb.com/community/board/300143/read/77186147"
+    },
+    "meta_url": {
+      "scheme": "https",
+      "netloc": "bbs.ruliweb.com",
+      "hostname": "bbs.ruliweb.com",
+      "favicon": "https://imgs.search.brave.com/FmRCvZqz6psTktAcFrXNHNttO1mXA3jr3JjWhl_hfzI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTMyNjdiYmMy/NmQzNDY3OWVlM2I3/N2I1YjIyNTRlYzM3/NWMyZWMxZjc3OWQz/OTk4Y2NkMzg4NzE5/NGY2MGNkNC9iYnMu/cnVsaXdlYi5jb20v",
+      "path": "› community  › board  › 300143  › read  › 77186147"
+    },
+    "thumbnail": {
+      "src": "https://imgs.search.brave.com/o9knRGyv2AHVFhwhqHDIy4Pv4qkCo2fRCHCxL7MSgO8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMy5y/dWxpd2ViLmNvbS9v/cmkvMjYvMTAvMjgv/MWExODA3NzY4MTYx/NjllYjcud2VicA"
     }
   },
   {
@@ -925,618 +1101,46 @@
   },
   {
     "type": "news_result",
-    "title": "이스라엘 - 나무위키",
-    "url": "https://namu.wiki/w/%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98",
-    "description": "현재 진행 중인 이스라엘-하마스 전쟁: 이스라엘-하마스 전쟁 · 현재 진행 중인 미국-이란 전쟁: 미국-이란 전쟁",
+    "title": "美, 이란전쟁 8개월 동안 63조원 투입…탄약 보충에만 39조 - 뉴스1",
+    "url": "https://www.news1.kr/world/usa-canada/6334613",
+    "description": "美중부사령부, 의회에 보고…미군기지 복구 비용은 제외 미군이 이란과의 전쟁 비용으로 470억 달러(약 63조 원) 이상을 지출한 것으로 나타났다.27일(현지시간) 로이터 통신과 더힐에 따르면, 미국 중부사령부(CEN …",
     "age": "1 day ago",
-    "page_age": "2026-10-27T23:48:25",
+    "page_age": "2026-10-28T02:33:44",
     "profile": {
-      "name": "Namu Wiki",
-      "url": "https://namu.wiki/w/%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98"
+      "name": "News1",
+      "url": "https://www.news1.kr/world/usa-canada/6334613"
     },
     "meta_url": {
       "scheme": "https",
-      "netloc": "namu.wiki",
-      "hostname": "namu.wiki",
-      "favicon": "https://imgs.search.brave.com/ASqhh3dK7hFX53bmp7XVZpSxqVtrrhYb5NAiPa7b2QU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjY4MDQzMTIz/ZjZmOGYxZjdhYjkw/ODEwZTVjNjBlYWYy/M2JkZTkxNDIxNDZk/M2Y0NTg4MjhmMDg2/NjBjYTE4YS9uYW11/Lndpa2kv",
-      "path": "› w  › 이스라엘"
+      "netloc": "news1.kr",
+      "hostname": "www.news1.kr",
+      "favicon": "https://imgs.search.brave.com/z3sl8zOsZSCwJ3iX7BSN3FuJZwTNOQA8G6ss8pH7SSc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzk1YWY2Nzdl/OGI3YjUzNDJjYjll/MjJiY2I3OTk5YTAw/MjRlNjVmMTNkNTNm/M2YxNjU1ZjNhNjJk/ZTEyMDMzMC93d3cu/bmV3czEua3Iv",
+      "path": "› world  › usa-canada  › 6334613"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/uJ9hYQJiycFfCWdp8XPsmFKmgK5BcEUleXelAmxQ7TY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLm5h/bXUud2lraS9pLzZW/eDhoaFVNeVZuYXB2/OFhzcW9wTUlYbVpl/cW83OF9IWWFiTTlN/MElrTE5fdmd6bmVn/ZktKek1GYnVnRmdm/VU1CeERSMGV1c3lW/cVpzQzF6UGEtTS15/UUxwdFlFSjRwQVBx/SUp0V3BKQUlRRWlI/Tm9XVmNwNThIMEY2/aTZVaHUwdnNBLVJu/NTVRMjVXdVR3WUtO/VUxjdy5zdmc"
+      "src": "https://imgs.search.brave.com/-UtV4CRq2Qajj1Lc2UBcqCKriEqJ_D6Z5qM62QyLlTM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pM24u/bmV3czEua3Ivc3lz/dGVtL3Bob3Rvcy8y/MDI2LzcvMTMvODAw/NTc2My9oaWdoLmpw/Zw"
     }
   },
   {
     "type": "news_result",
-    "title": "이란, 韓해운사 장금상선에 \"호르무즈 규정 위반 법적조치\" 예고",
-    "url": "https://www.newspim.com/news/view/20261028000042",
-    "description": "해운 전문 매체 로이드 리스트(Lloyd's List)도 지난주 장금상선 소속 선박 7척이 해당 수역에서 공격을 받았다고 보도했다. 이란이 통상적으로 '집행 조치'라 부르는 행위는 사실상 실력 행사(공격)를 의미하는 것으로 알려졌다.",
+    "title": "이란 대통령, 푸틴 만나 \"미국 없이도 역내 문제 해결 가능\"",
+    "url": "https://www.newspim.com/news/view/20261028000260",
+    "description": "앞서 지난주 세르게이 라브로프 러시아 외무장관은 미국과 이란의 전쟁 발발 이후 처음으로 이란을 방문했다. 그는 테헤란과 워싱턴 간 협상이 교착 상태에 빠진 가운데 러시아의 외교적 노력이 \"대규모 전쟁의 재발을 막는 ...",
     "age": "1 day ago",
-    "page_age": "2026-10-27T23:12:00",
+    "page_age": "2026-10-28T00:13:00",
     "profile": {
       "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20261028000042"
+      "url": "https://www.newspim.com/news/view/20261028000260"
     },
     "meta_url": {
       "scheme": "https",
       "netloc": "newspim.com",
       "hostname": "www.newspim.com",
       "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20261028000042"
+      "path": "› news  › view  › 20261028000260"
     },
     "thumbnail": {
-      "src": "https://imgs.search.brave.com/ogfMhrX6d94tHA_7ZgCAqxa5FtRxfHtwwVgCVlvIBjA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzA5/LzEwLzI2MDkxMDA4/MTE0NTgxNTBfODYx/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "국제유가, 이스라엘 총선 결과 주시하며 하락세…WTI 100달러선",
-    "url": "https://bloomingbit.io/feed/news/123070",
-    "description": "국제유가는 지난 2월 미국과 이스라엘의 이란 공격 이후 급등했다.",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T23:01:23",
-    "profile": {
-      "name": "Bloomingbit",
-      "url": "https://bloomingbit.io/feed/news/123070"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bloomingbit.io",
-      "hostname": "bloomingbit.io",
-      "favicon": "https://imgs.search.brave.com/jkr1yAIidQIQqDjGQA8ITBUdjK6X9V7a-k3P_fmPPTs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODc0MDhlOGE3/NzNjN2E1ZTQxY2Vi/YTc5NGI2NTJkMGYx/ODZhMTBmOGI0NzY4/YjMxNjQ4NDc3OGFi/M2M2MTA0ZS9ibG9v/bWluZ2JpdC5pby8",
-      "path": "› feed  › news  › 123070"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/8DTCKbTgScRICQdoSCSGUHr8_Kp7wJOomfsQ7z6wYdg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5ibG9vbWluZ2Jp/dC5pby9uZXdzL2M0/YTE0Y2ZmLTdjZTQt/NGEyYi1hOWI5LTA3/ZmFhN2ZiNjJhOS53/ZWJw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "트럼프 ‘깐부’ 네타냐후, 입지 좁아지나…이스라엘 총선 초박빙으로 - 매일경제",
-    "url": "https://mk.co.kr/news/world/12187999",
-    "description": "⏳ 만약 연정 구성에 거듭 실패해 과반 확보를 이루지 못할 경우, 수개월 안에 선거를 다시 치러야 하는 상황까지 벌어질 수 있어요. 🔄 이번 선거 결과는 가자지구·레바논·이란과의 전쟁을 거치며 안보 책임론과 지지율 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T22:53:46",
-    "profile": {
-      "name": "MK",
-      "url": "https://mk.co.kr/news/world/12187999"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "mk.co.kr",
-      "hostname": "mk.co.kr",
-      "favicon": "https://imgs.search.brave.com/xA-WT8UR8GKyMQqNtzT0STgeTsRnTYmdxhzu23NqWb8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlhYzMzMjEx/NmJiMjVjYjM4NDAx/OWEzZWU1MzlhNTZk/YjkzYzM4ZGE0ZGZm/YzU1NTMyMGZhMDIx/NDEyZmYyNi9tay5j/by5rci8",
-      "path": "› news  › world  › 12187999"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/W0B7kYqqCu1Je3Wil-XzqFBN54MnqC3V62AN2wfP6Bk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waW1n/Lm1rLmNvLmtyL25l/d3MvY21zLzIwMjYx/MC8yOC9uZXdzLXAu/djEuMjAyNjEwMjgu/ODVhZjNmOTUzZWIw/NDUzYWI0ZjVhMmQx/MGNhNjhmZDNfUi5q/cGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war live: Iran says ‘close contact’ with mediators on plan to end war | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
-    "description": "Iranian foreign minister's words come as Turkiye's Erdogan, US's Trump, hold call on Mecca pact diplomatic efforts.",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T22:29:31",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
-      "path": "› news  › liveblog  › 2026  › 10  › 27  › iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/R0eYm9E_fKtKKq2Q-61ilTcv4miCe9rKT-5WDqp-uTs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8xMC8yMDI2LTEw/LTI3VDE3MzAyNlpf/NjM1ODc3MzE0X1JD/MlRCT0E5VDU1SV9S/VFJNQURQXzNfUlVT/U0lBLUVORVJHWS1T/VU1NSVQtQklMQVRT/LUlSQU4tMTc5MzIx/OTM2Mi5qcGc_cmVz/aXplPTE5MjAlMkMx/NDQw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war live: Iran says ‘close contact’ with mediators on plan to end war | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
-    "description": "Iranian foreign minister's words come as Turkiye's Erdogan, US's Trump, hold call on Mecca pact diplomatic efforts.",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T22:29:31",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › liveblog  › 2026  › 10  › 27  › iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/R0eYm9E_fKtKKq2Q-61ilTcv4miCe9rKT-5WDqp-uTs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8xMC8yMDI2LTEw/LTI3VDE3MzAyNlpf/NjM1ODc3MzE0X1JD/MlRCT0E5VDU1SV9S/VFJNQURQXzNfUlVT/U0lBLUVORVJHWS1T/VU1NSVQtQklMQVRT/LUlSQU4tMTc5MzIx/OTM2Mi5qcGc_cmVz/aXplPTE5MjAlMkMx/NDQw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이스라엘 총선, 기록적 투표율...최장기 총리 네타냐후 연임 여부 결정",
-    "url": "https://www.voakorea.com/a/8215825.html",
-    "description": "이스라엘 중앙선거관리위원회는 현지 시각 화요일 오후 6시 기준 투표율이 66.7%로, 2022년 총선 당시 같은 시각 투표율을 크게 웃돌았다고 밝혔는데요. 네타냐후 총리가 승리해 이란 등을 상대로 군사작전을 이어갈지, 아니면 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T21:39:45",
-    "profile": {
-      "name": "Voice of America",
-      "url": "https://www.voakorea.com/a/8215825.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "voakorea.com",
-      "hostname": "www.voakorea.com",
-      "favicon": "https://imgs.search.brave.com/FfAXX9NTlgX7EoWQWRh-lQAaSXl_y2w1a-zJjpc0ns4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjQ1YjA0YWNm/NWEyNmM3NjFhNGQ2/ZGMwYjdlN2I1ZWYw/ZWFiZmFhNzc2NjE2/YTQxMmY4ODM5ODY1/MjUxNThjMC93d3cu/dm9ha29yZWEuY29t/Lw",
-      "path": "› a  › 8215825.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/U6HycXIGiDj2rt0cXrihUEKXjLMU47PZB2A0MQfHVUE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nZGIu/dm9hbmV3cy5jb20v/OWZiOGM4M2QtYTk3/YS00MzBiLTEzYzQt/MDhkZjEzZGU1NGQx/X2N4MF9jeTE4X2N3/MF93MTIwMF9oNjMw/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[고래사냥] '태성·주성엔지니어링·삼기에너지솔루션즈! 내일장 고래 종목은?! | MTN 머니투데이방송",
-    "url": "https://news.mtn.co.kr/article/2026102806241734337",
-    "description": "▶▶▶ 싹쓰리 Up&Down 미국, 또 대규모 공격 준비설… 중동 현재 상황은? - 사우디·파키스탄·튀르키예 실권자들 이란 방문 - 미국, 이란에 대규모 군사작전 실행 준비설 - 디케이락, 반도체 피팅·밸브 전문 기업 - 티이엠씨, ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T21:37:00",
-    "profile": {
-      "name": "MTN NEWS",
-      "url": "https://news.mtn.co.kr/article/2026102806241734337"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.mtn.co.kr",
-      "hostname": "news.mtn.co.kr",
-      "favicon": "https://imgs.search.brave.com/dbTZ6a47oWevj5gxllzkG2Jc7UgdQzyIfSGtmmbLRqA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWMwZDM0OWVl/MmY0NjUxY2YzN2I5/ZGZiM2VkMjliZmIx/MjMzODg5YmMyMWQx/OTM0ZmUzOWY2OGYx/NmNkYTdmMC9uZXdz/Lm10bi5jby5rci8",
-      "path": "› article  › 2026102806241734337"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/Y8SFEl3zYyouggV9S7ONQgx_bjj_aXfWfMNtfwQHwrI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubXRuLmNvLmty/L210bi8yMDI2LzEw/L1ZFNjg5dkFYaG1F/ZUNhQVMvaW1hZ2Uv/MjAyNjEwMjdfMTk1/NDQyLy8xMzA5Mi0x/NzkzMDk4MzQ2MjQy/XzAyLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 압박용…美 초대형 비핵폭탄 ‘GBU-43/B’ 위력은[이현호의 밀리터리!톡] | 서울경제",
-    "url": "https://www.sedaily.com/article/20106859",
-    "description": "미 CNN방송은 지난 10월 15일(현지 시간) 중간선거 전후 도널드 트럼프 미 대통령이 이란 공격 재개를 명령할 때를 대비해 미군이 이란의 에너지 인프라와 핵시설을 겨냥한 새로운 작전 계획 중 하나로 초대형 비핵폭탄 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T21:00:00",
-    "profile": {
-      "name": "Sedaily",
-      "url": "https://www.sedaily.com/article/20106859"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "sedaily.com",
-      "hostname": "www.sedaily.com",
-      "favicon": "https://imgs.search.brave.com/quTZz4-Uc12rFrAgvv7kaVhCgmGjEYfwOt_RMCu7R04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDE0ZTA2OGNl/MDFiNjMwOWZiMGY5/M2JkOWZlMmMyYzI3/ODM3MTVjMmU5YThj/NTUwODgwZmRhODg4/MzA2ODU0OS93d3cu/c2VkYWlseS5jb20v",
-      "path": "› article  › 20106859"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/2pWWF_ZU2i8XGTZpeIFI455HOKj8wZBNo_zgIpdH-V0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LnNlZGFpbHkuY29t/L25ld3MvY21zLzIw/MjYvMTAvMjcvbmV3/cy1wLnYxLjIwMjYx/MDI2LmM3MWVmMDcx/YmQ0YzQ0ODk5OGU2/MWZkMzdjZjlkYWQw/X1oxLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[금/유가] 중동 협상 기대에 유가 하락…저가 매수에 금 상승",
-    "url": "https://www.newspim.com/news/view/20261028000021",
-    "description": "중동 외교 접촉에 공급 차질 우려 일부 완화…브렌트유 113달러대로 이스라엘 총선도 변수…이란 전쟁 향방·미 중간선거 영향 주목 금 선물 0.9% 상승…12월 금리 인상 기대·29일 PCE 물가 관건",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T20:39:00",
-    "profile": {
-      "name": "Newspim",
-      "url": "https://www.newspim.com/news/view/20261028000021"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "newspim.com",
-      "hostname": "www.newspim.com",
-      "favicon": "https://imgs.search.brave.com/dGQ7H3SC3biYD_7_oaRJx7PSEsBmuR8eminhDA_c1PI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjk2MDlkZDA0/NzM3MmY1MTYxZDYz/ZmU5MzQ3ODcyNTRm/ZTNmNzRmMzU5ZjUw/OGNmMGQyZDAxOWUz/NmFiNjk0ZC93d3cu/bmV3c3BpbS5jb20v",
-      "path": "› news  › view  › 20261028000021"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/k7poViPzzTmFhuxjV4eaiCDEqDbifwYOasgVD4jt7e8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI0LzA4/LzMwLzI0MDgzMDE2/NDExOTQxMjBfNzY1/X3RjLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "As war against Iran looms again, what lessons learned, or not? - CSMonitor.com",
-    "url": "https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons",
-    "description": "The push in the U.S. and Israel toward renewing major hostilities with Iran, after months of relative stalemate, is raising questions about what lessons h…",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T20:20:00",
-    "profile": {
-      "name": "CSMonitor.com",
-      "url": "https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "csmonitor.com",
-      "hostname": "www.csmonitor.com",
-      "favicon": "https://imgs.search.brave.com/uf0JkN9RgM-rAqJc8_WVEW9kFs4RRNTOi3nJsNfsE4c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjdlZWYzNjVi/ZjQ0Yzk4ZGMwMWIw/NWY2ZmVhNTM0OWJj/MDRmZDkzODU5YWE4/MGNlNWViMzdlODEy/MTVkYzg5ZC93d3cu/Y3Ntb25pdG9yLmNv/bS8",
-      "path": "› World  › Middle-East  › 2026  › 1027  › iran-israel-trump-threats-futility-lessons"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/CXfMfQ1VoeN1ZKSygPID3Wt8P0DcwE9jF1Ehaxnq9Uk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3Ntb25pdG9y/LmNvbS9jc20vMjAy/Ni8xMC8xMDI3X09J/UkFOTEVTU09OU19s/ZWRlLmpwZz9hbGlh/cz1zdGFuZGFyZF85/MDB4NjAw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "메카 3국·이란 회담 다음날…후티 \"사우디 국방부 등 공격\"",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817914",
-    "description": "사우디아라비아 등 '메카 공동방위협정' 회원국 3개국이 역내 긴장 완화를 위해 이란과 만나 고위급 회담을 한 바로 다음날, 예멘의 친이란 후티 반군은 사우디 국방부 등을 겨냥해 공격했다고 밝혔습니다.",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T16:35:09",
-    "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817914"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/f_2yyRL6A7f__aruqZaxT5SqitV43ovI7IzNMQOHFuc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYxMDI4LzIwMjIz/NTQyNl8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "네타냐후, 막판까지 “이란전쟁 재개”… 전쟁광 총리 ‘운명의 날’ | 서울신문",
-    "url": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/28/20261028012009",
-    "description": "이스라엘 총선이 네타냐후 총리의 재집권 여부와 대이란전쟁 향방을 가르는 분수령이 됐다. 그는 트럼프의 공개 지지 속에 안보 위기를 부각하며 재집권을 노렸고, 군부 반대에도 이란 공습과 전쟁 재개를 거론했다. 결과가 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T15:41:49",
-    "profile": {
-      "name": "Seoul",
-      "url": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/28/20261028012009"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "seoul.co.kr",
-      "hostname": "www.seoul.co.kr",
-      "favicon": "https://imgs.search.brave.com/lLChAlWrUXMzMqjbE3BX3GKVwOmrGsVwq2GE8Dpcqwc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MwZjlmZmFj/MWRmOGU3ZWE2M2Yz/Zjc1MzY0OTg3NDEx/YTcxMzM2ZTUyZjM1/ZDY0ZDg2M2YwMjAy/NGI1NmI2Ni93d3cu/c2VvdWwuY28ua3Iv",
-      "path": "› news  › international  › middleeast-africa  › 2026  › 10  › 28  › 20261028012009"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/X8DJ48MfRxPG-r5CKxY_3u25aJamQ6bctzkWtS8F9yY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2VvdWwuY28ua3Iv/L2ltZy91cGxvYWQv/MjAyNi8xMC8yNy9T/U0NfMjAyNjEwMjcx/ODA3MzJfTzIuanBn/LndlYnA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "How the War in Iran Could Escalate",
-    "url": "https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/",
-    "description": "In late September, Trump rejected ... take steps regarding its nuclear program as part of the package, something Iranian leaders say they will only do at a later stage. The timing of any U.S.-Israeli attack remains uncertain....",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T14:59:56",
-    "profile": {
-      "name": "TIME",
-      "url": "https://time.com/article/2026/10/27/how-the-war-in-iran-could-escalate/"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "time.com",
-      "hostname": "time.com",
-      "favicon": "https://imgs.search.brave.com/nfd5JuER7u0mjyEPk1ytIw4_qGaihXtj6okMjkW62TE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWRkMzU3NTQy/ZTI0OTAwYTdmOWY0/MzAyZTRmZTcyOGY3/OTcyMGM2OGNjYThk/YjRiZDUxN2NmYmYz/MmY0MzcxZi90aW1l/LmNvbS8",
-      "path": "› article  › 2026  › 10  › 27  › how-the-war-in-iran-could-escalate"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/utuIHPz2Uca4nAtR3DjLccG3Ji1r2TfdRr1GZM8tlr0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGltZS5jb20v/djMvYXNzZXRzL2Js/dGVhNjA5Mzg1OWFm/NjE4M2IvYmx0NDgz/YjJiOTg4ZjJhZmEx/Yy82YWUwYmFmZWM0/NGQ1ZGM0ODYwYzk2/MmQvSXJhbi13YXIt/ZmxhZy1taXNzaWxl/cy5qcGc_YnJhbmNo/PXByb2R1Y3Rpb24m/YW1wO3dpZHRoPTEw/MjQmYW1wO3F1YWxp/dHk9NzUmYW1wO2F1/dG89d2VicCZhbXA7/Y3JvcD0xNjo5"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "사우디, 이란과 첫 회동했지만… 중동 전운 갈수록 고조",
-    "url": "https://koreatimes.com/article/11629402",
-    "description": "사우디아라비아와 파키스탄, 튀르키예 등 ‘메카 공동방위협정’ 회원국 3개국과 이란이 26일 이란 수도 테헤란에서 처음으로 만나 고위급 회담을 가졌다. 미국이 11월 중간선거 이후 이란을 재타격할 수 있다는 관측이 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T13:25:43",
-    "profile": {
-      "name": "Korea Times",
-      "url": "https://koreatimes.com/article/11629402"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "koreatimes.com",
-      "hostname": "koreatimes.com",
-      "favicon": "https://imgs.search.brave.com/wDxJxmetAnQax5SwULCBuCA08HDZ-aMm1QP8TsjGX1Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNmYWIzZmM2/Njc2ODY0ZWQ5Yjdl/NmMxMjk3Y2Q2NDMy/MTQ4M2Q3MDQ5NDZm/NjcxODQ1OTM0YmZj/YjkwM2Q3Zi9rb3Jl/YXRpbWVzLmNvbS8",
-      "path": "› article  › 11629402"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/J9PdB2uzCuWIlNdRwCvQidlZIzIF7D_eznX0OXT8HSA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93aW1n/LmtvcmVhdGltZXMu/Y29tL25ld3MvY21z/LzIwMjYvMTAvMjcv/bmV3cy1wLnYxLjIw/MjYxMDI3LjJhZjI4/ZTJjNWNkNTRlMzRi/YjlkN2U4M2Y0YTM2/NGQzX1QxLmpwZWc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iranians brace for renewed attacks after Israeli, US elections | Israel Election 2026 News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
-    "description": "The US and Israel have teased strikes around their elections, particularly against Iran's civilian infrastructure.",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T13:23:32",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › 2026  › 10  › 27  › iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/hNqltxaOxw7-C0R_RQkH34A4znrK5NxAf6iB7yEEibg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wNy9nZXR0eV82/YTViYmExYjBlLTE3/ODQzOTYzMTUuanBn/P3Jlc2l6ZT0xOTIw/JTJDMTQ0MA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "가자 전쟁 후 첫 총선…네타냐후 운명 갈린다",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817673",
-    "description": "네타냐후 총리는 투표 이틀 전 이스라엘 텔아비브에 핵폭탄이 떨어진 AI 이미지를 SNS에 올리고, 전쟁 파트너인 트럼프와 나란히 선 대형 광고판을 곳곳에 내걸었습니다. 이란의 핵 공격 공포를 부추기고 안보 이슈를 부각해 ...",
-    "age": "1 day ago",
-    "page_age": "2026-10-27T12:03:48",
-    "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817673"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/lQzCMIsvxVjpvcb2gE128-kcAcGt6L9VvOVn6KI10tI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYxMDI3LzIwMjIz/NTM4OF8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "No clear winner in Israel as exit polls suggest rebuke for Netanyahu | CNN",
-    "url": "https://cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl",
-    "description": "Israel's Prime Minister Benjamin ... during Israel's legislative elections. ... Prime Minister Benjamin Netanyahu thanked many of his supporters in his speech early Wednesday, among whom he counted US President Donald Trump and God. “Together with our great friend President Trump, we are determined to eliminate this threat once and for all,” he said, referring to Iran and the ongoing ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T08:58:40",
-    "profile": {
-      "name": "CNN",
-      "url": "https://cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "cnn.com",
-      "hostname": "cnn.com",
-      "favicon": "https://imgs.search.brave.com/AaaswLrRnQ_SvPuKsYddH7GMONyJXC4FA6WPngvvZ9k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWE1MThkOTBj/NGQ0OTZhODQ4Y2E2/YTdjZTM4MzYzNDgy/Mzk2OTAwYmRlYTI4/YWFhNjg0ZjNlNTcw/Mzc3OTUyOC9jbm4u/Y29tLw",
-      "path": "› 2026  › 10  › 27  › world  › live-news  › israel-elections-live-results-latest-votes-intl"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/alvXtfni7Gc-JZGrRaXjutdYiaUpz9CKEkEPRSyFuzg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/LzIwMjYxMDI3LWVp/c2Vua290LW5ldGFu/eWFodS1zcGxpdC5q/cGc_Yz0xNng5JnE9/d184MDAsY19maWxs"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "천막 속 7살, 총선 전날 ‘이스라엘 폭격’에 숨져…불도저로 민가도 밀려",
-    "url": "https://hani.co.kr/arti/international/arabafrica/1284415.html",
-    "description": "이스라엘이 총선 전날 밤까지 팔레스타인 요르단강 서안지구를 불도저로 밀고, 가자지구를 폭격했다. 팔레스타인 탄압을 정부의 주요 성과로 내세워 온 극우 성향 이스라엘 집권 세력이 막판까지 이를 과시하려는 것으로 ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T08:37:00",
-    "profile": {
-      "name": "Hani",
-      "url": "https://hani.co.kr/arti/international/arabafrica/1284415.html"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "hani.co.kr",
-      "hostname": "hani.co.kr",
-      "favicon": "https://imgs.search.brave.com/KIhGALWbr9OrhWkjKuQOEFP18xbSg-c0HqH1cPeXAX4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmVkYTU1M2M0/YTE0OGEwMzQ5Zjlm/NDdkY2YwMTI5ZjNk/OWZhZjczZDE5YjBl/NzdlMTI3YjY5MDMz/ZmUzZjM1Yi9oYW5p/LmNvLmtyLw",
-      "path": "› arti  › international  › arabafrica  › 1284415.html"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/YUL04SrXsweltnpaMcRWpk2ozVUOEFOmlt2Rh1e0o18/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mbGV4/aWJsZS5pbWcuaGFu/aS5jby5rci9mbGV4/aWJsZS9ub3JtYWwv/ODAyLzUzNS9pbWdk/Yi9vcmlnaW5hbC8y/MDI2LzEwMjcvMjAy/NjEwMjc1MDMyMTcu/d2VicA"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이집트 의회, 사우디 군사 지원 승인…지상군 파병 여부는 미정",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817528",
-    "description": "메카 협정은 북대서양조... 대한 공격으로 간주하고 당사국이 서로의 영토 보전, 주권에 대한 위협을 제거하기 위해 '필요한 모든 수단'을 사용해야 한다고 규정합니다. 메카 협정 회원국 3국과 이란의 고위 ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T08:27:17",
-    "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817528"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/o5ypBwy8cWLj9aEOdj0bnXRzg6kbrDte_cImOJQLDyc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYxMDI3LzIwMjIz/NTAzOF8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "미국과 이스라엘, 잇달아 선거...전 세계에 미칠 파장은 - BBC News 코리아",
-    "url": "https://bbc.com/korean/articles/c63r5zvljn29o",
-    "description": "도널드 트럼프 미국 대통령 ... 한편, 이란에 대한 추가 공격 가능성도 시사하며 네타냐후 총리의 재선을 지원하고 있다. 그러나 이러한 호전적인 발언과는 대조적으로, 중간선거를 앞두고 에너지 가격이 치솟아 미국에서 인기 없는 이 전쟁을 유권자들에게 ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T08:23:04",
-    "profile": {
-      "name": "BBC",
-      "url": "https://bbc.com/korean/articles/c63r5zvljn29o"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "bbc.com",
-      "hostname": "bbc.com",
-      "favicon": "https://imgs.search.brave.com/kfRy7wuGNQWzU47LzCO0VZPfeuEgMwKe1nZIYNJS9SU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODczZDE3NmVj/MzFhZjM1Yzc3YjA0/YTdhM2NkYTkxMGM5/NmQ5Yjc4YTBmMjY2/MTMzNWE1MzgwOWNm/NGQ3YWZlYy9iYmMu/Y29tLw",
-      "path": "› korean  › articles  › c63r5zvljn29o"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/7Q5appJf5jhDRxu_TXYphAeYpJSqZpfYdB6VX1qZsbE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L25ld3MvMTIwMC9i/cmFuZGVkX2tvcmVh/bi8wNjBjL2xpdmUv/MDNhNTExMDAtZDE1/OS0xMWYxLTkzZTEt/M2I2NTdiNjY1YmNm/LmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란 전쟁에서 중동 전쟁으로? 이집트 참전 가능성 - SBS Biz",
-    "url": "https://biz.sbs.co.kr/article/20000342473",
-    "description": "이란 전쟁이 중동 전반으로 확산될 수 있는 상황에 다가서고 있습니다.",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T08:13:00",
-    "profile": {
-      "name": "SBS Biz",
-      "url": "https://biz.sbs.co.kr/article/20000342473"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "biz.sbs.co.kr",
-      "hostname": "biz.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/fVyBpKrJh7GHYg5STLpVWnpLRESxOqaaufJZpe6hqEY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGU5MmQ0Mjhj/MmQxODlhZjhmMzMx/ZmE4MWU0Y2RhOGNm/YzQzMGQ0MDNjY2I1/YzU0MDY3MmQwZGQ2/NjNmZjkzNy9iaXou/c2JzLmNvLmtyLw",
-      "path": "› article  › 20000342473"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/zHUYfm046bJLktlVptb6qh56yiy9uKS02UJy9leh28E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/Yml6LnNicy5jby5r/ci91cGxvYWQvMjAy/Ni8xMC8yNy95VnMx/NzkzMDg4NTkxMDA5/LTg1MC5qcGc"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "네타냐후 총리 운명의 날…이스라엘, 총선 투표 돌입",
-    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817324",
-    "description": "총선 직전 이란 공습을 추진했다는 보도도 나와 파장이 예상됩니다. 뉴욕타임스(NYT)는 오늘 이스라엘 고위 군 관계자 3명과 관련 내용을 보고받은 3명의 소식통을 인용, 네타냐후 총리가 지난 수주 간 이란에 대한 새로운 ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T06:55:49",
-    "profile": {
-      "name": "SBS",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817324"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "news.sbs.co.kr",
-      "hostname": "news.sbs.co.kr",
-      "favicon": "https://imgs.search.brave.com/r61hO9ILd2gC0g2yII6WI9pbn0if8wtV2v7Qe4p2-jY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGVmOTgwMzJk/OGJkZmE4N2JkN2Qy/N2YzYTEwYjY2ZmE0/YmRiYzViNThmODY1/MmM3OGVjODc3YTBk/Y2YwNTU0Mi9uZXdz/LnNicy5jby5rci8",
-      "path": "› news  › endPage.do"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_D9h0FQs8-5GdLe5e2icJQ_DTJhWS1w4BIRAKfSKzyU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/c2JzLmNvLmtyL25l/d2ltZy9uZXdzLzIw/MjYxMDI3LzIwMjIz/NTI0MF8xMjgwLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "‘우파 동맹’ 패배 속 ‘불복’ 군불 떼기?…트럼프 “브라질 대선 조작” | 중앙일보",
-    "url": "https://www.joongang.co.kr/article/25473210",
-    "description": "현지시간 26일 이스라엘 텔아비브에 네냐민 네타냐후 총리와 도널드 트럼프 미국 대통령이 함께 등장하는 선거 광고판이 설치돼 있다. AFP=연합뉴스 · 네타냐후는 해당 글을 첨부한 뒤 “투표를 하고 함께 이란의 위협을 ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T05:48:09",
-    "profile": {
-      "name": "JoongAng Ilbo",
-      "url": "https://www.joongang.co.kr/article/25473210"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "joongang.co.kr",
-      "hostname": "www.joongang.co.kr",
-      "favicon": "https://imgs.search.brave.com/GhwZsh7hkRs6JepC5OzQ8QR9q3kCxFmDqSa0ytFMXwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTk0ZGFlYWJj/MzcyY2VlYTM0ZDkz/ODQ1MGI0ZjAwMjQy/ZTMyOGJkZTVlYTQ2/MGRjMDNhYjM1OGU4/MTQ1NTg0Ni93d3cu/am9vbmdhbmcuY28u/a3Iv",
-      "path": "› article  › 25473210"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/_A5Gp-XkCWxB2bgGvcwV7U_kuQhMQoHBBo36_Zsfxsk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9wZHMu/am9vbmdhbmcuY28u/a3IvbmV3cy9jb21w/b25lbnQvaHRtbHBo/b3RvX21tZGF0YS8y/MDI2MTAvMjcvNWE5/MjU0ZTEtZDg3Yy00/YWRkLWE4NjAtYmU1/ZDY4NDQ1NzFjLmpw/Zw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "이란의 승전 논리 - 소수 의견(minority opinion)",
-    "url": "https://jeesoohong.substack.com/p/78e",
-    "description": "이란 국민은 전쟁과 미국의 제재로 경제적으로 엄청난 대가를 치르고 있지만 이란 국민은 대부분 정부를 중심으로 똘똘 뭉쳤고 이란이 자국을 스스로 방어하기 위해서 받아들여야 할 시련이라고 생각하고 있다.",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T02:48:14",
-    "profile": {
-      "name": "Substack",
-      "url": "https://jeesoohong.substack.com/p/78e"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "jeesoohong.substack.com",
-      "hostname": "jeesoohong.substack.com",
-      "favicon": "https://imgs.search.brave.com/cX7L55JCVLrxugKD7EVAqvrRXNz1-uxCAn3wUrikPq4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmM5ZjViZjhk/NWY5MWU2ZWZmNDlk/YjEzZjk2MGM0YWZi/NzRhZDI3OGI5MTI4/Zjg5MGY3YmQ5ZjA2/OGU1YmZkOC9qZWVz/b29ob25nLnN1YnN0/YWNrLmNvbS8",
-      "path": "› p  › 78e"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/X00p9sKAT5hYlMjaiMF9IUw2S7l6T__572LMqn1vNQE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/JHNfIWZQa0QhLHdf/MTIwMCxoXzY3NSxj/X2ZpbGwsZl9qcGcs/cV9hdXRvOmdvb2Qs/ZmxfcHJvZ3Jlc3Np/dmU6c3RlZXAsZ19h/dXRvL2h0dHBzJTNB/JTJGJTJGc3Vic3Rh/Y2stcG9zdC1tZWRp/YS5zMy5hbWF6b25h/d3MuY29tJTJGcHVi/bGljJTJGaW1hZ2Vz/JTJGYzk0Njg2OWQt/NGRiMS00NjQ2LWJj/MjAtOWNiN2M0NGI4/MGM0XzM1OXgzNTku/anBlZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "[아시아라운드업 20261027] 유엔 보고서 \"이스라엘, 팔레스타인 서안 말살 위해 반인도 범죄\" - 아시아엔 THE AsiaN",
-    "url": "https://kor.theasian.asia/archives/419816",
-    "description": "1. 중국 5중전회 개막, 시진핑 장악력 강화 주목- 중국공산당이 시진핑 국가주석의 당 총서기 4연임이 유력시되는 내년 당대회를 앞두고, 26∼29일(현지시간) '5중전회'를 열고 '전면적 종엄치당'(전면적이고 엄격한 당 관리) ...",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T02:28:00",
-    "profile": {
-      "name": "Theasian",
-      "url": "https://kor.theasian.asia/archives/419816"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "kor.theasian.asia",
-      "hostname": "kor.theasian.asia",
-      "favicon": "https://imgs.search.brave.com/DCdyNOrwXcpwO_64ujYZNbIffGOSOLtw0ZAyzitmFEg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzMxYjQ4Njgw/ZDVmN2EyNmFiNjM3/OTUyZTM1NzRiNmY4/MGViOTY1NzU0NGFm/YmQ0ZTU2YTIwMTk1/MDY4M2QwMy9rb3Iu/dGhlYXNpYW4uYXNp/YS8",
-      "path": "› archives  › 419816"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/zQsEJDddwDD0USjbICScx3MgMseU3Qb8H6alinn43Uk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9rb3Iu/dGhlYXNpYW4uYXNp/YS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8xMC9QWUgyMDIz/MTIxMzE3MTYwMDM0/MDAwLmpwZw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
-    "description": "Qatar’s Emir Sheikh Tamim meets Iranian President Masoud Pezeshkian on the sidelines of the summit.",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T00:00:00",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/x9Ya9Ez5ovQoQBY6HcaumZGrDOUE9GVYEV1mBsXSvMo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWNlNjJhOWEz/ZjA2ZWUwMjVhMjMz/ZjZlODA2NzgwOWJl/NzEzN2FiNTM1MDhl/MWE4NDViZjg3MDQ3/NTNiNDcwMy9hbGph/emVlcmEuY29tLw",
-      "path": "› news  › liveblog  › 2026  › 10  › 27  › iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wBYASb7drpeMTDZ20JeMzs2I903-oHedNt3AAFBWPMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8xMC9BRlBfXzIw/MjYxMDI3X19ENEs4/NlVIX192MV9fSGln/aFJlc19fUnVzc2lh/RW5lcmd5RGlwbG9t/YWN5R2FzU3VtbWl0/LTE3OTMxMjE5NzVf/M2JjZTU4LTE3OTMx/MzM3OTMuanBnP3Jl/c2l6ZT0xMjAwJTJD/NjMwJmFtcDtxdWFs/aXR5PTgw"
-    }
-  },
-  {
-    "type": "news_result",
-    "title": "Iran war updates: Putin hosts Moscow talks with Qatari emir, Iran president | US-Israel war on Iran News | Al Jazeera",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
-    "description": "Qatar’s Emir Sheikh Tamim meets Iranian President Masoud Pezeshkian on the sidelines of the summit.",
-    "age": "2 days ago",
-    "page_age": "2026-10-27T00:00:00",
-    "profile": {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq"
-    },
-    "meta_url": {
-      "scheme": "https",
-      "netloc": "aljazeera.com",
-      "hostname": "www.aljazeera.com",
-      "favicon": "https://imgs.search.brave.com/v6ofD8-UxOz25FG97pc7hKftp3PxiHPGAa1WXzanNHo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJhNzgzMzNk/Y2FkMjdkN2I5YWFh/YzcwZmE1Y2U4YWY2/MzU4ZTg5YTc3ZDZi/NzRhMDFkNzkzY2I4/NWYzMWNjOC93d3cu/YWxqYXplZXJhLmNv/bS8",
-      "path": "› news  › liveblog  › 2026  › 10  › 27  › iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq"
-    },
-    "thumbnail": {
-      "src": "https://imgs.search.brave.com/wBYASb7drpeMTDZ20JeMzs2I903-oHedNt3AAFBWPMM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxqYXplZXJhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8xMC9BRlBfXzIw/MjYxMDI3X19ENEs4/NlVIX192MV9fSGln/aFJlc19fUnVzc2lh/RW5lcmd5RGlwbG9t/YWN5R2FzU3VtbWl0/LTE3OTMxMjE5NzVf/M2JjZTU4LTE3OTMx/MzM3OTMuanBnP3Jl/c2l6ZT0xMjAwJTJD/NjMwJmFtcDtxdWFs/aXR5PTgw"
+      "src": "https://imgs.search.brave.com/wbbR-7MT9KSHBAjhu8qVUF7mJPbAJs8SPpKpuaRr9pk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/bmV3c3BpbS5jb20v/bmV3cy8yMDI2LzEw/LzI4LzI2MTAyODA5/MDY0MzA1NTBfdDEu/anBn"
     }
   }
 ]
